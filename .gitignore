@@ -16,3 +16,6 @@ vendor/
 
 shared/backup/
 shared/logs/
+
+.DS_Store
+.env

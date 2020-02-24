@@ -13,11 +13,11 @@ import (
 var DB *gorm.DB
 
 var (
-	host     = getEnvOrDefault("DBHOST", "127.0.0.1")
-	port     = getEnvOrDefault("DBPORT", "3306")
-	user     = getEnvOrDefault("DBUSER", "root")
-	password = getEnvOrDefault("DBPASSWORD", "aado33ve79T!")
-	dbname   = getEnvOrDefault("DBNAME", "homef")
+	host     = getEnvOrDefault("GOPRESS_DB_HOST", "127.0.0.1")
+	port     = getEnvOrDefault("GOPRESS_DB_PORT", "3306")
+	user     = getEnvOrDefault("GOPRESS_DB_USER", "root")
+	password = getEnvOrDefault("GOPRESS_DB_PASSWORD", "password")
+	dbname   = getEnvOrDefault("GOPRESS_DB_NAME", "gopress")
 )
 
 func Init() *gorm.DB {
