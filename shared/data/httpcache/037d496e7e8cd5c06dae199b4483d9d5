@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:20:11 GMT
+Etag: W/"c995c12a70957f9edb6cc0e8f07d603c"
+Last-Modified: Wed, 12 Feb 2020 20:08:35 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:BA22C:DF4FC:5E53B16A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2287
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+edf
+{"name":"README.md","path":"README.md","sha":"7819c2c7690050c375ec4b0d94aefda62a672cfe","size":2192,"url":"https://api.github.com/repos/tegal1337/NekoBotV1/contents/README.md?ref=master","html_url":"https://github.com/tegal1337/NekoBotV1/blob/master/README.md","git_url":"https://api.github.com/repos/tegal1337/NekoBotV1/git/blobs/7819c2c7690050c375ec4b0d94aefda62a672cfe","download_url":"https://raw.githubusercontent.com/tegal1337/NekoBotV1/master/README.md","type":"file","content":"IyMjIE5la29Cb3RWMSB8IEF1dG8gRXhwbG9pdGVyIFdpdGggNTAwKyBFeHBs\nb2l0IDIwMDArIFNoZWxsIAohW1NjcmVlbnNob290XSgvc2NyZWVuc2hvb3Qt\nbmVrby5wbmcpPGJyPgpOZWtvQm90IGlzIGFuIGF1dG8gZXhwbG9pdCB0b29s\nIHRvIGZhY2lsaXRhdGUgdGhlIHBlbmV0cmF0aW9uIG9mIG9uZSBvciBtYW55\nIHdlYnNpdGVzIChXb3JkcHJlc3MsIEpvb21sYSwgRHJ1cGFsLCBNYWdlbnRv\nLCBPcGVuY2FydCxhbmQgRXRjKS4gCjxicj4KIyMjIyBGZWF0dXJlcyA6Clsr\nXSBXb3JkcHJlc3MgOgo8cHJlPgoxLSBDaGVycnktUGx1Z2luCjItIGRvd25s\nb2FkLW1hbmFnZXIgUGx1Z2luCjMtIHd5c2lqYS1uZXdzbGV0dGVycwo0LSBT\nbGlkZXIgUmV2b2x1dGlvbiBbUmV2c2xpZGVyXQo1LSBncmF2aXR5LWZvcm1z\nCjYtIHVzZXJwcm8KNy0gd3AtZ2Rwci1jb21wbGlhbmNlCjgtIHdwLWdyYXBo\ncWwKOS0gZm9ybWNyYWZ0CjEwLSBIZWFkd2F5CjExLSBQYWdlbGluZXMgUGx1\nZ2luCjEyLSBXb29Db21tZXJjZS1Qcm9kdWN0QWRkb25zCjEzLSBDYXRlR29y\neS1wYWdlLWljb25zCjE0LSBhZGRibG9ja2Jsb2NrZXIKMTUtIGJhcmNsYXlj\nYXJ0CjE2LSBXcCA0LjcgQ29yZSBFeHBsb2l0CjE3LSBlc2hvcC1tYWdpYwox\nOC0gSEQtV2ViUGxheWVyCjE5LSBXUCBKb2IgTWFuYWdlcgoyMC0gd3AtbWlu\naWF1ZGlvcGxheWVyCjIxLSB3cC1zdXBwb3J0LXBsdXMKMjItIHVuZ2FsbGVy\neSBQbHVnaW4KMjMtIFdQIFVzZXIgRnJvbnRlbmQKMjQtIFZpcmFsLW9wdGlv\nbnMKMjUtIFNvY2lhbCBXYXJmYXJlCjI2LSBqZWt5bGwtZXhwb3J0ZXIKMjct\nIGNsb3VkZmxhcmUgcGx1Z2luCjI4LSByZWFsaWEgcGx1Z2luCjI5LSB3b29j\nb21tZXJjZS1zb2Z0d2FyZQozMC0gZW5mb2xkLWNoaWxkIFRoZW1lCjMxLSBj\nb250YWJpbGVhZHMgcGx1Z2luCjMyLSBwcmgtYXBpIHBsdWdpbgozMy0gZHpz\nLXZpZGVvZ2FsbGVyeSBwbHVnaW4KMzQtIG1tLXBsdWdpbgozNS0gV3AtSW5z\ndGFsbAozNi0gQXV0byBCcnV0ZUZvcmNlCjwvcHJlPgpbK10gSm9vbWxhCjxw\ncmU+CjEtIENvbV9hZHNtYW5hZ2VyCjItIENvbV9hbGJlcmdoaQozLSBDb21f\nQ0NrSnNlYmxvZAo0LSBDb21fZXh0cGxvcmVyCjUtIENvbV9GYWJyaWMKNi0g\nQ29tX2ZhY2lsZWZvcm1zCjctIENvbV9IZGZsdnBsYXllcgo4LSBDb21fSmJj\nYXRhbG9nCjktIENvbV9KQ0UKMTAtIENvbV9qZG93bmxvYWRzCjExLSBDb21f\nSm9vbWFuYWdlcgoxMi0gQ29tX01hY2dhbGxlcnkKMTMtIENvbV9tZWRpYQox\nNC0gQ29tX015YmxvZwoxNS0gQ29tX3Jva2Rvd25sb2FkcwoxNi0gQ29tX3M1\nX21lZGlhX3BsYXllcgoxNy0gQ29tX1NleHlDb250YWN0Zm9ybQoxOC0gSm9v\nbWxhIGNvcmUgMy54IFJDRQoxOS0gSm9vbWxhIGNvcmUgMy54IFJDRSBbMjAx\nOV0KMjAgLSBKb29tbGEgQ29yZSAzLnggQWRtaW4gVGFrZW92ZXIKMjEgLSBB\ndXRvIEJydXRlRm9yY2UKMjIgLSBDb21fYjJqY29udGFjdAoyMyAtIENvbV9i\ndF9wb3J0Zm9saW8KMjQgLSBDb21fY2l2aWNybQoyNSAtIENvbV9leHRwbG9y\nZXIKMjYgLSBDb21fZmFjaWxlZm9ybXMKMjcgLSBDb21fRm94Q29udGVudAoy\nOCAtIENvbV9qd2FsbHBhcGVycwoyOSAtIENvbV9vemlvZ2FsbGVyeQozMCAt\nIENvbV9yZWRteXN0aWMKMzEgLSBDb21fc2ltcGxlcGhvdG9nYWxsZXJ5CjMy\nIC0gbWVnYW1lbnUgbW9kdWxlCjMzIC0gbW9kX3NpbXBsZWZpbGV1cGxvYWR2\nMQo8L3ByZT4KWytdIERydXBhbCA6CjxwcmU+CjEtIERydXBhbCBBZGQgYWRt\naW4gZ2VkZG9uMQoyLSBEcnVwYWwgUkNFIGdlZGRvbjIKMy0gRHJ1cGFsIDgg\nUkNFIFJFU1RmdWwKNC0gRHJ1cGFsIG1haWxjaGltcAo1LSBEcnVwYWwgcGhw\nLWN1cmwtY2xhc3MKNi0gQnJ1dGVGb3JjZQo3LSBEcnVwYWwgU1FMIEFkZCBB\nZG1pbgo4LSBEcnVwYWwgNyBSQ0UKOS0gYmFydGlrCjEwLSBBdmF0YXJhZmQg\nQ29uZmlnCjExLSBEcnVwYWwgOAoxMi0gRHJ1cGFsIERlZmF1bHQgVXNlclBh\nc3MKPC9wcmU+ClsrXSBNYWdlbnRvIDoKPHByZT4KMS0gU2hvcGxpZnQKMi0g\nTWFnZW50byBEZWZhdWx0IHVzZXIgcGFzcwo8L3ByZT4KWytdIE9zY29tbWVy\nY2UKPHByZT4KMS0gT3NDb21tZXJjZSBDb3JlIDIuMyBSQ0UgRXhwbG9pdApv\ncGVuY2FydAo8L3ByZT4KWytdIE9USEVSIDoKPHByZT4KMS0gRW52IEV4cGxv\naXQKMi0gU01UUCBDUkFDS0VSCjMtIENWCjwvcHJlPgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/tegal1337/NekoBotV1/contents/README.md?ref=master","git":"https://api.github.com/repos/tegal1337/NekoBotV1/git/blobs/7819c2c7690050c375ec4b0d94aefda62a672cfe","html":"https://github.com/tegal1337/NekoBotV1/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:11:31 GMT
+Etag: W/"94203c44829cd6037313e3127552f67b"
+Last-Modified: Fri, 21 Sep 2018 01:44:12 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:62759:75844:5E53AF63
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3792
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c57
+{"name":"README.md","path":"README.md","sha":"48cd663275f8fdb69a525fa19b86549b7e4f4a60","size":1721,"url":"https://api.github.com/repos/davecheney/httpstat/contents/README.md?ref=master","html_url":"https://github.com/davecheney/httpstat/blob/master/README.md","git_url":"https://api.github.com/repos/davecheney/httpstat/git/blobs/48cd663275f8fdb69a525fa19b86549b7e4f4a60","download_url":"https://raw.githubusercontent.com/davecheney/httpstat/master/README.md","type":"file","content":"IyBodHRwc3RhdCBbIVtCdWlsZCBTdGF0dXNdKGh0dHBzOi8vdHJhdmlzLWNp\nLm9yZy9kYXZlY2hlbmV5L2h0dHBzdGF0LnN2Zz9icmFuY2g9bWFzdGVyKV0o\naHR0cHM6Ly90cmF2aXMtY2kub3JnL2RhdmVjaGVuZXkvaHR0cHN0YXQpCgpb\nIVtHbyBSZXBvcnQgQ2FyZF0oaHR0cHM6Ly9nb3JlcG9ydGNhcmQuY29tL2Jh\nZGdlL2dpdGh1Yi5jb20vZGF2ZWNoZW5leS9odHRwc3RhdCldKGh0dHBzOi8v\nZ29yZXBvcnRjYXJkLmNvbS9yZXBvcnQvZ2l0aHViLmNvbS9kYXZlY2hlbmV5\nL2h0dHBzdGF0KQoKIVtTaGFtZWxlc3NdKC4vc2NyZWVuc2hvdC5wbmcpCgpJ\nbWl0YXRpb24gaXMgdGhlIHNpbmNlcmVzdCBmb3JtIG9mIGZsYXR0ZXJ5LgoK\nQnV0IHNlcmlvdXNseSwgaHR0cHM6Ly9naXRodWIuY29tL3Jlb3J4L2h0dHBz\ndGF0IGlzIHRoZSBuZXcgaG90bmVzcywgYW5kIHRoaXMgaXMgYSBzaGFtZWxl\nc3MgcmlwIG9mZi4KCiMjIEluc3RhbGxhdGlvbgpgaHR0cHN0YXRgIHJlcXVp\ncmVzIEdvIDEuMTEgb3IgbGF0ZXIuCmBgYAokIGdvIGdldCBnaXRodWIuY29t\nL2RhdmVjaGVuZXkvaHR0cHN0YXQKYGBgCQojIyBVc2FnZQpgYGAKJCBodHRw\nc3RhdCBodHRwczovL2V4YW1wbGUuY29tLwpgYGAKIyMgRmVhdHVyZXMKCi0g\nV2luZG93cy9CU0QvTGludXggc3VwcG9ydGVkLgotIEhUVFAgYW5kIEhUVFBT\nIGFyZSBzdXBwb3J0ZWQsIGZvciBzZWxmIHNpZ25lZCBjZXJ0aWZpY2F0ZXMg\ndXNlIGAta2AuCi0gU2tpcCB0aW1pbmcgdGhlIGJvZHkgb2YgYSByZXNwb25z\nZSB3aXRoIGAtSWAuCi0gRm9sbG93IDMweCByZWRpcmVjdHMgd2l0aCBgLUxg\nLgotIENoYW5nZSBIVFRQIG1ldGhvZCB3aXRoIGAtWCBNRVRIT0RgLgotIFBy\nb3ZpZGUgYSBgUFVUYCBvciBgUE9TVGAgcmVxdWVzdCBib2R5IHdpdGggYC1k\nIHN0cmluZ2AuIFRvIHN1cHBseSB0aGUgYFBVVGAgb3IgYFBPU1RgIGJvZHkg\nYXMgYSBmaWxlLCB1c2UgYC1kIEBmaWxlbmFtZWAuCi0gQWRkIGV4dHJhIHJl\ncXVlc3QgaGVhZGVycyB3aXRoIGAtSCAnTmFtZTogdmFsdWUnYC4KLSBUaGUg\ncmVzcG9uc2UgYm9keSBpcyB1c3VhbGx5IGRpc2NhcmRlZCwgeW91IGNhbiB1\nc2UgYC1vIGZpbGVuYW1lYCB0byBzYXZlIGl0IHRvIGEgZmlsZSwgb3IgYC1P\nYCB0byBzYXZlIGl0IHRvIHRoZSBmaWxlIG5hbWUgc3VnZ2VzdGVkIGJ5IHRo\nZSBzZXJ2ZXIuCi0gSFRUUC9IVFRQUyBwcm94aWVzIHN1cHBvcnRlZCB2aWEg\ndGhlIHVzdWFsIGBIVFRQX1BST1hZYC9gSFRUUFNfUFJPWFlgIGVudiB2YXJz\nIChhcyB3ZWxsIGFzIGxvd2VyIGNhc2UgdmFyaWFudHMpLgotIFN1cHBseSB5\nb3VyIG93biBjbGllbnQgc2lkZSBjZXJ0aWZpY2F0ZSB3aXRoIGAtRSBjZXJ0\nLnBlbWAuCgojIyBDb250cmlidXRpbmcKCkJ1ZyByZXBvcnRzIGFyZSBtb3N0\nIHdlbGNvbWUsIGJ1dCB3aXRoIHRoZSBleGNlcHRpb24gb2YgIzUsIHRoaXMg\ncHJvamVjdCBpcyBjbG9zZWQuCgpQdWxsIHJlcXVlc3RzIG11c3QgaW5jbHVk\nZSBhIGBmaXhlcyAjTk5OYCBvciBgdXBkYXRlcyAjTk5OYCBjb21tZW50LiAK\nClBsZWFzZSBkaXNjdXNzIHlvdXIgZGVzaWduIG9uIHRoZSBhY2NvbXBhbnlp\nbmcgaXNzdWUgYmVmb3JlIHN1Ym1pdHRpbmcgYSBwdWxsIHJlcXVlc3QuIElm\nIHRoZXJlIGlzIG5vIHN1aXRhYmxlIGlzc3VlLCBwbGVhc2Ugb3BlbiBvbmUg\ndG8gZGlzY3VzcyB0aGUgZmVhdHVyZSBiZWZvcmUgc2xpbmdpbmcgY29kZS4g\nVGhhbmsgeW91Lgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/davecheney/httpstat/contents/README.md?ref=master","git":"https://api.github.com/repos/davecheney/httpstat/git/blobs/48cd663275f8fdb69a525fa19b86549b7e4f4a60","html":"https://github.com/davecheney/httpstat/blob/master/README.md"}}
+0
+

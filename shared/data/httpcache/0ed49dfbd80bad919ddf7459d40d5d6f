@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:22:57 GMT
+Etag: W/"c73bbfd841152df3d1cafb3ebae36698"
+Last-Modified: Wed, 15 Mar 2017 05:16:52 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:9965:B798:5E53B211
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1781
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e5b
+{"name":"README.md","path":"README.md","sha":"a418eddfa6f0283293eb02106578b86eb99cca61","size":2126,"url":"https://api.github.com/repos/m4b/cargo-sym/contents/README.md?ref=master","html_url":"https://github.com/m4b/cargo-sym/blob/master/README.md","git_url":"https://api.github.com/repos/m4b/cargo-sym/git/blobs/a418eddfa6f0283293eb02106578b86eb99cca61","download_url":"https://raw.githubusercontent.com/m4b/cargo-sym/master/README.md","type":"file","content":"IyBjYXJnby1zeW0gWyFbQnVpbGQgU3RhdHVzXShodHRwczovL3RyYXZpcy1j\naS5vcmcvbTRiL2NhcmdvLXN5bS5zdmc/YnJhbmNoPW1hc3RlcildKGh0dHBz\nOi8vdHJhdmlzLWNpLm9yZy9tNGIvY2FyZ28tc3ltKQpQcmludHMgdmFyaW91\ncyBiaW5hcnkgc3ltYm9scyBpbiB5b3VyIGNyYXRlLiBBbHNvIGV4cGVyaW1l\nbnRhbGx5IGRpc2Fzc2VtYmxlcy4KClRoaXMgdXNlcyBjYXBzdG9uZSBmb3Ig\nZGlzYXNzZW1ibHksIHNvIGl0IHdpbGwgY29tcGlsZSBmYXN0ZXIgaWYgeW91\nIGhhdmUgY2Fwc3RvbmUgaW5zdGFsbGVkIGFzIGEgc3lzdGVtIGxpYnJhcnku\nCgojIFVzYWdlCgpGaXJzdCBpbnN0YWxsOgoKYGNhcmdvIGluc3RhbGwgY2Fy\nZ28tc3ltYAoKb3IgdmlhIGdpdDoKCmBjYXJnbyBpbnN0YWxsIC0tZ2l0IGh0\ndHBzOi8vZ2l0aHViLmNvbS9tNGIvY2FyZ28tc3ltIC1mYAoKVGhlbjoKCjEu\nIGBjYXJnbyBzeW1gIHdpbGwgcHJpbnQgZXZlcnkgZGVidWdnaW5nIHN5bWJv\nbCBpdCBmaW5kcyBpbiB0aGUgZmlyc3QgdmFsaWQgYmluYXJ5IHRhcmdldCBp\nbiBgdGFyZ2V0Lzx0YXJnZXQ+L2RlYnVnYC4gVGhpcyBjYW4gYmUsIGZvciBl\neGFtcGxlOgoKICBhLmB0YXJnZXQvZGVidWdgICh0aGlzIGlzIHVzZWQgaWYg\naXQgZG9lc24ndCBmaW5kIGEgc3BlY2lhbCB0YXJnZXQsIGxpa2UgdGhlIGZv\nbGxvd2luZykKICAKICBiLiBgdGFyZ2V0L3g4Nl82NC11bmtub3duLWxpbnV4\nLW11c2wvZGVidWdgCgoyLiBgY2FyZ28gc3ltIC1DYCB3aWxsIHByaW50IGV2\nZXJ5IGRlYnVnZ2luZyBzeW1ib2wgZGVtYW5nbGVkCjMuIGBjYXJnbyBzeW0g\nLWVgIHdpbGwgcHJpbnQgZXZlcnkgZXhwb3J0ZWQgc3ltYm9sIGltcG9ydGFi\nbGUgYnkgb3RoZXIgYmluYXJpZXMKNC4gYGNhcmdvIHN5bSAtQ2VgIHdpbGwg\nZG8gYC1DYCBhbmQgYC1lYCB0b2dldGhlciA6XQo1LiBgY2FyZ28gc3ltIC1k\nYCB3aWxsIGRpc2Fzc2VtYmxlIHlvdXIgYmluYXJ5LCBvYmpkdW1wIHN0eWxl\nLiAqKmV4cGVyaW1lbnRhbCoqCjYuIGBjYXJnbyBzeW0gLWQgLUMgL2Jpbi9s\nc2Agd2lsbCBkaXNhc3NlbWJsZSB0aGUgYmluYXJ5IGBsc2AgYXQgYC9iaW4v\nYCAoYWN0dWFsbHkgbW9zdCBkaXN0cm9zIHN0cmlwIGAvYmluL2xzYCBzbyBp\ndCBhY3R1YWxseSB3b24ndCkKNy4gYGNhcmdvIHN5bSAtQ2QgLS10YXJnZXQ9\nYWFyY2g2NC1saW51eC1hbmRyb2lkYCB3aWxsIGRpc2Fzc2VtYmxlIHlvdXIg\nY3JhdGVzIGJpbmFyeSBhdCBgdGFyZ2V0L2FhcmNoNjQtbGludXgtYW5kcm9p\nZC9kZWJ1Zy88Y3JhdGVfbmFtZT5gCjguIGBjYXJnbyBzeW0gLUMgLS1yZWxl\nYXNlIC14IGV4YW1wbGVgIHdpbGwgcHJpbnQgdGhlIHN5bWJvbHMgZnJvbSB0\naGUgZXhhbXBsZSBiaW5hcnkgeW91IGNvbXBpbGVkIGluIHJlbGVhc2UgbW9k\nZSAoYXQgYHRhcmdldC9yZWxlYXNlL2V4YW1wbGVzL2V4YW1wbGVgKQo5LiBg\nY2FyZ28gc3ltIC1DZCAtLXRhcmdldD1kZWJ1ZyAteCBtYWluYCB3aWxsIGRp\nc2Fzc2VtYmxlIHRoZSBleGFtcGxlIGJpbmFyeSBgbWFpbmAgaW4gdGhlIHJl\nZ3VsYXIgZGVidWcgbG9jYXRpb24gYHRhcmdldC9kZWJ1Zy9leGFtcGxlcy9t\nYWluYAoKVHJ5IGBjYXJnbyBzeW0gLS1oZWxwYCBmb3IgbW9yZSBpbmZvcm1h\ndGlvbiEKCiMgVE9ETzoKCjEuIFRhcmdldCBzZWxlY3RvciBpcyBub3QuIFRo\nZXJlIGFyZSBhIGZldyBmaXhtZXMgdG8gbWFrZSBpdCBuaWNlci4gKGVhc3kp\nCjIuIEFSTSAzMi1ieXRlIHByaW50ZXIgbm90IGNvbXBsZXRlbHkgY29ycmVj\ndCB3aGVuIGluIHRodW1iIG1vZGUsIHNob3VsZCByZXZlcnNlIHNlY29uZCA4\nIGJ5dGUgYmxvY2suIChlYXN5KQozLiBOZWVkIHRvIHByb3Blcmx5IHByaW50\nIGdvdCwgcGx0LCBhbmQgcGx0LmdvdCBhbmQgaXRlcmF0ZSB0aHJvdWdoIHNl\nY3Rpb25zIGluIGEgbW9yZSBwcmluY2lwbGVkIG1hbm5lci4gKG5vdCB0byBl\nYXN5KQo0LiBXaGVuIGdvYmxpbiBnZXRzIGEgbWFjaCBhbmQgUEUgYmFja2Vu\nZCAod2hpY2ggSSBrZWVwIHNheWluZyB3aWxsIGJlIHNvb24pLCB1cGRhdGUg\ndGhlIHZhcmlvdXMgYmFja2VuZHMgKHRlZGlvdXMsIGhhcmQsIHJlcXVpcmVz\nIGtub3dsZWRnZSBvZiBiYWNrZW5kIGZvcm1hdHMpCgpQUnMgd2VsY29tZSBv\nZiBjb3Vyc2UgOik=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/m4b/cargo-sym/contents/README.md?ref=master","git":"https://api.github.com/repos/m4b/cargo-sym/git/blobs/a418eddfa6f0283293eb02106578b86eb99cca61","html":"https://github.com/m4b/cargo-sym/blob/master/README.md"}}
+0
+

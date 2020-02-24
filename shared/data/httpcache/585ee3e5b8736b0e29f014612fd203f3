@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:24:49 GMT
+Etag: W/"1c7d865c6f639cb1704ed3af5e82608d"
+Last-Modified: Tue, 26 Jun 2018 18:16:17 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:11E44:156BA:5E53B280
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1438
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a14
+{"name":"README.md","path":"README.md","sha":"024e43e0f62088bd2e6113faaf4499e67cfb764e","size":1315,"url":"https://api.github.com/repos/MrSqar-Ye/BadMod/contents/README.md?ref=master","html_url":"https://github.com/MrSqar-Ye/BadMod/blob/master/README.md","git_url":"https://api.github.com/repos/MrSqar-Ye/BadMod/git/blobs/024e43e0f62088bd2e6113faaf4499e67cfb764e","download_url":"https://raw.githubusercontent.com/MrSqar-Ye/BadMod/master/README.md","type":"file","content":"PGgxPiBCYWRNb2QgYXV0byBleHBsb2l0IHRvb2wgPC9oMT4KPGJyPgo8aDI+\nVmVyc2lvbiAyLjA8L2gyPgo8dWw+IAo8bGk+Rml4ZWQgY29sb3JzIGJ1Zzwv\nbGk+CjxsaT5GaXhlZCBwZXJtaXNzaW9ucyBidWc8L2xpPgo8bGk+QWRkZWQg\nbmV3IG9wdGlvbiB0byBzY2FuIHNpbmdsZSB0YXJnZXQ8L2xpPgo8bGk+QWRk\nZWQgbmV3IG9wdGlvbiB0byBzY2FuIGpvb21sYSAmIHdvcmRwcmVzcyBwbHVn\naW5zPC9saT4KPC91bD4KPGJyPgo8aDI+SW5zdGFsbGF0aW9uPC9oMj4KPHVs\nPiAKPGxpPkluc3RhbGwgdG9vbDwvbGk+Cjxjb2RlPmdpdCBjbG9uZSBodHRw\nczovL2dpdGh1Yi5jb20vTXJTcWFyLVllL0JhZE1vZC5naXQ8L2NvZGU+Cjxs\naT5JbnN0YWxsIHBocDwvbGk+Cjxjb2RlPnN1ZG8gYXB0LWdldCBpbnN0YWxs\nIHBocDwvY29kZT4KPGxpPkluc3RhbGwgcGhwIGN1cmw8L2xpPgo8Y29kZT5z\ndWRvIGFwdC1nZXQgaW5zdGFsbCBwaHAtY3VybDwvY29kZT4KPC91bD4KPGJy\nPgo8aDI+U2NyZWVuIHNob3RzPC9oMj4KPGJyPgo8SFI+CjxoMz5IZWFkZXI8\nL2gzPjxicj4KPGJyPgo8aW1nIHNyYz0iU2NyZWVuU2hvdHMvaGVhZGVyLnBu\nZyIgPgo8YnI+CjxIUj4KPGJyPgo8aDM+SW5zdGFsbGF0aW9uPC9oMz48YnI+\nCjxicj4KPHVsPiAKPGxpPkluc3RhbGwgdG9vbDwvbGk+CiAgPGNvZGU+Y2ht\nb2QgK3ggSU5TVEFMTDwvY29kZT48YnI+CiAgPGNvZGU+Li9JTlNUQUxMPC9j\nb2RlPjxicj4KPC91bD4KCjxpbWcgc3JjPSJTY3JlZW5TaG90cy9pbnN0YWxs\nLnBuZyIgPgo8YnI+CjxoMz5PcHRpb24gMSAtIEdldCBhbGwgc2VydmVyIHNp\ndGVzPC9oMz48YnI+Cjx1bD4gCjxsaT5GYXN0IHRvb2wgdG8gZ2V0IGFsbCBz\nZXJ2ZXIgc2l0ZXMgLjwvbGk+CjwvdWw+Cjxicj4KPGltZyBzcmM9IlNjcmVl\nblNob3RzL29wdGlvbjEucG5nIiA+Cjxicj4KPEhSPgo8aDM+T3B0aW9uIDIg\nLSBnZW5lcmF0ZSByYW5kb20gSVAnczwvaDM+PGJyPgo8YnI+CjxpbWcgc3Jj\nPSJTY3JlZW5TaG90cy9vcHRpb24yLnBuZyIgPgo8YnI+CjxIUj4KCjxoMj5W\naWRlbzwvaDI+PGJyPgo8YnI+CjxhIGhyZWY9Imh0dHBzOi8veW91dHUuYmUv\nNS1CbFd2endNcHMiID48aW1nIHNyYz0iU2NyZWVuU2hvdHMvaGVhZGVyLnBu\nZyIgPjwvYT4KPGJyPgo8aHI+CjxoMj5SZXBvcnQgYnVnLjwvaDI+Cjx1bD4K\nPGxpPlN1Ym1pdCBuZXcgaXNzdWU8L2xpPgo8bGk+U2VuZCB0byBteSA8YSBo\ncmVmPSJtYWlsdG86bXJzcWFyQGdtYWlsLmNvbSI+RW1haWw8L2E+PC9saT4K\nPC91bD4KPGJyPgo8aDQ+aSBIb3BlIHlvdSBsaWtlIHRoZSB0b29sLCA8MyA6\nRCA6KTwvaDQ+Cg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/MrSqar-Ye/BadMod/contents/README.md?ref=master","git":"https://api.github.com/repos/MrSqar-Ye/BadMod/git/blobs/024e43e0f62088bd2e6113faaf4499e67cfb764e","html":"https://github.com/MrSqar-Ye/BadMod/blob/master/README.md"}}
+0
+

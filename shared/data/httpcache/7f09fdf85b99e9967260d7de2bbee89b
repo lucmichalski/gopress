@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:31:32 GMT
+Etag: W/"ac4a8cec239a67e16f4a018210046abc"
+Last-Modified: Tue, 22 Aug 2017 15:02:52 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:31878:3B4CE:5E53B414
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 431
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c90
+{"name":"README.md","path":"README.md","sha":"dcf43fccb00bb092b414dde0fd6f4f40e15b9d9b","size":1749,"url":"https://api.github.com/repos/xmikos/setools-android/contents/README.md?ref=master","html_url":"https://github.com/xmikos/setools-android/blob/master/README.md","git_url":"https://api.github.com/repos/xmikos/setools-android/git/blobs/dcf43fccb00bb092b414dde0fd6f4f40e15b9d9b","download_url":"https://raw.githubusercontent.com/xmikos/setools-android/master/README.md","type":"file","content":"IyMgRGVzY3JpcHRpb24KClRoaXMgaXMgdW5vZmZpY2lhbCBwb3J0IG9mIFtz\nZXRvb2xzXVsxXSB0byBBbmRyb2lkIHdpdGggYWRkaXRpb25hbApbc2Vwb2xp\nY3ktaW5qZWN0XVsyXSB1dGlsaXR5IGJ5IEpvc2h1YSBCcmluZGxlCgpQb3J0\nZWQ6CgogKiBzZWluZm8KICogc2VzZWFyY2gKClRoZXNlIHRvb2xzIGFsbG93\nIHRvIGFuYWx5emUgU0VMaW51eC9TRUFuZHJvaWQgcG9saWN5IG9uIGFuIEFu\nZHJvaWQgZGV2aWNlLgoKSW5jbHVkZWQ6CgogKiBzZXBvbGljeS1pbmplY3QK\nIApUaGlzIHRvb2wgaW5qZWN0cyBhbGxvdyBydWxlcyBpbnRvIGJpbmFyeSBT\nRUxpbnV4IGtlcm5lbCBwb2xpY2llcy4KClsxXTogaHR0cDovL29zcy50cmVz\neXMuY29tL3Byb2plY3RzL3NldG9vbHMKWzJdOiBodHRwOi8vYml0YnVja2V0\nLm9yZy9qb3NodWFfYnJpbmRsZS9zZXBvbGljeS1pbmplY3QKCgojIyBCdWls\nZGluZyBmb3IgQW5kcm9pZAoKRW5zdXJlIHRoYXQgeW91IGhhdmUgaW5zdGFs\nbGVkIF9hbmRyb2lkLW5ka18gcHJvcGVybHkuIFRoZW4gcnVuOgoKICAgIG5k\nay1idWlsZAoKCiMjIEJ1aWxkaW5nIGZvciBMaW51eAoKc2V0b29scy1hbmRy\nb2lkIGNhbiBiZSBidWlsdCBmb3IgKm5peCBwbGF0Zm9ybSBhcyBzdGFuZC1h\nbG9uZSBiaW5hcmllcyB3aXRob3V0CmV4dGVybmFsIGRlcGVuZGVuY2llcy4g\nVGhpcyBidWlsZCBzaW1wbGlmaWVzIGFuYWx5c2lzIG9mIEFuZHJvaWQncyBz\nZXBvbGljeQphZnRlciBkdW1waW5nIGl0IGZyb20gYSBkZXZpY2UuCgogICAg\nYXV0b3JlY29uZiAtaQogICAgLi9jb25maWd1cmUKICAgIG1ha2UKICAgIHN1\nZG8gY3AgLi9zZWluZm8gLi9zZXNlYXJjaCAuL3NlcG9saWN5LWluamVjdCAv\ndXNyL2xvY2FsL2JpbiAgIyBvcHRpb25hbAoKCiMjIFVzYWdlCgogICAgc2Vw\nb2xpY3ktaW5qZWN0IC1zIDxzb3VyY2UgdHlwZT4gLXQgPHRhcmdldCB0eXBl\nPiAtYyA8Y2xhc3M+IC1wIDxwZXJtPlssPHBlcm0yPiw8cGVybTM+LC4uLl0g\nWy1QIDxwb2xpY3kgZmlsZT5dIFstbyA8b3V0cHV0IGZpbGU+XSBbLWx8LS1s\nb2FkXQogICAgc2Vwb2xpY3ktaW5qZWN0IC1aIHR5cGVfdG9fbWFrZV9wZXJt\naXNzaXZlIFstUCA8cG9saWN5IGZpbGU+XSBbLW8gPG91dHB1dCBmaWxlPl0g\nWy1sfC0tbG9hZF0KICAgIHNlcG9saWN5LWluamVjdCAteiB0eXBlX3RvX21h\na2Vfbm9ucGVybWlzc2l2ZSBbLVAgPHBvbGljeSBmaWxlPl0gWy1vIDxvdXRw\ndXQgZmlsZT5dIFstbHwtLWxvYWRdCgpGb3IgZXhhbXBsZSBpZiB5b3Ugd2Fu\ndCB0byBhbGxvdyBfdmRjXyB0byB3cml0ZSB0byBwc2V1ZG8tdGVybWluYWwg\nKHNvIHlvdSBjYW4gc2VlIHJlcGxpZXMgZnJvbSBfdmRjXyBjb21tYW5kKToK\nCiAgICBzZXBvbGljeS1pbmplY3QgLXMgdmRjIC10IGRldnB0cyAtYyBjaHJf\nZmlsZSAtcCByZWFkLHdyaXRlIC1sCgoKIyMgVGhpcmQtcGFydHkgY29kZQoK\nVGhpcyByZXBvc2l0b3J5IGNvbnRhaW5zIG90aGVyIG9wZW5zb3VyY2UgY29k\nZToKCiAqIHJlZ2V4IChmcm9tIE9wZW5CU0QpCiAqIGJ6aXAyCiAqIGxpYnNl\ncG9sCgpCYXNlZCBvbiBbcGFzaXMvc2V0b29scy1hbmRyb2lkXVszXSBieSBE\nbWl0cnkgUG9kZ29ybnkgKHBhc2lzKSBhbmQKW3htaWtvcy9zZXRvb2xzLWFu\nZHJvaWRdWzRdIGJ5IE1pY2hhbCBLcmVuZWsgKE1pa29zKQoKWzNdOiBodHRw\nczovL2dpdGh1Yi5jb20vcGFzaXMvc2V0b29scy1hbmRyb2lkCls0XTogaHR0\ncHM6Ly9naXRodWIuY29tL3htaWtvcy9zZXRvb2xzLWFuZHJvaWQK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/xmikos/setools-android/contents/README.md?ref=master","git":"https://api.github.com/repos/xmikos/setools-android/git/blobs/dcf43fccb00bb092b414dde0fd6f4f40e15b9d9b","html":"https://github.com/xmikos/setools-android/blob/master/README.md"}}
+0
+

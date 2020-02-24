@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:29:33 GMT
+Etag: W/"2d04b8e1711d4b4acd5255969d670298"
+Last-Modified: Mon, 30 Sep 2019 23:33:34 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:281C0:2FF24:5E53B39D
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 665
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b12
+{"name":"README.md","path":"README.md","sha":"84f222421f6f0c6ab7b1aba35b1abf60013effb7","size":1489,"url":"https://api.github.com/repos/pwnlandia/shockpot/contents/README.md?ref=master","html_url":"https://github.com/pwnlandia/shockpot/blob/master/README.md","git_url":"https://api.github.com/repos/pwnlandia/shockpot/git/blobs/84f222421f6f0c6ab7b1aba35b1abf60013effb7","download_url":"https://raw.githubusercontent.com/pwnlandia/shockpot/master/README.md","type":"file","content":"IyBTaG9ja3BvdAoKU2hvY2twb3QgaXMgYSB3ZWIgYXBwIGhvbmV5cG90IGRl\nc2lnbmVkIHRvIGZpbmQgYXR0YWNrZXJzIGF0dGVtcHRpbmcgdG8gZXhwbG9p\ndCB0aGUKQmFzaCByZW1vdGUgY29kZSB2dWxuZXJhYmlsaXR5LCBDVkUtMjAx\nNC02MjcxLgoKU2hvY2twb3QgY2FuIGJlIHJ1biBhcyBhIHN0YW5kYWxvbmUg\naG9ueXBvdCBvciBlYXNpbHkgZGVwbG95ZWQgYnkgTW9kZXJuIEhvbmV5IE5l\ndHdvcmsgKE1ITik6IGh0dHA6Ly9naXRodWIuY29tL1B3bmxhbmRpYS9taG4K\nCiMjIEluc3RhbGxhdGlvbgoKYGBgCnZpcnR1YWxlbnYgZW52Ci4gZW52L2Jp\nbi9hY3RpdmF0ZQpwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0IApg\nYGAKCiMjIENvbmZpZ3VyYXRpb24KCkVkaXQgc2hvY2twb3QuY29uZgoKYGBg\nCltzZXJ2ZXJdCmhvc3QgPSAwLjAuMC4wCnBvcnQgPSA4MDgwCgpbaGVhZGVy\nc10Kc2VydmVyID0gQXBhY2hlLzIuMC41NSAoRGViaWFuKSBQSFAvNS4xLjIt\nMStiMSBtb2Rfc3NsLzIuMC41NSBPcGVuU1NMLzAuOS44YgoKW2hwZmVlZHNd\nCmVuYWJsZWQgPSBUcnVlCmhvc3QgPSB5b3VyLm1obi5zZXJ2ZXIuY29tCnBv\ncnQgPSAxMDAwMAppZGVudGl0eSA9IHNob2NrcG90CnNlY3JldCA9IHNlY3Jl\ndApjaGFubmVsID0gc2hvY2twb3QuZXZlbnRzCmBgYAoKIyMgUnVubmluZwoK\nYGBgCnB5dGhvbiBzaG9ja3BvdC5weQpgYGAKCiMjIERlcGxveW1lbnQKClNl\nZSB0aGUgW3dpa2ldKGh0dHBzOi8vZ2l0aHViLmNvbS9Qd25sYW5kaWEvc2hv\nY2twb3Qvd2lraSkuCgojIyBMSUNFTlNFCgpUaGlzIHByb2dyYW0gZnJlZSBz\nb2Z0d2FyZTsgeW91IGNhbiByZWRpc3RyaWJ1dGUgaXQgYW5kL29yIG1vZGlm\neSBpdCB1bmRlciB0aGUgdGVybXMgb2YgdGhlIEdOVSBMZXNzZXIgR2VuZXJh\nbCBQdWJsaWMgTGljZW5zZSBhcyBwdWJsaXNoZWQgYnkgdGhlIEZyZWUgU29m\ndHdhcmUgRm91bmRhdGlvbjsgZWl0aGVyIHZlcnNpb24gMi4xIG9mIHRoZSBM\naWNlbnNlLCBvciAoYXQgeW91ciBvcHRpb24pIGFueSBsYXRlciB2ZXJzaW9u\nLgoKVGhpcyBwcm9ncmFtIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRo\nYXQgaXQgd2lsbCBiZSB1c2VmdWwsIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5U\nWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mIE1FUkNI\nQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9T\nRS4gU2VlIHRoZSBHTlUgTGVzc2VyIEdlbmVyYWwgUHVibGljIExpY2Vuc2Ug\nZm9yIG1vcmUgZGV0YWlscy4KCllvdSBzaG91bGQgaGF2ZSByZWNlaXZlZCBh\nIGNvcHkgb2YgdGhlIEdOVSBMZXNzZXIgR2VuZXJhbCBQdWJsaWMgTGljZW5z\nZSBhbG9uZyB3aXRoIHRoaXMgcHJvZ3JhbTsgaWYgbm90LCB3cml0ZSB0byB0\naGUgRnJlZSBTb2Z0d2FyZSBGb3VuZGF0aW9uLCBJbmMuLCA1MSBGcmFua2xp\nbiBTdHJlZXQsIEZpZnRoIEZsb29yLCBCb3N0b24sIE1BIDAyMTEwLTEzMDEg\nVVNBCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/pwnlandia/shockpot/contents/README.md?ref=master","git":"https://api.github.com/repos/pwnlandia/shockpot/git/blobs/84f222421f6f0c6ab7b1aba35b1abf60013effb7","html":"https://github.com/pwnlandia/shockpot/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:07:05 GMT
+Etag: W/"f4cc6ad28caf08cbc7cc5f1d4bd98acf"
+Last-Modified: Tue, 30 Jan 2018 14:56:04 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:423D4:4F6EB:5E53AE58
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4611
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a6e
+{"name":"README.md","path":"README.md","sha":"f2762a6a79c473dcb6a4addb5610dd0ffbddc571","size":1332,"url":"https://api.github.com/repos/Poil/puppet-websites-facts/contents/README.md?ref=master","html_url":"https://github.com/Poil/puppet-websites-facts/blob/master/README.md","git_url":"https://api.github.com/repos/Poil/puppet-websites-facts/git/blobs/f2762a6a79c473dcb6a4addb5610dd0ffbddc571","download_url":"https://raw.githubusercontent.com/Poil/puppet-websites-facts/master/README.md","type":"file","content":"IyBXZWJzaXRlcyBGYWN0CgpUaGlzIHNjcmlwdCBnZW5lcmF0ZXMgYSBzdHJ1\nY3R1cmVkIGZhY3QuCkl0IGV4dHJhY3RzIGFuZCBzY2FuIGRvY3VtZW50cm9v\ndCBmcm9tIC9ldGMvYXBhY2hlMi9zaXRlcy1lbmFibGVkLCAvZXRjL2h0dHBk\nL3NpdGVzLWVuYWJsZWQsIC9ldGMvbmdpbngvc2l0ZXMtZW5hYmxlZC8KClJl\ncXVpcmVtZW50OgoqIFB1cHBldCA0Lnggb3IgNS54IChvciB5b3UgY2FuIHBh\ndGNoIHRoZSBzaGViYW5nIGZvciBhIHJ1YnkgMi54KQoKS25vd24gc3VwcG9y\ndGVkIENNUwoqIEpvb21sYTogMS54LCAyLngKKiBEcnVwYWw6IDYsIDcsIDgK\nKiBXb3JkcHJlc3M6IDQueAoqIFBIUEJCIDogMy54CiogTWFnZW50bwoqIEVa\nUHVibGlzaAoqIFR5cG8zCiogUGhwTXlBZG1pbgoqIE1hbnRpcwoqIFNQSVAK\nCkV4YW1wbGUgb3V0cHV0CmBgYHlhbWwKLS0tCndlYnNpdGVzOgogIG15LmZp\ncnN0LnNpdGUuY29tOiB7fQogIG15LnBocGJiLmNvbToKICAgIHR5cGU6IHBo\ncGJiCiAgICB2ZXJzaW9uOiAzLjIuMAogIG15LnN5bWZvbnkuY29tOgogICAg\ndHlwZTogc3ltZm9ueQogICAgdmVyc2lvbjogMS40LjIwCiAgbXkud29yZHBy\nZXNzLmNvbToKICAgIHR5cGU6IHdvcmRwcmVzcwogICAgdmVyc2lvbjogNC44\nLjIKICAgIGxpYjoKICAgICAgaXRoZW1lczoKICAgICAgICB2ZXJzaW9uOiA2\nLjYuMQogICAgICBtYW51YWw6CiAgICAgICAgdmVyc2lvbjogJzEuMTInCiAg\nICAgIHNpbXBsZToKICAgICAgICB2ZXJzaW9uOiAzLjEuMQogICAgICBibG9j\nazoKICAgICAgICB2ZXJzaW9uOiAnMjAxNzA3MzAnCiAgICAgIGZ0OgogICAg\nICAgIHZlcnNpb246IDEuMi4wCiAgICAgIGFkdmFuY2VkOgogICAgICAgIHZl\ncnNpb246IDQuNC4xMgogICAgICBoZWFkOgogICAgICAgIHZlcnNpb246IDEu\nNC40CiAgICAgIHJlZ2VuZXJhdGU6CiAgICAgICAgdmVyc2lvbjogMi4zLjEK\nICAgICAgdGVzdGltb25pZXM6CiAgICAgICAgdmVyc2lvbjogJzEuMCcKICBt\neS5kcnVwYWw3LmNvbToKICAgIHR5cGU6IGRydXBhbAogICAgdmVyc2lvbjog\nJzcuNTYnCiAgICBsaWI6CiAgICAgIG1lZGlhOgogICAgICAgIHZlcnNpb246\nIDcueAogICAgICBwcm9qNGpzOgogICAgICAgIHZlcnNpb246ICcxLjAnCiAg\nICAgIGZpbGU6CiAgICAgICAgdmVyc2lvbjogNy54CiAgICAgIG1pY3JvZGF0\nYToKICAgICAgICB2ZXJzaW9uOiA3LngKICAgICAgYWZtOgogICAgICAgIHZl\ncnNpb246IDcueAogIG15am9vbWxhLmNvbToKICAgIHR5cGU6IGpvb21sYQog\nICAgdmVyc2lvbjogMS41LjE3CiAgICBsaWI6CiAgICAgIHBocG1haWxlcjoK\nICAgICAgICB2ZXJzaW9uOiAyLjAuNApgYGAK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Poil/puppet-websites-facts/contents/README.md?ref=master","git":"https://api.github.com/repos/Poil/puppet-websites-facts/git/blobs/f2762a6a79c473dcb6a4addb5610dd0ffbddc571","html":"https://github.com/Poil/puppet-websites-facts/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:25 GMT
+Etag: W/"29ccdb867891117d58a0f9df8b9f53e6"
+Last-Modified: Mon, 04 Dec 2017 13:10:37 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:ABC6A:CE208:5E53B100
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2578
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+85c
+{"name":"README.md","path":"README.md","sha":"aecc1cd9f11f035375ad350a5296ee41e9459da5","size":962,"url":"https://api.github.com/repos/mthbernardes/HouseProxy/contents/README.md?ref=master","html_url":"https://github.com/mthbernardes/HouseProxy/blob/master/README.md","git_url":"https://api.github.com/repos/mthbernardes/HouseProxy/git/blobs/aecc1cd9f11f035375ad350a5296ee41e9459da5","download_url":"https://raw.githubusercontent.com/mthbernardes/HouseProxy/master/README.md","type":"file","content":"IyBIb3VzZVByb3h5ClByb3RlY3QgeW91ciBwYXJlbnRzIGZyb20gcGhpc2hp\nbmcsIEhUVFAgcHJveHkgZm9jdXNlZCBvbiBibG9jayBwaGlzaGluZyBVUkwn\ncwoKIyBJbnN0YWxsCjxwcmU+CmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5j\nb20vbXRoYmVybmFyZGVzL0hvdXNlUHJveHkuZ2l0CmNkIEhvdXNlUHJveHkv\nCnBpcDMgaW5zdGFsbCAtciByZXF1ZXJpbWVudHMudHh0CjwvcHJlPgoKIyBD\nb25maWcKPHByZT4KRWRpdCBldGMvSG91c2VQcm94eS5jb25mIHRvIGNoYW5n\nZSBkZSBkZWZhdWx0IHVzZXIgYW5kIHBhc3N3b3JkCkNyZWF0ZSBhIGVudHJ5\nIGluIHlvdXIgRE5TIHRvIGhvdXNlLnByb3h5CjwvcHJlPgoKIyBVc2FnZQo8\ncHJlPgokIGh1ZyAtZiBpbmRleC5weQokIHN1ZG8gZWNobyAibG9jYWxob3N0\nICBob3VzZS5wcm94eSIgPj4gL2V0Yy9ob3N0cwpTZXQgdGhlIGhvdXNlLnBy\nb3h5OjMxMjggYXMgeW91ciBwcm94eQpPcGVuIHRoZSBicm93c2VyIGFuZCBh\nY2Nlc3MgaHR0cDovL2hvdXNlLnByb3h5OjgwMDAKQ2xpY2sgaW4gdXBkYXRl\nIGJsYWNrbGlzdHMgSXQgbXkgdGFrZSBhIHdoaWxlLCB0aGUgdG9vbCBpcyBk\nb3dubG9hZGluZwpibGFja2xpc3RzIGZyb20gcGhpc2hpdGFuayBhbmQgb3Bl\nbnBoaXNoLgpEb25lLCBub3cganVzdCB0cnkgdG8gYWNjZXNzIGEgbWFsaWNp\nb3VzIFVSTC4KPC9wcmU+CgojIFVzYWdlIHJlY29tZW5kYXRpb24KPHByZT4K\nSW5zdGFsbCBpdCBvbiBhIHJhc3BiZXJyeSBwaSwgY3JlYXRlIGEgbmV0d29y\naywKZm9yY2UgYWxsIGh0dHAgdHJhZmZpY3MgdG8gcGFzcyB0aHJvdWdoIHRo\nZSBwaSBvbiAzMTI4IHBvcnQgKHRyYW5zcGFyZW50IHByb3h5KSwKYW5kIGNv\nbm5lY3QgdGhlIGNsaWVudHMgdG8gdGhpcyBuZXR3b3JrCjwvcHJlPgoKWyFb\nSG91c2VQcm94eSBVc2FnZV0oeW91dHViZS5wbmcpXShodHRwczovL3lvdXR1\nLmJlLzE5YlpyMlZOVGRvKQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/mthbernardes/HouseProxy/contents/README.md?ref=master","git":"https://api.github.com/repos/mthbernardes/HouseProxy/git/blobs/aecc1cd9f11f035375ad350a5296ee41e9459da5","html":"https://github.com/mthbernardes/HouseProxy/blob/master/README.md"}}
+0
+

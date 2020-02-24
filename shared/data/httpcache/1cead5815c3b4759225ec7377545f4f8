@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:11:32 GMT
+Etag: W/"42d41ab7a8c1e5ddcb0806ecab491535"
+Last-Modified: Sat, 22 Feb 2020 07:03:58 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:6294E:75A97:5E53AF64
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3788
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+fff
+{"name":"README.md","path":"README.md","sha":"e7b9ced7dd9041bda85dc97279f7cda88d084506","size":2412,"url":"https://api.github.com/repos/deltaxflux/takumi/contents/README.md?ref=master","html_url":"https://github.com/deltaxflux/takumi/blob/master/README.md","git_url":"https://api.github.com/repos/deltaxflux/takumi/git/blobs/e7b9ced7dd9041bda85dc97279f7cda88d084506","download_url":"https://raw.githubusercontent.com/deltaxflux/takumi/master/README.md","type":"file","content":"PHAgYWxpZ249ImNlbnRlciI+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29t\nL2RlbHRheGZsdXgvdGFrdW1pIj5UYWt1bWk8L2E+LCBjbGVhbiBhbmQgZWxl\nZ2FudCBkb3RmaWxlczwvcD4KCi0tLQoKPHAgYWxpZ249ImNlbnRlciI+PGlt\nZyBzcmM9Imh0dHBzOi8vaS5pbWd1ci5jb20vbWE0bHVnMy5wbmciIi8+PGJs\nb2NrcXVvdGU+Q29uZmlnOiBOdmltIGNvbmZpZ3VyYXRpb248L2E+PC9ibG9j\na3F1b3RlPjwvcD4KCiMgRG90ZmlsZXMKClRha3VtaSBhcmUgbGlnaHR3YXkg\nZG90ZmlsZXMgZm9jdXNlZCBvbiBjL2NwcCBkZXZlbG9wbWVudC4gVGhlIGNv\nbmZpZyBpbmNsdWRlIGFsaWFzIGFuZCBzbmlwcGV0cyB0byBtYWtlIGRldmVs\nb3BtZW50IGV2ZW4gZWFzaWVyLiBBcnJvdyBrZXlzIGFyZSBkaXNhYmxlZCB1\nc2UgdGhlIHZpbSBtb3ZlbWVudCBoamtsIGluc3RlYWQuCgpJIHVzZSBub3cg\naTMgYW5kIHRoZSBwbGFzbWEgZGVza3RvcCBvbiBteSB3b3JrIG1hY2hpbmUu\nCgojIyMgR2V0dGluZyBzdGFydGVkCk9ubHkgdGhpbmcgeW91IGhhdmUgdG8g\nZG8gaXMKYGBgCmN1cmwgLVNmIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250\nZW50LmNvbS9kZWx0YXhmbHV4L3Rha3VtaS9tYXN0ZXIvaW5zdGFsbC9pbnN0\nYWxsLnNoIHwgYmFzaApgYGAKRm9yIHB5dGhvbiBtb2R1bGVzCmBgYApzdWRv\nIHBpcDIgaW5zdGFsbCBuZW92aW0gJiYgc3VkbyBwaXAzIGluc3RhbGwgbmVv\ndmltCmBgYAojIyBGZWF0dXJlcwoqIFRtdXggY29uZmlnCiogenNoIGNvbmZp\nZwoqIHZpbSBjb25maWcKKiBuZW92aW0gY29uZmlnCiogbGF0dGVkb2NrIGNv\nbmZpZwoKCiMjIyMgWlNIIFRoZW1lCkkgdXNlIHRoZSBgZ2lzdGVyYCB0aGVt\nZS4KCiMjIyMgUGxhc21hIApBcyBJIG1lbnRpb25lZCwgSSB1c2UgcGxhc21h\nIGFuZCBpMy4gSSBjcmVhdGUgYSBzbWFsbCBzY3JpcHQsIGV4ZWN1dGUgdGhl\nIHNjcmlwdCBvbiBzdGFydHVwLiBJdCByZXBsYWNlIHRoZSBkZWZhdWx0IFdN\nIHdpdGggaTMuCgojIyMjIEluc3RhbGxhdGlvbgoqIFB1dCB0aGUgbGF0dGVk\nb2NrZXIgdGhlbWUgaW4gYCRIT01FLy5jb25maWcvbGF0dGVgCiogVGhlIGlu\nc3RhbGxlciBhdXRvbWF0aWNhbHkgY2hhbmdlIHRoZSBpMyBjb25maWcKKiBH\nbyB0byAoUGxhc21hKVNldHRpbmdzL0F1dG9zdGFydCBhbmQgYWRkIHRoZSBm\nb2xsb3dpbmcgcnVsZXMKIC0gZXhlY3V0ZSB0aGUgc2NyaXB0IGluIHRoZSBw\nbGFzbWEgZm9sZGVyCiAtIGV4ZWN1dGUgdGhlIGxhdHRlZG9jayBhdCBzdGFy\ndHVwCgojIyMjIFV0aWxzCkkgdXNlIHRoZSBhcmMgZGFyayB0aGVtZSBhcyB3\nZWxsIGFzIHRoZSBNY01vamF2ZS1jaXJjbGUgaWNvbnMgYW5kIHRoZSBoYWNr\nIGZvbnQuCgojIyMjIFNjcmVlbnNob3RzCiMjIyMgTnZpbSBjb25maWcKPGlt\nZyBzcmM9Imh0dHBzOi8vaS5pbWd1ci5jb20vaWFFOXRyci5wbmciIHdpZHRo\nPSI0MDAiIGhlaWdodD0iMjAwIiAvPgoKIyMjIyBWaW0gY29uZmlnCjxpbWcg\nc3JjPSJodHRwczovL2kuaW1ndXIuY29tL0xLbW5wN0cucG5nIiB3aWR0aD0i\nNDAwIiBoZWlnaHQ9IjIwMCIgLz4KCiMjIyBJbnN0YWxsClRoZSBpbnN0YWxs\nYXRpb24gaXMgdmVyeSBzaW1wbGUgdXNlIHlvdXIgZmF2b3JpdGUgcGFja2Fn\nZSBtYW5hZ2VyIGUuZy4gYXB0IG9yIGFwdC1nZXQgYW5kIGluc3RhbGwgYWxs\nIHJlcXVpcmVkIHBhY2thZ2VzIGJlZm9yZSBydW5uaW5nIHRoZSBjdXJsIHNj\ncmlwdC4KCiMjIyMgT24gZGViaWFuCmBgYApzdWRvIGFwdC1nZXQgaW5zdGFs\nbCB2aW0gbmVvdmltIGN1cmwgY2xhbmcgcHl0aG9uIHB5dGhvbi1waXAgcHl0\naG9uMyBweXRob24zLXBpcCB0bXV4IHpzaCBnaXQgd2dldCBtYWtlIGdjYwpg\nYGAKCiMjIyMgT24gYXJjaApgYGAKc3VkbyBwYWNtYW4gLVMgdmltIG5lb3Zp\nbSBjdXJsIGNsYW5nIHB5dGhvbiBweXRob24tcGlwIHB5dGhvbjMgcHl0aG9u\nMy1waXAgdG11eCB6c2ggZ2l0IHdnZXQgbWFrZSBnY2MKYGBgCgoKIyMjIERl\ndmVsb3BtZW50CldlIHRyeSBhbHdheXMgdG8gaW1wcm92ZSB0aGUgZG90Zmls\nZXMuIElmIHlvdSB3YW50IHRvIGNvbnRyaWJ1dGUgY3JlYXRlIGEgcHVsbCBy\nZXF1ZXN0Lgo8YnI+Cjxicj4KIFshW10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5p\nby9iYWRnZS9Xb3JrZmxvdy1naXRmbG93LS1icmFuY2hpbmctLW1vZGVsLTgx\nQTFDMS5zdmc/c3R5bGU9ZmxhdC1zcXVhcmUpXShodHRwOi8vbnZpZS5jb20v\ncG9zdHMvYS1zdWNjZXNzZnVsLWdpdC1icmFuY2hpbmctbW9kZWwpIAoKIyMj\nIENvbnRyaWJ1dGlvbgoKUGxlYXNlIHJlcG9ydCBpc3N1ZXMvYnVncywgZmVh\ndHVyZSByZXF1ZXN0cyBhbmQgc3VnZ2VzdGlvbnMgZm9yIGltcHJvdmVtZW50\ncyB0byB0aGUgW2lzc3VlIHRyYWNrZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9k\nZWx0YXhmbHV4L3Rha3VtaS9pc3N1ZXMpLgoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/deltaxflux/takumi/contents/README.md?ref=master","git":"https://api.github.com/repos/deltaxflux/takumi/git/blobs/e7b9ced7dd9041bda85dc97279f7cda88d084506","html":"https://github.com/deltaxflux/takumi/blob/master/README.md"}}
+0
+

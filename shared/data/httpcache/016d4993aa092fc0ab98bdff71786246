@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:11:34 GMT
+Etag: W/"dcc416344a7d3eacb3f45586e5bfa653"
+Last-Modified: Tue, 29 Mar 2016 11:25:31 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:73788:8ACF5:5E53AF66
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3782
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+adb
+{"name":"README.md","path":"README.md","sha":"5285d2231b0ee301c1ea1daaf65ba087030131b1","size":1436,"url":"https://api.github.com/repos/moheshmohan/pyssltest/contents/README.md?ref=master","html_url":"https://github.com/moheshmohan/pyssltest/blob/master/README.md","git_url":"https://api.github.com/repos/moheshmohan/pyssltest/git/blobs/5285d2231b0ee301c1ea1daaf65ba087030131b1","download_url":"https://raw.githubusercontent.com/moheshmohan/pyssltest/master/README.md","type":"file","content":"IyBweXNzbHRlc3QKQSBweXRob24gbXVsdGl0aHJlYWRlZCBzY3JpcHQgdG8g\nbWFrZSB1c2Ugb2YgUXVhbHlzIHNzbGxhYnMgYXBpIHRvIHRlc3QgU1NMIGZs\nYXdzCgpUaGUgaW5mb3JtYXRpb24gb24gaG93IHRvIHVzZSBhbmQgb3RoZXIg\nc3R1ZmYgd2lsbCBiZSBwdWJsaXNoZWQgb24gdGhlIGJlbG93IFVSTAoKaHR0\ncDovL3d3dy5oNGhhY2tzLmNvbS8yMDE1LzA2L3F1YWx5cy1zc2wtbGFicy1h\ncGktbXVsdGl0aHJlYWRlZC5odG1sCgp5b3UgY2FuIHJlYWQgbW9yZSBhYm91\ndCB0aGUgU1NMIGxhYnMgQVBJIGhlcmUKCmh0dHBzOi8vZ2l0aHViLmNvbS9z\nc2xsYWJzL3NzbGxhYnMtc2Nhbi9ibG9iL21hc3Rlci9zc2xsYWJzLWFwaS1k\nb2NzLm1kCgoKQ29weXJpZ2h0IChjKSBNb2hlc2ggTW9oYW4gKGg0aGFja3Mu\nY29tKS4KClBlcm1pc3Npb24gaXMgaGVyZWJ5IGdyYW50ZWQsIGZyZWUgb2Yg\nY2hhcmdlLCB0byBhbnkgcGVyc29uIG9idGFpbmluZyBhIGNvcHkgb2YgdGhp\ncyBzb2Z0d2FyZSBhbmQgYXNzb2NpYXRlZCBkb2N1bWVudGF0aW9uIGZpbGVz\nICh0aGUgIlNvZnR3YXJlIiksIHRvIGRlYWwgaW4gdGhlIFNvZnR3YXJlIHdp\ndGhvdXQgcmVzdHJpY3Rpb24sIGluY2x1ZGluZyB3aXRob3V0IGxpbWl0YXRp\nb24gdGhlIHJpZ2h0cyB0byB1c2UsIGNvcHksIG1vZGlmeSwgbWVyZ2UsIHB1\nYmxpc2gsIGRpc3RyaWJ1dGUsIHN1YmxpY2Vuc2UsIGFuZC9vciBzZWxsIGNv\ncGllcyBvZiB0aGUgU29mdHdhcmUsIGFuZCB0byBwZXJtaXQgcGVyc29ucyB0\nbyB3aG9tIHRoZSBTb2Z0d2FyZSBpcyBmdXJuaXNoZWQgdG8gZG8gc28sIHN1\nYmplY3QgdG8gdGhlIGZvbGxvd2luZyBjb25kaXRpb25zOgoKVGhlIGFib3Zl\nIGNvcHlyaWdodCBub3RpY2UgYW5kIHRoaXMgcGVybWlzc2lvbiBub3RpY2Ug\nc2hhbGwgYmUgaW5jbHVkZWQgaW4gYWxsIGNvcGllcyBvciBzdWJzdGFudGlh\nbCBwb3J0aW9ucyBvZiB0aGUgU29mdHdhcmUuCgpUSEUgU09GVFdBUkUgSVMg\nUFJPVklERUQgIkFTIElTIiwgV0lUSE9VVCBXQVJSQU5UWSBPRiBBTlkgS0lO\nRCwgRVhQUkVTUyBPUiBJTVBMSUVELCBJTkNMVURJTkcgQlVUIE5PVCBMSU1J\nVEVEIFRPIFRIRSBXQVJSQU5USUVTIE9GIE1FUkNIQU5UQUJJTElUWSwgRklU\nTkVTUyBGT1IgQSBQQVJUSUNVTEFSIFBVUlBPU0UgQU5EIE5PTklORlJJTkdF\nTUVOVC4gSU4gTk8gRVZFTlQgU0hBTEwgVEhFIEFVVEhPUlMgT1IgQ09QWVJJ\nR0hUIEhPTERFUlMgQkUgTElBQkxFIEZPUiBBTlkgQ0xBSU0sIERBTUFHRVMg\nT1IgT1RIRVIgTElBQklMSVRZLCBXSEVUSEVSIElOIEFOIEFDVElPTiBPRiBD\nT05UUkFDVCwgVE9SVCBPUiBPVEhFUldJU0UsIEFSSVNJTkcgRlJPTSwgT1VU\nIE9GIE9SIElOIENPTk5FQ1RJT04gV0lUSCBUSEUgU09GVFdBUkUgT1IgVEhF\nIFVTRSBPUiBPVEhFUiBERUFMSU5HUyBJTiBUSEUgU09GVFdBUkUuCgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/moheshmohan/pyssltest/contents/README.md?ref=master","git":"https://api.github.com/repos/moheshmohan/pyssltest/git/blobs/5285d2231b0ee301c1ea1daaf65ba087030131b1","html":"https://github.com/moheshmohan/pyssltest/blob/master/README.md"}}
+0
+

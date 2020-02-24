@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:24:26 GMT
+Etag: W/"4b69f2df963e03f368bb4b1c5f6d72d2"
+Last-Modified: Wed, 27 Jan 2016 18:46:42 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:10620:13961:5E53B26A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1512
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+632
+{"name":"README.md","path":"README.md","sha":"96f80aafb8e8fde8bd3664bffcc3965cf2702d83","size":582,"url":"https://api.github.com/repos/utkusen/hidden-tear/contents/README.md?ref=master","html_url":"https://github.com/utkusen/hidden-tear/blob/master/README.md","git_url":"https://api.github.com/repos/utkusen/hidden-tear/git/blobs/96f80aafb8e8fde8bd3664bffcc3965cf2702d83","download_url":"https://raw.githubusercontent.com/utkusen/hidden-tear/master/README.md","type":"file","content":"ICAgICAgICAgXyAgICAgXyAgICAgXyAgICAgXyAgICAgICAgICAgICAgXyAg\nICAgICAgICAgICAgICAgIAogICAgICAgIHwgfCAgIChfKSAgIHwgfCAgIHwg\nfCAgICAgICAgICAgIHwgfCAgICAgICAgICAgICAgICAgCiAgICAgICAgfCB8\nX18gIF8gIF9ffCB8IF9ffCB8IF9fXyBfIF9fICAgfCB8XyBfX18gIF9fIF8g\nXyBfXyAKICAgICAgICB8ICdfIFx8IHwvIF9gIHwvIF9gIHwvIF8gXCAnXyBc\nICB8IF9fLyBfIFwvIF9gIHwgJ19ffAogICAgICAgIHwgfCB8IHwgfCAoX3wg\nfCAoX3wgfCAgX18vIHwgfCB8IHwgfHwgIF9fLyAoX3wgfCB8ICAgCiAgICAg\nICAgfF98IHxffF98XF9fLF98XF9fLF98XF9fX3xffCB8X3wgIFxfX1xfX198\nXF9fLF98X3wgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg\nICAgICAgICAgICAgICAgICAgICAKVGhpcyBwcm9qZWN0IGlzIGFiYW5kb25l\nZC4gSWYgeW91IGFyZSBhIHJlc2VhcmNoZXIgYW5kIHdhbnQgdGhlIGNvZGUs\nIGNvbnRhY3QgbWUgd2l0aCB5b3VyIHVuaXZlcnNpdHkgb3IgY29tcGFueSBl\nLW1haWwgaHR0cDovL3V0a3VzZW4uY29tL2VuL2NvbnRhY3QuaHRtbAoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/utkusen/hidden-tear/contents/README.md?ref=master","git":"https://api.github.com/repos/utkusen/hidden-tear/git/blobs/96f80aafb8e8fde8bd3664bffcc3965cf2702d83","html":"https://github.com/utkusen/hidden-tear/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:34 GMT
+Etag: W/"87afcf0a4e15103a35ceff7fc9589b88"
+Last-Modified: Thu, 05 Sep 2019 11:20:06 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:1A024:1F2B2:5E53B2EA
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1128
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c39
+{"name":"README.md","path":"README.md","sha":"7bc3a3a6ec4117c57d19191e2a5ef2d52e8e77b7","size":1729,"url":"https://api.github.com/repos/pielco11/DOGE/contents/README.md?ref=master","html_url":"https://github.com/pielco11/DOGE/blob/master/README.md","git_url":"https://api.github.com/repos/pielco11/DOGE/git/blobs/7bc3a3a6ec4117c57d19191e2a5ef2d52e8e77b7","download_url":"https://raw.githubusercontent.com/pielco11/DOGE/master/README.md","type":"file","content":"IVtzcGxhc2hdKGltYWdlcy9zcGxhc2gucG5nKQoKIyBET0dFCkRhcmtuZXQg\nT3NpbnQgR3JhcGggRXhwbG9yZXIKClN0aWxsIGluIGRldiwgd29ya3Mgcmln\naHQuCgpZb3Ugc2hvdWxkIHVzZSB0aGlzIGluIGFkZHRpb24gdG8gW0Rhcmtu\nZXQgT1NJTlQgVHJhbnNmb3JtXShodHRwczovL2dpdGh1Yi5jb20vcGllbGNv\nMTEvRE9UKQoKIyMgUGF5IGF0dGVudGlvbiBoZXJlClF1ZXJ5IHByb3RvdHlw\nZTogU0VMRUNUIERJU1RJTkNUIGN1c3RvbV9jb2x1bW5fbmFtZSBBUyBpbnB1\ndCwgYW5vdGhlcl9jdXN0b21fbmFtZSBBUyBvdXRwdXQgRlJPTSBzb21lX3Rh\nYmxlLCBvYnZpb3VzbHkgeW91IGNhbiBhZGQgb3RoZXIgb3B0aW9ucyBhcyBX\nSEVSRSwgT1JERVIgQlksIGV0Yy4KCiMjIEhvdy1UbwpgRGF0YWJhc2UgZmls\nZWA6IHRoZSBmaWxlbmFtZSBvZiB0aGUgZGF0YWJhc2UgKHNxbGl0ZTMpLCBl\neDogZGIuc3FsaXRlMwoKYEdyYXBoIGZpbGVgOiB1c2VsZXNzIChub3cgYXMg\nbm93KQoKYEljb24gRnJvbWA6IHRoZSB0eXBlIG9mIHRoZSAiZnJvbSIgZW50\naXR5IChlbWFpbCAtPiBkb21haW4sIGVtYWlsIGlzICJmcm9tIiwgZG9tYWlu\nIGlzICJ0byIpLCBzbyB0aGUgc2FtZSBhcyBgSWNvbiBUb2AKCmBDZW50ZXIg\ndG8gbm9kZWA6IHB1dCBub2RlIGlkIGhlcmUsIHRoZW4gY2xpY2sgb24gYENl\nbnRlciBHcmFwaGAgdG8gY2VudGVyIHRoZSBncmFwaCB0byB0aGF0IHNwZWNp\nZmljIG5vZGUgaWQKCmBRdWVyeWA6IHdyaXRlIGhlcmUgdGhlIHF1ZXJ5IHRo\nYXQgeW91J2xsIHVzZSB0byByZXRyaWV2ZSBkYXRhIGZyb20gdGhlIGRhdGFi\nYXNlLCBmb2xsb3cgdGhlIHByb3RvdHlwZSBhYm92ZQoKYExvYWQgRGF0YWA6\nIGFkZCBkYXRhIGJ1dCBkb24ndCBkcmF3LCB5b3UgY291bGQgdXNlIHRoaXMg\ndG8gaW1wb3J0IHN0dWZmIGZyb20gdmFyaW91cyBkYXRhYmFzZXMgYW5kIHdo\nZW4gZXZlcnl0aW5nIGlzIGltcG9ydGVkLCBkcmF3CgpgRHJhdyBHcmFwaGA6\nIGRyYXdzIG5vZGVzIHdpdGggZWRnZXMKCmBJbXBvcnQgR3JhcGhgOiB1c2Vs\nZXNzIChub3cgYXMgbm93KQoKYEV4cG9ydCBHcmFwaGA6IHVzZWxlc3MgKG5v\ndyBhcyBub3cpCgpgUHJlcmVuZGVyYDogZG9lcyBub3QgZGlzcGxheSB0aGUg\nZ3JhcGggdW50aWwgdGhlICJwcmUtcmVuZGVyaW5nIiBwcm9jZXNzIGlzIGRv\nbmUsIHRoaXMgc2hvdWxkIGJlIHVzZWQgd2hlbiB5b3UgaGF2ZSB0byBncmFw\naCAxMDBzIG9mIG5vZGVzLCBmZWVsIGZyZWUgdG8gY2hhbmdlIHBhcmFtZXRl\ncnM6Ci0gMXN0IGFyZ3VtZW50LCBgcHJlY29tcHV0ZUdyYXBoKClgLCBpbiBg\ncGFnZXMvZ3JhcGhfMS5odG1sYDsKLSBpbiB0aGUgc2FtZSBmaWxlLCBsaW5l\ncyAyNDYgYW5kIDI0Ny4KCiFbcmVuZGVyaW5nLXByb2Nlc3NdKGltYWdlcy9w\ncmVyZW5kZXJlci5wbmcpCgojIyBDdXN0b20gaWNvbnMKRXZlcnkgaWNvbiBj\nb21lcyBmcm9tIEZvbnQgQXdlc29tZSwgSSBqdXN0IGNoYW5nZWQgY29sb3Jz\nLgohW2ljb25zXShpbWFnZXMvaWNvbnMucG5nKQohW2ljb25zMl0oaW1hZ2Vz\nL2ljb25zXzIucG5nKQoKIyMgU2NyZWVuc2hvdHMKIVtleGFtcGxlXShpbWFn\nZXMvZXhhbXBsZV9xdWVyeS5wbmcpCiFbZGFzaGJvYXJkXShpbWFnZXMvc2Ny\nZWVuc2hvdF8zMC5wbmcpCiFbZGFzaGJvYXJkMV0oaW1hZ2VzL3NjcmVlbnNo\nb3RfMzEucG5nKQohW2Rhc2hib2FyZDJdKGltYWdlcy9zY3JlZW5zaG90XzMy\nLnBuZykKClN0YXkgdHVuZWQuCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/pielco11/DOGE/contents/README.md?ref=master","git":"https://api.github.com/repos/pielco11/DOGE/git/blobs/7bc3a3a6ec4117c57d19191e2a5ef2d52e8e77b7","html":"https://github.com/pielco11/DOGE/blob/master/README.md"}}
+0
+

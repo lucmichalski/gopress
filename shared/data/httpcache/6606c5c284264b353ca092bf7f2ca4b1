@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:34 GMT
+Etag: W/"3dffebc59f8f6aa2f21e29231af9dd56"
+Last-Modified: Mon, 09 Dec 2019 17:25:49 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:3A95B:4642A:5E53B48E
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 71
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a6a
+{"name":"README.md","path":"README.md","sha":"5ce97f73546c7ab2a2e4af61e6976efdcfca1485","size":1350,"url":"https://api.github.com/repos/hasherezade/bearparser/contents/README.md?ref=master","html_url":"https://github.com/hasherezade/bearparser/blob/master/README.md","git_url":"https://api.github.com/repos/hasherezade/bearparser/git/blobs/5ce97f73546c7ab2a2e4af61e6976efdcfca1485","download_url":"https://raw.githubusercontent.com/hasherezade/bearparser/master/README.md","type":"file","content":"YmVhcnBhcnNlcgo9PT09PT09PT09ClshW0J1aWxkIHN0YXR1c10oaHR0cHM6\nLy9jaS5hcHB2ZXlvci5jb20vYXBpL3Byb2plY3RzL3N0YXR1cy84cDZ3cDBi\nY3EybXg4MjA4P3N2Zz10cnVlKV0oaHR0cHM6Ly9jaS5hcHB2ZXlvci5jb20v\ncHJvamVjdC9oYXNoZXJlemFkZS9iZWFycGFyc2VyKQpbIVtCdWlsZCBzdGF0\ndXNdKGh0dHBzOi8vdHJhdmlzLWNpLm9yZy9oYXNoZXJlemFkZS9iZWFycGFy\nc2VyLnN2Zz9icmFuY2g9bWFzdGVyKV0oaHR0cHM6Ly90cmF2aXMtY2kub3Jn\nL2hhc2hlcmV6YWRlL2JlYXJwYXJzZXIpClshW0NvZGFjeSBCYWRnZV0oaHR0\ncHM6Ly9hcGkuY29kYWN5LmNvbS9wcm9qZWN0L2JhZGdlL0dyYWRlL2JjMWJk\nZGRmMTQyNDQ1NTlhYjQ3ODY5MzljNmY5NTY5KV0oaHR0cHM6Ly93d3cuY29k\nYWN5LmNvbS9tYW51YWwvaGFzaGVyZXphZGUvYmVhcnBhcnNlcj91dG1fc291\ncmNlPWdpdGh1Yi5jb20mYW1wO3V0bV9tZWRpdW09cmVmZXJyYWwmYW1wO3V0\nbV9jb250ZW50PWhhc2hlcmV6YWRlL2JlYXJwYXJzZXImYW1wO3V0bV9jYW1w\nYWlnbj1CYWRnZV9HcmFkZSkKWyFbVG90YWwgYWxlcnRzXShodHRwczovL2lt\nZy5zaGllbGRzLmlvL2xndG0vYWxlcnRzL2cvaGFzaGVyZXphZGUvYmVhcnBh\ncnNlci5zdmc/bG9nbz1sZ3RtJmxvZ29XaWR0aD0xOCldKGh0dHBzOi8vbGd0\nbS5jb20vcHJvamVjdHMvZy9oYXNoZXJlemFkZS9iZWFycGFyc2VyL2FsZXJ0\ncy8pClshW1Jhd3NlYydzIEN5YmVyU2VjdXJpdHkgSW52ZW50b3J5XShodHRw\nczovL2ludmVudG9yeS5yYXdzZWMubWwvaW1nL2JhZGdlcy9SYXdzZWMtaW52\nZW50b3JpZWQtRkY1MDUwX2ZsYXQuc3ZnKV0oaHR0cHM6Ly9pbnZlbnRvcnku\ncmF3c2VjLm1sLykKClBvcnRhYmxlIEV4ZWN1dGFibGUgcGFyc2luZyBsaWJy\nYXJ5PGJyLz4KV0FSTklORzogdGhpcyBpcyBhbiBlYXJseSBiZXRhIHZlcnNp\nb24sIHNvbWUgZWxlbWVudHMgYXJlIHVuZmluaXNoZWQhPGJyLz4KUGxlYXNl\nIHJlcG9ydCBhbnkgYnVncyBhbmQgcmVtYXJrcyB0bzogaGFzaGVyZXphZGVA\nZ21haWwuY29tPGJyLz4KClJlcXVpcmVzOgorIFF0NSBTREs8YnIvPgorIFF0\nNSBDb3JlPGJyLz4KKyBjbWFrZSBodHRwOi8vd3d3LmNtYWtlLm9yZy88YnIv\nPgoKPGI+UG9zc2libGUgdG8gYnVpbGQgd2l0aCBRdDQgKGluc3RlYWQgb2Yg\nUXQ1KSBieSBzZXR0aW5nIGEgQ01ha2UgZmxhZzogVVNFX1FUNDwvYj48YnIv\nPgpFeGFtcGxlOgpgYGAKY21ha2UgLUcgIlVuaXggTWFrZWZpbGVzIiAtRCBV\nU0VfUVQ0PU9OIC4uLwpgYGAKCgpSZWFkIG1vcmUgb24gV2lraToKPT09Cmh0\ndHBzOi8vZ2l0aHViLmNvbS9oYXNoZXJlemFkZS9iZWFycGFyc2VyL3dpa2kK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/hasherezade/bearparser/contents/README.md?ref=master","git":"https://api.github.com/repos/hasherezade/bearparser/git/blobs/5ce97f73546c7ab2a2e4af61e6976efdcfca1485","html":"https://github.com/hasherezade/bearparser/blob/master/README.md"}}
+0
+

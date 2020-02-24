@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:23:55 GMT
+Etag: W/"2a13d9f3a8972fd6fe3bc56db6fb93a8"
+Last-Modified: Sat, 24 Feb 2018 08:55:09 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:E08A:10C5B:5E53B24B
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1603
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+8bb
+{"name":"README.md","path":"README.md","sha":"fb16e806077fe638ed9caba38b7138108241c5f6","size":996,"url":"https://api.github.com/repos/blacknbunny/shellcode2assembly/contents/README.md?ref=master","html_url":"https://github.com/blacknbunny/shellcode2assembly/blob/master/README.md","git_url":"https://api.github.com/repos/blacknbunny/shellcode2assembly/git/blobs/fb16e806077fe638ed9caba38b7138108241c5f6","download_url":"https://raw.githubusercontent.com/blacknbunny/shellcode2assembly/master/README.md","type":"file","content":"IyBTaGVsbGNvZGVUb0Fzc2VtYmx5CgojIyBSZXBsYWNlIGluIHNoZWxsY29k\nZXRvYXNtLnB5IHdpdGggeW91ciBzaGVsbGNvZGUuIHsgRW5kaWFuIHR5cGUg\naXMgbGl0dGxlIGVuZGlhbi4gfQpgYGBjCnNoZWxsY29kZSA9ICcnCmBgYAot\nLS0tLS0tLS0KClshW0dpdEh1YiBsaWNlbnNlXShodHRwczovL2ltZy5zaGll\nbGRzLmlvL2JhZGdlL2xpY2Vuc2UtTUlULWJsdWUuc3ZnKV0oKQoKIyMgSW5z\ndGFsbGF0aW9uCmBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2JsYWNr\nbmJ1bm55L1NoZWxsY29kZVRvQXNzZW1ibHkuZ2l0ICYmIGNkIFNoZWxsY29k\nZVRvQXNzZW1ibHkvICYmIHBpcDIgaW5zdGFsbCAtciByZXF1aXJlbWVudHMu\ndHh0ICYmIHB5dGhvbjIgc2hlbGxjb2RldG9hc20ucHlgCgoKIyMgTW9kdWxl\ncyBtYW51YWwgaW5zdGFsbGF0aW9uCiMjIyMgYHBpcCBpbnN0YWxsIC1yIHJl\ncXVpcmVtZW50cy50eHRgIGl0IGNhbiBiZSBgcGlwMiBpbnN0YWxsIC1yIHJl\ncXVpcmVtZW50cy50eHRgCgojIyBVc2FnZQpgcHl0aG9uMiBzaGVsbGNvZGV0\nb2FzbS5weSBbcmV0dXJuYml0XSBbYXJjaGl0ZWN0dXJlXSBbYXNzZW1ibHkt\nZmxhdm9yXWAKCiMjIEZvciBleGFtcGxlCmBweXRob24yIHNoZWxsY29kZXRv\nYXNtLnB5IDMyIHg4NiBhdHRgCgpgcHl0aG9uMiBzaGVsbGNvZGV0b2FzbS5w\neSA2NCB4ODZgCgpgU2Vjb25kIG9uZSBpcyBhdXRvIGludGVsYAoKIyMgQXJj\naGl0ZWN0dXJlcwojIyMgYEFSTWAKIyMjIGBBUk02NGAKIyMjIGBNSVBTYAoj\nIyMgYHBwY2AKIyMjIGBYODZgCgojIyBSZXR1cm4gQml0CiMjIyBgNjRgCiMj\nIyBgMzJgCgojIyBBc3NlbWJseSBGbGF2b3IKIyMjIGBBVCZUYAojIyMgYElO\nVEVMYAoKLS0tLS0tCgpbIVtkZW1vXShodHRwczovL2FzY2lpbmVtYS5vcmcv\nYS94aldyWGZmdFpTN0J2U3pWUmQ0NEx1emtQLnBuZyldKGh0dHBzOi8vYXNj\naWluZW1hLm9yZy9hL3hqV3JYZmZ0WlM3QnZTelZSZDQ0THV6a1A/YXV0b3Bs\nYXk9MSkK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/blacknbunny/shellcode2assembly/contents/README.md?ref=master","git":"https://api.github.com/repos/blacknbunny/shellcode2assembly/git/blobs/fb16e806077fe638ed9caba38b7138108241c5f6","html":"https://github.com/blacknbunny/shellcode2assembly/blob/master/README.md"}}
+0
+

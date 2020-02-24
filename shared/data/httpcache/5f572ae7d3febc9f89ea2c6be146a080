@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:19 GMT
+Etag: W/"b0cc2d08d61b55318a06ae31c268c352"
+Last-Modified: Sat, 02 Nov 2019 21:18:22 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:AAF2A:CD25B:5E53B0FB
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2597
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+bfd
+{"name":"README.md","path":"README.md","sha":"675be2ccb4b114f9adfc236f57e22714777a9480","size":1675,"url":"https://api.github.com/repos/watzon/ngrok.cr/contents/README.md?ref=master","html_url":"https://github.com/watzon/ngrok.cr/blob/master/README.md","git_url":"https://api.github.com/repos/watzon/ngrok.cr/git/blobs/675be2ccb4b114f9adfc236f57e22714777a9480","download_url":"https://raw.githubusercontent.com/watzon/ngrok.cr/master/README.md","type":"file","content":"IyBOZ3JvawoKWyFbR2l0aHViIEFjdGlvbnNdKGh0dHBzOi8vZ2l0aHViLmNv\nbS93YXR6b24vbmdyb2suY3Ivd29ya2Zsb3dzL0NyeXN0YWwvYmFkZ2Uuc3Zn\nKV0oaHR0cHM6Ly9naXRodWIuY29tL3dhdHpvbi9uZ3Jvay5jci93b3JrZmxv\nd3MvQ3J5c3RhbCkgIVtsaWNlbnNlXShodHRwczovL2ltZy5zaGllbGRzLmlv\nL2dpdGh1Yi9saWNlbnNlL3dhdHpvbi9uZ3Jvay5jci5zdmcpCgpDcnlzdGFs\nIHdyYXBwZXIgZm9yIG5ncm9rLiBUaGlzIGxpYnJhcnkgZG9lcyBub3QgcmVx\ndWlyZSBuZ3JvayBiZSBpbnN0YWxsZWQgYXMgaXQgaW5jbHVkZXMgYSBkb3du\nbG9hZGVkIHdoaWNoIHdpbGwgZ28gYW5kIGZldGNoIHRoZSB2ZXJzaW9uIG9m\nIG5ncm9rIGZvciB5b3VyIHN5c3RlbSBhbmQgc2F2ZSBpdCBsb2NhbGx5LiBJ\nZiB5b3UgZG8gaGF2ZSBuZ3JvayBpbnN0YWxsZWQgaXQgd2lsbCB1c2UgdGhl\nIGluc3RhbGxlZCB2ZXJzaW9uLgoKIyMgSW5zdGFsbGF0aW9uCgpBZGQgdGhp\ncyB0byB5b3VyIGFwcGxpY2F0aW9uJ3MgYHNoYXJkLnltbGA6CgpgYGB5YW1s\nCmRlcGVuZGVuY2llczoKICBuZ3JvazoKICAgIGdpdGh1Yjogd2F0em9uL25n\ncm9rLmNyCmBgYAoKIyMgVXNhZ2UKCmBgYGNyeXN0YWwKcmVxdWlyZSAibmdy\nb2siCgpuZ3JvayA9IE5ncm9rLnN0YXJ0CgojIG5ncm9rIGFkZHJlc3MKbmdy\nb2suYWRkcgojID0+ICIxMjcuMC4wLjE6MzAwMSIKCiMgbmdyb2sgZXh0ZXJu\nYWwgdXJsCm5ncm9rLm5ncm9rX3VybAojID0+ICJodHRwOi8vYWFhMGU2NS5u\nZ3Jvay5pbyIKCm5ncm9rLm5ncm9rX3VybF9odHRwcwojID0+ICJodHRwczov\nL2FhYTBlNjUubmdyb2suaW8iCgpuZ3Jvay5ydW5uaW5nPwojID0+IHRydWUK\nCm5ncm9rLnN0b3BwZWQ/CiMgPT4gZmFsc2UKCiMgbmdyb2sgcHJvY2VzcyBp\nZApuZ3Jvay5waWQKIyA9PiAyNzM4NAoKIyBrZWVwIHRoZSBjb25uZWN0aW9u\nIGFsaXZlCnNsZWVwCmBgYAoKYGBgY3J5c3RhbApOZ3Jvay5zdGFydChhZGRy\nOiAnZm9vLmRldjo4MCcsCiAgICAgICAgICAgIHN1YmRvbWFpbjogJ01ZX1NV\nQkRPTUFJTicsCiAgICAgICAgICAgIGhvc3RuYW1lOiAnTVlfSE9TVE5BTUUn\nLAogICAgICAgICAgICBhdXRodG9rZW46ICdNWV9UT0tFTicsCiAgICAgICAg\nICAgIGluc3BlY3Q6IGZhbHNlLAogICAgICAgICAgICBsb2c6IEZpbGUub3Bl\nbigiLi9sb2cudHh0IiwgInciKSwKICAgICAgICAgICAgY29uZmlnOiAnfi8u\nbmdyb2snKQpgYGAKCiMjIFVzYWdlIEV4YW1wbGVzCgpTZWUgdGhlIGBleGFt\ncGxlc2AgZGlyZWN0b3J5IGZvciBhIGNvdXBsZSB1c2FnZSBleGFtcGxlcy4K\nCiMjIENvbnRyaWJ1dGluZwoKMS4gRm9yayBpdCAoIGh0dHBzOi8vZ2l0aHVi\nLmNvbS93YXR6b24vbmdyb2suY3IvZm9yayApCjIuIENyZWF0ZSB5b3VyIGZl\nYXR1cmUgYnJhbmNoIChnaXQgY2hlY2tvdXQgLWIgbXktbmV3LWZlYXR1cmUp\nCjMuIENvbW1pdCB5b3VyIGNoYW5nZXMgKGdpdCBjb21taXQgLWFtICdBZGQg\nc29tZSBmZWF0dXJlJykKNC4gUHVzaCB0byB0aGUgYnJhbmNoIChnaXQgcHVz\naCBvcmlnaW4gbXktbmV3LWZlYXR1cmUpCjUuIENyZWF0ZSBhIG5ldyBQdWxs\nIFJlcXVlc3QKCiMjIENvbnRyaWJ1dG9ycwoKLSBbd2F0em9uXShodHRwczov\nL2dpdGh1Yi5jb20vd2F0em9uKSBDaHJpcyBXYXRzb24gLSBjcmVhdG9yLCBt\nYWludGFpbmVyCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/watzon/ngrok.cr/contents/README.md?ref=master","git":"https://api.github.com/repos/watzon/ngrok.cr/git/blobs/675be2ccb4b114f9adfc236f57e22714777a9480","html":"https://github.com/watzon/ngrok.cr/blob/master/README.md"}}
+0
+

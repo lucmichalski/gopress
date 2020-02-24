@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:17:36 GMT
+Etag: W/"c16befa8b06a21ce7b15d77a1a7cdeb5"
+Last-Modified: Sat, 15 Feb 2020 05:13:56 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:A5015:C6112:5E53B0CF
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2737
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+de9
+{"name":"README.md","path":"README.md","sha":"6c11e592ac790a6031b534e1f982f24c9350f1bd","size":2023,"url":"https://api.github.com/repos/f0rb1dd3n/Reptile/contents/README.md?ref=master","html_url":"https://github.com/f0rb1dd3n/Reptile/blob/master/README.md","git_url":"https://api.github.com/repos/f0rb1dd3n/Reptile/git/blobs/6c11e592ac790a6031b534e1f982f24c9350f1bd","download_url":"https://raw.githubusercontent.com/f0rb1dd3n/Reptile/master/README.md","type":"file","content":"IyBSZXB0aWxlCgo8aW1nIGFsaWduPSJsZWZ0IiBzcmM9Imh0dHBzOi8vaW1n\ndXIuY29tL25xdWpPbHoucG5nIj4KCjxicj48YnI+PGJyPjxicj48YnI+Cjxi\ncj48YnI+PGJyPjxicj48YnI+CgojIyBUZXN0ZWQgb24KCioqRGViaWFuIDkq\nKjogNC45LjAtOC1hbWQ2NDxicj4KKipEZWJpYW4gMTAqKjogNC4xOS4wLTgt\nYW1kNjQ8YnI+CioqVWJ1bnR1IDE4LjA0LjEgTFRTKio6IDQuMTUuMC0zOC1n\nZW5lcmljPGJyPgoqKkthbGkgTGludXgqKjogNC4xOC4wLWthbGkyLWFtZDY0\nPGJyPgoqKkthbGkgTGludXgqKjogNS40LjAta2FsaTMtYW1kNjQ8YnI+Cioq\nQ2VudG9zIDYuMTAqKjogMi42LjMyLTc1NC42LjMuZWw2Lng4Nl82NDxicj4K\nKipDZW50b3MgNyoqOiAzLjEwLjAtODYyLjMuMi5lbDcueDg2XzY0PGJyPgoq\nKkNlbnRvcyA4Kio6IDQuMTguMC0xNDcuNS4xLmVsOF8xLng4Nl82NAoKIyMg\nRmVhdHVyZXMKCi0gR2l2ZSByb290IHRvIHVucHJpdmlsZWdlZCB1c2Vycwot\nIEhpZGUgZmlsZXMgYW5kIGRpcmVjdG9yaWVzCi0gSGlkZSBwcm9jZXNzZXMK\nLSBIaWRlIGhpbXNlbGYKLSBIaWRlIFRDUC9VRFAgY29ubmVjdGlvbnMKLSBI\naWRkZW4gYm9vdCBwZXJzaXN0ZW5jZQotIEZpbGUgY29udGVudCB0YW1wZXJp\nbmcKLSBTb21lIG9iZnVzY2F0aW9uIHRlY2huaXF1ZXMKLSBJQ01QL1VEUC9U\nQ1AgcG9ydC1rbm9ja2luZyBiYWNrZG9vcgotIEZ1bGwgVFRZL1BUWSBzaGVs\nbCB3aXRoIGZpbGUgdHJhbnNmZXIKLSBDbGllbnQgdG8gaGFuZGxlIFJlcHRp\nbGUgU2hlbGwKLSBTaGVsbCBjb25uZWN0IGJhY2sgZWFjaCBYIHRpbWVzIChu\nb3QgZGVmYXVsdCkKICAgCiMjIEluc3RhbGwKYGBgCmFwdC1nZXQgaW5zdGFs\nbCBsaW51eC1oZWFkZXJzLSQodW5hbWUgLXIpCmdpdCBjbG9uZSBodHRwczov\nL2dpdGh1Yi5jb20vZjByYjFkZDNuL1JlcHRpbGUuZ2l0CmNkIFJlcHRpbGUK\nLi9zZXR1cC5zaCBpbnN0YWxsCmBgYAojIyBVbmluc3RhbGwKYGBgCi4vc2V0\ndXAuc2ggcmVtb3ZlCmBgYAojIyBVc2FnZQoKU2VlIFtXaWtpXShodHRwczov\nL2dpdGh1Yi5jb20vZjByYjFkZDNuL1JlcHRpbGUvd2lraS9Vc2FnZSkgdG8g\ndXNhZ2UgZGV0YWlscy4KCiMjIFdhcm5pbmcKClNvbWUgZnVuY3Rpb25zIG9m\nIHRoaXMgbW9kdWxlIGlzIGJhc2VkIG9uIGFub3RoZXIgcm9vdGtpdHMuIFBs\nZWFzZSBzZWUgdGhlIHJlZmVyZW5jZXMhCgojIyBSZWZlcmVuY2VzCgotIOKA\nnFtMS00gSEFDS0lOR10oaHR0cDovL3d3dy5vdWFoLm9yZy9MS01fSEFDS0lO\nRy5odG1sKeKAnSwgVGhlIEhhY2tlcnMgQ2hvaWNlIChUSEMpLCAxOTk5Owot\nIGh0dHBzOi8vZ2l0aHViLmNvbS9taWxhYnMKLSBodHRwczovL2dpdGh1Yi5j\nb20vbW5jb3Bwb2xhL3N1dGVydXN1Ci0gaHR0cHM6Ly9naXRodWIuY29tL20w\nbmFkL0RpYW1vcnBoaW5lLmdpdAotIGh0dHBzOi8vZ2l0aHViLmNvbS9EYXZp\nZC1SZWd1ZXJhLUdhcmNpYS1EcmVnL2VueWVsa20uZ2l0Ci0gaHR0cHM6Ly9n\naXRodWIuY29tL2NyZWFrdGl2ZS90c2gKLSBodHRwOi8vd3d3LmRya25zLm5l\ndC9rZXJuZWwtd2hvLWRvZXMtbWFnaWMvCi0gaHR0cHM6Ly9naXRodWIuY29t\nL2JyZW5uczEwL2xzaAoKIyMgVGhhbmtzCgpTcGVjaWFsIHRoYW5rcyB0byBt\neSBmcmllbmQgW0lseWEgVi4gTWF0dmV5Y2hpa292XShodHRwczovL2dpdGh1\nYi5jb20vbWlsYWJzKSBmb3IgdGhlIFtLSE9PS10oaHR0cHM6Ly9naXRodWIu\nY29tL21pbGFicy9raG9vaykgZnJhbWV3b3JrIGFuZCBba21hdHJ5b3Noa2Fd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9taWxhYnMva21hdHJ5b3Noa2EpIGxvYWRl\nci4KCiMjIERpc2NsYWltZXIKCklmIHlvdSB3YW5uYSBtb3JlIGluZm9ybWF0\naW9uLCBzZW5kIG1lIGFuIGUtbWFpbDogZjByYjFkZDNuQHR1dGEuaW8KCjxw\nIGFsaWduPSJjZW50ZXIiPgogICA8aW1nIHNyYz0iaHR0cDovLzIuYnAuYmxv\nZ3Nwb3QuY29tLy1PTW96RzFKTnhpYy9WUXhLTWZpVTJFSS9BQUFBQUFBQU9R\nTS9fc3VCc0lhOU83Yy9zMTYwMC9SZXB0aWxlJTJCNi5naWYiPgo8L3A+Cg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/f0rb1dd3n/Reptile/contents/README.md?ref=master","git":"https://api.github.com/repos/f0rb1dd3n/Reptile/git/blobs/6c11e592ac790a6031b534e1f982f24c9350f1bd","html":"https://github.com/f0rb1dd3n/Reptile/blob/master/README.md"}}
+0
+

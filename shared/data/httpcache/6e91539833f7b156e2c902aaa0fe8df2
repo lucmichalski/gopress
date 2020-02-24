@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:17:26 GMT
+Etag: W/"44a96cec5dfe7652acbb9bb59b714743"
+Last-Modified: Sun, 29 Dec 2019 21:46:06 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:A3C09:C4901:5E53B0C6
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2768
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+698
+{"name":"README.md","path":"README.md","sha":"cd57734ec83b8edd0a916e9dd95607042d6ed043","size":666,"url":"https://api.github.com/repos/CBHue/PyFuscation/contents/README.md?ref=master","html_url":"https://github.com/CBHue/PyFuscation/blob/master/README.md","git_url":"https://api.github.com/repos/CBHue/PyFuscation/git/blobs/cd57734ec83b8edd0a916e9dd95607042d6ed043","download_url":"https://raw.githubusercontent.com/CBHue/PyFuscation/master/README.md","type":"file","content":"IyBQeUZ1c2NhdGlvbgoKUmVxdWlyZXMgcHl0aG9uMyAKCiFbYWx0IHRleHRd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9DQkh1ZS9QeUZ1c2NhdGlvbi9ibG9iL21h\nc3Rlci9QeUZ1c2NhdGlvbi5wbmcpCgp1c2FnZTogUHlGdXNjYXRpb24ucHkg\nWy1oXSBbLWZdIFstdl0gWy1wXSBbLS1wcyBTQ1JJUFRdIAoKT3B0aW9uYWwg\nYXJndW1lbnRzOiAKCgnigKIgLWgsIC0taGVscCBzaG93IHRoaXMgaGVscCBt\nZXNzYWdlIGFuZCBleGl0CiAgCgnigKIgLWYgICAgT2JmdXNjYXRlIGZ1bmN0\naW9ucwoJCeKXiyBEbyB0aGlzIEZpcnN0IC4uLiBJdHMgcHJvYmFibHkgdGhl\nIG1vc3QgbGlrZWx5IHRvIHdvcmsgd2VsbAoJCQoJ4oCiIC12ICAgIE9iZnVz\nY2F0ZSB2YXJpYWJsZXMKCQnil4sgSWYgeW91ciBnb2luZyB0byBvYmZ1c2Nh\ndGUgdmFyaWFibGVzIGRvIHRoZSBwYXJhbWV0ZXJzIHRvby4gCgkJCgnigKIg\nLXAgICAgT2JmdXNjYXRlIHBhcmFtZXRlcnMKCQnil4sgIElmIHlvdXIgZ29p\nbmcgdG8gb2JmdXNjYXRlIHBhcmFtZXRlcnMgZG8gdGhlIHZhcmlhYmxlcyB0\nb28uIAoKUmVxdWlyZWQgYXJndW1lbnRzOgotLXBzICA8U0NSSVBUPiAJT2Jm\ndXNjYXRlIHNjcmlwdCAKCglweXRob24zIFB5RnVzY2F0aW9uLnB5IC1mdnAg\nLS1wcyAuL1NjcmlwdHMvSW52b2tlLU1pbWlrYXR6LnBzMSAK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/CBHue/PyFuscation/contents/README.md?ref=master","git":"https://api.github.com/repos/CBHue/PyFuscation/git/blobs/cd57734ec83b8edd0a916e9dd95607042d6ed043","html":"https://github.com/CBHue/PyFuscation/blob/master/README.md"}}
+0
+

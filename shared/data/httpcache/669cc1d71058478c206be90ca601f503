@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:21:04 GMT
+Etag: W/"127f305c6c2f367f0ac52c053823b39c"
+Last-Modified: Tue, 31 Mar 2015 23:17:40 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:0614:07F9:5E53B1A0
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2128
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+889
+{"name":"README.md","path":"README.md","sha":"e3f6d78a7e9a547403a195455eaf85efbea43d6b","size":1003,"url":"https://api.github.com/repos/LeonardoNve/sslstrip2/contents/README.md?ref=master","html_url":"https://github.com/LeonardoNve/sslstrip2/blob/master/README.md","git_url":"https://api.github.com/repos/LeonardoNve/sslstrip2/git/blobs/e3f6d78a7e9a547403a195455eaf85efbea43d6b","download_url":"https://raw.githubusercontent.com/LeonardoNve/sslstrip2/master/README.md","type":"file","content":"U1NMU3RyaXArCj09PT09PT09PQoKVGhpcyBpcyBhIG5ldyB2ZXJzaW9uIG9m\nIFtNb3hpZcK0cyBTU0xzdHJpcF0gKGh0dHA6Ly93d3cudGhvdWdodGNyaW1l\nLm9yZy9zb2Z0d2FyZS9zc2xzdHJpcC8pIHdpdGggdGhlIG5ldyBmZWF0dXJl\nIHRvIGF2b2lkIEhUVFAgU3RyaWN0IFRyYW5zcG9ydCBTZWN1cml0eSAoSFNU\nUykgcHJvdGVjdGlvbiBtZWNoYW5pc20uICAKICAKVGhpcyB2ZXJzaW9uIGNo\nYW5nZXMgSFRUUFMgdG8gSFRUUCBhcyB0aGUgb3JpZ2luYWwgb25lIHBsdXMg\ndGhlIGhvc3RuYW1lIGF0IGh0bWwgY29kZSB0byBhdm9pZCBIU1RTLiBDaGVj\nayBteSBzbGlkZXMgYXQgQmxhY2tIYXQgQVNJQSAyMDE0IFtPRkZFTlNJVkU6\nIEVYUExPSVRJTkcgRE5TIFNFUlZFUlMgQ0hBTkdFU10gKGh0dHA6Ly93d3cu\nc2xpZGVzaGFyZS5uZXQvRmF0dW9fXy9vZmZlbnNpdmUtZXhwbG9pdGluZy1k\nbnMtc2VydmVycy1jaGFuZ2VzLWJsYWNraGF0LWFzaWEtMjAxNCkgZm9yIG1v\ncmUgaW5mb3JtYXRpb24uICAKICAKRm9yIHRoaXMgdG8gd29yayB5b3UgYWxz\nbyBuZWVkIGEgRE5TIHNlcnZlciB0aGF0IHJldmVyc2UgdGhlIGNoYW5nZXMg\nbWFkZSBieSB0aGUgcHJveHksIHlvdSBjYW4gZmluZCBpdCBhdCBodHRwczov\nL2dpdGh1Yi5jb20vTGVvbmFyZG9OdmUvZG5zMnByb3h5LgoKCkRlbW8gdmlk\nZW8gYXQ6IGh0dHA6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj11R0JqeGZp\nenk0OAoKCkJVVAo9PT0KCkNhdXNlIHRoZSBuZXcgZ2FnIGxhdyB3aGljaCBj\ncmltaW5hbGl6ZWQgdGhlIHB1YmxpY2F0aW9uIG9mICdvZmZlbnNpdmUnIHNl\nY3VyaXR5IHRvb2xzL3RlY2huaXF1ZXMgSSBoYXZlIHRvIGRlbGV0ZSB0aGlz\nIHJlcG9zaXRvcnkuIFlvdSBjYW4gZmluZCBnb29kIGZvcmtzIG9uIE1JVE1m\nIGZyYW1ld29yayAoaHR0cHM6Ly9naXRodWIuY29tL2J5dDNibDMzZDNyL01J\nVE1mKSBvciBNQU5BIHJvZ3VlIEFQIChodHRwczovL2dpdGh1Yi5jb20vc2Vu\nc2Vwb3N0L21hbmEpLg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/LeonardoNve/sslstrip2/contents/README.md?ref=master","git":"https://api.github.com/repos/LeonardoNve/sslstrip2/git/blobs/e3f6d78a7e9a547403a195455eaf85efbea43d6b","html":"https://github.com/LeonardoNve/sslstrip2/blob/master/README.md"}}
+0
+

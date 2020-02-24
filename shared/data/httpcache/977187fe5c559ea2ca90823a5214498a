@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:25:16 GMT
+Etag: W/"d1dfa857cefc4db523b52cd917c9dab6"
+Last-Modified: Wed, 05 Feb 2020 12:21:53 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:13DD4:17D1E:5E53B29B
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1365
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+670
+{"name":"README.md","path":"README.md","sha":"ec83314473a74d19990cc66bbcc3d01ef3f41f03","size":554,"url":"https://api.github.com/repos/m4ll0k/BurpSuite-Random_UserAgent/contents/README.md?ref=master","html_url":"https://github.com/m4ll0k/BurpSuite-Random_UserAgent/blob/master/README.md","git_url":"https://api.github.com/repos/m4ll0k/BurpSuite-Random_UserAgent/git/blobs/ec83314473a74d19990cc66bbcc3d01ef3f41f03","download_url":"https://raw.githubusercontent.com/m4ll0k/BurpSuite-Random_UserAgent/master/README.md","type":"file","content":"IyMgQnVycFN1aXRlIFJhbmRvbSBVc2VyLUFnZW50cwoKQSBCdXJwIFN1aXRl\nIGV4dGVuc2lvbiB0byBoZWxwIHBlbnRlc3RlcnMgdG8gZ2VuZXJhdGUgYSBy\nYW5kb20gdXNlci1hZ2VudC4gVGhpcyBleHRlbnNpb24gaGFzIGJlZW4gZGV2\nZWxvcGVkIGJ5IE0naGFtZWQgKEBtNGxsMGspIE91dGFhZGkuCgohW21haW5d\nKGh0dHBzOi8vaS5pbWd1ci5jb20vWkNEdUxsMy5wbmcpCgoKSW5zdGFsbGF0\naW9uCi0tCgpEb3dubG9hZCBhIGphciBmaWxlIGluIHJlbGVhc2Ugb3IgY29t\ncGlsZSB0aGUgamF2YSBjb2RlOgoKYGBgc2hlbGwKJCBnaXQgY2xvbmUgaHR0\ncHM6Ly9naXRodWIuY29tL200bGwway9CdXJwU3VpdGUtUmFuZG9tX1VzZXJB\nZ2VudC5naXQgcmFuZG9tLXVzZXJhZ2VudHMKJCBjZCByYW5kb20tdXNlcmFn\nZW50cy9zcmMvbWFpbi9qYXZhCiQgamF2YWMgYnVycC8qLmphdmEKJCBqYXIg\nY2YgcmFuZG9tLXVzZXJhZ2VudHMuamFyIGJ1cnAvKi5jbGFzcwoKYGBgCgp2\naWRlbyBpbnN0YWxsYXRpb24gW3ZpZGVvXShodHRwczovL2kuaW1ndXIuY29t\nLzRyUkFJYlgubXA0KQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/m4ll0k/BurpSuite-Random_UserAgent/contents/README.md?ref=master","git":"https://api.github.com/repos/m4ll0k/BurpSuite-Random_UserAgent/git/blobs/ec83314473a74d19990cc66bbcc3d01ef3f41f03","html":"https://github.com/m4ll0k/BurpSuite-Random_UserAgent/blob/master/README.md"}}
+0
+

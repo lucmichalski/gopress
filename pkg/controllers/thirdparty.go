@@ -7,18 +7,22 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/koreset/go-twitter/twitter"
 
+	"github.com/lucmichalski/gopress/pkg/config"
 	"github.com/lucmichalski/gopress/pkg/services"
 	"github.com/lucmichalski/gopress/pkg/utils"
 )
 
 func GetTweets(c *gin.Context) {
-	config := oauth1.NewConfig("cmLzY1seoM3RKdu7oCVFKqBiH", "BpFpYH0wTlvMNPoEzzSHrvtEk9Q5lf6q0vwf6pPSw7y5GDm0fg")
-	token := oauth1.NewToken("45419796-3ckhqOkynAMdcHLTZqwN8L6859svhHb5H4BGUHEKd", "vamzHB0ZAU4wKaizV17UTgtXQHdiT99wzdy77bZtmHVHw")
-	httpClient := config.Client(oauth1.NoContext, token)
-
+	cfg := oauth1.NewConfig(config.Config.ApiKey.Twitter.ConsumerKey, config.Config.ApiKey.Twitter.ConsumerSecret)
+	token := oauth1.NewToken(config.Config.ApiKey.Twitter.AccessToken, config.Config.ApiKey.Twitter.AccessSecret)
+	httpClient := cfg.Client(oauth1.NoContext, token)
 	client := twitter.NewClient(httpClient)
 
-	tweets, response, err := client.Timelines.UserTimeline(&twitter.UserTimelineParams{ScreenName: "Health_Earth", Count: 5, TweetMode: "extended"})
+	tweets, response, err := client.Timelines.UserTimeline(&twitter.UserTimelineParams{
+		ScreenName: "lucmichalski",
+		Count:      5,
+		TweetMode:  "extended",
+	})
 
 	shallowTweets := utils.GetShallowTweets(tweets)
 

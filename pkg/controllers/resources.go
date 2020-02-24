@@ -22,38 +22,6 @@ func ResourceIndex(c *gin.Context) {
 
 }
 
-func ResourcePublications(c *gin.Context) {
-	var limit = 5
-	page, err := strconv.Atoi(c.Param("page"))
-
-	if err != nil {
-		page = 0
-	}
-
-	payload := make(map[string]interface{})
-	posts := services.GetPosts(0, 5)
-	publications := services.GetPublications(limit*page, 5)
-	payload["posts"] = posts
-	payload["publications"] = publications
-	payload["active"] = "publications"
-	payload["nextPage"] = page + 1
-
-	c.HTML(http.StatusOK, "resource-publications", payload)
-
-}
-
-func ResourceAnnualReports(c *gin.Context) {
-	payload := make(map[string]interface{})
-	posts := services.GetPosts(0, 9)
-	videos := services.GetVideos()
-	payload["posts"] = posts
-	payload["videos"] = videos
-	payload["active"] = "hunger_politics"
-
-	c.HTML(http.StatusOK, "resource-annual-reports", payload)
-
-}
-
 func ResourceBooks(c *gin.Context) {
 	payload := make(map[string]interface{})
 	posts := services.GetPosts(0, 9)

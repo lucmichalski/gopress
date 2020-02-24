@@ -19,3 +19,6 @@ shared/logs/
 
 .DS_Store
 .env
+
+refs/
+gopress.yml

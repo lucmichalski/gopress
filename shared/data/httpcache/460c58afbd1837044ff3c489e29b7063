@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:24 GMT
+Etag: W/"bdf00b611b46da720e0a78c7c0cb970e"
+Last-Modified: Thu, 07 Jun 2018 13:17:33 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:68B87:7CE8F:5E53AF98
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3644
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+fb0
+{"name":"README.md","path":"README.md","sha":"f875a969895de818ddf27291e443345b7294c14d","size":2369,"url":"https://api.github.com/repos/euske/pyrexecd/contents/README.md?ref=master","html_url":"https://github.com/euske/pyrexecd/blob/master/README.md","git_url":"https://api.github.com/repos/euske/pyrexecd/git/blobs/f875a969895de818ddf27291e443345b7294c14d","download_url":"https://raw.githubusercontent.com/euske/pyrexecd/master/README.md","type":"file","content":"IyBQeVJleGVjZA0KDQpQeVJleGVjZCBpcyBhIHN0YW5kYWxvbmUgU1NIIHNl\ncnZlciBmb3IgV2luZG93cy4NCg0KIVtQeVJleGVjZCBTY3JlZW5zaG90XShk\nb2NzL3B5cmV4ZWNkLmdpZikNCg0KIyMgRmVhdHVyZXM6DQoNCiAgKiBTdGFu\nZGFsb25lIFdpbjMyIGFwcCAobm90IGEgc2VydmljZSkgdGhhdCByZXNpZGVz\nIGluIFN5c1RyYXkuDQogICogU3VwcG9ydHMgYSBzaW5nbGUgdXNlciAvIHB1\nYmtleSBhdXRoIG9ubHkuDQogICogTm90aWZpZXMgaW5jb21pbmcgY29ubmVj\ndGlvbnMgdmlhIHBvcHVwLg0KICAqIFNlbmRzL1JlY2VpdmVzIHRoZSBjbGlw\nYm9hcmQgdGV4dCB2aWEgc3RkaW4vc3Rkb3V0Lg0KICAqIFB5UEkgUHJvamVj\ndCBwYWdlOiBodHRwczovL3B5cGkucHl0aG9uLm9yZy9weXBpL1B5UmV4ZWNk\nLw0KDQojIyBQcmVyZXF1aXNpdGVzOg0KDQogICogUHl0aG9uIDMgKG9yIDIp\nIC0gaHR0cDovL3d3dy5weXRob24ub3JnLw0KICAqIFBhcmFtaWtvIC0gaHR0\ncDovL3d3dy5wYXJhbWlrby5vcmcvDQogICogUHlXaW4zMiAtIGh0dHA6Ly9z\nb3VyY2Vmb3JnZS5uZXQvcHJvamVjdHMvcHl3aW4zMi8NCiAgKiBjeF9GcmVl\nemUgKG9wdGlvbmFsKSAtIGh0dHBzOi8vcHlwaS5weXRob24ub3JnL3B5cGkv\nY3hfRnJlZXplDQoNCiMjIEhvdyB0byBVc2U6DQoNCiAgMS4gYD4gcGlwIGlu\nc3RhbGwgcHlyZXhlY2RgDQogIDEuIFJ1biBgUHlSZXhlYy5weXdgLiA8YnI+\nDQogICAgIEl0IGdlbmVyYXRlcyBhIG5ldyBob3N0IGtleSBhbmQgb3BlbnMg\nYSBjb25maWcgZGlyZWN0b3J5DQogICAgIChgQXBwRGF0YVxSb2FtaW5nXFB5\nUmV4ZWNkYCkuDQogIDEuIFB1dCB5b3VyIHB1YmxpYyBrZXkgaW50byB0aGUg\nY29uZmlnIGRpci4gPGJyPg0KICAgIGA+IGNvcHkgeW91clxpZF9yc2EucHVi\nIGF1dGhvcml6ZWRfa2V5c2ANCiAgMS4gUnVuIGBQeVJleGVjLnB5d2AgdG8g\nc3RhcnQgdGhlIHNlcnZlci4NCiAgMS4gTG9nIGludG8gdGhlIG1hY2hpbmUg\ndmlhIDIyMDAvdGNwLjxicj4NCiAgICBgJCBzc2ggLXAgMjIwMCB3aW5kb3dz\nYA0KDQojIyBDb21tYW5kIExpbmUgU3ludGF4Og0KDQogICAgPiBweXJleGVj\nZC5leGUgWy1kXSBbLWwgbG9nZmlsZV0gWy1zIHNzaGRpcl0gWy1MIGFkZHJd\nIFstcCBwb3J0XQ0KICAgICAgICAgICAgICAgICAgIFstYyBjbWRleGVdIFst\ndSB1c2VybmFtZV0gWy1hIGF1dGhrZXlzXSBbLWggaG9tZWRpcl0NCgkJICAg\nc3NoX2hvc3Rfa2V5IC4uLg0KDQogICogYC1kYCA6IFR1cm5zIG9uIERlYnVn\nIG1vZGUgKHZlcmJvc2UgbG9nZ2luZykuDQogICogYC1sIGxvZ2ZpbGVgIDog\nTG9nIGZpbGUgcGF0aCAoZGVmYXVsdDogYHB5cmV4ZWNkLmxvZ2ApLg0KICAq\nIGAtcyBzc2hkaXJgIDogQ29uZmlnIGRpcmVjdG9yeSBwYXRoLiAoZGVmYXVs\ndDogYEFwcERhdGFcUm9hbWluZ1xQeVJleGVjZGApDQogICogYC1MIGEuYi5j\nLmRgIDogU3BlY2lmaWVzIHRoZSBsaXN0ZW4gYWRkcmVzcyAoZGVmYXVsdDog\nYDEyNy4wLjAuMWApLg0KICAqIGAtcCBwb3J0YCA6IFNwZWNpZmllcyB0aGUg\nbGlzdGVuIHBvcnQgKGRlZmF1bHQ6IGAyMjAwYCkuDQogICogYC1jIGNtZGV4\nZWAgOiBjbWQuZXhlIHBhdGguIChkZWZhdWx0OiBgY21kLmV4ZWApDQogICog\nYC11IHVzZXJuYW1lYCA6IFVzZXJuYW1lLg0KICAqIGAtYSBhdXRoa2V5c2Ag\nOiBhdXRob3JpemVkX2tleXMgcGF0aC4gKGRlZmF1bHQ6IGBhdXRob3JpemVk\nX2tleXNgKQ0KICAqIGAtaCBob21lZGlyYCA6IEhvbWUgZGlyZWN0b3J5IHBh\ndGguIChkZWZhdWx0OiBgJVVzZXJQcm9maWxlJWApDQoNCiMjIFNwZWNpYWwg\nY29tbWFuZHM6DQoNCiAgQ2VydGFpbiBTU0ggY29tbWFuZCBpcyByZWNvZ25p\nemVkIGFzIHNwZWNpYWwgY29tbWFuZHM6DQoNCiAgKiBgQGNsaXBnZXRgIDog\nUmVjZWl2ZXMgdGhlIGNsaXBib2FyZCB0ZXh0IGZyb20gV2luZG93cy48YnI+\nDQogICAgYCQgc3NoIHdpbmRvd3MgQGNsaXBnZXQgPiBjbGlwYm9hcmQudHh0\nYA0KICAqIGBAY2xpcHNldGAgOiBTZW5kcyB0aGUgY2xpcGJvYXJkIHRleHQg\ndG8gV2luZG93cy48YnI+DQogICAgYCQgZWNobyBmb28gfCBzc2ggd2luZG93\ncyBAY2xpcHNldGANCiAgKiBgQG9wZW5gLCBgQGVkaXRgLCBhbmQgYEBwcmlu\ndGAgOiBXaW5kb3dzIHNoZWxsIG9wZXJhdGlvbi4NCiAgICBUaGUgdGFyZ2V0\nIHBhdGhuYW1lIHNob3VsZCBiZSBnaXZlbiBmcm9tIHN0ZGluLjxicj4NCiAg\nICBgJCBlY2hvIEM6XFVzZXJcZXVza2VcZm9vLnR4dCB8IHNzaCB3aW5kb3dz\nIEBlZGl0YA0KDQojIyBIb3cgdG8gQnVpbGQgLmV4ZSAocmVxdWlyZXMgY3hf\nRnJlZXplKToNCg0KICAgID4gcGlwIGluc3RhbGwgY3hfRnJlZXplDQogICAg\nPiBweXRob24gc2V0dXBfZXhlLnB5IGJ1aWxkDQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/euske/pyrexecd/contents/README.md?ref=master","git":"https://api.github.com/repos/euske/pyrexecd/git/blobs/f875a969895de818ddf27291e443345b7294c14d","html":"https://github.com/euske/pyrexecd/blob/master/README.md"}}
+0
+

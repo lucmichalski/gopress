@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:32:15 GMT
+Etag: W/"0516c5956524e3dbc0b0735f9b5e3970"
+Last-Modified: Wed, 03 Jul 2019 08:54:43 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:34D0E:3F467:5E53B43F
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 309
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+66f
+{"name":"README.md","path":"README.md","sha":"3a4dc8128864491581431f80f427a58909f10ec4","size":568,"url":"https://api.github.com/repos/session-replay-tools/intercept/contents/README.md?ref=master","html_url":"https://github.com/session-replay-tools/intercept/blob/master/README.md","git_url":"https://api.github.com/repos/session-replay-tools/intercept/git/blobs/3a4dc8128864491581431f80f427a58909f10ec4","download_url":"https://raw.githubusercontent.com/session-replay-tools/intercept/master/README.md","type":"file","content":"IyBBbiBhdXhpbGlhcnkgdG9vbCBmb3IgdGNwY29weSBhbmQgdGNwYnVybiAN\nCg0KIyMgUmVsZWFzZSBIaXN0b3J5DQorIDIwMTQuMDkgIHYxLjAgICAgaW50\nZXJjZXB0IHJlbGVhc2VkDQoNCiMjIE5vdGUNCjEuIEl0IGlzIHRlc3RlZCBv\nbiBMaW51eCBvbmx5IChrZXJuZWwgMi42IG9yIGFib3ZlKQ0KMi4gUm9vdCBw\ncml2aWxlZ2Ugb3IgdGhlIENBUF9ORVRfUkFXIGNhcGFiaWxpdHkgaXMgcmVx\ndWlyZWQNCjMuIEl0IG9ubHkgc3VwcG9ydHMgcGNhcCAxLjAuMCBvciBoaWdo\nZXINCg0KIyMgQnVncyBhbmQgZmVhdHVyZSByZXF1ZXN0cw0KSGF2ZSBhIGJ1\nZyBvciBhIGZlYXR1cmUgcmVxdWVzdD8gW1BsZWFzZSBvcGVuIGEgbmV3IGlz\nc3VlXShodHRwczovL2dpdGh1Yi5jb20vc2Vzc2lvbi1yZXBsYXktdG9vbHMv\naW50ZXJjZXB0L2lzc3VlcykuIEJlZm9yZSBvcGVuaW5nIGFueSBpc3N1ZSwg\ncGxlYXNlIHNlYXJjaCBmb3IgZXhpc3RpbmcgaXNzdWVzLg0KDQoNCiMjIENv\ncHlyaWdodCBhbmQgbGljZW5zZQ0KDQpDb3B5cmlnaHQgMjAxNCB1bmRlciBb\ndGhlIEJTRCBsaWNlbnNlXShMSUNFTlNFKS4NCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/session-replay-tools/intercept/contents/README.md?ref=master","git":"https://api.github.com/repos/session-replay-tools/intercept/git/blobs/3a4dc8128864491581431f80f427a58909f10ec4","html":"https://github.com/session-replay-tools/intercept/blob/master/README.md"}}
+0
+

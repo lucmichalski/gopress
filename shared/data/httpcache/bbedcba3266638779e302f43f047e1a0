@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:25:23 GMT
+Etag: W/"36d398da35b5871cdb66da95838426b7"
+Last-Modified: Tue, 25 Aug 2015 14:45:04 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:14744:18871:5E53B2A3
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1342
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+9c4
+{"name":"README.md","path":"README.md","sha":"c3a440d1d186fd62df4772fc3fb55c5b0a1802f9","size":1216,"url":"https://api.github.com/repos/takeshixx/ip-https-tools/contents/README.md?ref=master","html_url":"https://github.com/takeshixx/ip-https-tools/blob/master/README.md","git_url":"https://api.github.com/repos/takeshixx/ip-https-tools/git/blobs/c3a440d1d186fd62df4772fc3fb55c5b0a1802f9","download_url":"https://raw.githubusercontent.com/takeshixx/ip-https-tools/master/README.md","type":"file","content":"aXAtaHR0cHMtdG9vbHMKPT09PT09PT09PT09PT0KCkEgY29sbGVjdGlvbiBv\nZiB0b29scyBmb3IgdGhlIElQIG92ZXIgSFRUUFMgKElQLUhUVFBTKSBUdW5u\nZWxpbmcgUHJvdG9jb2wgdXNlZCBieSBNaWNyb3NvZnQgRGlyZWN0QWNjZXNz\nIHRvIHNlbmQgVGVyZWRvIHJlbGF0ZWQgSVB2NiBwYWNrZXRzIG92ZXIgYW4g\nSVB2NC1iYXNlZCBIVFRQUyBzZXNzaW9uLgoKKiBbXFtNUy1JUEhUVFBTXF0g\nXChwcm90b2NvbCBwZWNpZmljYXRpb25cKV0oaHR0cDovL21zZG4ubWljcm9z\nb2Z0LmNvbS9lbi11cy9saWJyYXJ5L2RkMzU4NTcxKQoqIFtEaXJlY3RBY2Nl\nc3MgVGVjaG5pY2FsIE92ZXJ2aWV3XShodHRwOi8vdGVjaG5ldC5taWNyb3Nv\nZnQuY29tL2VuLVVTL2RlLXVzL2xpYnJhcnkvZGQ2Mzc4MjcpCiogW0RpcmVj\ndEFjY2VzcyBSZXF1aXJlbWVudHNdKGh0dHA6Ly90ZWNobmV0Lm1pY3Jvc29m\ndC5jb20vZW4tdXMvbGlicmFyeS9kZDYzNzc5NykKKiBbRGlyZWN0QWNjZXNz\nIERlcGxveW1lbnQgR3VpZGVdKGh0dHA6Ly90ZWNobmV0Lm1pY3Jvc29mdC5j\nb20vZW4tdXMvbGlicmFyeS9lZTY0OTE2MykKCgojIyMjIGlwLWh0dHBzLWRp\nc2NvdmVyLm5zZQpBIE5TRSBzY3JpcHQgZm9yIE5tYXAgdGhhdCBjaGVja3Mg\naWYgSVAtSFRUUFMgaXMgc3VwcG9ydGVkIGJ5IGEgZ2l2ZW4gaG9zdC4KU2Ft\ncGxlIG91dHB1dDoKYGBgCiBpcC1odHRwcy10b29scyDCuyBubWFwIC1wNDQz\nIC0tc2NyaXB0IC4vaXAtaHR0cHMtZGlzY292ZXIubnNlIDE3Mi4yMy4xMS4y\nMDEKCiBTdGFydGluZyBObWFwIDYuNDYgKCBodHRwOi8vbm1hcC5vcmcgKSBh\ndCAyMDE0LTA2LTE2IDExOjI5IENFU1QKIE5tYXAgc2NhbiByZXBvcnQgZm9y\nIDE3Mi4yMy4xMS4yMDEKIEhvc3QgaXMgdXAgKDAuMDAwNjVzIGxhdGVuY3kp\nLgogUE9SVCAgICBTVEFURSBTRVJWSUNFCiA0NDMvdGNwIG9wZW4gIGh0dHBz\nCiB8X2lwLWh0dHBzLWRpc2NvdmVyOiBJUC1IVFRQUyBpcyBzdXBwb3J0ZWQu\nIFRoaXMgaW5kaWNhdGVzIHRoYXQgdGhpcyBob3N0IHN1cHBvcnRzIE1pY3Jv\nc29mdCBEaXJlY3RBY2Nlc3MuCiAKIE5tYXAgZG9uZTogMSBJUCBhZGRyZXNz\nICgxIGhvc3QgdXApIHNjYW5uZWQgaW4gMTIuNjEgc2Vjb25kcyApCmBgYAoj\nIyMjIGlwLWh0dHBzLXRlc3QucHkKQSBQeXRob24gc2NyaXB0IHRoYXQgY2hl\nY2tzIGlmIElQLUhUVFBTIGlzIHN1cHBvcnRlZCBieSBhIGdpdmVuIGhvc3Qu\nCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/takeshixx/ip-https-tools/contents/README.md?ref=master","git":"https://api.github.com/repos/takeshixx/ip-https-tools/git/blobs/c3a440d1d186fd62df4772fc3fb55c5b0a1802f9","html":"https://github.com/takeshixx/ip-https-tools/blob/master/README.md"}}
+0
+

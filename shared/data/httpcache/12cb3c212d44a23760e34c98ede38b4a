@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:10:12 GMT
+Etag: W/"0a6272491ec2212dd5c129c8d4437315"
+Last-Modified: Tue, 07 Jan 2014 08:45:12 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:6798E:7CBAD:5E53AF14
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4016
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+f8a
+{"name":"README","path":"README","sha":"8de14a64fa6c9c327dae5a819833c028b4470b82","size":2351,"url":"https://api.github.com/repos/jmalinen/hostap/contents/README?ref=master","html_url":"https://github.com/jmalinen/hostap/blob/master/README","git_url":"https://api.github.com/repos/jmalinen/hostap/git/blobs/8de14a64fa6c9c327dae5a819833c028b4470b82","download_url":"https://raw.githubusercontent.com/jmalinen/hostap/master/README","type":"file","content":"d3BhX3N1cHBsaWNhbnQgYW5kIGhvc3RhcGQKLS0tLS0tLS0tLS0tLS0tLS0t\nLS0tLS0tLS0KCkNvcHlyaWdodCAoYykgMjAwMi0yMDE0LCBKb3VuaSBNYWxp\nbmVuIDxqQHcxLmZpPiBhbmQgY29udHJpYnV0b3JzCkFsbCBSaWdodHMgUmVz\nZXJ2ZWQuCgpUaGVzZSBwcm9ncmFtcyBhcmUgbGljZW5zZWQgdW5kZXIgdGhl\nIEJTRCBsaWNlbnNlICh0aGUgb25lIHdpdGgKYWR2ZXJ0aXNlbWVudCBjbGF1\nc2UgcmVtb3ZlZCkuCgpJZiB5b3UgYXJlIHN1Ym1pdHRpbmcgY2hhbmdlcyB0\nbyB0aGUgcHJvamVjdCwgcGxlYXNlIHNlZSBDT05UUklCVVRJT05TCmZpbGUg\nZm9yIG1vcmUgaW5zdHJ1Y3Rpb25zLgoKClRoaXMgcGFja2FnZSBtYXkgaW5j\nbHVkZSBlaXRoZXIgd3BhX3N1cHBsaWNhbnQsIGhvc3RhcGQsIG9yIGJvdGgu\nIFNlZQpSRUFETUUgZmlsZSByZXNwZWN0aXZlIHN1YmRpcmVjdG9yaWVzICh3\ncGFfc3VwcGxpY2FudC9SRUFETUUgb3IKaG9zdGFwZC9SRUFETUUpIGZvciBt\nb3JlIGRldGFpbHMuCgpTb3VyY2UgY29kZSBmaWxlcyB3ZXJlIG1vdmVkIGFy\nb3VuZCBpbiB2MC42LnggcmVsZWFzZXMgYW5kIGNvbXBhcmVkIHRvCmVhcmxp\nZXIgcmVsZWFzZXMsIHRoZSBwcm9ncmFtcyBhcmUgbm93IGJ1aWx0IGJ5IGZp\ncnN0IGdvaW5nIHRvIGEKc3ViZGlyZWN0b3J5ICh3cGFfc3VwcGxpY2FudCBv\nciBob3N0YXBkKSBhbmQgY3JlYXRpbmcgYnVpbGQKY29uZmlndXJhdGlvbiAo\nLmNvbmZpZykgYW5kIHJ1bm5pbmcgJ21ha2UnIHRoZXJlIChmb3IgTGludXgv\nQlNEL2N5Z3dpbgpidWlsZHMpLgoKCkxpY2Vuc2UKLS0tLS0tLQoKVGhpcyBz\nb2Z0d2FyZSBtYXkgYmUgZGlzdHJpYnV0ZWQsIHVzZWQsIGFuZCBtb2RpZmll\nZCB1bmRlciB0aGUgdGVybXMgb2YKQlNEIGxpY2Vuc2U6CgpSZWRpc3RyaWJ1\ndGlvbiBhbmQgdXNlIGluIHNvdXJjZSBhbmQgYmluYXJ5IGZvcm1zLCB3aXRo\nIG9yIHdpdGhvdXQKbW9kaWZpY2F0aW9uLCBhcmUgcGVybWl0dGVkIHByb3Zp\nZGVkIHRoYXQgdGhlIGZvbGxvd2luZyBjb25kaXRpb25zIGFyZQptZXQ6Cgox\nLiBSZWRpc3RyaWJ1dGlvbnMgb2Ygc291cmNlIGNvZGUgbXVzdCByZXRhaW4g\ndGhlIGFib3ZlIGNvcHlyaWdodAogICBub3RpY2UsIHRoaXMgbGlzdCBvZiBj\nb25kaXRpb25zIGFuZCB0aGUgZm9sbG93aW5nIGRpc2NsYWltZXIuCgoyLiBS\nZWRpc3RyaWJ1dGlvbnMgaW4gYmluYXJ5IGZvcm0gbXVzdCByZXByb2R1Y2Ug\ndGhlIGFib3ZlIGNvcHlyaWdodAogICBub3RpY2UsIHRoaXMgbGlzdCBvZiBj\nb25kaXRpb25zIGFuZCB0aGUgZm9sbG93aW5nIGRpc2NsYWltZXIgaW4gdGhl\nCiAgIGRvY3VtZW50YXRpb24gYW5kL29yIG90aGVyIG1hdGVyaWFscyBwcm92\naWRlZCB3aXRoIHRoZSBkaXN0cmlidXRpb24uCgozLiBOZWl0aGVyIHRoZSBu\nYW1lKHMpIG9mIHRoZSBhYm92ZS1saXN0ZWQgY29weXJpZ2h0IGhvbGRlcihz\nKSBub3IgdGhlCiAgIG5hbWVzIG9mIGl0cyBjb250cmlidXRvcnMgbWF5IGJl\nIHVzZWQgdG8gZW5kb3JzZSBvciBwcm9tb3RlIHByb2R1Y3RzCiAgIGRlcml2\nZWQgZnJvbSB0aGlzIHNvZnR3YXJlIHdpdGhvdXQgc3BlY2lmaWMgcHJpb3Ig\nd3JpdHRlbiBwZXJtaXNzaW9uLgoKVEhJUyBTT0ZUV0FSRSBJUyBQUk9WSURF\nRCBCWSBUSEUgQ09QWVJJR0hUIEhPTERFUlMgQU5EIENPTlRSSUJVVE9SUwoi\nQVMgSVMiIEFORCBBTlkgRVhQUkVTUyBPUiBJTVBMSUVEIFdBUlJBTlRJRVMs\nIElOQ0xVRElORywgQlVUIE5PVApMSU1JVEVEIFRPLCBUSEUgSU1QTElFRCBX\nQVJSQU5USUVTIE9GIE1FUkNIQU5UQUJJTElUWSBBTkQgRklUTkVTUyBGT1IK\nQSBQQVJUSUNVTEFSIFBVUlBPU0UgQVJFIERJU0NMQUlNRUQuIElOIE5PIEVW\nRU5UIFNIQUxMIFRIRSBDT1BZUklHSFQKT1dORVIgT1IgQ09OVFJJQlVUT1JT\nIEJFIExJQUJMRSBGT1IgQU5ZIERJUkVDVCwgSU5ESVJFQ1QsIElOQ0lERU5U\nQUwsClNQRUNJQUwsIEVYRU1QTEFSWSwgT1IgQ09OU0VRVUVOVElBTCBEQU1B\nR0VTIChJTkNMVURJTkcsIEJVVCBOT1QKTElNSVRFRCBUTywgUFJPQ1VSRU1F\nTlQgT0YgU1VCU1RJVFVURSBHT09EUyBPUiBTRVJWSUNFUzsgTE9TUyBPRiBV\nU0UsCkRBVEEsIE9SIFBST0ZJVFM7IE9SIEJVU0lORVNTIElOVEVSUlVQVElP\nTikgSE9XRVZFUiBDQVVTRUQgQU5EIE9OIEFOWQpUSEVPUlkgT0YgTElBQklM\nSVRZLCBXSEVUSEVSIElOIENPTlRSQUNULCBTVFJJQ1QgTElBQklMSVRZLCBP\nUiBUT1JUCihJTkNMVURJTkcgTkVHTElHRU5DRSBPUiBPVEhFUldJU0UpIEFS\nSVNJTkcgSU4gQU5ZIFdBWSBPVVQgT0YgVEhFIFVTRQpPRiBUSElTIFNPRlRX\nQVJFLCBFVkVOIElGIEFEVklTRUQgT0YgVEhFIFBPU1NJQklMSVRZIE9GIFNV\nQ0ggREFNQUdFLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/jmalinen/hostap/contents/README?ref=master","git":"https://api.github.com/repos/jmalinen/hostap/git/blobs/8de14a64fa6c9c327dae5a819833c028b4470b82","html":"https://github.com/jmalinen/hostap/blob/master/README"}}
+0
+

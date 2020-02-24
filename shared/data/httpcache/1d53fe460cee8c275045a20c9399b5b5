@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:15 GMT
+Etag: W/"88fc207bf4327e71ea5cde16bb5eb21c"
+Last-Modified: Fri, 21 Feb 2020 03:33:04 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:18803:1D619:5E53B2D7
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1190
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+edb
+{"name":"README.md","path":"README.md","sha":"235a9f8ece69738b82301777c039653533c5e8a7","size":2169,"url":"https://api.github.com/repos/muriloventuroso/easyssh/contents/README.md?ref=master","html_url":"https://github.com/muriloventuroso/easyssh/blob/master/README.md","git_url":"https://api.github.com/repos/muriloventuroso/easyssh/git/blobs/235a9f8ece69738b82301777c039653533c5e8a7","download_url":"https://raw.githubusercontent.com/muriloventuroso/easyssh/master/README.md","type":"file","content":"WyFbVHJhbnNsYXRpb24gc3RhdHVzXShodHRwczovL2hvc3RlZC53ZWJsYXRl\nLm9yZy93aWRnZXRzL2Vhc3lzc2gvLS90cmFuc2xhdGlvbnMvc3ZnLWJhZGdl\nLnN2ZyldKGh0dHBzOi8vaG9zdGVkLndlYmxhdGUub3JnL2VuZ2FnZS9lYXN5\nc3NoLz91dG1fc291cmNlPXdpZGdldCkKCjxoMSBhbGlnbj0iY2VudGVyIj5F\nYXN5U1NIPC9oMT4KCiMjIFRoZSBTU0ggY29ubmVjdGlvbiBtYW5hZ2VyIHRv\nIG1ha2UgeW91ciBsaWZlIGVhc2llci4KCkEgY29tcGxldGUsIGVmZmljaWVu\ndCBhbmQgZWFzeS10by11c2UgbWFuYWdlci4gQ3JlYXRlIGFuZCBlZGl0IGNv\nbm5lY3Rpb25zLCBncm91cHMsIGN1c3RvbWl6ZSB0aGUgdGVybWluYWwsIHdp\ndGggbXVsdGlwbGUgaW5zdGFuY2VzIG9mIHRoZSBzYW1lIGNvbm5lY3Rpb24u\nCgo8cCBhbGlnbj0iY2VudGVyIj4KICA8YSBocmVmPSJodHRwczovL2FwcGNl\nbnRlci5lbGVtZW50YXJ5LmlvL2NvbS5naXRodWIubXVyaWxvdmVudHVyb3Nv\nLmVhc3lzc2giPjxpbWcgc3JjPSJodHRwczovL2FwcGNlbnRlci5lbGVtZW50\nYXJ5LmlvL2JhZGdlLnN2ZyIgYWx0PSJHZXQgaXQgb24gQXBwQ2VudGVyIiAv\nPjwvYT4KPC9wPgoKIyMjIEZlYXR1cmVzCgoqIE1hbmFnZSBjb25uZWN0aW9u\ncyBhbmQgZ3JvdXBzCiogQ3VzdG9taXplIHRlcm1pbmFsCiogRGFyayBUaGVt\nZQoqIE11bHRpcGxlIGluc3RhbmNlcyBvZiBzYW1lIGNvbm5lY3Rpb24KKiBS\nZXN0b3JlIG9wZW5lZCBob3N0cwoqIFN5bmMgYH4vLnNzaC9jb25maWdgCiog\nUHJvdGVjdCBkYXRhIHdpdGggcGFzc3dvcmQKCiMjIyBEb25hdGUKPGEgaHJl\nZj0iaHR0cHM6Ly93d3cucGF5cGFsLmNvbS9jZ2ktYmluL3dlYnNjcj9jbWQ9\nX2RvbmF0aW9ucyZidXNpbmVzcz1ZUTdSNUtRSlBVTk5VJmN1cnJlbmN5X2Nv\nZGU9QlJMJnNvdXJjZT11cmwiPlBheVBhbDwvYT4gfCA8YSBocmVmPSJodHRw\nczovL3d3dy5wYXRyZW9uLmNvbS9tdXJpbG92ZW50dXJvc28iPlBhdHJlb248\nL2E+CgohW1NjcmVlbnNob3RdKGRhdGEvc2NyZWVuc2hvdC5wbmcpCgohW1Nj\ncmVlbnNob3RdKGRhdGEvc2NyZWVuc2hvdDIucG5nKQoKClshW0dldCBpdCBv\nbiBBcHBDZW50ZXJdKGh0dHBzOi8vYXBwY2VudGVyLmVsZW1lbnRhcnkuaW8v\nYmFkZ2Uuc3ZnKV0oaHR0cHM6Ly9hcHBjZW50ZXIuZWxlbWVudGFyeS5pby9j\nb20uZ2l0aHViLm11cmlsb3ZlbnR1cm9zby5lYXN5c3NoKQoKCiMjIERldmVs\nb3BpbmcgYW5kIEJ1aWxkaW5nCgpJZiB5b3Ugd2FudCB0byBoYWNrIG9uIGFu\nZCBidWlsZCBFYXN5U1NIIHlvdXJzZWxmLCB5b3UnbGwgbmVlZCB0aGUgZm9s\nbG93aW5nIGRlcGVuZGVuY2llczoKCiogbGliZ2VlLTAuOC1kZXYKKiBsaWJn\ndGstMy1kZXYKKiBsaWJncmFuaXRlLWRldgoqIGxpYnZ0ZS0yLjkxLWRldgoq\nIGxpYmpzb24tZ2xpYi1kZXYKKiBsaWJ1bml0eS1kZXYKKiBtZXNvbgoqIHZh\nbGFjCiogZ3BnCgpSdW4gYG1lc29uIGJ1aWxkYCB0byBjb25maWd1cmUgdGhl\nIGJ1aWxkIGVudmlyb25tZW50IGFuZCBydW4gYG5pbmphIHRlc3RgIHRvIGJ1\naWxkIGFuZCBydW4gYXV0b21hdGVkIHRlc3RzCgogICAgbWVzb24gYnVpbGQg\nLS1wcmVmaXg9L3VzcgogICAgY2QgYnVpbGQKICAgIG5pbmphIHRlc3QKClRv\nIGluc3RhbGwsIHVzZSBgbmluamEgaW5zdGFsbGAsIHRoZW4gZXhlY3V0ZSB3\naXRoIGBjb20uZ2l0aHViLm11cmlsb3ZlbnR1cm9zby5lYXN5c3NoYAoKICAg\nIHN1ZG8gbmluamEgaW5zdGFsbAogICAgY29tLmdpdGh1Yi5tdXJpbG92ZW50\ndXJvc28uZWFzeXNzaAoKCiMjIEluc3RhbGwgd2l0aCBGbGF0cGFrCgpJbnN0\nYWxsOgogICAgCiAgICBmbGF0cGFrIHJlbW90ZS1hZGQgLS1pZi1ub3QtZXhp\nc3RzIGZsYXRodWIgaHR0cHM6Ly9mbGF0aHViLm9yZy9yZXBvL2ZsYXRodWIu\nZmxhdHBha3JlcG8KICAgIGZsYXRwYWsgaW5zdGFsbCBmbGF0aHViIGNvbS5n\naXRodWIubXVyaWxvdmVudHVyb3NvLmVhc3lzc2gKClJ1bjoKCiAgICBmbGF0\ncGFrIHJ1biBjb20uZ2l0aHViLm11cmlsb3ZlbnR1cm9zby5lYXN5c3NoCgoK\nLS0tLS0KClshW0dldCBpdCBvbiBBcHBDZW50ZXJdKGh0dHBzOi8vYXBwY2Vu\ndGVyLmVsZW1lbnRhcnkuaW8vYmFkZ2Uuc3ZnKV0oaHR0cHM6Ly9hcHBjZW50\nZXIuZWxlbWVudGFyeS5pby9jb20uZ2l0aHViLm11cmlsb3ZlbnR1cm9zby5l\nYXN5c3NoKQoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/muriloventuroso/easyssh/contents/README.md?ref=master","git":"https://api.github.com/repos/muriloventuroso/easyssh/git/blobs/235a9f8ece69738b82301777c039653533c5e8a7","html":"https://github.com/muriloventuroso/easyssh/blob/master/README.md"}}
+0
+

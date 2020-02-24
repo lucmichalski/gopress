@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:23:23 GMT
+Etag: W/"dbe77b0ef54f696372d66a0195c0aa1a"
+Last-Modified: Mon, 09 Dec 2019 16:53:27 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:BC82:E112:5E53B22B
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1705
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d58
+{"name":"README.md","path":"README.md","sha":"135c727603b9d0018a2d4a70594bb30a6b157146","size":1934,"url":"https://api.github.com/repos/asciimoo/morty/contents/README.md?ref=master","html_url":"https://github.com/asciimoo/morty/blob/master/README.md","git_url":"https://api.github.com/repos/asciimoo/morty/git/blobs/135c727603b9d0018a2d4a70594bb30a6b157146","download_url":"https://raw.githubusercontent.com/asciimoo/morty/master/README.md","type":"file","content":"IyBNb3J0eQoKWyFbQnVpbGQgU3RhdHVzXShodHRwczovL3RyYXZpcy1jaS5v\ncmcvYXNjaWltb28vbW9ydHkuc3ZnKV0oaHR0cHM6Ly90cmF2aXMtY2kub3Jn\nL2FzY2lpbW9vL21vcnR5KQpbIVtMaWNlbnNlOiBBR1BMIHYzXShodHRwczov\nL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpY2Vuc2UtQUdQTCUyMHYzLWJsdWUu\nc3ZnKV0oaHR0cHM6Ly93d3cuZ251Lm9yZy9saWNlbnNlcy9hZ3BsLTMuMCkK\nCldlYiBjb250ZW50IHNhbml0aXplciBwcm94eSBhcyBhIHNlcnZpY2UKCk1v\ncnR5IHJld3JpdGVzIHdlYiBwYWdlcyB0byBleGNsdWRlIG1hbGljaW91cyBI\nVE1MIHRhZ3MgYW5kIGF0dHJpYnV0ZXMuIEl0IGFsc28gcmVwbGFjZXMgZXh0\nZXJuYWwgcmVzb3VyY2UgcmVmZXJlbmNlcyB0byBwcmV2ZW50IHRoaXJkIHBh\ncnR5IGluZm9ybWF0aW9uIGxlYWtzLgoKVGhlIG1haW4gZ29hbCBvZiBtb3J0\neSBpcyB0byBwcm92aWRlIGEgcmVzdWx0IHByb3h5IGZvciBbc2VhcnhdKGh0\ndHBzOi8vYXNjaWltb28uZ2l0aHViLmNvbS9zZWFyeC8pLCBidXQgaXQgY2Fu\nIGJlIHVzZWQgYXMgYSBzdGFuZGFsb25lIHNhbml0aXplciBzZXJ2aWNlIHRv\nby4KCkZlYXR1cmVzOgoKIC0gSFRNTCBzYW5pdGl6YXRpb24KIC0gUmV3cml0\nZXMgSFRNTC9DU1MgZXh0ZXJuYWwgcmVmZXJlbmNlcyB0byBsb2NhbHMKIC0g\nSmF2YVNjcmlwdCBibG9ja2luZwogLSBObyBDb29raWVzIGZvcndhcmRlZAog\nLSBObyBSZWZlcnJlcnMKIC0gTm8gQ2FjaGluZy9FdGFnCiAtIFN1cHBvcnRz\nIEdFVC9QT1NUIGZvcm1zIGFuZCBJRnJhbWVzCiAtIE9wdGlvbmFsIEhNQUMg\nVVJMIHZlcmlmaWVyIGtleSB0byBwcmV2ZW50IHNlcnZpY2UgYWJ1c2UKCgoj\nIyBJbnN0YWxsYXRpb24gYW5kIHNldHVwClJlcXVpcmVtZW50OiBHbyB2ZXJz\naW9uIDEuMTAgb3IgaGlnaGVyLgoKYGBgCiQgZ28gZ2V0IGdpdGh1Yi5jb20v\nYXNjaWltb28vbW9ydHkKJCAiJEdPUEFUSC9iaW4vbW9ydHkiIC0taGVscApg\nYGAKCiMjIyBFbnZpcm9ubWVudCB2YXJpYWJsZXMKCk1vcnR5IGNhbiBiZSBj\nb25maWd1cmVkIHVzaW5nIHRoZSBmb2xsb3dpbmcgZW52aXJvbm1lbnQgdmFy\naWFibGVzOgotIGBNT1JUWV9BRERSRVNTYDogTGlzdGVuIGFkZHJlc3MgKGRl\nZmF1bHQgdG8gYDEyNy4wLjAuMTozMDAwYCkKLSBgTU9SVFlfS0VZYDogSE1B\nQyB1cmwgdmFsaWRhdGlvbiBrZXkgKGJhc2U2NCBlbmNvZGVkKSB0byBwcmV2\nZW50IGRpcmVjdCBVUkwgb3BlbmluZy4gTGVhdmUgYmxhbmsgdG8gZGlzYWJs\nZSB2YWxpZGF0aW9uLiBVc2UgYG9wZW5zc2wgcmFuZCAtYmFzZTY0IDMzYCB0\nbyBnZW5lcmF0ZS4KLSBgREVCVUdgOiBFbmFibGUvZGlzYWJsZSBwcm94eSBh\nbmQgcmVkaXJlY3Rpb24gbG9ncyAoZGVmYXVsdCB0byBgdHJ1ZWApLiBTZXQg\ndG8gYGZhbHNlYCB0byBkaXNhYmxlLgoKIyMjIERvY2tlcgoKYGBgCmRvY2tl\nciBydW4gLWUgREVCVUc9ZmFsc2UgLWUgTU9SVFlfQUREUkVTUz0wLjAuMC4w\nOjMwMDAgLXYgLi9ydWxlcy5qc29uOi9ldGMvZmlsdHJvbi9ydWxlcy5qc29u\nOnJ3IGRhbGYvbW9ydHkKYGBgCgpgYGAKZG9ja2VyIHJ1biAtZSBERUJVRz1m\nYWxzZSAtdiAuL3J1bGVzLmpzb246L2V0Yy9maWx0cm9uL3J1bGVzLmpzb246\ncncgZGFsZi9tb3J0eSAtbGlzdGVuIDAuMC4wLjA6MzAwMApgYGAKCgojIyMg\nVGVzdAoKYGBgCiQgY2QgIiRHT1BBVEgvc3JjL2dpdGh1Yi5jb20vYXNjaWlt\nb28vbW9ydHkiCiQgZ28gdGVzdApgYGAKCgojIyMgQmVuY2htYXJrCgpgYGAK\nJCBjZCAiJEdPUEFUSC9zcmMvZ2l0aHViLmNvbS9hc2NpaW1vby9tb3J0eSIK\nJCBnbyB0ZXN0IC1iZW5jaG1lbSAtYmVuY2ggLgpgYGAKCgojIyBCdWdzCgpC\ndWdzIG9yIHN1Z2dlc3Rpb25zPyBWaXNpdCB0aGUgW2lzc3VlIHRyYWNrZXJd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9hc2NpaW1vby9tb3J0eS9pc3N1ZXMpLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/asciimoo/morty/contents/README.md?ref=master","git":"https://api.github.com/repos/asciimoo/morty/git/blobs/135c727603b9d0018a2d4a70594bb30a6b157146","html":"https://github.com/asciimoo/morty/blob/master/README.md"}}
+0
+

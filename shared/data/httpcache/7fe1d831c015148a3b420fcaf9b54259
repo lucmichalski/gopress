@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:10:25 GMT
+Etag: W/"f2eeeded88f801d4560585afc9f27dbc"
+Last-Modified: Thu, 28 Dec 2017 14:42:09 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:5A1E4:6BAF6:5E53AF21
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3976
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c39
+{"name":"README.md","path":"README.md","sha":"26201fc343b60acc7f419b36ec831ab0db809c0d","size":1701,"url":"https://api.github.com/repos/omergunal/hackerbot/contents/README.md?ref=master","html_url":"https://github.com/omergunal/hackerbot/blob/master/README.md","git_url":"https://api.github.com/repos/omergunal/hackerbot/git/blobs/26201fc343b60acc7f419b36ec831ab0db809c0d","download_url":"https://raw.githubusercontent.com/omergunal/hackerbot/master/README.md","type":"file","content":"CgojIGhhY2tlcmJvdApbIVtHaXRIdWIgaXNzdWVzXShodHRwczovL2ltZy5z\naGllbGRzLmlvL2dpdGh1Yi9pc3N1ZXMvb21lcmd1bmFsL2hhY2tlcmJvdC5z\ndmcpXShodHRwczovL2dpdGh1Yi5jb20vb21lcmd1bmFsL2hhY2tlcmJvdC9p\nc3N1ZXMpClshW0dpdEh1YiBmb3Jrc10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5p\nby9naXRodWIvZm9ya3Mvb21lcmd1bmFsL2hhY2tlcmJvdC5zdmcpXShodHRw\nczovL2dpdGh1Yi5jb20vb21lcmd1bmFsL2hhY2tlcmJvdC9uZXR3b3JrKQpb\nIVtHaXRIdWIgc3RhcnNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHVi\nL3N0YXJzL29tZXJndW5hbC9oYWNrZXJib3Quc3ZnKV0oaHR0cHM6Ly9naXRo\ndWIuY29tL29tZXJndW5hbC9oYWNrZXJib3Qvc3RhcmdhemVycykKWyFbR2l0\nSHViIGxpY2Vuc2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL2xp\nY2Vuc2Uvb21lcmd1bmFsL2hhY2tlcmJvdC5zdmcpXShodHRwczovL2dpdGh1\nYi5jb20vb21lcmd1bmFsL2hhY2tlcmJvdC9ibG9iL21hc3Rlci9MSUNFTlNF\nKQpbIVtUd2l0dGVyXShodHRwczovL2ltZy5zaGllbGRzLmlvL3R3aXR0ZXIv\ndXJsL2h0dHBzL2dpdGh1Yi5jb20vb21lcmd1bmFsL2hhY2tlcmJvdC5zdmc/\nc3R5bGU9c29jaWFsKV0oaHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdl\nZXQ/dGV4dD1Xb3c6JnVybD1odHRwcyUzQSUyRiUyRmdpdGh1Yi5jb20lMkZv\nbWVyZ3VuYWwlMkZoYWNrZXJib3QpCgojIyMgQ2hhdCB3aXRoIHlvdXIgYXNz\naXN0YW50IGFuZCBlbmpveSBoYWNraW5nClRoaXMgYm90IGlzIGEgY29tYmlu\nYXRpb24gb2YgY2hhdGJvdCBhbmQgaGFja2luZyB0b29scwoqIENoYXR0aW5n\nCiogVHdpdHRlciBhY2NvdW50IGFuYWx5c2lzCiogVXJsIHNjYW4KKiBGaWxl\nIHNjYW4KKiBJcCBzY2FuCiogTGludXggZW51bWVyYXRpb24KKiBMaW51eCBw\ncml2IGVzY2FsYXRpb24gY2hlY2tlcgoqIFNoZWxsc2hvY2sKKiBNaW1pcGVu\nZ3VpbgoKIyMjIEluc3RhbGxhdGlvbgpgYGAKZ2l0IGNsb25lIGh0dHBzOi8v\nZ2l0aHViLmNvbS9vbWVyZ3VuYWwvaGFja2VyYm90CmNkIGhhY2tlcmJvdApj\naG1vZCAreCBpbnN0YWxsLnNoCi4vaW5zdGFsbC5zaApgYGAKIFVwZGF0ZSB5\nb3VyIGFwaSBrZXlzIGluIF9tb2R1bGVzL3ZpcnVzdG90YWwtYXBpLnB5XyBh\nbmQgX21vZHVsZXMvdHdpdHRlcnNlY3JldHMucHlfCiBUbyBnZXQgQVBJIGtl\neXMgZ28gdG8gaHR0cHM6Ly9hcHBzLnR3aXR0ZXIuY29tLyBhbmQgaHR0cHM6\nLy93d3cudmlydXN0b3RhbC5jb20KIAogIyMjIFVzYWdlCiAqKlB5dGhvbiB2\nMi43IHJlcXVpcmVkKioKIAogYGBgCiBweXRob24gaGFja2VyYm90LnB5CiAK\nIGFyZ3VtZW50cyBpbiBjaGF0OgogICAgIWhlbHAgICAgICAgICAgc2hvdyB3\naGF0IHlvdSBjYW4gZG8KYGBgCgojIyMgU2NyZWVuU2hvdHMKIVtoZWxwXSho\ndHRwczovL2dpdGh1Yi5jb20vb21lcmd1bmFsL2hhY2tlcmJvdC9ibG9iL21h\nc3Rlci9pbWcvMTEucG5nKQohW2ZpbGVzY2FuXShodHRwczovL2dpdGh1Yi5j\nb20vb21lcmd1bmFsL2hhY2tlcmJvdC9ibG9iL21hc3Rlci9pbWcvMzMucG5n\nKQohW3R3aXR0ZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9vbWVyZ3VuYWwvaGFj\na2VyYm90L2Jsb2IvbWFzdGVyL2ltZy8yMi5wbmcpCgojIyMgVGhhbmtzCltF\na3VsdGVrXShodHRwczovL2dpdGh1Yi5jb20vRWt1bHRlaykK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/omergunal/hackerbot/contents/README.md?ref=master","git":"https://api.github.com/repos/omergunal/hackerbot/git/blobs/26201fc343b60acc7f419b36ec831ab0db809c0d","html":"https://github.com/omergunal/hackerbot/blob/master/README.md"}}
+0
+

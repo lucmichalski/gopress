@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:35 GMT
+Etag: W/"18ef7623551d8c27dd607b40aed66831"
+Last-Modified: Sat, 15 Feb 2020 21:46:02 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: repo
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.scarlet-witch-preview; format=json, github.mercy-preview; format=json, github.baptiste-preview; format=json
+X-Github-Request-Id: D039:17643:3AABB:465C0:5E53B48F
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 67
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.scarlet-witch-preview+json, application/vnd.github.mercy-preview+json, application/vnd.github.baptiste-preview+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+1323
+{"id":13067741,"node_id":"MDEwOlJlcG9zaXRvcnkxMzA2Nzc0MQ==","name":"sandy","full_name":"donctl/sandy","private":false,"owner":{"login":"donctl","id":2583945,"node_id":"MDQ6VXNlcjI1ODM5NDU=","avatar_url":"https://avatars0.githubusercontent.com/u/2583945?v=4","gravatar_id":"","url":"https://api.github.com/users/donctl","html_url":"https://github.com/donctl","followers_url":"https://api.github.com/users/donctl/followers","following_url":"https://api.github.com/users/donctl/following{/other_user}","gists_url":"https://api.github.com/users/donctl/gists{/gist_id}","starred_url":"https://api.github.com/users/donctl/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/donctl/subscriptions","organizations_url":"https://api.github.com/users/donctl/orgs","repos_url":"https://api.github.com/users/donctl/repos","events_url":"https://api.github.com/users/donctl/events{/privacy}","received_events_url":"https://api.github.com/users/donctl/received_events","type":"User","site_admin":false},"html_url":"https://github.com/donctl/sandy","description":"Release of the sandy framework.","fork":false,"url":"https://api.github.com/repos/donctl/sandy","forks_url":"https://api.github.com/repos/donctl/sandy/forks","keys_url":"https://api.github.com/repos/donctl/sandy/keys{/key_id}","collaborators_url":"https://api.github.com/repos/donctl/sandy/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/donctl/sandy/teams","hooks_url":"https://api.github.com/repos/donctl/sandy/hooks","issue_events_url":"https://api.github.com/repos/donctl/sandy/issues/events{/number}","events_url":"https://api.github.com/repos/donctl/sandy/events","assignees_url":"https://api.github.com/repos/donctl/sandy/assignees{/user}","branches_url":"https://api.github.com/repos/donctl/sandy/branches{/branch}","tags_url":"https://api.github.com/repos/donctl/sandy/tags","blobs_url":"https://api.github.com/repos/donctl/sandy/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/donctl/sandy/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/donctl/sandy/git/refs{/sha}","trees_url":"https://api.github.com/repos/donctl/sandy/git/trees{/sha}","statuses_url":"https://api.github.com/repos/donctl/sandy/statuses/{sha}","languages_url":"https://api.github.com/repos/donctl/sandy/languages","stargazers_url":"https://api.github.com/repos/donctl/sandy/stargazers","contributors_url":"https://api.github.com/repos/donctl/sandy/contributors","subscribers_url":"https://api.github.com/repos/donctl/sandy/subscribers","subscription_url":"https://api.github.com/repos/donctl/sandy/subscription","commits_url":"https://api.github.com/repos/donctl/sandy/commits{/sha}","git_commits_url":"https://api.github.com/repos/donctl/sandy/git/commits{/sha}","comments_url":"https://api.github.com/repos/donctl/sandy/comments{/number}","issue_comment_url":"https://api.github.com/repos/donctl/sandy/issues/comments{/number}","contents_url":"https://api.github.com/repos/donctl/sandy/contents/{+path}","compare_url":"https://api.github.com/repos/donctl/sandy/compare/{base}...{head}","merges_url":"https://api.github.com/repos/donctl/sandy/merges","archive_url":"https://api.github.com/repos/donctl/sandy/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/donctl/sandy/downloads","issues_url":"https://api.github.com/repos/donctl/sandy/issues{/number}","pulls_url":"https://api.github.com/repos/donctl/sandy/pulls{/number}","milestones_url":"https://api.github.com/repos/donctl/sandy/milestones{/number}","notifications_url":"https://api.github.com/repos/donctl/sandy/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/donctl/sandy/labels{/name}","releases_url":"https://api.github.com/repos/donctl/sandy/releases{/id}","deployments_url":"https://api.github.com/repos/donctl/sandy/deployments","created_at":"2013-09-24T14:59:06Z","updated_at":"2020-02-15T21:46:02Z","pushed_at":"2014-09-30T18:13:55Z","git_url":"git://github.com/donctl/sandy.git","ssh_url":"git@github.com:donctl/sandy.git","clone_url":"https://github.com/donctl/sandy.git","svn_url":"https://github.com/donctl/sandy","homepage":null,"size":4072,"stargazers_count":33,"watchers_count":33,"language":"Python","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":8,"mirror_url":null,"archived":false,"disabled":false,"open_issues_count":5,"license":{"key":"other","name":"Other","spdx_id":"NOASSERTION","url":null,"node_id":"MDc6TGljZW5zZTA="},"topics":[],"is_template":false,"forks":8,"open_issues":5,"watchers":33,"default_branch":"master","permissions":{"admin":false,"push":false,"pull":true},"code_of_conduct":{"key":"none","name":"None","html_url":null,"url":"https://api.github.com/repos/donctl/sandy/community/code_of_conduct"},"temp_clone_token":"","template_repository":null,"network_count":8,"subscribers_count":9}
+0
+

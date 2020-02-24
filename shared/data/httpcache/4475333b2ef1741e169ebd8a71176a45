@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:32:28 GMT
+Etag: W/"013af24d079398406e57e2edabdada17"
+Last-Modified: Thu, 15 Jun 2017 07:41:17 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:35CAB:4072C:5E53B44C
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 272
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+af9
+{"name":"README.md","path":"README.md","sha":"422dd7d791bee59c35939bf427dcf2246b72f650","size":1479,"url":"https://api.github.com/repos/cyberark/RiskySPN/contents/README.md?ref=master","html_url":"https://github.com/cyberark/RiskySPN/blob/master/README.md","git_url":"https://api.github.com/repos/cyberark/RiskySPN/git/blobs/422dd7d791bee59c35939bf427dcf2246b72f650","download_url":"https://raw.githubusercontent.com/cyberark/RiskySPN/master/README.md","type":"file","content":"IyBSaXNreVNQTnMKUmlza3lTUE5zIGlzIGEgY29sbGVjdGlvbiBvZiBQb3dl\nclNoZWxsIHNjcmlwdHMgZm9jdXNlZCBvbiBkZXRlY3RpbmcgYW5kIGFidXNp\nbmcgYWNjb3VudHMgYXNzb2NpYXRlZCB3aXRoIFNQTnMgKFNlcnZpY2UgUHJp\nbmNpcGFsIE5hbWUpLiBUaGlzIG1vZHVsZSBjYW4gYXNzaXN0IGJsdWUgdGVh\nbXMgdG8gaWRlbnRpZnkgcG90ZW50aWFsbHkgcmlza3kgU1BOcyBhcyB3ZWxs\nIGFzIHJlZCB0ZWFtcyB0byBlc2NhbGF0ZSBwcml2aWxlZ2VzIGJ5IGxldmVy\nYWdpbmcgS2VyYmVyb3MgYW5kIEFjdGl2ZSBEaXJlY3RvcnkuCgpGb3IgZGV0\nYWlsZWQgaW5mb3JtYXRpb246IGh0dHA6Ly93d3cuY3liZXJhcmsuY29tL2Js\nb2cvc2VydmljZS1hY2NvdW50cy13ZWFrZXN0LWxpbmstY2hhaW4vIAoKIyMg\nVXNhZ2UKIyMjIEluc3RhbGwgdGhlIG1vZHVsZQpgYGBwb3dlcnNoZWxsCklt\ncG9ydC1Nb2R1bGUgLlxSaXNreVNQTnMucHNtMQpgYGAKKipPciBqdXN0IGxv\nYWQgdGhlIHNjcmlwdCAoeW91IGNhbiBhbHNvIGBJRVhgIGZyb20gd2ViKSoq\nCmBgYHBvd2Vyc2hlbGwKLiAuXEZpbmQtUG90ZW50aWFsbHlDcmFja2FibGVB\nY2NvdW50cy5wczEKYGBgCk1ha2Ugc3VyZSBgU2V0LUV4ZWN1dGlvblBvbGlj\neWAgaXMgYFVucmVzdHJpY3RlZGAgb3IgYEJ5cGFzc2AKIyMjIEdldCBpbmZv\ncm1hdGlvbiBhYm91dCBhIGZ1bmN0aW9uICh2ZXJ5IGRldGFpbGVkIDopKQpg\nYGBwb3dlcnNoZWxsCkdldC1IZWxwIEdldC1UR1NDaXBoZXIgLUZ1bGwKYGBg\nCkFsbCBmdWNudGlvbnMgYWxzbyBoYXZlIGAtVmVyYm9zZWAgbW9kZQoKIyMj\nIFNlYXJjaCB2dWxuZXJhYmxlIFNQTnMKKipGaW5kIHZ1bG5lcmFibGUgYWNj\nb3VudHMqKgpgYGBwb3dlcnNoZWxsCkZpbmQtUG90ZW50aWFsbHlDcmFja2Fi\nbGVBY2NvdW50cwpgYGAKU2Vuc2l0aXZlICsgUkM0ID0gJCQkCgoqKkdlbmVy\nYXRlIGZ1bGwgZGVhdGlsZWQgcmVwb3J0IGFib3V0IHZ1bG5lcmFibGUgYWNj\nb3VudHMgKENJU08gPDMpKioKYGBgcG93ZXJzaGVsbApFeHBvcnQtUG90ZW50\naWFsbHlDcmFja2FibGVBY2NvdW50cwpgYGAKIyMjIEdldCB0aWNrZXRzCioq\nUmVxdWVzdCBLZXJiZXJvcyBUR1MgZm9yIFNQTioqCmBgYHBvd2Vyc2hlbGwK\nR2V0LVRHU0NpcGhlciAtU1BOICJNU1NRTFN2Yy9wcm9kREIuY29tcGFueS5j\nb206MTQzMyIKYGBgCgoqKk9yKioKYGBgcG93ZXJzaGVsbApGaW5kLVBvdGVu\ndGlhbGx5Q3JhY2thYmxlQWNjb3VudHMgLVN0ZWFsdGggLUdldFNQTnMgfCBH\nZXQtVEdTQ2lwaGVyCmBgYAojIyMgVGhlIGZ1biBzdHVmZiA6KQoKYGBgcG93\nZXJzaGVsbApGaW5kLVBvdGVudGlhbGx5Q3JhY2thYmxlQWNjb3VudHMgLVNl\nbnNpdGl2ZSAtU3RlYWx0aCAtR2V0U1BOcyB8IEdldC1UR1NDaXBoZXIgLUZv\ncm1hdCAiSGFzaGNhdCIgfCBPdXQtRmlsZSBjcmFjay50eHQKb2NsSGFzaGNh\ndDY0LmV4ZSAtbSAxMzEwMCBjcmFjay50eHQgLWEgMwpgYGAKCgoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/cyberark/RiskySPN/contents/README.md?ref=master","git":"https://api.github.com/repos/cyberark/RiskySPN/git/blobs/422dd7d791bee59c35939bf427dcf2246b72f650","html":"https://github.com/cyberark/RiskySPN/blob/master/README.md"}}
+0
+

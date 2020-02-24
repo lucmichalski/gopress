@@ -21,6 +21,9 @@ import (
 	"github.com/qor/qor"
 	uuid "github.com/satori/go.uuid"
 	stats "github.com/semihalev/gin-stats"
+	swaggerFiles "github.com/swaggo/files"
+	ginSwagger "github.com/swaggo/gin-swagger"
+	_ "github.com/swaggo/gin-swagger/example/basic/docs"
 
 	"github.com/lucmichalski/gopress/pkg/config/bindatafs"
 	"github.com/lucmichalski/gopress/pkg/controllers"
@@ -43,7 +46,18 @@ func AutoMigrate(values ...interface{}) {
 func SetupDB() {
 	db = services.Init()
 	db.LogMode(true)
-	db.AutoMigrate(&models.Post{}, &models.Video{}, &models.Image{}, &models.Link{}, &models.Category{})
+	db.AutoMigrate(
+		// generic
+		&models.Post{}, 
+		&models.Video{}, 
+		&models.Image{}, 
+		&models.Link{}, 
+		&models.Category{},
+		// custom to oniontree
+		&models.Service{}, 
+		&models.URL{}, 
+		&models.PublicKey{},		
+	)
 	media.RegisterCallbacks(db)
 }
 
@@ -82,15 +96,54 @@ func SetupRouter() *gin.Engine {
 	API.MountTo("/adminapi", mux)
 
 	assetManager := Admin.AddResource(&asset_manager.AssetManager{}, &admin.Config{Invisible: true})
-	// Add Media Library
-	Admin.AddResource(&media_library.MediaLibrary{}, &admin.Config{Menu: []string{"Site Management"}})
-	Admin.AddResource(&models.Category{}, &admin.Config{Name: "Categories", Menu: []string{"Content Management"}})
 
-	post := Admin.AddResource(&models.Post{}, &admin.Config{Name: "Posts", Menu: []string{"Content Management"}})
-	post.IndexAttrs("ID", "Title", "Body", "Summary", "Type", "Categories")
-	post.NewAttrs("Title", "Body", "Summary", "Images", "Videos", "Links", "Documents", "Categories", "Type")
-	post.Meta(&admin.Meta{Name: "Body", Config: &admin.RichEditorConfig{AssetManager: assetManager}})
-	post.Meta(&admin.Meta{Name: "Type", Type: "select_one", Config: &admin.SelectOneConfig{Collection: []string{"article", "publication", "blog", "video", "press_release", "event", "news"}}})
+	Admin.AddResource(&media_library.MediaLibrary{}, &admin.Config{Menu: []string{"Site Management"}})
+	Admin.AddResource(&models.Category{}, &admin.Config{
+		Name: "Categories",
+		Menu: []string{"Content Management"},
+	})
+
+	Admin.AddResource(&models.Tag{}, &admin.Config{
+		Name: "Tags",
+		Menu: []string{"Content Management"},
+	})
+
+	post := Admin.AddResource(&models.Post{}, &admin.Config{
+		Name: "Posts",
+		Menu: []string{"Content Management"},
+	})
+
+	post.IndexAttrs("ID", "Title", "Summary", "Type", "Categories")
+	post.NewAttrs("Title", "Summary", "Images", "Videos", "Links", "Documents", "Categories", "Type")
+	post.Meta(&admin.Meta{
+		Name: "Body",
+		Config: &admin.RichEditorConfig{
+			AssetManager: assetManager,
+		},
+	})
+	post.Meta(&admin.Meta{
+		Name: "Type",
+		Type: "select_one",
+		Config: &admin.SelectOneConfig{
+			Collection: []string{"article", "publication", "blog", "video", "press_release", "event", "news"},
+		},
+	})
+
+	// custom section for oniontree
+	Admin.AddResource(&models.Service{}, &admin.Config{
+		Name: "Service",
+		Menu: []string{"Oniontree Management"},
+	})
+
+	Admin.AddResource(&models.URL{}, &admin.Config{
+		Name: "URL",
+		Menu: []string{"Oniontree Management"},
+	})
+
+	Admin.AddResource(&models.PublicKey{}, &admin.Config{
+		Name: "PublicKey",
+		Menu: []string{"Oniontree Management"},
+	})
 
 	router := gin.Default()
 
@@ -109,25 +162,26 @@ func SetupRouter() *gin.Engine {
 	})
 	router.GET("/", controllers.Home)
 	router.GET("/about-us", controllers.AboutUs)
-	router.GET("/fossil-politics", controllers.FossilPolitics)
-	router.GET("/hunger-politics", controllers.HungerPolitics)
 	router.GET("/categories/:category", controllers.GetPostsForCategory)
-	router.GET("/resources", controllers.ResourceIndex)
-	router.GET("/resources/annual-reports", controllers.ResourceAnnualReports)
-	router.GET("/resources/publications", controllers.ResourcePublications)
-	router.GET("/resources/publications/:page", controllers.ResourcePublications)
-	router.GET("/resources/books", controllers.ResourceBooks)
-	router.GET("/resources/eco-instigator", controllers.ResourceEcoInstigator)
-	router.GET("/resources/gallery", controllers.ResourceGallery)
-	router.GET("/resources/gallery/:albumid/:albumtitle", controllers.ResourceGalleryDetail)
-	router.GET("/sustainability-academy", controllers.SustainabilityAcademy)
+	//router.GET("/resources", controllers.ResourceIndex)
+	// router.GET("/resources/publications", controllers.ResourcePublications)
+	// router.GET("/resources/publications/:page", controllers.ResourcePublications)
+	// router.GET("/resources/books", controllers.ResourceBooks)
+	//router.GET("/resources/gallery", controllers.ResourceGallery)
+	// router.GET("/resources/gallery/:albumid/:albumtitle", controllers.ResourceGalleryDetail)
 	router.GET("posts/:slug", controllers.GetPost)
-	router.GET("publications", controllers.GetPublications)
+	// router.GET("publications", controllers.GetPublications)
 	router.GET("/test", controllers.GetTest)
 	router.GET("/news", controllers.GetNews)
 	router.GET("/news/:page", controllers.GetNews)
 	router.GET("/new", controllers.GetNew)
 	router.GET("/boot", controllers.GetBoot)
+
+	// router.Static("/public", "./public")
+	// router.Static("/assets", "./assets")
+
+	url := ginSwagger.URL("http://localhost:4000/swagger/doc.json") // The url pointing to API definition
+	router.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler, url))
 
 	//API Calls
 	api := router.Group("/api")
@@ -138,6 +192,7 @@ func SetupRouter() *gin.Engine {
 	}
 
 	router.Static("/public", "./public")
+
 	admin := router.Group("/admin", gin.BasicAuth(gin.Accounts{
 		"admin":  "admin",
 		"jome":   "wordpass15",

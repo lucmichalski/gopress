@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:45 GMT
+Etag: W/"979a7bcaa4adeabc953ff3da776ea6e8"
+Last-Modified: Sat, 12 May 2018 21:17:38 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:9683A:B2F2A:5E53B115
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2512
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+6a2
+{"name":"README.md","path":"README.md","sha":"1e22bec2e4d6916040713f54d3875615dade4ecd","size":692,"url":"https://api.github.com/repos/OffXec/TheDoc/contents/README.md?ref=master","html_url":"https://github.com/OffXec/TheDoc/blob/master/README.md","git_url":"https://api.github.com/repos/OffXec/TheDoc/git/blobs/1e22bec2e4d6916040713f54d3875615dade4ecd","download_url":"https://raw.githubusercontent.com/OffXec/TheDoc/master/README.md","type":"file","content":"IyBUaGVEb2MgCmlzIGEgc2ltcGxlIGJ1dCB2ZXJ5IHVzZWZ1bCBTUUxNQVAg\nYXV0b21hdG9yIHdpdGggYnVpbHQgaW4gYWRtaW4gZmluZGVyLCBoYXNoIGNy\nYWNrZXIodXNpbmcgaGFzaGNhdCkgYW5kIG1vcmUhCgojIEFiaWxpdGllczoK\nLSBDb3VudHMgdG90YWwgaW5qZWN0aW9ucyB0cmllZC4KLSBDcmF3bHMgZ2l2\nZW4gZG9tYWluIGZvciB2dWxuZXJhYmlsdGllcy4KLSBFeHRyYWN0cyBEYXRh\nYmFzZSBJbmZvcyAodmlhIGluamVjdGlvbiBVUkwpCi0gRXh0cmFjdCBVc2Vy\ncywgUGFzc3dvcmRzICYgZW1haWxzICh2aWEgaW5qZWN0aW9uIFVSTCkKLSBF\neHRyYWN0cyAvZXRjL3Bhc3N3ZCAoSUYgREIgQURNSU4gdmlhIGluamVjdGlv\nbiBVUkwpCi0gRmluZHMgZG9tYWlucyBhZG1pbiBsb2dpbiBwYWdlLgotIENy\nYWNrcyBhbnkgaGFzaHR5cGUgKFVzZXMgaGFzaGNhdCwgZmFpci13YXJuaW5n\nIExPTCEpCgojIFVzYWdlCi0gY2htb2QgK3ggdGhlRG9jLnNoCi0gLi90aGVE\nb2Muc2gKLSBiYXNoIHRoZURvYy5zaAoKSG9wZSB5b3UgZW5qb3ksIGkga25v\ndyBpdCdzIGEgc2ltcGxlIGFzIGhlbGwgcHJvamVjdCBidXQgdGhlbiBhZ2Fp\nbiwgaSdtIG1ha2luZyB0b29scyB0aGF0IG1ha2UgbXkgcHJvY2Nlc3MgZWFz\naWVyIHNvb28uLmxvbC4KLSBYZWN1cml0eS4KLSBUd2l0dGVyOiBAQW5vbnlJ\nbmZvIHwgQDB4M2N1cml0eQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/OffXec/TheDoc/contents/README.md?ref=master","git":"https://api.github.com/repos/OffXec/TheDoc/git/blobs/1e22bec2e4d6916040713f54d3875615dade4ecd","html":"https://github.com/OffXec/TheDoc/blob/master/README.md"}}
+0
+

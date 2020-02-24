@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:53 GMT
+Etag: W/"6fb79857a2795473d8ab3ac1040dd8c5"
+Last-Modified: Sat, 28 Dec 2019 15:28:48 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:AF7A3:D28DE:5E53B11C
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2488
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+4c7
+{"name":"README.md","path":"README.md","sha":"e0cc3dea024bcd8ad1383fcfc3062bc6d22898f1","size":253,"url":"https://api.github.com/repos/chrisallenlane/cheat/contents/README.md?ref=this-project-has-moved","html_url":"https://github.com/chrisallenlane/cheat/blob/this-project-has-moved/README.md","git_url":"https://api.github.com/repos/chrisallenlane/cheat/git/blobs/e0cc3dea024bcd8ad1383fcfc3062bc6d22898f1","download_url":"https://raw.githubusercontent.com/chrisallenlane/cheat/this-project-has-moved/README.md","type":"file","content":"Y2hlYXQKPT09PT0KVGhpcyBwcm9qZWN0IGhhcyBtb3ZlZCEgWW91IGNhbiBm\naW5kIGl0IG5vdyBhdCBbY2hlYXQvY2hlYXRdW2NoZWF0XS4KClBsZWFzZSBk\nb24ndCBjbG9uZSwgc3Rhciwgb3IgbWFrZSBwdWxsLXJlcXVlc3RzIGFnYWlu\nc3QgdGhpcyByZXBvc2l0b3J5LiBUaGlzCmlzIHRoZSBtYWludGFpbmVyJ3Mg\ncGVyc29uYWwgZm9yayBvZiBgY2hlYXQvY2hlYXRgLgoKW2NoZWF0XTogaHR0\ncHM6Ly9naXRodWIuY29tL2NoZWF0L2NoZWF0Cg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/chrisallenlane/cheat/contents/README.md?ref=this-project-has-moved","git":"https://api.github.com/repos/chrisallenlane/cheat/git/blobs/e0cc3dea024bcd8ad1383fcfc3062bc6d22898f1","html":"https://github.com/chrisallenlane/cheat/blob/this-project-has-moved/README.md"}}
+0
+

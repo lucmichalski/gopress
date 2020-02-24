@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:06:50 GMT
+Etag: W/"fe801642284714ae24c1568fb7a84a96"
+Last-Modified: Mon, 31 Jul 2017 19:15:44 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:4092E:4D6D0:5E53AE4A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4656
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a5f
+{"name":"README.md","path":"README.md","sha":"f2d3afcab6e433e37819a633c561cc8a73ae1fc9","size":1355,"url":"https://api.github.com/repos/ggusoft/inforfinder/contents/README.md?ref=master","html_url":"https://github.com/ggusoft/inforfinder/blob/master/README.md","git_url":"https://api.github.com/repos/ggusoft/inforfinder/git/blobs/f2d3afcab6e433e37819a633c561cc8a73ae1fc9","download_url":"https://raw.githubusercontent.com/ggusoft/inforfinder/master/README.md","type":"file","content":"SW5mb3JmaW5kZXIKPT09PT09PT09PT0KCkluZm9yZmluZGVyIGlzIGEgdG9v\nbCBtYWRlIHRvIGNvbGxlY3QgaW5mb3JtYXRpb24gb2YgYW55IGRvbWFpbiBw\nb2ludGluZyBhdCBhIHNlcnZlciAoaXAsZG9tYWluLHJhbmdlLGZpbGUpLgoK\nUmVxdWlyZXMgcHl0aG9uIGxpYnM6IHB5UmVxdWVzdHMgYW5kIHB5RE5TCgot\nRmlyc3QsIHlvdSBuZWVkIHRvIGluc3RhbGwgY29tcGxlbWVudGFyeSBsaWJy\nYXJpZXM6IAoJCgl1c2VyQG1hY2hpbmUkIHN1ZG8gYXB0LWdldCBpbnN0YWxs\nIHB5dGhvbi1kbnMgcHl0aG9uLWRuc3B5dGhvbiBweXRob24tcmVxdWVzdHMg\ncHl0aG9uLWx4bWwgcHl0aG9uCgoJT1IKCiAgICAgICAgcGlwIGluc3RhbGwg\nIHB5ZG5zCglwaXAgaW5zdGFsbCByZXF1ZXN0cyAtLXVwZ3JhZGUKICAgICAg\nICBwaXAgaW5zdGFsbCAgbHhtbAoJCi1UaGVuIERvd25sb2FkICJpbmZvcmZp\nbmRlciIKCi1UaGUgbmV4dCBzdGVwIGlzIHRvIHJ1biAiaW5mb3JmaW5kZXIu\ncHkiOiBweXRob24gaW5mb3JmaW5kZXIucHkgLS1oZWxwCgpGaW5kIG1vcmUg\naW5mb3JtYXRpb24gb24gaG93IHRvIHVzZSB0aGlzIGFwcDoKCSAKCSBJbmZv\nckZpbmRlciB2MS4wLjkgUG93ZXJlZCBCeSBHR1Vzb2Z0IDIwMTcKCgkgUG93\nZXJlZCBCeSBHR1Vzb2Z0IDIwMTcKCgkgQ29tbWFuZHM6CgoJIC1kIDxkb21p\nbmlvPgkJCQlHZXRzIGEgZG9tYWluIGZvciBhcHBseSBhbnkgb3B0aW9uYWwg\nY29tbWFuZHMKCgkgLWREIDxkb21pbmlvPgkJCQlHZXRzIGEgZG9tYWluIGxp\nc3QgaG9zdGVkIGluIElQIG9mIHRoZSBzcGVjaWZpZWQgZG9tYWluCgoJIC1k\nSSA8SVA+CQkJCUdldHMgYSBkb21haW4gbGlzdCBob3N0ZWQgaW4gdGhlIHNw\nZWNpZmllZCBJUCAKCgkgLWRSIDxJUCBpbmljaW8+IDxJUCBmaW4+CQlHZXRz\nIGEgZG9tYWluIGxpc3QgaG9zdGVkIGluIGV2ZXJ5IElQIG9mIHRoZSBzcGVj\naWZpZWQgcmFuZ2UKCgkgLWRGIDxmaWxlPgkJCQlHZXRzIGEgbGlzdCB3aXRo\nIGFsbCBkb21haW5zIGhvc3RlZCBhdCBzYW1lIElQIGZyb20gYSBmaWxlLCB0\naGUgZmlsZSBjb250ZW5zIGEgSVAgYnkgbGluZQoKCgkgT3B0aW9uYWxzOgoK\nCSBpbmZvcmZpbmRlciA8Y29tbWFuZD4gLWNtcwkJCUNoZWNrcyBpZiBldmVy\neSBkb21haW4gZm91bmQgaGFzIGEgY21zIHdlYnNpdGUgKHdvcmRwcmVzcywg\nam9vbWxhICxldGMpIGFuZCBzaG93IHZlcnNpb24KCgkgaW5mb3JmaW5kZXIg\nPGNvbW1hbmQ+IC1zZXJ2aW5mbwkJQ2hlY2tzIHdlYiBzZXJ2ZXIgcGFyYW1l\ndGVycwoKCSBpbmZvcmZpbmRlciA8Y29tbWFuZD4gLS1zdWJkb21haW4tZW51\nbSAgICAgICAgICBMaXN0cyBzdWJkb21haW5zIG9mIGV2ZXJ5IGRvbWFpbiBm\nb3VuZAo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/ggusoft/inforfinder/contents/README.md?ref=master","git":"https://api.github.com/repos/ggusoft/inforfinder/git/blobs/f2d3afcab6e433e37819a633c561cc8a73ae1fc9","html":"https://github.com/ggusoft/inforfinder/blob/master/README.md"}}
+0
+

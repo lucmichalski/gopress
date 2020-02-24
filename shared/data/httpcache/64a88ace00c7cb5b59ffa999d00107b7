@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:23:22 GMT
+Etag: W/"6dcd283f653853807884ac8bb3a4444f"
+Last-Modified: Wed, 28 Mar 2018 18:41:35 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:BB32:DF7C:5E53B22A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1710
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+54d
+{"name":"README.txt","path":"README.txt","sha":"cbb1292fbea23e551bd09926f993d0b28ea996c6","size":419,"url":"https://api.github.com/repos/zcutlip/bowcaster/contents/README.txt?ref=master","html_url":"https://github.com/zcutlip/bowcaster/blob/master/README.txt","git_url":"https://api.github.com/repos/zcutlip/bowcaster/git/blobs/cbb1292fbea23e551bd09926f993d0b28ea996c6","download_url":"https://raw.githubusercontent.com/zcutlip/bowcaster/master/README.txt","type":"file","content":"Qm93Y2FzdGVyIEV4cGxvaXQgRGV2ZWxvcG1lbnQgRnJhbWV3b3JrCgpUaGlz\nIGZyYW1ld29yaywgaW1wbGVtZW50ZWQgaW4gUHl0aG9uLCBpcyBpbnRlbmRl\nZCB0byBhaWQgdGhvc2UgZGV2ZWxvcGluZwpleHBsb2l0cyBieSBwcm92aWRp\nbmcgdXNlZnVsIHNldCBvZiB0b29scyBhbmQgbW9kdWxlcywgc3VjaCBhcyBw\nYXlsb2FkcywKZW5jb2RlcnMsIGNvbm5lY3QtYmFjayBzZXJ2ZXJzLCBldGMu\nICBDdXJyZW50bHkgdGhlIGZyYW1ld29yayBpcyBmb2N1c2VkIG9uIHRoZQpN\nSVBTIENQVSBhcmNoaXRlY3R1cmUsIGJ1dCB0aGUgZGVzaWduIGlzIGludGVu\nZGVkIHRvIGJlIG1vZHVsYXIgZW5vdWdoIHRvCnN1cHBvcnQgYXJiaXRyYXJ5\nIGFyY2hpdGVjdHVyZXMuCgpUbyBpbnN0YWxsLCBydW46CnB5dGhvbiBzZXR1\ncC5weSBpbnN0YWxsCgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/zcutlip/bowcaster/contents/README.txt?ref=master","git":"https://api.github.com/repos/zcutlip/bowcaster/git/blobs/cbb1292fbea23e551bd09926f993d0b28ea996c6","html":"https://github.com/zcutlip/bowcaster/blob/master/README.txt"}}
+0
+

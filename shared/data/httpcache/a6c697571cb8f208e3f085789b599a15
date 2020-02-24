@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:10:42 GMT
+Etag: W/"ea5295e07fd789b5df6612f6e61e1daf"
+Last-Modified: Wed, 18 Dec 2019 14:41:33 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:5C568:6E47F:5E53AF32
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3929
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b3e
+{"name":"README.md","path":"README.md","sha":"ee1b2a07dde8559ffd3e4851dbaaeefadfcc1682","size":1501,"url":"https://api.github.com/repos/DanMcInerney/net-creds/contents/README.md?ref=master","html_url":"https://github.com/DanMcInerney/net-creds/blob/master/README.md","git_url":"https://api.github.com/repos/DanMcInerney/net-creds/git/blobs/ee1b2a07dde8559ffd3e4851dbaaeefadfcc1682","download_url":"https://raw.githubusercontent.com/DanMcInerney/net-creds/master/README.md","type":"file","content":"VGhvcm91Z2hseSBzbmlmZiBwYXNzd29yZHMgYW5kIGhhc2hlcyBmcm9tIGFu\nIGludGVyZmFjZSBvciBwY2FwIGZpbGUuIENvbmNhdGVuYXRlcyBmcmFnbWVu\ndGVkIHBhY2tldHMgYW5kIGRvZXMgbm90IHJlbHkgb24gcG9ydHMgZm9yIHNl\ncnZpY2UgaWRlbnRpZmljYXRpb24uIAoKfCBTY3JlZW5zaG90cyB8Cnw6LS0t\nLS06fAp8ICFbU2NyZWVuaWUxXShodHRwOi8vaW1ndXIuY29tL29wUW83QmIu\ncG5nKSB8CnwgIVtTY3JlZW5pZTJdKGh0dHA6Ly9pbWd1ci5jb20vS2w1STZK\ndS5wbmcpIHwKCiMjIyBTbmlmZnMKCiogVVJMcyB2aXNpdGVkCiogUE9TVCBs\nb2FkcyBzZW50CiogSFRUUCBmb3JtIGxvZ2lucy9wYXNzd29yZHMKKiBIVFRQ\nIGJhc2ljIGF1dGggbG9naW5zL3Bhc3N3b3JkcwoqIEhUVFAgc2VhcmNoZXMK\nKiBGVFAgbG9naW5zL3Bhc3N3b3JkcwoqIElSQyBsb2dpbnMvcGFzc3dvcmRz\nCiogUE9QIGxvZ2lucy9wYXNzd29yZHMKKiBJTUFQIGxvZ2lucy9wYXNzd29y\nZHMKKiBUZWxuZXQgbG9naW5zL3Bhc3N3b3JkcwoqIFNNVFAgbG9naW5zL3Bh\nc3N3b3JkcwoqIFNOTVAgY29tbXVuaXR5IHN0cmluZwoqIE5UTE12MS92MiBh\nbGwgc3VwcG9ydGVkIHByb3RvY29sczogSFRUUCwgU01CLCBMREFQLCBldGMu\nCiogS2VyYmVyb3MKCiMjIyBFeGFtcGxlcwoKQXV0by1kZXRlY3QgdGhlIGlu\ndGVyZmFjZSB0byBzbmlmZgoKYHN1ZG8gcHl0aG9uIG5ldC1jcmVkcy5weWAK\nCkNob29zZSBldGgwIGFzIHRoZSBpbnRlcmZhY2UKCmBzdWRvIHB5dGhvbiBu\nZXQtY3JlZHMucHkgLWkgZXRoMGAKCklnbm9yZSBwYWNrZXRzIHRvIGFuZCBm\ncm9tIDE5Mi4xNjguMC4yCgpgc3VkbyBweXRob24gbmV0LWNyZWRzLnB5IC1m\nIDE5Mi4xNjguMC4yYAoKUmVhZCBmcm9tIHBjYXAKCmBweXRob24gbmV0LWNy\nZWRzLnB5IC1wIHBjYXBmaWxlYAoKCiMjIyMgT1MgWAoKQ3JlZGl0IHRvIFtl\ncG9jc10oaHR0cHM6Ly9naXRodWIuY29tL2Vwb2NzKToKCmBgYGJhc2gKc3Vk\nbyBlYXN5X2luc3RhbGwgcGlwCnN1ZG8gcGlwIGluc3RhbGwgc2NhcHkKc3Vk\nbyBwaXAgaW5zdGFsbCBwY2FweQpicmV3IGluc3RhbGwgbGliZG5ldCAtLXdp\ndGgtcHl0aG9uCm1rZGlyIC1wIC9Vc2Vycy88dXNlcm5hbWU+L0xpYnJhcnkv\nUHl0aG9uLzIuNy9saWIvcHl0aG9uL3NpdGUtcGFja2FnZXMKZWNobyAnaW1w\nb3J0IHNpdGU7IHNpdGUuYWRkc2l0ZWRpcigiL3Vzci9sb2NhbC9saWIvcHl0\naG9uMi43L3NpdGUtcGFja2FnZXMiKScgPj4gL1VzZXJzLzx1c2VybmFtZT4v\nTGlicmFyeS9QeXRob24vMi43L2xpYi9weXRob24vc2l0ZS1wYWNrYWdlcy9o\nb21lYnJldy5wdGgKc3VkbyBwaXAgaW5zdGFsbCBweXBjYXAKYnJldyB0YXAg\nYnJvbmEvaXByb3V0ZTJtYWMKYnJldyBpbnN0YWxsIGlwcm91dGUybWFjCmBg\nYAoKVGhlbiByZXBsYWNlIGxpbmUgNzQgJy9zYmluL2lwJyB3aXRoICcvdXNy\nL2xvY2FsL2Jpbi9pcCcuCgoKIyMjIyBUaGFua3MKKiBMYXVyZW50IEdhZmZp\nZQoqIHBzeWNob21hcmlvCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/DanMcInerney/net-creds/contents/README.md?ref=master","git":"https://api.github.com/repos/DanMcInerney/net-creds/git/blobs/ee1b2a07dde8559ffd3e4851dbaaeefadfcc1682","html":"https://github.com/DanMcInerney/net-creds/blob/master/README.md"}}
+0
+

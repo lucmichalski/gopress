@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:08:59 GMT
+Etag: W/"ec9bae8f3252a0cb7fee315ce46dd69b"
+Last-Modified: Sun, 13 May 2018 17:08:54 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:4F78C:5F1B5:5E53AECB
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4248
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+f69
+{"name":"README.md","path":"README.md","sha":"54fc173aa1f71a4973aac3f89dd587dcab79b8e3","size":2282,"url":"https://api.github.com/repos/magisterquis/sshhipot/contents/README.md?ref=master","html_url":"https://github.com/magisterquis/sshhipot/blob/master/README.md","git_url":"https://api.github.com/repos/magisterquis/sshhipot/git/blobs/54fc173aa1f71a4973aac3f89dd587dcab79b8e3","download_url":"https://raw.githubusercontent.com/magisterquis/sshhipot/master/README.md","type":"file","content":"VmVyc2lvbiAyIGlzIHVuZGVyIGRldmVsb3BtZW50LiAgUGxlYXNlIHN3aXRj\naCB0byB0aGUgYHYyYCBicmFuY2gsIGJ1aWxkLCBhbmQgcnVuIHdpdGggYC1o\nYC4KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09\nPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09\nPT09PT0KClNTSEhpUG90Cj09PT09PT09PQpIaWdoLWludGVyYWN0aW9uIFNT\nSCBob25leXBvdCAob2ssIGl0J3MgcmVhbGx5IGEgbG9nZ2luZyBzc2ggcHJv\neHkpLgoKU3RpbGwgbW9yZSBvciBsZXNzIGEgd29yay1pbi1wcm9ncmVzcy4g\nIEZlZWwgZnJlZSB0byBgZ28gaW5zdGFsbGAgdGhpcwpyZXBvc2l0b3J5IGlm\nIHlvdSdkIGxpa2UgdG8gdHJ5IGl0LiAgUnVuIGl0IHdpdGggYC1oYCB0byBz\nZWUgbW9yZSBvcHRpb25zLiAgSW4KcGFydGljdWxhciwgbG9nZ2luZyBpcyBr\naW5kYSByb3VnaC4KCk9uZSBvZiB0aGVzZSBkYXlzIHRoZXJlJ2xsIGJlIGJl\ndHRlciBkb2N1bWVudGF0aW9uLCByZWFsbHkuCgpUaGUgZ2VuZXJhbCBpZGVh\nIGlzIHRoYXQgc3NobG93cG90IHJ1bnMgc29tZXdoZXJlIGJldHdlZW4gdGhl\nIGF0dGFja2VyIGFuZCB0aGUKcmVhbCBTU0ggc2VydmVyIHN1Y2ggdGhhdCB0\naGUgYXR0YWNrZXIgbG9ncyBpbnRvIHRoZSBob25leXBvdCwgYW5kIHRoZSBo\nb25leXBvdApsb2dzIGludG8gdGhlIHNlcnZlci4KCkNvbnRhY3QKLS0tLS0t\nLQpBdCB0aGlzIHN0YWdlIGluIGl0cyBkZXZlbG9wbWVudCwgaXQncyBwcm9i\nYWJseSBlYXNpZXIgdG8gZmluZCBtZSBvbiBGcmVlbm9kZQp0aGFuIGFueXRo\naW5nLCB0aG91Z2ggcmVhZGluZyB0aGUgc291cmNlIGlzIGFub3RoZXIgb3B0\naW9uLiAgSXQncyBub3QgX3RoYXRfCnBhaW5mdWwuICBJIGNhbiB1c3VhbGx5\nIGJlIGZvdW5kIGFzIGBtYWdpc3RlcnF1aXNgIGluIGAjZGV2aW91c2Agb24g\nZnJlZW5vZGUuCgpJbnN0YWxsYXRpb24KLS0tLS0tLS0tLS0tCmBgYGJhc2gK\nZ28gaW5zdGFsbCBnaXRodWIuY29tL21hZ2lzdGVycXVpcy9zc2hoaXBvdApg\nYGAKSWYgeW91IGRvbid0IGhhdmUgZ28gYXZhaWxhYmxlLCBmZWVsIGZyZWUg\ndG8gYXNrIG1lIChvciBzb21lb25lIHdobyBkb2VzKSBmb3IKY29tcGlsZWQg\nYmluYXJpZXMuICBUaGV5IGNhbiBiZSBtYWRlIGZvciBhIGJ1bmNoIG9mIGRp\nZmZlcmVudCBwbGF0Zm9ybXMuCgpDb25maWcKLS0tLS0tCk1vc3Qgb2YgdGhl\nIG9wdGlvbnMgc2hvdWxkIGJlIHVzZWFibGUgYXMtaXMuICBUaGUgb25lcyBJ\nIGV4cGVjdCB3aWxsIG5lZWQgdG8KYmUgY29uZmlndXJlZDoKCk9wdGlvbiB8\nIFVzZQotLS0tLS0tfC0tLS0KYC1ja2AgIHwgU1NIIGlkZW50aXR5IGZpbGUg\nKGkuZS4gYGlkX3JzYWApIHRvIHVzZSB0byBhdXRoZW50aWNhdGUgdG8gdGhl\nIHNlcnZlci4KYC1jc2AgIHwgU2VydmVyJ3MgYWRkcmVzcy4gIENhbiBiZSBs\nb29wYmFjaywgZXZlbi4KYC1jdWAgIHwgT2ssIG1heWJlIGByb290YCB3YXNu\nJ3QgYSBncmVhdCBkZWZhdWx0LiAgYHRlc3RgIGlzIHByb2JhYmx5IGJldHRl\nci4KYC1wYCAgIHwgVHJ5IGAxMjM0NTZgIG9yIHNvbWV0aGluZyBtb3JlIGNv\nbW1vbiB0aGFuIFtgaHVudGVyMmBdKGh0dHA6Ly9iYXNoLm9yZy8/MjQ0MzIx\nKS4gIEFsc28gc2VlIHRoZSBgLXBmYCBmbGFnLgpgLXNmYCAgfCBGaW5nZXJw\ncmludCBvZiByZWFsIHNlcnZlcidzIEhvc3QgS2V5IChyZXRyZWl2YWJsZSB3\naXRoIGBzc2gta2V5c2NhbiBob3N0bmFtZSAyPi9kZXYvbnVsbCB8IHNzaC1r\nZXlnZW4gLWxmIC1gKQoKUGxlYXNlIG5vdGUgYnkgZGVmYXVsdCB0aGUgc2Vy\ndmVyIGxpc3RlbnMgb24gcG9ydCAyMjIyLiAgWW91J2xsIGhhdmUgdG8gdXNl\nCnBmIG9yIGlwdGFibGVzIG9yIHdoYXRldmVyIG90aGVyIGZpcmV3YWxsIHRv\nIHJlZGlyZWN0IHRoZSBwb3J0LiAgSXQncyBwcm9iYWJseQphIHJlYWxseSBi\nYWQgaWRlYSB0byBydW4gaXQgYXMgcm9vdC4gIERvbid0IGRvIHRoYXQuCgpU\naGVyZSBpcyBhIGdlbmVyYWwgbG9nIHdoaWNoIGdvZXMgdG8gc3Rkb3V0LiAg\nTW9yZSBncmFudWxhciBsb2dzIGdvIGluIGEKZGlyZWN0b3J5IG5hbWVkIGBj\nb25uc2AgYnkgZGVmYXVsdCAoYC1kYCBmbGFnKS4gIEF0IHRoZSBtb21lbnQs\nIHRoZSBncmFudWxhcgpsb2dzIGFsc28gZ28gdG8gc3RkZXJyLgoKQ29udHJp\nYnV0aW9ucwotLS0tLS0tLS0tLS0tClllcywgcGxlYXNlLgoKV2luZG93cwot\nLS0tLS0tCkl0J3MgaW4gR28sIHNvLCBwcm9iYWJseT8gIFNlbmQgbWUgYSBw\ndWxsIHJlcXVlc3QgaWYgaXQgZG9lc24ndCB3b3JrLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/magisterquis/sshhipot/contents/README.md?ref=master","git":"https://api.github.com/repos/magisterquis/sshhipot/git/blobs/54fc173aa1f71a4973aac3f89dd587dcab79b8e3","html":"https://github.com/magisterquis/sshhipot/blob/master/README.md"}}
+0
+

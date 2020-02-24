@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:23:05 GMT
+Etag: W/"a5196fc37edea811ff29946953d5ffe4"
+Last-Modified: Fri, 06 Sep 2019 10:00:47 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:A4CB:C531:5E53B219
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1760
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+635
+{"name":"README.md","path":"README.md","sha":"630c6cff30aee0cdb91beada0ae1ac9811174b58","size":585,"url":"https://api.github.com/repos/joxeankoret/pyew/contents/README.md?ref=VERSION_3X","html_url":"https://github.com/joxeankoret/pyew/blob/VERSION_3X/README.md","git_url":"https://api.github.com/repos/joxeankoret/pyew/git/blobs/630c6cff30aee0cdb91beada0ae1ac9811174b58","download_url":"https://raw.githubusercontent.com/joxeankoret/pyew/VERSION_3X/README.md","type":"file","content":"IyBweWV3CgpQeWV3IGlzIGEgKGNvbW1hbmQgbGluZSkgcHl0aG9uIHRvb2wg\ndG8gYW5hbHlzZSBtYWx3YXJlLiBJdCBkb2VzIGhhdmUgc3VwcG9ydCBmb3Ig\naGV4YWRlY2ltYWwgdmlld2luZywgZGlzYXNzZW1ibHkgKEludGVsIDE2LCAz\nMiBhbmQgNjQgYml0cyksIFBFIGFuZCBFTEYgZmlsZSBmb3JtYXRzIChpdCBw\nZXJmb3JtcyBjb2RlIGFuYWx5c2lzIGFuZCBsZXQgeW91IHdyaXRlIHNjcmlw\ndHMgdXNpbmcgYW4gQVBJIHRvIHBlcmZvcm0gbWFueSB0eXBlcyBvZiBhbmFs\neXNpcyksIGZvbGxvd3MgZGlyZWN0IGNhbGwvam1wIGluc3RydWN0aW9ucyBp\nbiB0aGUgaW50ZXJhY3RpdmUgY29tbWFuZCBsaW5lLCBkaXNwbGF5cyBmdW5j\ndGlvbiBuYW1lcyBhbmQgc3RyaW5nIGRhdGEgcmVmZXJlbmNlczsgc3VwcG9y\ndHMgT0xFMiBmb3JtYXQsIFBERiBmb3JtYXQgYW5kIG1vcmUuIEl0IGFsc28g\nc3VwcG9ydHMgcGx1Z2lucyB0byBhZGQgbW9yZSBmZWF0dXJlcyB0byB0aGUg\ndG9vbC4KCkNoZWNrIG91dCBbKip0aGUgd2lraSoqXShodHRwczovL2dpdGh1\nYi5jb20vam94ZWFua29yZXQvcHlldy93aWtpKSB0byBnZXQgc3RhcnRlZC4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/joxeankoret/pyew/contents/README.md?ref=VERSION_3X","git":"https://api.github.com/repos/joxeankoret/pyew/git/blobs/630c6cff30aee0cdb91beada0ae1ac9811174b58","html":"https://github.com/joxeankoret/pyew/blob/VERSION_3X/README.md"}}
+0
+

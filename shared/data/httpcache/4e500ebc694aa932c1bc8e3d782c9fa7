@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:06:57 GMT
+Etag: W/"1f8066f66fdd91dee9515710466f0f78"
+Last-Modified: Wed, 13 Oct 2010 21:49:42 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:4CB83:5C92F:5E53AE51
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4635
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d0b
+{"name":"README","path":"README","sha":"c5b4dc803b016140432dae9134834e6b59d2fbe9","size":1882,"url":"https://api.github.com/repos/Zapotek/cdpsnarf/contents/README?ref=master","html_url":"https://github.com/Zapotek/cdpsnarf/blob/master/README","git_url":"https://api.github.com/repos/Zapotek/cdpsnarf/git/blobs/c5b4dc803b016140432dae9134834e6b59d2fbe9","download_url":"https://raw.githubusercontent.com/Zapotek/cdpsnarf/master/README","type":"file","content":"ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgQ0RQU25hcmYgdjAu\nMS42IENpc2NvIERpc2NvdmVyeSBQcm90b2NvbCBTbmlmZmVyCiAgICAgICAg\nICAgICAgICAgICAgYnkgVGFzb3MgIlphcG90ZWsiIExhc2tvcwogICAgICAg\nICAgICAgICAgICAgICAgICA8dGFzb3MubGFza29zQGdtYWlsLmNvbT4KICAg\nICAgICAgICAgICAgICAgICAgICAgICA8emFwb3Rla0BzZWdmYXVsdC5ncj4K\nCiAgICAgICAgICAgICAgIExpY2Vuc2VkIHVuZGVyIHRoZSBHTlUgR2VuZXJh\nbCBQdWJsaWMgTGljZW5zZSB2MgoKCgpHZW5lcmFsCi0tLS0tLS0tLS0KICAg\nIENEUFNuYXJmIGlzIGEgbmV0d29yayBzbmlmZmVyIGV4Y2x1c2l2ZWx5IHdy\naXR0ZW4gdG8gZXh0cmFjdAppbmZvcm1hdGlvbiBmcm9tIENEUCBwYWNrZXRz\nLgpJdCBwcm92aWRlcyBhbGwgdGhlIGluZm9ybWF0aW9uIGEgInNob3cgY2Rw\nIG5laWdoYm9ycyBkZXRhaWwiCmNvbW1hbmQgd291bGQgcmV0dXJuIG9uIGEg\nQ2lzY28gcm91dGVyIGFuZCBldmVuIG1vcmUuCgpGZWF0dXJlcwotLS0tLS0t\nLS0tLQpBIGZlYXR1cmUgbGlzdCBmb2xsb3dzOgogICAgbyBUaW1lIGludGVy\ndmFscyBiZXR3ZWVuIENEUCBhZHZlcnRpc2VtZW50cwogICAgbyBTb3VyY2Ug\nTUFDIGFkZHJlc3MKICAgIG8gQ0RQIFZlcnNpb24KICAgIG8gVFRMCiAgICBv\nIENoZWNrc3VtCiAgICBvIERldmljZSBJRAogICAgbyBTb2Z0d2FyZSB2ZXJz\naW9uCiAgICBvIFBsYXRmb3JtCiAgICBvIEFkZHJlc3NlcwogICAgbyBQb3J0\nIElECiAgICBvIENhcGFiaWxpdGllcwogICAgbyBEdXBsZXgKICAgIG8gU2F2\nZSBwYWNrZXRzIGluIFBDQVAgZHVtcCBmaWxlIGZvcm1hdAogICAgbyBSZWFk\nIHBhY2tldHMgZnJvbSBQQ0FQIGR1bXAgZmlsZXMKICAgIG8gRGVidWdnaW5n\nIGluZm9ybWF0aW9uICh1c2luZyB0aGUgIi1kIiBmbGFnKQogICAgbyBUZXN0\nZWQgd2l0aCBJUHY0IGFuZCBJUHY2IFsxXQoKWzFdIE90aGVyIHByb3RvY29s\ncyB3aWxsIGJlIGRldGVjdGVkIGFuZCBhZGRyZXNzZXMgd2lsbCBiZSBwcmlu\ndGVkIGluIGFuCklQdjYgaGV4YWRlY2ltYWwgZm9ybWF0CgpVc2FnZQotLS0t\nLS0KSXNzdWUgdGhlICJtYWtlIiBjb21tYW5kIHRvIGJ1aWx0IENEUHNuYXJm\nIGZyb20gc291cmNlLgpUaGVuIGlzc3VlOgogICAgc3VkbyBjZHBzbmFyZiAt\naSA8ZGV2aWNlPgogICAgCk1vcmUgb3B0aW9ucyB3aXRoOgogICAgY2Rwc25h\ncmYgLWgKClJlcXVpcmVtZW50cwotLS0tLS0tLS0tLS0tCiogUENBUCBsaWJy\nYXJ5IFtodHRwOi8vd3d3LnRjcGR1bXAub3JnXQoqIEdDQwoKQnVnIHJlcG9y\ndHMvRmVhdHVyZSByZXF1ZXN0cwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t\nLS0tLS0tClBsZWFzZSBzZW5kIHlvdXIgZmVlZGJhY2sgdXNpbmcgR2l0SHVi\nJ3MgaXNzdWUgc3lzdGVtIChodHRwOi8vZ2l0aHViLmNvbS9aYXBvdGVrL2Nk\ncHNuYXJmL2lzc3VlcykuCkkgd2lsbCBkbyBteSBiZXN0IHRvIGFwcGx5IGJ1\nZ2ZpeGVzIGFuZCBhZGQgbmV3IGZlYXR1cmVzIGFzIGZhc3QgYXMgcG9zc2li\nbGUuCgpMaWNlbnNlCi0tLS0tLS0tLQpDRFBTbmFyZiBpcyBsaWNlbnNlZCB1\nbmRlciB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgdjIuClNlZSB0\naGUgZmlsZSAiTElDRU5TRSIgaW4gdGhlIHNhbWUgZm9sZGVyIGZvciBtb3Jl\nIGluZm9ybWF0b24uCgpEaXNjbGFpbWVyCi0tLS0tLS0tLS0tCkNEUFNuYXJm\nIGlzIGZyZWUgc29mdHdhcmUgYW5kIHlvdSBhcmUgYWxsb3dlZCB0byB1c2Ug\naXQgYXMgeW91IHNlZSBmaXQuCkhvd2V2ZXIsIEkgY2FuJ3QgYmUgaGVsZCBy\nZXNwb25zaWJsZSBmb3IgeW91ciBhY3Rpb25zIG9yIGZvciBhbnkgZGFtYWdl\nCmNhdXNlZCBieSB0aGUgdXNlIG9mIHRoaXMgc29mdHdhcmUuCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Zapotek/cdpsnarf/contents/README?ref=master","git":"https://api.github.com/repos/Zapotek/cdpsnarf/git/blobs/c5b4dc803b016140432dae9134834e6b59d2fbe9","html":"https://github.com/Zapotek/cdpsnarf/blob/master/README"}}
+0
+

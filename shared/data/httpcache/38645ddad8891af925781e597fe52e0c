@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:19:25 GMT
+Etag: W/"675524983385c0fa851a20f3cb81f0d8"
+Last-Modified: Thu, 19 Apr 2018 14:08:58 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:B40C9:D8002:5E53B13D
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2424
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d14
+{"name":"README.md","path":"README.md","sha":"fdf22fbe9fbcc631cec1b5a8b3078c763d5448c1","size":1843,"url":"https://api.github.com/repos/CoolerVoid/rootstealer/contents/README.md?ref=master","html_url":"https://github.com/CoolerVoid/rootstealer/blob/master/README.md","git_url":"https://api.github.com/repos/CoolerVoid/rootstealer/git/blobs/fdf22fbe9fbcc631cec1b5a8b3078c763d5448c1","download_url":"https://raw.githubusercontent.com/CoolerVoid/rootstealer/master/README.md","type":"file","content":"IyMgUm9vdHN0ZWFsZXIKVGhpcyBpcyBzaW1wbGUgZXhhbXBsZSBvZiBuZXcg\nYXR0YWNrIHRoYXQgdXNpbmcgWDExLiBQcm9ncmFtIHRvIGRldGVjdCB3aGVu\nIGxpbnV4IHVzZXIgb3BlbnMgdGVybWluYWwgd2l0aCByb290IGFuZCBpbmpl\nY3QgaW50cnVzaXZlIGNvbW1hbmRzIGluIHRlcm1pbmFsIHdpdGggWDExIGxp\nYi4KCiMjIFZpZGVvIG9mIFByb29mIG9mIGNvbmNlcHQKClRoZSBwcm9wb3Nh\nbCBvZiB0aGlzIHZpZGVvIGlzIHVzZSB0aGUgdG9vbCByb290c3RlYWxlciB0\nbyBzcHkgYWxsIGd1aSB3aW5kb3dzIGludGVyYWN0aW9ucyBhbmQgaW5qZWN0\nIGNvbW1hbmRzIG9ubHkgaW4gcm9vdCB0ZXJtaW5hbC4gVGhpcyBhcHByb2Fj\naCBpcyB1dGlsIHdoZW4gYXR0YWNrZXIgbmVlZCB0byBzZW5kIGEgbWFsaWNp\nb3VzIHByb2dyYW0gdG8gcHJvdmUgdGhhdCB1c2VyICBpcyB2dWxuZXJhYmxl\nICB0byBzb2NpYWwgIGVuZ2luZWVyaW5nLiBGb3JjZSByb290IGNvbW1hbmQg\naW4gdGVybWluYWwgd2l0aCBsaWIgWDExIGlzIGEgZXhvdGljIHdheSB0byBz\naG93IHRoZSBkaXZlcnNpdHkgb2Ygd2VhayBwb2ludHMuCgpodHRwczovL3d3\ndy55b3V0dWJlLmNvbS93YXRjaD92PVY4c1pRcTduZXJ3CgojIyBJbnN0YWxs\nCgpgYGAKIyBhcHQtZ2V0IGluc3RhbGwgbGliWDExLWRldiBsaWJ4dHN0LWRl\ndgojIGNkIHJvb3RzdGVhbGVyL3NlbmRrZXlzOyAKYGBgCgpFZGl0IGZpbGUg\ncm9vdHN0ZWFsZXIvY21kLmNmZyBhbmQgd3JpdGUgeW91ciBjb21tYW5kIHRv\nIGluamVjdC4KCk5vdyB5b3UgY2FuIHRha2UgdGhhdCBmb2xsb3dpbmc6Cgpg\nYGAKIyBtYWtlOyBjZCAuLiAgICAjdG8gYmFjayB0byBwYXRoIHJvb3RzdGVh\nbGVyLyAKIyBwaXAgaW50YWxsIGdpCm9yCiMgcGlwIGluc3RhbGwgZ2lyCmBg\nYApSdW4gdGhlIHB5dGhvbiBzY3JpcHQgdG8gc3B5IGFsbCB3aW5kb3dzIGd1\naSBhbmQgc2VhcmNoIHdpbmRvdyB3aXRoICJyb290QCIgc3RyaW5nIGluIHRp\ndGxlLgoKYGBgCiQgcHl0aG9uIHJvb3RzdGVhbGVyLnB5ICYKYGBgCgoqKk5v\ndGU6KioKSWYgeW91IHByZWZlcnMgdXNlcyBmdWxsICBDIGNvZGUuLi4gdG8g\ndXNlICBzaW1wbGUgYmluYXJ5IHB1cnBvc2VzLi4uIHlvdSBjYW4gIHVzZXMg\nIHJvb3RzdGVhbGVyLmMKYGBgCiQgc3VkbyBhcHQtZ2V0IGluc3RhbGwgbGli\nd25jay1kZXYKJCBnY2MgLW8gcm9vdHN0ZWFsZXIgcm9vdHN0ZWFsZXIuYyBg\ncGtnLWNvbmZpZyAtLWNmbGFncyAtLWxpYnMgbGlid25jay0xLjBgIC1EV05D\nS19JX0tOT1dfVEhJU19JU19VTlNUQUJMRSAtRFdOQ0tfQ09NUElMQVRJT04K\nJCAuL3Jvb3RzdGVhbGVyICYKYGBgCkRvbmUsIGxvb2sgdGhlIHZpZGVvIGRl\nbW8sIHJvb3RzdGVhbGVyIGZvcmNlIGNvbW1hbmRzIG9ubHkgb24gcm9vdCB0\nZXJtaW5hbC4uLgoKCiMjIE1pdGlnYXRpb24gCgpEb24ndCB0cnVzdCBpbiBh\nbnlvbmUuCmh0dHBzOi8vd3d3LmVzZWN1cml0eXBsYW5ldC5jb20vdmlld3Mv\nYXJ0aWNsZS5waHAvMzkwODg4MS85LUJlc3QtRGVmZW5zZXMtQWdhaW5zdC1T\nb2NpYWwtRW5naW5lZXJpbmctQXR0YWNrcy5odG0KCkFsd2F5cyB3aGVuIHlv\ndSBlbnRlciBieSByb290IHVzZXIsIGNoYW5nZSB3aW5kb3cgdGl0bGU6Cgpg\nYGAKIyBnbm9tZS10ZXJtaW5hbCAtLXRpdGxlPSJTT01FIFRJVExFIEhFUkUi\nCmBgYAoKVGhpcyBzaW1wbGUgYWN0aW9uIGNhbiBwcmV2ZW50IHRoaXMgYXR0\nYWNrLgoKCgojIyBUZXN0cwoKVGVzdGVkIG9uIFh1YnVudHUgMTYuMDQKCiMg\nTm90ZToKCkkgYW0gbm90IHJlc3BvbnNpYmxlIGZvciB0aGUgZXZpbCB1c2Ug\nb2YgdGhhdCB0b29sLiBVc2UgdGhhdCBmb3IgYSBnb29kIHB1cnBvc2UuCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/CoolerVoid/rootstealer/contents/README.md?ref=master","git":"https://api.github.com/repos/CoolerVoid/rootstealer/git/blobs/fdf22fbe9fbcc631cec1b5a8b3078c763d5448c1","html":"https://github.com/CoolerVoid/rootstealer/blob/master/README.md"}}
+0
+

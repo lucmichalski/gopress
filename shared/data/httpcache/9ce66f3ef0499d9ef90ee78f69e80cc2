@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:11:56 GMT
+Etag: W/"697a94bd29031bf681212ad380cf0472"
+Last-Modified: Mon, 30 May 2016 22:54:57 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:769AF:8E848:5E53AF7C
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3720
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a7f
+{"name":"README.md","path":"README.md","sha":"64106a70a5ec261d25f5682bad3a15663e0125a5","size":1329,"url":"https://api.github.com/repos/1aN0rmus/TekDefense-Automater/contents/README.md?ref=master","html_url":"https://github.com/1aN0rmus/TekDefense-Automater/blob/master/README.md","git_url":"https://api.github.com/repos/1aN0rmus/TekDefense-Automater/git/blobs/64106a70a5ec261d25f5682bad3a15663e0125a5","download_url":"https://raw.githubusercontent.com/1aN0rmus/TekDefense-Automater/master/README.md","type":"file","content":"VGVrRGVmZW5zZS1BdXRvbWF0ZXIgVmVyc2lvbjogMC4yMQo9PT09PT09PT09\nPT09PT09PT09PQoKaHR0cDovL3d3dy50ZWtkZWZlbnNlLmNvbS9hdXRvbWF0\nZXIvCmh0dHA6Ly93d3cudGVrZGVmZW5zZS5jb20vbmV3cy8yMDEzLzEyLzQv\nZmluYWxseS10aGUtbmV3LWF1dG9tYXRlci1yZWxlYXNlLWlzLW91dC5odG1s\nCgoKQXV0b21hdGVyIGlzIGEgdG9vbCB0aGF0IEkgb3JpZ2luYWxseSBjcmVh\ndGVkIHRvIGF1dG9tYXRlIHRoZSBPU0lOVCBhbmFseXNpcyBvZiBJUCBhZGRy\nZXNzZXMuIEl0IHF1aWNrbHkgZ3JldyBhbmQgYmVjYW1lIGEgdG9vbCB0byBk\nbyBhbmFseXNpcyBvZiBJUCBBZGRyZXNzZXMsIFVSTHMsIGFuZCBIYXNoZXMu\nIFVuZm9ydHVuYXRlbHkgdGhvdWdoLCB0aGlzIHdhcyBteSBmaXJzdCBweXRo\nb24gcHJvamVjdCBhbmQgSSBtYWRlIGEgbG90IG9mIG1pc3Rha2VzLCBhbmQg\nYXMgdGhlIHByb2plY3QgZ3JldyBpdCBiYWNhbWUgVkVSWSBoYXJkIGZvciBt\nZSB0byBtYWludGFpbi4gCgpMdWNraWx5LCBhIG1lbnRvciBhbmQgZnJpZW5k\nIG9mIG1pbmUgKEBqYW1lc2h1YjNyKSBvZmZlcmVkIGhpcyB0aW1lIGFuZCBl\neHBlcnRpc2UgdG8gZG8gYW4gZW5pdHJlIHJlLXdyaXRlIG9mIHRoZSBjb2Rl\nIHRoYXQgd291bGQgZm9jdXMgb24gYSBtb2R1bGFyIGV4dGVuc2libGUgZnJh\nbWV3b3JrLiBUaGUgbmV3IGNvZGUgaGl0cyB0aGUgbWFyayBhcyBmYXIgYXMg\ndGhhdCBpcyBjb25jZXJuZWQuIFRoZSByZWFsIHBvd2VyIG9mIEF1dG9tYXRl\nciBpcyBob3cgZWFzeSBpdCBpcyB0byBtb2RpZnkgd2hhdCBzb3VyY2VzIGFy\nZSBjaGVja2VkIGFuZCB3aGF0IGRhdGEgaXMgdGFrZW4gZnJvbSB0aGVtIHdp\ndGhvdXQgaGF2aW5nIHRvIG1vZGlmeSB0aGUgcHl0aG9uIGNvZGUuIFRvIG1v\nZGlmeSBzb3VyY2VzIHNpbXBseSBvcGVuIHVwIHRoZSBzaXRlcy54bWwgZmls\nZSBhbmQgbW9kaWZ5IGF3YXkuIEknbGwgZG8gYW5vdGhlciBwb3N0IGxhdGVy\nIHRoYXQgZ29lcyBpbnRvIG1vcmUgZGV0YWlsIHRoZXJlLgoKVG8gdmlldyBh\nIGJpdCBtb3JlIGFib3V0IGluc3RhbGxhdGlvbiBhbmQgdXNhZ2UgaGVhZCBv\ndmVyIHRvIHRoZSBuZXcgQXV0b21hdGVyIHBhZ2UgKGh0dHA6Ly93d3cudGVr\nZGVmZW5zZS5jb20vYXV0b21hdGVyLykuCgpZb3UgY2FuIGRvd25sb2FkIHRo\nZSBjb2RlIGRpcmVjdGx5IG9uIEdpdGh1Yi4gUmVtZW1iZXIgQXV0b21hdGVy\nIGlzIG5vdCBhIHNpbmdsZSBmaWxlIGFueW1vcmUsIHlvdSBuZWVkIHRvIGRv\nd25sb2FkIGFsbCBvZiB0aGUgZmlsZXMgaW4gdGhlIEF1dG9tYXRlciByZXBv\nIHRvIHRoZSBzYW1lIGRpcmVjdG9yeS4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/1aN0rmus/TekDefense-Automater/contents/README.md?ref=master","git":"https://api.github.com/repos/1aN0rmus/TekDefense-Automater/git/blobs/64106a70a5ec261d25f5682bad3a15663e0125a5","html":"https://github.com/1aN0rmus/TekDefense-Automater/blob/master/README.md"}}
+0
+

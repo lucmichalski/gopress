@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:16:42 GMT
+Etag: W/"337c9f653f3c99a35566101f91dff0ba"
+Last-Modified: Sun, 01 Sep 2019 02:32:18 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:9DBA2:BD5EF:5E53B09A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2891
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a2a
+{"name":"README.md","path":"README.md","sha":"25f21045af5722b5faae1f12bd97410d2f8db867","size":1322,"url":"https://api.github.com/repos/menkrep1337/XSSCon/contents/README.md?ref=master","html_url":"https://github.com/menkrep1337/XSSCon/blob/master/README.md","git_url":"https://api.github.com/repos/menkrep1337/XSSCon/git/blobs/25f21045af5722b5faae1f12bd97410d2f8db867","download_url":"https://raw.githubusercontent.com/menkrep1337/XSSCon/master/README.md","type":"file","content":"PHAgYWxpZ249ImNlbnRlciI+CiA8aW1nIHNyYz0iaW1hZ2VzL2xvZ28ucG5n\nIiBoZWlnaHQ9IjIwMCI+PGJyLz4KQSBwb3dlcmZ1bCBYU1Mgc2Nhbm5lciBt\nYWRlIGluIHB5dGhvbiAzLjc8YnIvPgoKCiMjIEluc3RhbGxpbmcKClJlcXVp\ncmVtZW50czogPGJyLz4KCjxsaT4gQmVhdXRpZnVsU291cDQgPC9saT4KCmBg\nYGJhc2gKcGlwIGluc3RhbGwgYnM0CmBgYAo8bGk+IHJlcXVlc3RzIDwvbGk+\nCgpgYGBiYXNoCnBpcCBpbnN0YWxsIHJlcXVlc3RzCmBgYAo8bGk+IHB5dGhv\nbiAzLjcgPC9saT4KPGJyLz4KQ29tbWFuZHM6CgpgYGBiYXNoCmdpdCBjbG9u\nZSBodHRwczovL2dpdGh1Yi5jb20vbWVua3JlcDEzMzcvWFNTQ29uCmNobW9k\nIDc1NSAtUiBYU1NDb24KY2QgWFNTQ29uCnB5dGhvbjMgeHNzY29uLnB5IC0t\naGVscCAKYGBgCiMjIFVzYWdlCkJhc2ljIHVzYWdlOgoKYGBgYmFzaApweXRo\nb24zIHhzc2Nvbi5weSAtdSBodHRwOi8vdGVzdHBocC52dWxud2ViLmNvbQpg\nYGAKPGJyLz4KQWR2YW5jZWQgdXNhZ2U6CgpgYGBiYXNoCnB5dGhvbjMgeHNz\nY29uLnB5IC0taGVscApgYGAKCiMjIE1haW4gZmVhdHVyZXMKCiogY3Jhd2xp\nbmcgYWxsIGxpbmtzIG9uIGEgd2Vic2l0ZSAoIGNyYXdsZXIgZW5naW5lICkK\nKiBQT1NUIGFuZCBHRVQgZm9ybXMgYXJlIHN1cHBvcnRlZAoqIG1hbnkgc2V0\ndGluZ3MgdGhhdCBjYW4gYmUgY3VzdG9taXplZAoqIEFkdmFuY2VkIGVycm9y\nIGhhbmRsaW5nCiogTXVsdGlwcm9jZXNzaW5nIHN1cHBvcnQu4pyU77iPCiog\nRVRDLi4uLgoKCiMjIFNjcmVlbnNob3QKCjxpbWcgc3JjPSJpbWFnZXMvc2Ny\nZWVuc2hvdC5wbmciPgoKIyMgUm9hZG1hcAoKdjAuM0I6Ci0tLS0tLQo8bGk+\nIEFkZGVkIGN1c3RvbSBvcHRpb25zICggLS1wcm94eSwgLS11c2VyLWFnZW50\nIGV0Yy4uLiApPC9saT4KPGJyLz4KCnYwLjNCIFBhdGNoOgotLS0tLS0KPGxp\nPkFkZGVkIHN1cHBvcnQgZm9yICggZm9ybSBtZXRob2QgR0VUICkgPC9saT4K\nCnYwLjRCOgotLS0tLS0KPGxpPkltcHJvdmVkIEVycm9yIGhhbmRsaW5nPC9s\naT4KPGxpPk5vdyBNdWx0aXBsZSBwYXJhbWV0ZXJzIGZvciBHRVQgbWV0aG9k\nIGlzIFN1cHBvcnRlZDwvbGk+Cgp2MC41IFJlbGVhc2UgKEZpbmFsKToKLS0t\nLS0tCiogQnVnIGZpeGVkCiogTm93IGNvb2tpZXMgaXMgc3VwcG9ydGVkLiAo\nLS1jb29raWUge30pIAojIyBOb3RlCiogU29ycnkgZm9yIG15IGJhZCBlbmds\naXNoIAoqIGlmIHlvdSBydW4geHNzY29uIG9uIHRoZSB3aW4xMCB0ZXJtaW5h\nbCB5b3Ugd2lsbCBnZXQgYW4gdW50aWR5IG91dHB1dAoqIG5vdyBpdCBkb2Vz\nbid0IHN1cHBvcnQgRE9NCgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/menkrep1337/XSSCon/contents/README.md?ref=master","git":"https://api.github.com/repos/menkrep1337/XSSCon/git/blobs/25f21045af5722b5faae1f12bd97410d2f8db867","html":"https://github.com/menkrep1337/XSSCon/blob/master/README.md"}}
+0
+

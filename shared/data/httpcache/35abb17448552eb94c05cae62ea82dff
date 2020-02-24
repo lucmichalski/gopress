@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:07:30 GMT
+Etag: W/"83e6005972c6723956f94029f9da81e0"
+Last-Modified: Tue, 04 Jun 2019 13:24:07 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:51210:61E0A:5E53AE72
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4540
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+bf6
+{"name":"README.md","path":"README.md","sha":"b93459f7d7735a8dec4caf3e423271b30d8b671e","size":1616,"url":"https://api.github.com/repos/brendan-rius/c-jwt-cracker/contents/README.md?ref=master","html_url":"https://github.com/brendan-rius/c-jwt-cracker/blob/master/README.md","git_url":"https://api.github.com/repos/brendan-rius/c-jwt-cracker/git/blobs/b93459f7d7735a8dec4caf3e423271b30d8b671e","download_url":"https://raw.githubusercontent.com/brendan-rius/c-jwt-cracker/master/README.md","type":"file","content":"IyBKV1QgY3JhY2tlcgoKQSBtdWx0aS10aHJlYWRlZCBKV1QgYnJ1dGUtZm9y\nY2UgY3JhY2tlciB3cml0dGVuIGluIEMuIElmIHlvdSBhcmUgdmVyeSBsdWNr\neSBvciBoYXZlIGEgaHVnZSBjb21wdXRpbmcgcG93ZXIsIHRoaXMgcHJvZ3Jh\nbSBzaG91bGQgZmluZCB0aGUgc2VjcmV0IGtleSBvZiBhIEpXVCB0b2tlbiwg\nYWxsb3dpbmcgeW91IHRvIGZvcmdlIHZhbGlkIHRva2Vucy4gVGhpcyBpcyBm\nb3IgdGVzdGluZyBwdXJwb3NlcyBvbmx5LCBkbyBub3QgcHV0IHlvdXJzZWxm\nIGluIHRyb3VibGUgOikKCkkgdXNlZCB0aGUgW0FwcGxlIEJhc2U2NCBpbXBs\nZW1lbnRhdGlvbl0oaHR0cHM6Ly9vcGVuc291cmNlLmFwcGxlLmNvbS9zb3Vy\nY2UvUXVpY2tUaW1lU3RyZWFtaW5nU2VydmVyL1F1aWNrVGltZVN0cmVhbWlu\nZ1NlcnZlci00NTIvQ29tbW9uVXRpbGl0aWVzTGliL2Jhc2U2NC5jKSB0aGF0\nIEkgbW9kaWZpZWQgc2xpZ2h0bHkuCgojIyBDb21waWxlCgpNYWtlIHN1cmUg\neW91IGhhdmUgb3BlbnNzbCdzIGhlYWRlcnMgaW5zdGFsbGVkLgpPbiBVYnVu\ndHUgeW91IGNhbiBpbnN0YWxsIHRoZW0gd2l0aCBgYXB0LWdldCBpbnN0YWxs\nIGxpYnNzbC1kZXZgCgpgYGAKbWFrZQpgYGAKCklmIHlvdSB1c2UgYSBNYWMs\nIHlvdSBjYW4gaW5zdGFsbCBPcGVuU1NMIHdpdGggYGJyZXcgaW5zdGFsbCBv\ncGVuc3NsYCwgYnV0IHRoZSBoZWFkZXJzIHdpbGwgYmUgc3RvcmVkIGluIGEK\nZGlmZmVyZW50IGxvY2F0aW9uOgoKYGBgCm1ha2UgT1BFTlNTTD0vdXNyL2xv\nY2FsL29wdC9vcGVuc3NsL2luY2x1ZGUgT1BFTlNTTF9MSUI9LUwvdXNyL2xv\nY2FsL29wdC9vcGVuc3NsL2xpYgpgYGAKCiMjIFJ1bgoKYGBgCiQgPiAuL2p3\ndGNyYWNrIGV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5l\neUp6ZFdJaU9pSXhNak0wTlRZM09Ea3dJaXdpYm1GdFpTSTZJa3B2YUc0Z1JH\nOWxJaXdpWVdSdGFXNGlPblJ5ZFdWOS5jQU9JQWlmdTNmeWt2aGtIcGJ1aGJ2\ndEg4MDctWjJySTFGUzN2WDFYTWpFCmBgYAoKSW4gdGhlIGFib3ZlIGV4YW1w\nbGUsIHRoZSBrZXkgaXMgYFNuMWZgLiBJdCB0YWtlcyBhcHByb3hpbWF0ZWx5\nIDIgc2Vjb25kcyB0byBjcmFjayBvbiBteSBNYWNib29rLgoKIyMgQ29udHJp\nYnV0ZQoKICogTm8gcHJvZ3Jlc3Mgc3RhdHVzCiAqIElmIHlvdSBzdG9wIHRo\nZSBwcm9ncmFtLCB5b3UgY2Fubm90IHN0YXJ0IGJhY2sgd2hlcmUgeW91IHdl\ncmUKIAojIyBJTVBPUlRBTlQ6IEtub3duIGJ1Z3MKClRoZSBiYXNlNjQgaW1w\nbGVtZW50YXRpb24gSSB1c2UgKGZyb20gQXBwbGUpIGlzIHNvbWV0aW1lcyBi\ndWdneSBiZWNhdXNlIG5vdCBldmVyeSBCYXNlNjQgaW1wbGVtZW50YXRpb24g\naXMgdGhlIHNhbWUuClNvIHNvbWV0aW1lcywgZGVjcnlwdGluZyBvZiB5b3Vy\nIEJhc2U2NCB0b2tlbiB3aWxsIG9ubHkgd29yayBwYXJ0aWFsbHkgYW5kIHRo\ndXMgeW91IHdpbGwgYmUgYWJsZSB0byBmaW5kIGEgc2VjcmV0IHRvIHlvdXIg\ndG9rZW4gdGhhdCBpcyBub3QgdGhlIGNvcnJlY3Qgb25lLgoKSWYgc29tZW9u\nZSBpcyB3aWxsaW5nIHRvIGltcGxlbWVudCBhIG1vcmUgcm9idXN0IEJhc2U2\nNCBpbXBsZW1lbnRhdGlvbiwgdGhhdCB3b3VsZCBiZSBncmVhdCA6KQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/brendan-rius/c-jwt-cracker/contents/README.md?ref=master","git":"https://api.github.com/repos/brendan-rius/c-jwt-cracker/git/blobs/b93459f7d7735a8dec4caf3e423271b30d8b671e","html":"https://github.com/brendan-rius/c-jwt-cracker/blob/master/README.md"}}
+0
+

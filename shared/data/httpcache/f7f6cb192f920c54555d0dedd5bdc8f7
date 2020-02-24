@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:14:08 GMT
+Etag: W/"1b2ad711bafb3e753139d02857feacf6"
+Last-Modified: Tue, 19 Sep 2017 16:28:49 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:89189:A48F5:5E53B000
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3334
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b2a
+{"name":"README.md","path":"README.md","sha":"a0f40f1f0cd0fa282399dc7c76852847323e9b7b","size":1528,"url":"https://api.github.com/repos/cldrn/macphish/contents/README.md?ref=master","html_url":"https://github.com/cldrn/macphish/blob/master/README.md","git_url":"https://api.github.com/repos/cldrn/macphish/git/blobs/a0f40f1f0cd0fa282399dc7c76852847323e9b7b","download_url":"https://raw.githubusercontent.com/cldrn/macphish/master/README.md","type":"file","content":"IyBtYWNwaGlzaApPZmZpY2UgZm9yIE1hYyBNYWNybyBQYXlsb2FkIEdlbmVy\nYXRvcgohW21hY3BoaXNoXShtYWNwaGlzaC1hbHBoYS5wbmc/cmF3PXRydWUg\nIm1hY3BoaXNoIikKCiMjIEF0dGFjayB2ZWN0b3JzClRoZXJlIGFyZSA0IGF0\ndGFjayB2ZWN0b3JzIGF2YWlsYWJsZToKKiBiZWFjb24KKiBjcmVkcwoqIG1l\ndGVycHJldGVyCiogbWV0ZXJwcmV0ZXItZ3JhbnQKCkZvciB0aGUgJ2NyZWRz\nJyBtZXRob2QsIG1hY3BoaXNoIGNhbiBnZW5lcmF0ZSB0aGUgQXBwbGVzY3Jp\ncHQgc2NyaXB0IGRpcmVjdGx5LCBpbiBjYXNlIHlvdSBuZWVkIHRvIHJ1biBp\ndCBmcm9tIGEgc2hlbGwuIAoKIyMjIGJlYWNvbgpPbiBleGVjdXRpb24sIHRo\naXMgcGF5bG9hZCB3aWxsIHNpZ25hbCBvdXIgbGlzdGVuaW5nIGhvc3QgYW5k\nIHByb3ZpZGUgYmFzaWMgc3lzdGVtIGluZm9ybWF0aW9uIGFib3V0IHRoZSB2\naWN0aW0uIFRoZSBzaW1wbGVzdCB3YXkgb2YgZ2VuZXJhdGluZyBhIGJlYWNv\nbiBwYXlsb2FkIGlzOgpgYGAKJC4vbWFjcGhpc2gucHkgLWxoIDxsaXN0ZW5p\nbmcgaG9zdD4gCmBgYApCeSBkZWZhdWx0LCBpdCB1c2VzIGN1cmwgYnV0IG90\naGVyIHV0aWxpdGllcyAod2dldCwgbnNsb29rdXApIGNhbiBiZSB1c2VkIGJ5\nIG1vZGlmeWluZyB0aGUgY29tbWFuZCB0ZW1wbGF0ZS4gCgojIyMgY3JlZHMK\nYGBgCiQuL21hY3BoaXNoLnB5IC1saCA8bGlzdGVuaW5nIGhvc3Q+IC1scCA8\nbGlzdGVuaW5nIHBvcnQ+IC1hIGNyZWRzCmBgYAojIyMgbWV0ZXJwcmV0ZXIK\nVGhlIHNpbXBsZXN0IHdheSBvZiBnZW5lcmF0aW5nIGEgbWV0ZXJwcmV0ZXIg\ncGF5bG9hZCBpczoKYGBgCiQuL21hY3BoaXNoLnB5IC1saCA8bGlzdGVuaW5n\nIGhvc3Q+IC1scCA8bGlzdGVuaW5nIHBvcnQ+IC1wIDxwYXlsb2FkPiAtYSBt\nZXRlcnByZXRlciAKYGBgCiMjIyBtZXRlcnByZXRlci1ncmFudApUaGUgZ2Vu\nZXJhdGUgYSBtZXRlcnByZXRlciBwYXlsb2FkIHRoYXQgY2FsbHMgR3JhbnRB\nY2Nlc3NUb011bHRpcGxlRmlsZXMoKSBmaXJzdDoKYGBgCiQuL21hY3BoaXNo\nLnB5IC1saCA8bGlzdGVuaW5nIGhvc3Q+IC1scCA8bGlzdGVuaW5nIHBvcnQ+\nIC1wIDxwYXlsb2FkPiAtYSBtZXRlcnByZXRlci1ncmFudApgYGAKCkZvciBt\nZXRlcnByZXRlciBhdHRhY2tzLCBvbmx5IHB5dGhvbiBwYXlsb2FkcyBhcmUg\nc3VwcG9ydGVkIGF0IHRoZSBtb21lbnQuIAoKIyMgVXNhZ2UKU2VlIGh0dHBz\nOi8vZ2l0aHViLmNvbS9jbGRybi9tYWNwaGlzaC93aWtpL1VzYWdlCgojIyBQ\nb0NzCiogPGh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9vcGVuP2lkPTBCelBS\nOGV4RzBrdDZUbFkxVVdoaWVtVktSbmM+CiogPGh0dHBzOi8vZHJpdmUuZ29v\nZ2xlLmNvbS9vcGVuP2lkPTBCelBSOGV4RzBrdDZXV1V6VTB0S1VqRmhkamc+\nCiogPGh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9vcGVuP2lkPTBCelBSOGV4\nRzBrdDZWemxhV1ZWSmRFdE5SMGs+CiogPGh0dHBzOi8vZHJpdmUuZ29vZ2xl\nLmNvbS9vcGVuP2lkPTBCelBSOGV4RzBrdDZTbkp3TTAxS1N6QXpNakE+Cg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/cldrn/macphish/contents/README.md?ref=master","git":"https://api.github.com/repos/cldrn/macphish/git/blobs/a0f40f1f0cd0fa282399dc7c76852847323e9b7b","html":"https://github.com/cldrn/macphish/blob/master/README.md"}}
+0
+

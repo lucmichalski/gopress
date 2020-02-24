@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:27:37 GMT
+Etag: W/"122bda5f7f926c31f5acde9fc2c5cd9b"
+Last-Modified: Fri, 01 Sep 2017 21:15:22 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:1EEAA:25059:5E53B328
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 967
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+cb3
+{"name":"README.md","path":"README.md","sha":"9d338d36efa28df63025008372a410f373a891a4","size":1798,"url":"https://api.github.com/repos/h0nus/RogueSploit/contents/README.md?ref=master","html_url":"https://github.com/h0nus/RogueSploit/blob/master/README.md","git_url":"https://api.github.com/repos/h0nus/RogueSploit/git/blobs/9d338d36efa28df63025008372a410f373a891a4","download_url":"https://raw.githubusercontent.com/h0nus/RogueSploit/master/README.md","type":"file","content":"PGltZyBzcmM9Imh0dHA6Ly9pLmltZ3VyLmNvbS9JMkRETHZkLnBuZyI+PGJy\nPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9EZXYt\nQWxpdmUtYnJpZ2h0Z3JlZW4uc3ZnIj4gPGltZyBzcmM9Imh0dHBzOi8vaW1n\nLnNoaWVsZHMuaW8vYmFkZ2UvVmVyc2lvbi0wLjYtcmVkLnN2ZyI+CjxpbWcg\nc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2dpdGh1Yi9pc3N1ZXMvSDBu\ndXMvUm9ndWVTcGxvaXQuc3ZnIj4gPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNo\naWVsZHMuaW8vZ2l0aHViL3N0YXJzL0gwbnVzL1JvZ3VlU3Bsb2l0LnN2ZyI+\nCjwvYnI+CjxoMj5GT1IgQSBDT1JSRUNUIFVTRSwgUExFQVNFIElOU1RBTEwg\nSU5UTyAvcm9vdC8gRElSISE8L2gyPgoKUm9ndWVTcGxvaXQgaXMgYW4gb3Bl\nbiBzb3VyY2UgYXV0b21hdGVkIHNjcmlwdCBtYWRlIHRvIGNyZWF0ZSBhIEZh\na2UgQWNjZXMgUG9pbnQsIHdpdGggZGhjcGQgc2VydmVyLCBkbnMgc3Bvb2Zp\nbmcsIGhvc3QgcmVkaXJlY3Rpb24sIGJyb3dzZXJfYXV0b3B3bjEgb3IgYXV0\nb3B3bjIgb3IgYmVlZittaXRtZi48L2hyPgo8Yj5UTyBETyBMSVNUOjwvYj4K\nLSBBZGQgQmVFRjtbRE9ORV0KLSBBZGQgTUlUTUY7W0RPTkVdCi0gQWRkIEJE\nRlByb3h5OwotIEFkZCBTZVRvb2xraXQ7Ci0gQWRkIEhvc3RhcGQgYXMgZmFr\nZSBhcDsKLSBBZGQgc29tZSBmZWF0dXJlczsKCjxoMz5PTkxZIEZPUiBMRUdB\nTCAvIEFVVEhPUklaRUQgLyBTVFVEWSBQVVJQT1NFUzwvaDM+CgoqKioKCldo\nYXQgeW91IG5lZWQ6Ci0gQWlyY3JhY2stbmcgU3VpdGUgW2h0dHBzOi8vZ2l0\naHViLmNvbS9haXJjcmFjay1uZy9haXJjcmFjay1uZ108aHIgLz4KLSBEaGNw\nZCBzZXJ2ZXI8aHIgLz4KLSBNZXRhc3Bsb2l0IEZyYW1ld29yayBbaHR0cHM6\nLy9naXRodWIuY29tL3JhcGlkNy9tZXRhc3Bsb2l0LWZyYW1ld29ya108aHIg\nLz4KLSBCcm93c2VyIEV4cGxvaXRhdGlvbiBGcmFtZXdvcmsgW2h0dHBzOi8v\nZ2l0aHViLmNvbS9iZWVmcHJvamVjdC9iZWVmXTxociAvPgotIGRuc21hc3E8\naHIgLz4KLSBHTlUgLyBMaW51eCBiYXNlZCBPcGVyYXRpbmcgU2lzdGVtIFto\ndHRwczovL2thbGkub3JnXTxociAvPgotIEV4dGVybmFsIFdpcmVsZXNzIElu\ndGVyZmFjZSBsaWtlIFRQLUxpbmsgVEwtV043MjJOPGhyIC8+Ci0gWmVuaXR5\nPGhyIC8+Ci0gSG9zdGFwZDxociAvPgotIFNvY2lhbCBFbmdpbmVlciBUb29s\na2l0IFtodHRwczovL2dpdGh1Yi5jb20vdHJ1c3RlZHNlYy9zb2NpYWwtZW5n\naW5lZXItdG9vbGtpdF08aHIgLz4KLSBNSVRNRiBbaHR0cHM6Ly9naXRodWIu\nY29tL2J5dDNibDMzZDNyL01JVE1mXQoKKioqCgoKPGgxPiBESVNDTEFJTUVS\nIDwvaDE+PC9ocj4KCioqKgo8aDM+PGI+PHU+Um9ndWVTcGxvaXQgaXMgaW50\nZW5kZWQgdG8gYmUgdXNlZCBmb3IgbGVnYWwgc2VjdXJpdHkgcHVycG9zZXMg\nb25seSwgYW5kIHlvdSBzaG91bGQgb25seSB1c2UgaXQgdG8gcHJvdGVjdCBo\nb3N0cyB5b3Ugb3duIG9yIGhhdmUgcGVybWlzc2lvbiB0byB0ZXN0LiBBbnkg\nb3RoZXIgdXNlIGlzIG5vdCB0aGUgcmVzcG9uc2liaWxpdHkgb2YgdGhlIGRl\ndmVsb3Blci4gQmUgc3VyZSB0aGF0IHlvdSB1bmRlcnN0YW5kIGFuZCBhcmUg\nY29tcGx5aW5nIHdpdGggdGhlIFJvZ3VlU3Bsb2l0IGxpY2Vuc2VzIGFuZCBs\nYXdzIGluIHlvdXIgYXJlYS4gSW4gb3RoZXIgd29yZHMsIGRvbid0IGJlIHN0\ndXBpZCwgZG9uJ3QgYmUgYW4gYXNzaG9sZSwgYW5kIHVzZSB0aGlzIHRvb2wg\ncmVzcG9uc2libHkgYW5kIGxlZ2FsbHkuPC91PjwvYj48L2gzPgoKKioqCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/h0nus/RogueSploit/contents/README.md?ref=master","git":"https://api.github.com/repos/h0nus/RogueSploit/git/blobs/9d338d36efa28df63025008372a410f373a891a4","html":"https://github.com/h0nus/RogueSploit/blob/master/README.md"}}
+0
+

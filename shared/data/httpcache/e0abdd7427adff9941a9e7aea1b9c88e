@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:11:26 GMT
+Etag: W/"7962398441fd5718aa9c74f529f833e6"
+Last-Modified: Mon, 09 Jul 2012 11:11:54 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:724A9:89676:5E53AF5E
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3806
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b52
+{"name":"README.creole","path":"README.creole","sha":"a261bbf410c5d6194b436469594ae927db29d88f","size":1517,"url":"https://api.github.com/repos/jedie/django-kippo/contents/README.creole?ref=master","html_url":"https://github.com/jedie/django-kippo/blob/master/README.creole","git_url":"https://api.github.com/repos/jedie/django-kippo/git/blobs/a261bbf410c5d6194b436469594ae927db29d88f","download_url":"https://raw.githubusercontent.com/jedie/django-kippo/master/README.creole","type":"file","content":"PT0gZGphbmdvLWtpcHBvCgpEamFuZ28gQXBwIGZvciB0aGUgU1NIIEhvbmV5\ncG90IGNhbGxlZCAna2lwcG8nOiBodHRwczovL2NvZGUuZ29vZ2xlLmNvbS9w\nL2tpcHBvLwoKSXQncyBhIHNpbXBsZSBkamFuZ28gYXBwIHRoYXRzIGFjY2Vz\ncyB0byB0aGUgTXlTUUwgZGF0YSBvZiBraXBwby4KWW91IGNhbiBicm93c2Ug\ndG8gdGhlbSBpbiB0aGUgZGphbmdvIGFkbWluIHBhbmVsLgoKCj09PSBpbnN0\nYWxsCgpJbnN0YWxsIHNvbWUgcGFja2FnZXM6Cnt7ewp+JCBzdWRvIGFwdGl0\ndWRlIGluc3RhbGwgcHl0aG9uLXZpcnR1YWxlbnYgZ2l0LWNvcmUKfX19Ciog\nKipweXRob24tdmlydHVhbGVudioqOiBmb3IgY3JlYXR0aW5nIHZpcnR1YWwg\nZW52aXJvbm1lbnRzCiogKipnaXQtY29yZSoqOiBmb3IgaW5zdGFsbCBkamFu\nZ28ta2lwcG8gYXMgImVkaXRhYmxlIiAKCkNyZWF0ZSBhIG5ldyB2aXJ0dWFs\nIHB5dGhvbiBlbnZpcm9ubWVudDoKe3t7Cn4kIHZpcnR1YWxlbnYgZGphbmdv\nLWtpcHBvLWVudgp9fX0KCkdvIGludG8gZW52IGFuZCBhY3RpdmF0ZSBpdDoK\ne3t7Cn4kIGNkIGRqYW5nby1raXBwby1lbnYKfi9kamFuZ28ta2lwcG8tZW52\nJCBzb3VyY2UgYmluL2FjdGl2YXRlCn19fQoKSW5zdGFsbCBkamFuZ28ta2lw\ncG8gYXMgYSBlZGl0YWJsZSBwYWNrYWdlOgp7e3sKKGRqYW5nby1raXBwby1l\nbnYpfi9kamFuZ28ta2lwcG8tZW52JCBwaXAgaW5zdGFsbCAtZSBnaXQrZ2l0\nOi8vZ2l0aHViLmNvbS9qZWRpZS9kamFuZ28ta2lwcG8uZ2l0Cn19fQoKSW5z\ndGFsbCBQeXRob24gaW50ZXJmYWNlIHRvIE15U1FMOgp7e3sKKGRqYW5nby1r\naXBwby1lbnYpfi9kamFuZ28ta2lwcG8tZW52JCBwaXAgaW5zdGFsbCBNeVNR\nTC1weXRob24KfX19Cgo9PT0gdGVzdAoKVGhlcmUgZXhpc3RzIGEgdGVzdCBw\ncm9qZWN0IGZvciBlYXN5IHN0YXJ0dXAuClJlYWQ6IFtbaHR0cHM6Ly9naXRo\ndWIuY29tL2plZGllL2RqYW5nby1raXBwby90cmVlL21hc3Rlci9kamFuZ29f\na2lwcG9fdGVzdF9wcm9qZWN0fC9kamFuZ29fa2lwcG9fdGVzdF9wcm9qZWN0\nL1JFQURNRS5jcmVvbGVdXSBmb3IgbW9yZSBpbmZvcm1hdGlvbi4KCgo9PT0g\nY2xpCgpVbmRlciBbW2h0dHBzOi8vZ2l0aHViLmNvbS9qZWRpZS9kamFuZ28t\na2lwcG8vdHJlZS9tYXN0ZXIvY2xpX3NjcmlwdHN8L2NsaV9zY3JpcHRzL11d\nIGFyZSBzb21lIG9sZGVyIGNvbW1hbmRsaW5lIHNjcmlwdHMuCgoKPT09IExp\nbmtzCgp8IElSQyAgICAgICAgICAgICAgICAgfCBbW2h0dHA6Ly93d3cucHls\ndWNpZC5vcmcvcGVybWFsaW5rLzMwNC9pcmMtY2hhbm5lbHwjcHlsdWNpZCBv\nbiBmcmVlbm9kZS5uZXRdXQp8IEdpdGh1YiAgICAgICAgICAgICAgfCBbW2h0\ndHA6Ly9naXRodWIuY29tL2plZGllL2RqYW5nby1raXBwb11dCnwgUHl0aG9u\nIFBhY2thZ2VzICAgICB8IFtbaHR0cDovL3B5cGkucHl0aG9uLm9yZy9weXBp\nL2RqYW5nby1raXBwby9dXQp8IGtpcHBvIGhvbWVwYWdlICAgICAgfCBbW2h0\ndHBzOi8vY29kZS5nb29nbGUuY29tL3Ava2lwcG8vXV0=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/jedie/django-kippo/contents/README.creole?ref=master","git":"https://api.github.com/repos/jedie/django-kippo/git/blobs/a261bbf410c5d6194b436469594ae927db29d88f","html":"https://github.com/jedie/django-kippo/blob/master/README.creole"}}
+0
+

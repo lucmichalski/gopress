@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:27:34 GMT
+Etag: W/"3fbff721714c8abdde92cf2e91456379"
+Last-Modified: Wed, 06 Nov 2013 14:02:45 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:1EADE:24BEB:5E53B325
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 977
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+872
+{"name":"README.md","path":"README.md","sha":"4262d901ee8ff1d85adb583b7a3154b9fe8d10fe","size":1013,"url":"https://api.github.com/repos/nccgroup/CECster/contents/README.md?ref=master","html_url":"https://github.com/nccgroup/CECster/blob/master/README.md","git_url":"https://api.github.com/repos/nccgroup/CECster/git/blobs/4262d901ee8ff1d85adb583b7a3154b9fe8d10fe","download_url":"https://raw.githubusercontent.com/nccgroup/CECster/master/README.md","type":"file","content":"Q0VDU1RlUgo9PT09PT09CkNFQ1NUZVIgaXMgdGhlIENvbnN1bWVyIEVsZWN0\ncm9uaWNzIENvbnRyb2wgU2VjdXJpdHkgVGVzdGluZyBSZXNvdXJjZSAtIGEg\nR1VJLWJhc2VkIHRvb2wgdG8gcGVyZm9ybSBzZWN1cml0eSB0ZXN0aW5nIGFn\nYWluc3QgdGhlIEhETUkgQ0VDIChDb25zdW1lciBFbGVjdHJvbmljcyBDb250\ncm9sKSBhbmQgSEVDIChIRE1JIEV0aGVybmV0IENoYW5uZWwpIHByb3RvY29s\ncwoKUmVsZWFzZWQgYXMgb3BlbiBzb3VyY2UgYnkgTkNDIEdyb3VwIFBsYyAt\nIGh0dHA6Ly93d3cubmNjZ3JvdXAuY29tLwoKRGV2ZWxvcGVkIGJ5IEFuZHkg\nRGF2aXMsIGFuZHkgZG90IGRhdmlzIGF0IG5jY2dyb3VwIGRvdCBjb20KCmh0\ndHBzOi8vd3d3LmdpdGh1Yi5jb20vbmNjZ3JvdXAvQ0VDU1RlUgoKUmVsZWFz\nZWQgdW5kZXIgQUdQTCBzZWUgTElDRU5TRSBmb3IgbW9yZSBpbmZvcm1hdGlv\nbgoKIyMgRG9jdW1lbnRhdGlvbgoKRm9yIGZ1bGwgZGV0YWlscyBvZiBob3cg\ndG8gdXNlIHRoZSB0b29sIHBsZWFzZSByZWFkIHRoZSBIRE1JIEV0aGVybmV0\nIENoYW5uZWwgd2hpdGVwYXBlcjoKaHR0cHM6Ly9naXRodWIuY29tL25jY2dy\nb3VwL0NFQ3N0ZXIvYmxvYi9tYXN0ZXIvSERNSV9FdGhlcm5ldF9DaGFubmVs\nX3doaXRlcGFwZXIucGRmCgpJbiBvcmRlciB0byBnZXQgQ0VDU1RlUiB1cCBh\nbmQgcnVubmluZyB0aGVyZSBhcmUgYSBudW1iZXIgb2YgZGVwZW5kZW5jaWVz\nOgoKLSBQeXRob24gLSBodHRwOi8vd3d3LnB5dGhvbi5vcmcvZ2V0aXQvCi0g\nd3hQeXRob24gLSBodHRwOi8vd3d3Lnd4cHl0aG9uLm9yZy9kb3dubG9hZC5w\naHAjc3RhYmxlCi0gUHlzZXJpYWwgLSBodHRwOi8vcHlwaS5weXRob24ub3Jn\nL3B5cGkvcHlzZXJpYWwKCllvdSB3aWxsIGFsc28gbmVlZDoKCi0gUmFpblNo\nYWRvdyBUZWNoIFVTQi1DRUMgYnJpZGdlIC0gaHR0cDovL3JhaW5zaGFkb3d0\nZWNoLmNvbS9kZWZhdWx0X2ZpbGVzL0hETUlDRUNVU0IuaHRtCgpVc2FnZTog\nQ0VDU1RlUi5weSA8Q09NIHBvcnQ+Cgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/nccgroup/CECster/contents/README.md?ref=master","git":"https://api.github.com/repos/nccgroup/CECster/git/blobs/4262d901ee8ff1d85adb583b7a3154b9fe8d10fe","html":"https://github.com/nccgroup/CECster/blob/master/README.md"}}
+0
+

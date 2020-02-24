@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:32:59 GMT
+Etag: W/"e7e001de2a0511ec0a3fc228213bcca8"
+Last-Modified: Thu, 16 Jan 2020 21:50:20 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:37F33:43141:5E53B46B
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 177
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d9a
+{"name":"README.md","path":"README.md","sha":"7a03b3879a421bd1be1c0b5f4c42d9bac4836e08","size":1990,"url":"https://api.github.com/repos/s0md3v/Corsy/contents/README.md?ref=master","html_url":"https://github.com/s0md3v/Corsy/blob/master/README.md","git_url":"https://api.github.com/repos/s0md3v/Corsy/git/blobs/7a03b3879a421bd1be1c0b5f4c42d9bac4836e08","download_url":"https://raw.githubusercontent.com/s0md3v/Corsy/master/README.md","type":"file","content":"CjxoMSBhbGlnbj0iY2VudGVyIj4KICA8YnI+CiAgPGEgaHJlZj0iaHR0cHM6\nLy9naXRodWIuY29tL3MwbWQzdi9Db3JzeSI+PGltZyBzcmM9Imh0dHBzOi8v\naS5pYmIuY28vSzBaN1g5OS9jb3JzeS5wbmciIGFsdD0iQ29yc3kiPjwvYT4K\nICA8YnI+CiAgQ29yc3kKICA8YnI+CjwvaDE+Cgo8aDQgYWxpZ249ImNlbnRl\nciI+Q09SUyBNaXNjb25maWd1cmF0aW9uIFNjYW5uZXI8L2g0PgoKPHAgYWxp\nZ249ImNlbnRlciI+CiAgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3Mw\nbWQzdi9Db3JzeS9yZWxlYXNlcyI+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9p\nbWcuc2hpZWxkcy5pby9naXRodWIvcmVsZWFzZS9zMG1kM3YvQ29yc3kuc3Zn\nIj4KICA8L2E+CiAgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3MwbWQz\ndi9Db3JzeS9pc3N1ZXM/cT1pcyUzQWlzc3VlK2lzJTNBY2xvc2VkIj4KICAg\nICAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL2lz\nc3Vlcy1jbG9zZWQtcmF3L3MwbWQzdi9Db3JzeS5zdmciPgogIDwvYT4KPC9w\nPgoKIyMjIEludHJvZHVjdGlvbgpDb3JzeSBpcyBhIGxpZ2h0d2VpZ2h0IHBy\nb2dyYW0gdGhhdCBzY2FucyBmb3IgYWxsIGtub3duIG1pc2NvbmZpZ3VyYXRp\nb25zIGluIENPUlMgaW1wbGVtZW50YXRpb25zLgoKIVtkZW1vXShodHRwczov\nL2kuaWJiLmNvL0pjMUh0bVcvY29yc3kucG5nKQoKIyMjIFJlcXVpcmVtZW50\ncwpDb3JzeSBvbmx5IHdvcmtzIHdpdGggYFB5dGhvbiAzYCBhbmQgaGFzIHRo\nZSBmb2xsb3dpbmcgZGVwZW5jaWVzOgoKLSBgdGxkYAotIGByZXF1ZXN0c2AK\nClRvIGluc3RhbGwgdGhlc2UgZGVwZW5kZW5jaWVzLCBuYXZpZ2F0ZSB0byBD\nb3JzeSBkaXJlY3RvcnkgYW5kIGV4ZWN1dGUgYHBpcDMgaW5zdGFsbCAtciBy\nZXF1aXJlbWVudHMudHh0YAoKIyMjIFVzYWdlClVzaW5nIENvcnN5IGlzIHBy\nZXR0eSBzaW1wbGUKCmBweXRob24zIGNvcnN5LnB5IC11IGh0dHBzOi8vZXhh\nbXBsZS5jb21gCgojIyMjIyBTY2FuIFVSTHMgZnJvbSBhIGZpbGUKYHB5dGhv\nbjMgY29yc3kucHkgLWkgL3BhdGgvdXJscy50eHRgCgojIyMjIyBOdW1iZXIg\nb2YgdGhyZWFkcwpgcHl0aG9uMyBjb3JzeS5weSAtdSBodHRwczovL2V4YW1w\nbGUuY29tIC10IDIwYAoKIyMjIyMgRGVsYXkgYmV0d2VlbiByZXF1ZXN0cwpg\ncHl0aG9uMyBjb3JzeS5weSAtdSBodHRwczovL2V4YW1wbGUuY29tIC1kIDJg\nCgojIyMjIyBFeHBvcnQgcmVzdWx0cyB0byBKU09OCmBweXRob24zIGNvcnN5\nLnB5IC1pIC9wYXRoL3VybHMudHh0IC1vIC9wYXRoL291dHB1dC5qc29uYAoK\nIyMjIyMgQ3VzdG9tIEhUVFAgaGVhZGVycwpgcHl0aG9uMyBjb3JzeS5weSAt\ndSBodHRwczovL2V4YW1wbGUuY29tIC0taGVhZGVycyAiVXNlci1BZ2VudDog\nR29vZ2xlQm90XG5Db29raWU6IFNFU1NJT049SGFja2VkImAKCiMjIyMjIFNr\naXAgcHJpbnRpbmcgdGlwcwpgLXFgIGNhbiBiZSB1c2VkIHRvIHNraXAgcHJp\nbnRpbmcgb2YgYGRlc2NyaXB0aW9uYCwgYHNldmVyaXR5YCwgYGV4cGxvaXRh\ndGlvbmAgZmllbGRzIGluIHRoZSBvdXRwdXQuCgojIyMgVGVzdHMgaW1wbGVt\nZW50ZWQKLSBQcmUtZG9tYWluIGJ5cGFzcwotIFBvc3QtZG9tYWluIGJ5cGFz\ncwotIEJhY2t0aWNrIGJ5cGFzcwotIE51bGwgb3JpZ2luIGJ5cGFzcwotIFVu\nZXNjYXBlZCBkb3QgYnlwYXNzCi0gSW52YWxpZCB2YWx1ZQotIFdpbGQgY2Fy\nZCB2YWx1ZQotIE9yaWdpbiByZWZsZWN0aW9uIHRlc3QKLSBUaGlyZCBwYXJ0\neSBhbGxvd2FuY2UgdGVzdAotIEhUVFAgYWxsb3dhbmNlIHRlc3QKIyMjIFN1\ncHBvcnQgdGhlIGRldmVsb3BlcgpMaWtlZCB0aGUgcHJvamVjdD8gRG9uYXRl\nIGEgZmV3IGJ1Y2tzIHRvIG1vdGl2YXRlIG1lIHRvIGtlZXAgd3JpdGluZyBj\nb2RlIGZvciBmcmVlLgoKLSBbUGF5cGFsXShodHRwczovL3d3dy5wYXlwYWwu\nbWUvczBtZDN2KQotIFtQYXRyZW9uXShodHRwczovL3d3dy5wYXRyZW9uLmNv\nbS9zMG1kM3YpCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/s0md3v/Corsy/contents/README.md?ref=master","git":"https://api.github.com/repos/s0md3v/Corsy/git/blobs/7a03b3879a421bd1be1c0b5f4c42d9bac4836e08","html":"https://github.com/s0md3v/Corsy/blob/master/README.md"}}
+0
+

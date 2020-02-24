@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:17:48 GMT
+Etag: W/"e1718281aa094f7d6e3d0a836d1ca7d9"
+Last-Modified: Thu, 04 Jun 2015 17:18:00 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:8F788:AAB10:5E53B0DB
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2697
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+7f6
+{"name":"README.md","path":"README.md","sha":"ad8fe0a98190620fbc437a5b33904400caa64124","size":930,"url":"https://api.github.com/repos/seb-m/pyinotify/contents/README.md?ref=master","html_url":"https://github.com/seb-m/pyinotify/blob/master/README.md","git_url":"https://api.github.com/repos/seb-m/pyinotify/git/blobs/ad8fe0a98190620fbc437a5b33904400caa64124","download_url":"https://raw.githubusercontent.com/seb-m/pyinotify/master/README.md","type":"file","content":"IyBQeWlub3RpZnkKCiogTGljZW5zZSAgICAgICAgICA6IE1JVAoqIFByb2pl\nY3QgVVJMICAgICAgOiBbaHR0cDovL2dpdGh1Yi5jb20vc2ViLW0vcHlpbm90\naWZ5XShodHRwOi8vZ2l0aHViLmNvbS9zZWItbS9weWlub3RpZnkpCiogUHJv\namVjdCBXaWtpICAgICA6IFtodHRwOi8vZ2l0aHViLmNvbS9zZWItbS9weWlu\nb3RpZnkvd2lraV0oaHR0cDovL2dpdGh1Yi5jb20vc2ViLW0vcHlpbm90aWZ5\nL3dpa2kpCiogQVBJIERvY3VtZW50YXRpb246IFtodHRwOi8vc2ViLW0uZ2l0\naHViLmNvbS9weWlub3RpZnldKGh0dHA6Ly9zZWItbS5naXRodWIuY29tL3B5\naW5vdGlmeSkKCgojIyBEZXBlbmRlbmNpZXMKCiogTGludXgg4omlIDIuNi4x\nMwoqIFB5dGhvbiDiiaUgMi40IChpbmNsdWRpbmcgUHl0aG9uIDMueCkKCgoj\nIyBJbnN0YWxsCgojIyMgR2V0IHRoZSBjdXJyZW50IHN0YWJsZSB2ZXJzaW9u\nIGZyb20gUHlQSSBhbmQgaW5zdGFsbCBpdCB3aXRoIGBwaXBgCgogICAgIyBU\nbyBpbnN0YWxsIHBpcCBmb2xsb3cgaHR0cDovL3d3dy5waXAtaW5zdGFsbGVy\nLm9yZy9lbi9sYXRlc3QvaW5zdGFsbGluZy5odG1sCiAgICAkIHN1ZG8gcGlw\nIGluc3RhbGwgcHlpbm90aWZ5CgojIyMgT3IgaW5zdGFsbCBQeWlub3RpZnkg\nZGlyZWN0bHkgZnJvbSBzb3VyY2UKCiAgICAjIENob29zZSB5b3VyIFB5dGhv\nbiBpbnRlcnByZXRlcjogZWl0aGVyIHB5dGhvbiwgcHl0aG9uMi43LCBweXRo\nb24zLjIsLi4KICAgICMgUmVwbGFjaW5nIFhYWCBhY2NvcmRpbmdseSwgdHlw\nZToKICAgICQgc3VkbyBweXRob25YWFggc2V0dXAucHkgaW5zdGFsbAoKCiMj\nIFdhdGNoIGEgZGlyZWN0b3J5CgpJbnN0YWxsIHB5aW5vdGlmeSBhbmQgcnVu\nIHRoaXMgY29tbWFuZCBmcm9tIGEgc2hlbGw6CgogICAgJCBweXRob24gLW0g\ncHlpbm90aWZ5IC12IC9teS1kaXItdG8td2F0Y2gK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/seb-m/pyinotify/contents/README.md?ref=master","git":"https://api.github.com/repos/seb-m/pyinotify/git/blobs/ad8fe0a98190620fbc437a5b33904400caa64124","html":"https://github.com/seb-m/pyinotify/blob/master/README.md"}}
+0
+

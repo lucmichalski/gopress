@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:30 GMT
+Etag: W/"1ce2a256aaccbee3d1945af150205386"
+Last-Modified: Thu, 24 Jul 2014 20:47:26 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:532D4:637DF:5E53AEE9
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4156
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+7f5
+{"name":"README.md","path":"README.md","sha":"d1d2ddcecb05e13868d87be0d9046f6ff452569c","size":841,"url":"https://api.github.com/repos/Tripwire/OpenSSL-CCS-Inject-Test/contents/README.md?ref=master","html_url":"https://github.com/Tripwire/OpenSSL-CCS-Inject-Test/blob/master/README.md","git_url":"https://api.github.com/repos/Tripwire/OpenSSL-CCS-Inject-Test/git/blobs/d1d2ddcecb05e13868d87be0d9046f6ff452569c","download_url":"https://raw.githubusercontent.com/Tripwire/OpenSSL-CCS-Inject-Test/master/README.md","type":"file","content":"T3BlblNTTCBDQ1MgSW5qZWN0IFRlc3QKPT09PT09PT09PT09PT09PT09PT09\nPT0KClRoaXMgc2NyaXB0IGlzIGRlc2lnbmVkIGZvciBkZXRlY3Rpb24gb2Yg\ndnVsbmVyYWJsZSBzZXJ2ZXJzIChDVkUtMjAxNC0wMjI0LikgIGluIGEgd2lk\nZSByYW5nZSBvZiBjb25maWd1cmF0aW9ucy4gIEl0IGF0dGVtcHRzIHRvIG5l\nZ290aWF0ZSB1c2luZyBlYWNoIGFmZmVjdGVkIHByb3RvY29sIHZlcnNpb24g\nKFNTTHYzLCBUTFN2MSwgVExTdjEuMSwgYW5kIFRMU3YxLjIpIGFkdmVydGlz\naW5nIGEgY29tcHJlaGVuc2l2ZSBzZXQgb2YgY2lwaGVycy4KCkNoYW5nZXM6\nCgp2MC4xIC0gVXBkYXRlZCByZWNlaXZlIGJ1ZmZlciBzaXplcyB0byBhY2Nv\ndW50IGZvciBsb25nZXIgY2VydGlmaWNhdGUgbWVzc2FnZXMKCnYwLjIgLSBV\ncGRhdGVkIHJlY29yZCBwcm9jZXNzaW5nIHRvIHJlY29nbml6ZSBjbG9zdXJl\nIGFsZXJ0IHdoZW4gaW5jbHVkZWQgaW4gdGhlIHNhbWUgc2VnbWVudCBhcyBh\nbm90aGVyIFRMUyByZWNvcmQKCnYwLjMgLSBSZXZpc2VkIHdvcmRpbmcgdG8g\nY2xhcmlmeSB0b29sIG91dHB1dCBhbmQgdXBkYXRlZCBsb2dpYyB0byBwcm9w\nZXJseSByZWNvZ25pemUgc2Vzc2lvbiB0ZXJtaW5hdGlvbiBvdXRzaWRlIG9m\nIHN0YW5kYXJkIFJGQzIyNDYgCgpUaGlzIG9mZmxpbmUgdG9vbCBpcyBub3Qg\nc3VwcG9ydGVkIGFuZCBpcyBwcm92aWRlZCBmb3IgaW5mb3JtYXRpb25hbCBw\ndXJwb3NlcyBvbmx5LgpUaGlzIHRvb2wgdXNlcyBQeXRob24g4oCTIGxpY2Vu\nc2UgaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlIGhlcmU6IGh0dHA6Ly9vcGVu\nc291cmNlLm9yZy9saWNlbnNlcy9QeXRob24tMi4wCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Tripwire/OpenSSL-CCS-Inject-Test/contents/README.md?ref=master","git":"https://api.github.com/repos/Tripwire/OpenSSL-CCS-Inject-Test/git/blobs/d1d2ddcecb05e13868d87be0d9046f6ff452569c","html":"https://github.com/Tripwire/OpenSSL-CCS-Inject-Test/blob/master/README.md"}}
+0
+

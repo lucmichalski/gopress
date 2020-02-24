@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:21:40 GMT
+Etag: W/"1cd62c710578d8422080a05a521645b0"
+Last-Modified: Wed, 26 Sep 2018 19:25:17 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:347A:3F68:5E53B1C3
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2019
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d35
+{"name":"README.md","path":"README.md","sha":"4c9ba84a4b0a2e583a2ce8d6a4e07a557a781b48","size":1891,"url":"https://api.github.com/repos/SigPloiter/GTScan/contents/README.md?ref=master","html_url":"https://github.com/SigPloiter/GTScan/blob/master/README.md","git_url":"https://api.github.com/repos/SigPloiter/GTScan/git/blobs/4c9ba84a4b0a2e583a2ce8d6a4e07a557a781b48","download_url":"https://raw.githubusercontent.com/SigPloiter/GTScan/master/README.md","type":"file","content":"IyBHVFNjYW4KVGhlIE5tYXAgU2Nhbm5lciBmb3IgVGVsY28uIFdpdGggdGhl\nIGN1cnJlbnQgZm9jdXMgb24gdGVsZWNvbSBzZWN1cml0eSwgdGhlcmUgdXNl\nZCB0b29scyBpbiBkYXkgdG8gZGF5IElUIHNpZGUgcGVuZXRyYXRpb24gdGVz\ndGluZyBzaG91bGQKYmUgZXh0ZW5kZWQgdG8gdGVsZWNvbSBhcyB3ZWxsLiBG\ncm9tIGhlcmUgY2FtZSB0aGUgbW90aXZhdGlvbiBmb3IgYW4gbm1hcC1saWtl\nIHNjYW5uZXIgYnV0IGZvciB0ZWxjbwoKVGhlIGN1cnJlbnQgc2VjdXJpdHkg\naW50ZXJjb25uZWN0IHNlY3VyaXR5IGNvbnRyb2xzIG1pZ2h0IGZhaWwgYWdh\naW5zdCByZWNvbm5haXNzYW5jZSAsIGFsdGhvdWdoIG1vYmlsZSBvcGVyYXRv\ncnMgbWlnaHQgaW1wbGVtZW50IApTTVMgZmlyZXdhbGxzL3Byb3hpZXMsIElu\ndGVyY29ubmVjdCBmaXJld2FsbHMsIHNvbWUgb2YgdGhvc2UgbGVhayBpbmZv\ncm1hdGlvbiB0aGF0IGNvdWxkIGJlIHVzZWQgZm9yIGZ1cnRoZXIgaW5mb3Jt\nYXRpb24gZ2F0aGVyaW5nCnByb2Nlc3MuCgpUaGUgbW90aXZhdGlvbiBiZWhp\nbmQgdGhpcyBwcm9qZWN0LCBmaXJzdCBhZGRpbmcgYSBuZXcgdG9vbGtpbmcg\naW50byB0aGUgYXJzZW5hbCBvZiB0ZWxlY29tIHBlbmV0cmF0aW9uIHRlc3Rl\ncnMuIFNlY29uZCBnaXZlIHRoZQptb2JpbGUgb3BlcmF0b3JzIGEgd2F5IHRv\nIHRlc3QgdGhlaXIgY29udHJvbHMgdG8gYSBwcmltaXRpdmUgbWV0aG9kb2xv\nZ3kgc3VjaCBhcyBpbmZvcm1hdGlvbiBnYXRoZXJpbmcgYW5kIHJlY29ubmFp\nc3NhbmNlLgoKIyBIb3cgZG9lcyBpdCB3b3JrCkdUU2NhbiByZWxpZXMgb24g\ndXNpbmcgZW1wdHkgVENBUCBsYXllcnMgYXMgcHJvYmVzIHRvIGRldGVjdCBs\naXN0ZW5pbmcgc3Vic3lzdGVtIG51bWJlcnMgKGkuZSBhcHBsaWNhdGlvbiBw\nb3J0IG51bWJlcnMgbGlrZSA4MCBmb3IKaHR0cCwgNDQzIGZvciBodHRwcyBi\ndXQgZm9yIHRlbGVjb20gbm9kZXMpIG9uIHRoZSByZXNwZWN0aXZlIGdsb2Jh\nbCB0aXRsZXMuIFdpdGggdGhpcyB3YXkgd2lsbCBiZSBhYmxlIHRvIG1hcCB0\naGUgbmV0d29yawphbmQgdXNlIHRoZSByZXN1bHRzIHRvIGNvbmR1Y3QgdGFy\nZ2V0ZWQgZGlyZWN0IGF0dGFja3MgdG8gdGhlIHJlc3BlY3RpdmUgbm9kZXMu\nCgpHVFNjYW4gaW5jbHVkZXMgTWVzc2FnZSBoYW5kbGluZzogUmV0dXJuIG1l\nc3NhZ2Ugb24gZXJyb3IgaW4gdGhlIFNDQ1AgbGF5ZXIgdG8gZGV0ZXJtaW5l\nIGZyb20gdGhlIHJlc3BvbnNlIHdoYXQgaXMgdGhlIHNjYW5uZWQgbm9kZS4K\nSWYgYSBUQ0FQIGFib3J0IG1lc3NhZ2UgaXMgcmV0dXJuZWQgd2l0aCBhbiBl\ncnJvciBwLWFib3J0Q2F1c2U6IHVucmVjb2duaXplZE1lc3NhZ2VUeXBlICgw\nKSB0aHVzIHRoZSBkZXN0aW5hdGlvbiBub2RlcyBpcyBsaXN0ZW5pbmcKb24g\ndGhlIFNTTiB0aGF0IHdhcyBzY2FubmVkLCBlbHNlIHRoZW4gdGhlIHNjYW5u\nZXIgY29udGludWVzIHNjYW5uaW5nIG9uIG90aGVyIFNTTnMKCllvdSBjYW4g\ncHJvdmlkZSBHVHNjYW4gYSByYW5nZSBvZiBnbG9iYWwgdGl0bGVzIHRvIGJl\nIHNjYW5uZWQsIGEgY29tbWEtc2VwYXJhdGVkIG9yIGEgc2luZ2xlIEdUIHRv\nIGJlIHNjYW5uZWQsIGFsb25nIHdpdGggb3RoZXIKcGFyYW1ldGVycwoKIyBS\nZXF1aXJlbWVudHMKcHl0aG9uMwoKcGlwMyBpbnN0YWxsIC1yIHJlcXVpcmVt\nZW50cy50eHQKCkFuZCBvZiBjb3Vyc2UgYW4gU1M3L1NpZ3RyYW4gYWNjZXNz\nIDopCgojIFVzYWdlCgpFeGFtcGxlOiAuL0dUU2Nhbi5weSAtRyAyMDE1MDAw\nMDAwMDAsMjAxNTAwMDAwMDAyIC1nIDk2NTEyMzQ1Njc4MCAtYyAxIC1DIDIg\nLXAgMjkwNSAtUCAyOTA2IC1sIDE5Mi4xNjguNTYuMSAtciAxOTIuMTY4LjU2\nLjEwMgoKCgpBbGwgY29udHJpYnV0aW9ucyBhcmUgbW9zdGx5IHdlbGNvbWVk\nCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/SigPloiter/GTScan/contents/README.md?ref=master","git":"https://api.github.com/repos/SigPloiter/GTScan/git/blobs/4c9ba84a4b0a2e583a2ce8d6a4e07a557a781b48","html":"https://github.com/SigPloiter/GTScan/blob/master/README.md"}}
+0
+

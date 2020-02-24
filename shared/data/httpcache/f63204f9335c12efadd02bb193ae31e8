@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:53 GMT
+Etag: W/"eaa358b3bb5e2e8dc63182ecd5e4a095"
+Last-Modified: Tue, 19 Dec 2017 16:29:19 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:1B6AC:20D92:5E53B2FD
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1081
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+cef
+{"name":"README.md","path":"README.md","sha":"cf01b4f8bbaf4c4ec35f461d48b042e779e678e8","size":1832,"url":"https://api.github.com/repos/mitre/caldera-agent/contents/README.md?ref=master","html_url":"https://github.com/mitre/caldera-agent/blob/master/README.md","git_url":"https://api.github.com/repos/mitre/caldera-agent/git/blobs/cf01b4f8bbaf4c4ec35f461d48b042e779e678e8","download_url":"https://raw.githubusercontent.com/mitre/caldera-agent/master/README.md","type":"file","content":"IyBDQUxERVJBIEFnZW50CgpUaGUgYGNhbGRlcmFfYWdlbnRgIGZvbGRlciBj\nb250YWlucyB0aGUgc291cmNlIGNvZGUgb2YgdGhlIENBTERFUkEgYWdlbnQg\nb3IgCipjYWdlbnQqIGEgV2luZG93cyBzZXJ2aWNlIHRoYXQgZmFjaWxpdGF0\nZXMgY29tbXVuaWNhdGlvbiBiZXR3ZWVuCnRoZSBDQUxERVJBIHNlcnZlciBh\nbmQgdGhlIENBTERFUkEgUmF0cy4gVGhlIGNhZ2VudCBwcm9ncmFtIHNob3Vs\nZCBiZSBpbnN0YWxsZWQgCm9uIGV2ZXJ5IGNvbXB1dGVyIHRoYXQgaXMgdGFr\naW5nIHBhcnQgaW4gdGhlIGFkdmVyc2FyeSBlbXVsYXRpb24gb3BlcmF0aW9u\nLgpPbmNlIGNvbmZpZ3VyZWQsIHRoZXkgd2lsbCBjb25uZWN0IHRvIHRoZSBD\nQUxERVJBIHNlcnZlcgphbmQgYmUgYWRkZWQgYXMgYW4gb3B0aW9uIHRvIHRh\na2UgcGFydCBpbiBhbiBvcGVyYXRpb24uIAoKIyMjIEluc3RhbGxhdGlvbiBS\nZXF1aXJlbWVudHMKVGhlIGZvbGxvd2luZyBhcmUgcmVxdWlyZWQgb24gY29t\ncHV0ZXJzIHRoYXQgdGhlIENBTERFUkEgQWdlbnQgd2lsbCBiZSBpbnN0YWxs\nZWQgb24KCiAtIFdpbmRvd3MgNjQgYml0CiAtIFtWaXN1YWwgQysrIFJlZGlz\ndHJpYnV0YWJsZV0oaHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9k\nb3dubG9hZC9kZXRhaWxzLmFzcHg/aWQ9NDgxNDUpCgpQcmUtY29tcGlsZWQg\ndmVyc2lvbnMgb2YgY2FnZW50IGFyZSBhdmFpbGFibGUgZnJvbSB0aGUgW1Jl\nbGVhc2VzIHBhZ2VdKGh0dHBzOi8vZ2l0aHViLmNvbS9taXRyZS9jYWxkZXJh\nLWFnZW50L3JlbGVhc2VzKS4gSW5zdGFsbGF0aW9uIHN0ZXBzIG1heSBiZSBm\nb3VuZCBpbiBbQ0FMREVSQSdzIGRvY3VtZW50YXRpb25dKGh0dHA6Ly9jYWxk\nZXJhLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdC9pbnN0YWxsYXRpb24uaHRt\nbCNjYWxkZXJhLWFnZW50LWluc3RhbGxhdGlvbikuCgojIyMgQnVpbGQgUmVx\ndWlyZW1lbnRzCk5vdGU6IFByZS1jb21waWxlZCB2ZXJzaW9ucyBvZiBjYWdl\nbnQgYXJlIGF2YWlsYWJsZSBmcm9tIHRoZSBbUmVsZWFzZXMgcGFnZV0oaHR0\ncHM6Ly9naXRodWIuY29tL21pdHJlL2NhbGRlcmEtYWdlbnQvcmVsZWFzZXMp\nLgoKVGhlIGZvbGxvd2luZyBhcmUgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIENB\nTERFUkEgQWdlbnQKCiAtIFdpbmRvd3MgNjQgYml0CiAtIFB5dGhvbiAzLjUg\nKDY0IGJpdCkKIC0gcHl0aG9uIGRlcGVuZGVuY2llcyAoYHBpcCBpbnN0YWxs\nIC1yIHJlcXVpcmVtZW50cy50eHRgKQogLSBzZXR1cHRvb2xzIChgcGlwIGlu\nc3RhbGwgLS11cGdyYWRlIHNldHVwdG9vbHNgKSAKIC0gW1B5V2luMzIgdi4y\nMjBdKGh0dHBzOi8vc291cmNlZm9yZ2UubmV0L3Byb2plY3RzL3B5d2luMzIv\nZmlsZXMvcHl3aW4zMi9CdWlsZCUyMDIyMC8pIG9yIGxhdGVyLgogLSBXaW5k\nb3dzIFZpc3VhbCBTdHVkaW8gMjAxNSAod2l0aCBWaXN1YWwgQysrKSBPUiBb\nVmlzdWFsIEMrKyAyMDE1IEJ1aWxkIFRvb2xzXShodHRwOi8vbGFuZGluZ2h1\nYi52aXN1YWxzdHVkaW8uY29tL3Zpc3VhbC1jcHAtYnVpbGQtdG9vbHMpCiAt\nIFtUaGlzIHZlcnNpb24gb2YgcHkyZXhlXShodHRwczovL2dpdGh1Yi5jb20v\nbWl0cmUvY2FsZGVyYS1weTJleGUpICh3aGljaCBpcyBtb2RpZmllZCB0byB3\nb3JrIHdpdGggUHl0aG9uIDMuNSkKCiMjIyBCdWlsZGluZyBhbiAuZXhlCgpB\nZnRlciBpbnN0YWxsaW5nIGFsbCB0aGUgZGVwZW5kZW5jaWVzLCBnbyB0byB0\naGUgYGNhbGRlcmFfYWdlbnRgIGRpcmVjdG9yeSBhbmQgYnVpbGQgd2l0aApg\nYGAKbWFrZS5iYXQKYGBgClRoZSBjb21waWxlZCBleGVjdXRhYmxlIHdpbGwg\nYmUgbG9jYXRlZCBhdCBgZGlzdC9jYWdlbnQuZXhlYAo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/mitre/caldera-agent/contents/README.md?ref=master","git":"https://api.github.com/repos/mitre/caldera-agent/git/blobs/cf01b4f8bbaf4c4ec35f461d48b042e779e678e8","html":"https://github.com/mitre/caldera-agent/blob/master/README.md"}}
+0
+

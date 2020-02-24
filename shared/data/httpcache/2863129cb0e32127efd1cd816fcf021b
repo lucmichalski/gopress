@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:05:21 GMT
+Etag: "4e2726b8ee82d1789a6540dd6d684575"
+Last-Modified: Wed, 18 Jul 2018 02:18:25 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 304 Not Modified
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-From-Cache: 1
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:3FADA:4CED7:5E53ADF0
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4802
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d81
+{"name":"readme.md","path":"readme.md","sha":"53b507bde5681aee9daabc9f609d52010e51e80a","size":1936,"url":"https://api.github.com/repos/ChadSki/SharpNeedle/contents/readme.md?ref=master","html_url":"https://github.com/ChadSki/SharpNeedle/blob/master/readme.md","git_url":"https://api.github.com/repos/ChadSki/SharpNeedle/git/blobs/53b507bde5681aee9daabc9f609d52010e51e80a","download_url":"https://raw.githubusercontent.com/ChadSki/SharpNeedle/master/readme.md","type":"file","content":"IyBTaGFycE5lZWRsZQoKQSBwcm9qZWN0IGZvciBwcm9wZXJseSBpbmplY3Rp\nbmcgQyMgZGxscyBpbnRvIG90aGVyIHByb2Nlc3Nlcy4KCk5vdGU6IFNoYXJw\nTmVlZGxlIGN1cnJlbnRseSBvbmx5IHN1cHBvcnRzIDMyLWJpdCBwcm9jZXNz\nZXMuIFlvdSBhcmUgd2VsY29tZSB0byBjcmVhdGUgYSBwdWxsIHJlcXVlc3Qg\nd2hpY2ggYWRkcyA2NC1iaXQgc3VwcG9ydC4KCiMjIFJhdGlvbmFsZQoKV2hp\nbGUgbWVyZWx5IGxvYWRpbmcgeW91ciBjdXN0b20gZGxsIGluamVjdGVkIGlu\ndG8gYSB0YXJnZXQgcHJvY2VzcycgbWVtb3J5CnNwYWNlIGlzIGZ1biwgdGhh\ndCBpcyBvbmx5IGhhbGYgb2YgdGhlIHN0b3J5LiBNb3N0IGRsbCBpbmplY3Rp\nb24gdHV0b3JpYWxzIHdpbGwKZGVzY3JpYmUgaW4gZGV0YWlsIHRoZSBmaXJz\ndCBoYWxmLCBidXQgdGhlbiBsZWF2ZSB5b3UgdG8gcnVuIHlvdXIgY29kZSBm\ncm9tCndpdGhpbiBEbGxNYWluLCBhIGRhbmdlcm91cyBhbmQgbGltaXRlZCBw\ncm9wb3NpdGlvbi4gRm9yIG1vcmUgaW5mb3JtYXRpb24gYWJvdXQKd2h5IHlv\ndSBzaG91bGQgYXZvaWQgZG9pbmcgYW55dGhpbmcgaW50ZXJlc3RpbmcgaW4g\neW91ciBEbGxNYWluLCByZWFkClt0aGlzIHRocmVhZF0oaHR0cDovL2Jsb2dz\nLm1zZG4uY29tL2Ivb2xkbmV3dGhpbmcvYXJjaGl2ZS8yMDA0LzAxLzI3LzYz\nNDAxLmFzcHgpCmJ5IFJheW1vbmQgQ2hlbi4KClRoaXMgcHJvamVjdCBhaW1z\nIHRvIGNoYW5nZSB0aGF0IGRlYXJ0aCBvZiBnb29kIGRsbC1pbmplY3Rpb24g\naW5mbywgcHJvdmlkaW5nIGFuCm9wZW4tc291cmNlIHdheSBvZiBub3Qgb25s\neSBpbmplY3RpbmcgYSBkbGwsIGJ1dCBhbHNvIHdhbGtpbmcgdGhlIGV4cG9y\ndCBhZGRyZXNzCnRhYmxlIGFuZCBjYWxsaW5nIGEgbWV0aG9kIG9uIHlvdXIg\nZGxsLgoKVGhpcyBwcm9qZWN0IGlzIHNwZWNpZmljYWxseSBnZWFyZWQgdG93\nYXJkcyBpbmplY3RpbmcgbWFuYWdlZCBjb2RlIGludG8gYW5vdGhlcgpwcm9j\nZXNzLiBXZSB3aWxsIGZpcnN0IGluamVjdCB0aGUgIkJvb3RzdHJhcHBlciIg\nbW9kdWxlLCB0aGVuIHRlbGwgaXQgdG8gbG9hZAp0aGUgQ0xSIGFuZCBzdGFy\ndCBvdXIgZXhhbXBsZSBtYW5hZ2VkIHByb2plY3QuCgojIyBVc2FnZQoKRGV2\nZWxvcGVkIGluIFZpc3VhbCBTdHVkaW8gQ29tbXVuaXR5IDIwMTUgb24gV2lu\nZG93cyAxMC4KCkluIHNyY1xMYXVuY2hlclxMYXVuY2hlci5jcHAsIHNwZWNp\nZnkgdGhlIHByb2Nlc3MgbmFtZSB0byBpbmplY3QgaW50by4KSW4gc3JjXEV4\nYW1wbGVQcm9qZWN0XEV4YW1wbGUuY3MsIGN1c3RvbWl6ZSBFbnRyeVBvaW50\nKCkgdG8gZG8gYXMgeW91IGxpa2UuCkVuc3VyZSB0aGUgcHJvY2VzcyB5b3Ug\nYXJlIGluamVjdGluZyBpbnRvIGlzIHJ1bm5pbmcuCkNvbXBpbGUgYW5kIHJ1\nbiB3aXRoIGFwcHJvcHJpYXRlIHBlcm1pc3Npb24gbGV2ZWxzLiBJIHVzZSBh\nbiB1bmVsZXZhdGVkIFZpc3VhbCBTdHVkaW8sIHRoZW4gcnVuIG91dHB1dCBm\ncm9tIGFuIEFkbWluaXN0cmF0b3IgY29tbWFuZCBwcm9tcHQuCgojIyBEZXZl\nbG9wZXJzCgpUaGUgbW9zdCBpbnRlcmVzdGluZyBmaWxlIGlzIHNyY1xMYXVu\nY2hlclxJbmplY3Rpb24uY3BwLCB3aGljaCBkZWFscyB3aXRoIHdhbGtpbmcg\nRExMIGV4cG9ydCB0YWJsZXMgYW5kIGNyZWF0aW5nIHJlbW90ZSB0aHJlYWRz\nLgoKCiMjIExpY2Vuc2UKClRoZSBlbnRpcmV0eSBvZiBteSB3b3JrIG9uIHRo\naXMgcHJvamVjdCBpcyByZWxlYXNlZCB1bmRlciB0aGUgMi1jbGF1c2UgQlNE\nIGxpY2Vuc2UuCgonc3JjXExhdW5jaGVyXEhDb21tb25FbnN1cmVDbGVhbnVw\nLmgnIHdhcyBwcm92aWRlZCBjb3VydGVzeSBvZiBbR2FtZURlY2VwdGlvbi5u\nZXRdKGh0dHA6Ly93d3cuZ2FtZWRlY2VwdGlvbi5uZXQvZm9ydW1zLzE4NC1X\naW5kb3dzLUludGVybmFscykgYW5kIGl0cyBsaWNlbnNlIGlzIHVuY2xlYXIu\nCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/ChadSki/SharpNeedle/contents/readme.md?ref=master","git":"https://api.github.com/repos/ChadSki/SharpNeedle/git/blobs/53b507bde5681aee9daabc9f609d52010e51e80a","html":"https://github.com/ChadSki/SharpNeedle/blob/master/readme.md"}}
+0
+

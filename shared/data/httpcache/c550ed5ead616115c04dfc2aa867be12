@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:29:04 GMT
+Etag: W/"018c17ca0e29cd7fd606a21633fff96a"
+Last-Modified: Thu, 13 Feb 2020 00:52:38 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:25C62:2D329:5E53B380
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 746
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b08
+{"name":"README.md","path":"README.md","sha":"ee318d457e05f12c80e44b13d48d5e444ad1523c","size":1433,"url":"https://api.github.com/repos/honze-net/nmap-bootstrap-xsl/contents/README.md?ref=master","html_url":"https://github.com/honze-net/nmap-bootstrap-xsl/blob/master/README.md","git_url":"https://api.github.com/repos/honze-net/nmap-bootstrap-xsl/git/blobs/ee318d457e05f12c80e44b13d48d5e444ad1523c","download_url":"https://raw.githubusercontent.com/honze-net/nmap-bootstrap-xsl/master/README.md","type":"file","content":"IyBubWFwLWJvb3RzdHJhcC14c2wKCkEgTm1hcCBYU0wgaW1wbGVtZW50YXRp\nb24gd2l0aCBCb290c3RyYXAuCgojIyBIb3cgdG8gdXNlCgotIEFkZCB0aGUg\nYG5tYXAtYm9vdHN0cmFwLnhzbGAgYXMgc3R5bGVzaGVldCB0byB5b3VyIE5t\nYXAgc2Nhbi4gCi0gRXhhbXBsZTogCgpgYGBzaApubWFwIC1zUyAtVDQgLUEg\nLXNDIC1vQSBzY2FubWUgLS1zdHlsZXNoZWV0IGh0dHBzOi8vcmF3LmdpdGh1\nYnVzZXJjb250ZW50LmNvbS9ob256ZS1uZXQvbm1hcC1ib290c3RyYXAteHNs\nL21hc3Rlci9ubWFwLWJvb3RzdHJhcC54c2wgc2Nhbm1lLm5tYXAub3JnIHNj\nYW5tZTIubm1hcC5vcmcKYGBgCgotIE9wZW4gdGhlIHNjYW5tZS54bWwgd2l0\naCB5b3VyIFdlYiBicm93c2VyLiBJdCBzaG91bGQgbG9vayBsaWtlIHRoZSBb\nYHNjYW5tZS5odG1sIHNhbXBsZSByZXBvcnRgXShodHRwOi8vaHRtbHByZXZp\nZXcuZ2l0aHViLmlvLz9odHRwczovL2dpdGh1Yi5jb20vaG9uemUtbmV0L25t\nYXAtYm9vdHN0cmFwLXhzbC9ibG9iL21hc3Rlci9zY2FubWUuaHRtbCkuCi0g\nQWx0ZXJuYXRpdmVseSB5b3UgY2FuIHRyYW5zZm9ybSB0aGUgeG1sIHRvIGh0\nbWwgd2l0aAoKYGBgc2gKeHNsdHByb2MgLW8gc2Nhbm1lLmh0bWwgbm1hcC1i\nb290c3RyYXAueHNsIHNjYW5tZS54bWwKYGBgCgotIFlvdSB3aWxsIG5lZWQg\ndG8gZG93bmxvYWQgdGhlIG5tYXAtYm9vdHN0cmFwLnhzbCBiZWZvcmVoYW5k\nLgoKIyMgT2xkIHNjYW5zCgotIFlvdSBjYW4gYWxzbyBmb3JtYXQgb2xkIHNj\nYW5zIHdpdGggdGhlIHhzbCBzdHlsZXNoZWV0LgotIEluc2VydCBgPD94bWwt\nc3R5bGVzaGVldCBocmVmPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVu\ndC5jb20vaG9uemUtbmV0L25tYXAtYm9vdHN0cmFwLXhzbC9tYXN0ZXIvbm1h\ncC1ib290c3RyYXAueHNsIiB0eXBlPSJ0ZXh0L3hzbCI/PmAgYWZ0ZXIgYDwh\nRE9DVFlQRSBubWFwcnVuPmAuCgojIyBTY3JlZW5zaG90cwoKIVtzY2FubWUg\nc2NyZWVuc2hvdCAxXShodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5j\nb20vaG9uemUtbmV0L25tYXAtYm9vdHN0cmFwLXhzbC9tYXN0ZXIvc2Nhbm1l\nLXNjcmVlbnNob3QxLnBuZykKCiFbc2Nhbm1lIHNjcmVlbnNob3QgMl0oaHR0\ncHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hvbnplLW5ldC9ubWFw\nLWJvb3RzdHJhcC14c2wvbWFzdGVyL3NjYW5tZS1zY3JlZW5zaG90Mi5wbmcp\nCgohW3NjYW5tZSBzY3JlZW5zaG90IDJdKGh0dHBzOi8vcmF3LmdpdGh1YnVz\nZXJjb250ZW50LmNvbS9ob256ZS1uZXQvbm1hcC1ib290c3RyYXAteHNsL21h\nc3Rlci9zY2FubWUtc2NyZWVuc2hvdDMucG5nKQoKIyMgRGVtb3MKCi0gW2BI\nYWNrVGhlQm94IC0gUG9pc29uIG9uIFlvdVR1YmVgXShodHRwczovL3d3dy55\nb3V0dWJlLmNvbS93YXRjaD92PXJzNHpFd09OenprJnQ9NTZzKQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/honze-net/nmap-bootstrap-xsl/contents/README.md?ref=master","git":"https://api.github.com/repos/honze-net/nmap-bootstrap-xsl/git/blobs/ee318d457e05f12c80e44b13d48d5e444ad1523c","html":"https://github.com/honze-net/nmap-bootstrap-xsl/blob/master/README.md"}}
+0
+

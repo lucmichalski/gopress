@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:31:16 GMT
+Etag: W/"9e187b6a97845f055bb8c92dd9ddd31d"
+Last-Modified: Sun, 24 Nov 2019 19:14:51 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:30406:39C27:5E53B403
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 472
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+49e
+{"name":"README.md","path":"README.md","sha":"906e4e713ee35c379b65383f6924a6cf3b9cf3ee","size":288,"url":"https://api.github.com/repos/BlackArch/webshells/contents/README.md?ref=master","html_url":"https://github.com/BlackArch/webshells/blob/master/README.md","git_url":"https://api.github.com/repos/BlackArch/webshells/git/blobs/906e4e713ee35c379b65383f6924a6cf3b9cf3ee","download_url":"https://raw.githubusercontent.com/BlackArch/webshells/master/README.md","type":"file","content":"VmFyaW91cyB3ZWJzaGVsbHMuIFBsZWFzZSBzZW5kIGFkZCBtb3JlIHZpYSBw\ndWxsIHJlcXVlc3RzLiA6KQoKIyMgQmxhY2tBcmNoCgpPbiBbQmxhY2tBcmNo\nXShodHRwczovL2dpdGh1Yi5jb20vQmxhY2tBcmNoL2JsYWNrYXJjaCkgeW91\nIGNhbiBpbnN0YWxsIGEgcGFja2FnZSB0aGF0IHdpbGwgcHJvdmlkZSB0aGVt\nOgoKYGBgCiQgc3VkbyBwYWNtYW4gLVMgd2Vic2hlbGxzCmBgYAoKVGhlbiB0\naGV5IHdlYnNoZWxscyB3aWxsIGJlIGF2YWlsYWJsZSB1bmRlciBgL3Vzci9z\naGFyZS93ZWJzaGVsbHMvYC4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/BlackArch/webshells/contents/README.md?ref=master","git":"https://api.github.com/repos/BlackArch/webshells/git/blobs/906e4e713ee35c379b65383f6924a6cf3b9cf3ee","html":"https://github.com/BlackArch/webshells/blob/master/README.md"}}
+0
+

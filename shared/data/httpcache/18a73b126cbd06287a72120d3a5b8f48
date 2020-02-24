@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:23:37 GMT
+Etag: "94a3367b6923a4e7ac4a1c74a35433c2"
+Last-Modified: Tue, 24 Apr 2018 15:05:09 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 304 Not Modified
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-From-Cache: 1
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:CB38:F2CF:5E53B238
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1659
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d4a
+{"name":"readme.md","path":"readme.md","sha":"e037525351c963416db1344c6e2c53ef977d404a","size":1893,"url":"https://api.github.com/repos/zdresearch/OWASP-ZSC/contents/readme.md?ref=master","html_url":"https://github.com/zdresearch/OWASP-ZSC/blob/master/readme.md","git_url":"https://api.github.com/repos/zdresearch/OWASP-ZSC/git/blobs/e037525351c963416db1344c6e2c53ef977d404a","download_url":"https://raw.githubusercontent.com/zdresearch/OWASP-ZSC/master/readme.md","type":"file","content":"T1dBU1AgWlNDCj09PT09PT09PQoKPGltZyBzcmM9Imh0dHBzOi8vY2Ftby5n\naXRodWJ1c2VyY29udGVudC5jb20vMjUyNDQyMDBjMzcxYTYxMTQ3N2FkOTdm\nMGU5MWQ4MTMyYTNiMjRkMi82ODc0NzQ3MDczM2EyZjJmNzc3Nzc3MmU2Zjc3\nNjE3MzcwMmU2ZjcyNjcyZjY5NmQ2MTY3NjU3MzJmNzQ2ODc1NmQ2MjJmNjMy\nZjYzNjYyZjVhNzM2MzMxMmU3MDZlNjcyZjMyMzAzMDcwNzgyZDVhNzM2MzMx\nMmU3MDZlNjciIHdpZHRoPSIyMDAiPjxpbWcgc3JjPSJodHRwczovL3Jhdy5n\naXRodWJ1c2VyY29udGVudC5jb20vdmlyYWludGVsL09XQVNQLU5ldHRhY2tl\nci9tYXN0ZXIvd2ViL3N0YXRpYy9pbWcvb3dhc3AucG5nIiB3aWR0aD0iNTAw\nIj4KCioqKlRISVMgU09GVFdBUkUgV0FTIENSRUFURUQgVE8gQ0hBTExFTkdF\nIEFOVElWSVJVUyBURUNITk9MT0dZLCBSRVNFQVJDSCBORVcgRU5DUllQVElP\nTiBNRVRIT0RTLCBBTkQgUFJPVEVDVCBTRU5TSVRJVkUgT1BFTiBTT1VSQ0Ug\nRklMRVMgV0hJQ0ggSU5DTFVERSBJTVBPUlRBTlQgREFUQS4gQ09OVFJJQlVU\nT1JTIEFORCBPV0FTUCBGT1VOREFUSU9OIFdJTEwgTk9UIEJFIFJFU1BPTlNJ\nQkxFIEZPUiBBTlkgSUxMRUdBTCBVU0FHRS4qKioKCgpPV0FTUCBaU0MgaXMg\nb3BlbiBzb3VyY2Ugc29mdHdhcmUgd3JpdHRlbiBpbiBweXRob24gd2hpY2gg\nbGV0cyB5b3UgZ2VuZXJhdGUgY3VzdG9taXplZCBzaGVsbGNvZGUgYW5kIGNv\nbnZlcnQgc2NyaXB0cyB0byBhbiBvYmZ1c2NhdGVkIHNjcmlwdC4gVGhpcyBz\nb2Z0d2FyZSBjYW4gYmUgcnVuIG9uIFdpbmRvd3MvTGludXgvT1NYIHdpdGgg\ncHl0aG9uLgoKICogT1dBU1AgUGFnZTogaHR0cHM6Ly93d3cub3dhc3Aub3Jn\nL2luZGV4LnBocC9PV0FTUF9aU0NfVG9vbF9Qcm9qZWN0CiAqIERvY3VtZW50\nczogaHR0cHM6Ly93d3cuZ2l0Ym9vay5jb20vYm9vay9hbGktcmF6bWpvby9v\nd2FzcC16c2MvZGV0YWlscwogKiBIb21lOiBodHRwOi8venNjLnozcjBkNHku\nY29tLwogKiBGZWF0dXJlczogaHR0cDovL3pzYy56M3IwZDR5LmNvbS90YWJs\nZS5odG1sCiAqIEdpdGh1YjogaHR0cHM6Ly9naXRodWIuY29tL0FsaS1SYXpt\nam9vL09XQVNQLVpTQwogKiBBcmNoaXZlOiBodHRwczovL2dpdGh1Yi5jb20v\nQWxpLVJhem1qb28vWkNSLVNoZWxsY29kZXItQXJjaGl2ZQogKiBNYWlsaW5n\nIExpc3Q6IGh0dHBzOi8vZ3JvdXBzLmdvb2dsZS5jb20vZC9mb3J1bS9vd2Fz\ncC16c2MKICogQVBJOiBodHRwOi8vYXBpLnozcjBkNHkuY29tCgpbIVthc2Np\naWNhc3RdKGh0dHBzOi8vYXNjaWluZW1hLm9yZy9hLzkwNjc0LnBuZyldKGh0\ndHBzOi8vYXNjaWluZW1hLm9yZy9hLzkwNjc0KQoKIyMjIyBGb3IgbW9yZSBp\nbmZvcm1hdGlvbiwgcmVhZCB0aGUgZG9jdW1lbnQgZmlsZXMgaW4gbWFpbiBk\naXJlY3Rvcnkgb3IgdmlzaXQgaG9tZSBwYWdlLgoKCjxpbWcgc3JjPSJodHRw\nczovL2JldGFuZXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wMy92\nZXJ0aWNhbC1HU29DLWxvZ28uanBnIiB3aWR0aD0iMjAwIj48L2ltZz4gICA8\naW1nIHNyYz0iaHR0cHM6Ly9sNHcuaW8vd3AtY29udGVudC91cGxvYWRzLzIw\nMTUvMDQvZGVmY29uLnBuZyIgd2lkdGg9IjIwMCI+PC9pbWc+ICAgPGltZyBz\ncmM9Imh0dHBzOi8vd3d3LmJsYWNraGF0LmNvbS9pbWFnZXMvcGFnZS1ncmFw\naGljcy11c2EtMTUvbG9nb3MvYmhfbG9nb193aGl0ZV9vbmJsYWNrLnBuZyIg\nd2lkdGg9IjIwMCI+PC9pbWc+ICAgPGltZyBzcmM9Imh0dHBzOi8vMy5icC5i\nbG9nc3BvdC5jb20vLVJVdGxrSXk1RWVFL1dTYVFDVHlNS1dJL0FBQUFBQUFB\nQVdjL3BKM3RXbW5KdDA4eW5LWm8teTYzMVRveEVZM0Y0OFFpQUNMY0IvczE2\nMDAvY29kZSUyQnNwcmludCUyQmxvZ28ucG5nIiB3aWR0aD0iMjAwIj48L2lt\nZz4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/zdresearch/OWASP-ZSC/contents/readme.md?ref=master","git":"https://api.github.com/repos/zdresearch/OWASP-ZSC/git/blobs/e037525351c963416db1344c6e2c53ef977d404a","html":"https://github.com/zdresearch/OWASP-ZSC/blob/master/readme.md"}}
+0
+

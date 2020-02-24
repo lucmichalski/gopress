@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:05:39 GMT
+Etag: "67f7a58dfc04fc97d139eef7eeb5bb0a"
+Last-Modified: Mon, 06 Jul 2015 21:06:43 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 304 Not Modified
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-From-Cache: 1
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:38126:43574:5E53AE02
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4774
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+fbe
+{"name":"README.md","path":"README.md","sha":"cc6177feb809707a4cdce18cfa95f6360a769fc8","size":2298,"url":"https://api.github.com/repos/iSECPartners/Introspy-Analyzer/contents/README.md?ref=master","html_url":"https://github.com/iSECPartners/Introspy-Analyzer/blob/master/README.md","git_url":"https://api.github.com/repos/iSECPartners/Introspy-Analyzer/git/blobs/cc6177feb809707a4cdce18cfa95f6360a769fc8","download_url":"https://raw.githubusercontent.com/iSECPartners/Introspy-Analyzer/master/README.md","type":"file","content":"SW50cm9zcHktQW5hbHl6ZXIKPT09PT09PT09PT09PT09PT0KCkludHJvc3B5\nIGlzIGEgc2V0IG9mIGlPUyBhbmQgQW5kcm9pZCB0b29scyBkZXNpZ25lZCB0\nbyBoZWxwIHVuZGVyc3RhbmQgd2hhdCBhbgppT1Mgb3IgQW5kcm9pZCBhcHBs\naWNhdGlvbiBpcyBkb2luZyBhdCBydW50aW1lIGFuZCBhc3Npc3QgaW4gdGhl\nIGlkZW50aWZpY2F0aW9uCm9mIHBvdGVudGlhbCBzZWN1cml0eSBpc3N1ZXMu\nCgpUaGlzIGlzIHRoZSByZXBvc2l0b3J5IGZvciBJbnRyb3NweS1BbmFseXpl\nciwgYSB0b29sIHRvIHR1cm4gYSBkYXRhYmFzZQpnZW5lcmF0ZWQgYnkgSW50\ncm9zcHktaU9TIG9yIEludHJvc3B5LUFuZHJvaWQgaW50byBhbiBIVE1MIHJl\ncG9ydC4KCkZvciBtb3JlIGluZm9ybWF0aW9uIGFib3V0IEludHJvc3B5LUFu\nZHJvaWQgc2VlOgpodHRwczovL2lzZWNwYXJ0bmVycy5naXRodWIuaW8vSW50\ncm9zcHktQW5kcm9pZC8KCkZvciBtb3JlIGluZm9ybWF0aW9uIGFib3V0IElu\ndHJvc3B5LWlPUyBzZWU6Cmh0dHBzOi8vaXNlY3BhcnRuZXJzLmdpdGh1Yi5p\nby9JbnRyb3NweS1pT1MvCgoKSW5zdGFsbGF0aW9uCi0tLS0tLS0tLS0tLQpU\nbyBpbnN0YWxsIEludHJvc3B5LUFuYWx5emVyLCB5b3UgY2FuIGVpdGhlciBp\nbnN0YWxsIGl0IGFzIGEgcGFja2FnZSBzbyBpdCBjYW4gYmUgZXhlY3V0ZWQg\nZnJvbSBhbnl3aGVyZSAocmVjb21tZW5kZWQpIG9yIGp1c3QgY2xvbmUgdGhp\ncyByZXBvIGFuZCBydW4gaXQgYXMgYSBzY3JpcHQuCgpBcyBhIHBhY2thZ2U6\nCgogICAgcGlwIGluc3RhbGwgZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9pU0VD\nUGFydG5lcnMvSW50cm9zcHktQW5hbHl6ZXIuZ2l0CiAgICAjIChGcm9tIGFu\neXdoZXJlKQogICAgcHl0aG9uIC1tIGludHJvc3B5IDxhcmdzPgoKT3IgbG9j\nYWxseToKCiAgICBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2lTRUNQ\nYXJ0bmVycy9JbnRyb3NweS1BbmFseXplci5naXQKICAgIHB5dGhvbiBJbnRy\nb3NweS1BbmFseXplci5pbnRyb3NweSA8YXJncz4KCgpHZW5lcmF0aW5nIEhU\nTUwgUmVwb3J0cwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKSW50cm9zcHkt\nQW5hbHl6ZXIgcmVxdWlyZXMgUHl0aG9uIDIuNiBvciAyLjcuCgpJbnRyb3Nw\neS1pT1Mgb3IgSW50cm9zcHktQW5kcm9pZCBzaG91bGQgZmlyc3QgYmUgcnVu\nIG9uIHRoZSB0ZXN0ZXIncyBkZXZpY2UgaW4Kb3JkZXIgdG8gY29sbGVjdCBp\nbmZvcm1hdGlvbiBhYm91dCB0aGUgYXBwbGljYXRpb24gdG8gYmUgcmV2aWV3\nZWQuIFRoaXMgZGF0YQp3aWxsIGJlIHN0b3JlZCBpbiBhIGRhdGFiYXNlIG9u\nIHRoZSBkZXZpY2UuCgoKIyMjIFdpdGggSW50cm9zcHktaU9TCgpGb3IgaU9T\nLCBkYXRhYmFzZXMgY2FuIGJlIGZldGNoZWQgZGlyZWN0bHkgYnkgSW50cm9z\ncHktQW5hbHl6ZXIgb3ZlciBTU0g6CgogICAgcHl0aG9uIC1tIGludHJvc3B5\nIC1wIGlvcyAtbyBvdXRwdXQgLWYgMTkyLjE2OC4xLjEyCgoKIyMjIFdpdGgg\nSW50cm9zcHktQW5kcm9pZAoKRm9yIEFuZHJvaWQsIHRoZSBkYXRhYmFzZSB3\naWxsIGZpcnN0IGhhdmUgdG8gYmUgbWFudWFsbHkgcmVjb3ZlcmVkIChmb3Ig\nZXhhbXBsZQp1c2luZyBhZGIpLiBUaGVuLCBhIHJlcG9ydCBjYW4gYmUgZ2Vu\nZXJhdGVkIHVzaW5nOgoKICAgIHB5dGhvbiAtbSBpbnRyb3NweSAtcCBhbmRy\nb2lkIC1vIG91dHB1dCBpbnRyb3NweS1hbmRyb2lkLmRiCgoKQ29tbWFuZCBM\naW5lIE91dHB1dAotLS0tLS0tLS0tLS0tLS0tLS0tCgpXaGlsZSB0aGUgSFRN\nTCBmb3JtYXR0ZWQgcmVwb3J0IGlzIHRoZSBtb3N0IGRpZ2VzdGFibGUgZm9y\nbWF0LCBJbnRyb3NweS1BbmFseXplcgpjYW4gYWxzbyBiZSB1c2VkIGRpcmVj\ndGx5IGZyb20gdGhlIGNvbW1hbmQtbGluZSB0byBkaXNwbGF5IGFsbCByZWNv\ncmRlZCBmdW5jdGlvbgpjYWxsczoKCiAgICBweXRob24gLW0gaW50cm9zcHkg\nLXAgaW9zIC1sIGludHJvc3B5LmRiCgoKRW51bWVyYXRpb25zIC0gaU9TIE9u\nbHkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCkZvciBpT1MgZGF0YWJhc2Vz\nLCBJbnRyb3NweS1BbmFseXplciBhbHNvIGFsbG93cyB1c2VycyB0byBlbnVt\nZXJhdGUgdmFyaW91cyBkYXRhCmZyb20gdGhlIGxpc3Qgb2YgdHJhY2VkIGNh\nbGxzICh2aWEgYC0taW5mb2ApLCBpbmxjdWRpbmcgYSBsaXN0IG9mIGFsbCBv\nZiB0aGUKdW5pcXVlIFVSTHMgYWNjZXNzZWQgYnkgdGhlIGFwcGxpY2F0aW9u\nICh1cmxzKSBhbmQgYWxsIGZpbGVzIGFjY2Vzc2VkIChmaWxlcykuCgogICAg\ncHl0aG9uIC1tIGludHJvc3B5IC1wIGlvcyAtaSB1cmxzIGludHJvc3B5LmRi\nCgoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/iSECPartners/Introspy-Analyzer/contents/README.md?ref=master","git":"https://api.github.com/repos/iSECPartners/Introspy-Analyzer/git/blobs/cc6177feb809707a4cdce18cfa95f6360a769fc8","html":"https://github.com/iSECPartners/Introspy-Analyzer/blob/master/README.md"}}
+0
+

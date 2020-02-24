@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:19:07 GMT
+Etag: W/"aa7cd5fcf0ee499962278ebc976a8a17"
+Last-Modified: Thu, 06 Dec 2012 22:52:55 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:B18F5:D5092:5E53B12B
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2449
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+aa6
+{"name":"README.txt","path":"README.txt","sha":"c73bee9037133b905515dfa7d3d58ae1868edb63","size":1413,"url":"https://api.github.com/repos/mubix/FakeNetBIOS/contents/README.txt?ref=master","html_url":"https://github.com/mubix/FakeNetBIOS/blob/master/README.txt","git_url":"https://api.github.com/repos/mubix/FakeNetBIOS/git/blobs/c73bee9037133b905515dfa7d3d58ae1868edb63","download_url":"https://raw.githubusercontent.com/mubix/FakeNetBIOS/master/README.txt","type":"file","content":"DQpOb3RlIHRvIGF1dGhvcjogaWYgeW91IHdvdWxkIGxpa2UgdGhpcyBwdWxs\nZWQgZnJvbSBHaXRodWIsIEkgdW5kZXJzdGFuZCBhbmQgDQp3aWxsIGRvIHNv\nIHdpdGhvdXQgcXVlc3Rpb24uIFNpbmNlIHlvdSBoYXZlIHByb3ZpZGVkIHNv\ndXJjZSBJIChAbXViaXgpIA0KZmlndXJlZCBpdCB3b3VsZCBiZSBhIGdvb2Qg\nd2F5IHRvIGdldCBpbXByb3ZtZW50cyBpbnRvIHRoZSBwYWNrYWdlDQoNCiAg\nIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t\nLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCiAgfCAgICAgICAgICAg\nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg\nICAgICAgICAgICAgICAgICB8DQogIHwgICAgICAgICAgICAgICAgICAgICAg\nICAgICBGYWtlTmV0QklPUyBUb29scyAgICAgICAgICAgICAgICAgICAgICAg\nICAgICAgfA0KICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg\nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwNCiAg\nfCAgICAgICAgICAgICAgU2ltdWxhdGlvbiBvZiBOZXRCSU9TIGhvc3RzIChX\naW5kb3dzLWxpa2UpICAgICAgICAgICAgICAgICB8DQogIHwgICAgICAgICAg\nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg\nICAgICAgICAgICAgICAgICAgfA0KICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0t\nLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t\nLS0tLS0tLQ0KDQoNCkNvcHlyaWdodCDvv70gUGF0cmljayBDaGFtYmV0IDIw\nMDQtMjAwNQ0KDQoNCg0KRmFrZU5ldEJJT1MgaXMgYSBmYW1pbHkgb2YgdG9v\nbHMgZGVzaWduZWQgdG8gc2ltdWxhdGUgV2luZG93cyBob3N0cyBvbiBhIExB\nTi4NCg0KVGhlIGluZGl2aWR1YWwgdG9vbHMgYXJlOg0KDQogIC0gRmFrZU5l\ndGJpb3NER00gKE5ldEJJT1MgRGF0YWdyYW0pDQogIC0gRmFrZU5ldGJpb3NO\nUyAoTmV0QklPUyBOYW1lIFNlcnZpY2UpDQogIC0gTWF5YmUgbW9yZSBsYXRl\nciBpbiB0aGUgZnV0dXJlOiBGYWtlTmV0Ymlvc1NTTiAoU2Vzc2lvbiksIEZh\na2VNUy1EUywgRmFrZVJQQywgZXRjLg0KICAgIChwbGVhc2UgY29udGFjdCBt\nZSBpZiB5b3UgYXJlIGludGVyZXN0ZWQgaW4gcGFydGljaXBhdGluZyBpbiBm\ndXR1cmUgZW5oYW5jZW1lbnRzKS4NCg0KRWFjaCB0b29sIGNhbiBiZSB1c2Vk\nIGFzIGEgc3RhbmRhbG9uZSB0b29sIG9yIGFzIGEgaG9uZXlkIHJlc3BvbmRl\nciBvciBzdWJzeXN0ZW0uDQoNClBsZWFzZSByZWFkIHRoZSBmb2xsb3dpbmcg\nZmlsZXMgZm9yIGRldGFpbHMgYWJvdXQgdGhlIGluZGl2aWR1YWwgdG9vbHM6\nDQoNCiAgUkVBRE1FX0Zha2VOZXRiaW9zTlMudHh0DQogIFJFQURNRV9GYWtl\nTmV0Ymlvc0RHTS50eHQNCg0K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/mubix/FakeNetBIOS/contents/README.txt?ref=master","git":"https://api.github.com/repos/mubix/FakeNetBIOS/git/blobs/c73bee9037133b905515dfa7d3d58ae1868edb63","html":"https://github.com/mubix/FakeNetBIOS/blob/master/README.txt"}}
+0
+

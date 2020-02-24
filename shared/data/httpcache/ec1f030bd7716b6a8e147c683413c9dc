@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:44 GMT
+Etag: W/"2bcc83a010cb2395f7a11b231e69d3ba"
+Last-Modified: Mon, 26 Jun 2017 19:31:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:6B395:7FDAD:5E53AFAC
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3604
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+cc7
+{"name":"README.md","path":"README.md","sha":"494723f70c08f76309205cb13e1162ea77c3ec59","size":1824,"url":"https://api.github.com/repos/Hadi999/NXcrypt/contents/README.md?ref=master","html_url":"https://github.com/Hadi999/NXcrypt/blob/master/README.md","git_url":"https://api.github.com/repos/Hadi999/NXcrypt/git/blobs/494723f70c08f76309205cb13e1162ea77c3ec59","download_url":"https://raw.githubusercontent.com/Hadi999/NXcrypt/master/README.md","type":"file","content":"IyBOWGNyeXB0CgotIE5YY3J5cHQgaXMgYSBwb2x5bW9ycGhpYyAncHl0aG9u\nIGJhY2tkb29ycycgY3J5cHRlciB3cml0dGVuIGluIHB5dGhvbiBieSBIYWRp\nIE1lbmUgKGg0ZDNzKSAuClRoZSBvdXRwdXQgIGlzIGZ1bGx5IHVuZGV0ZWN0\nYWJsZSAuCgotIE5YY3J5cHQgY2FuIGluamVjdCBtYWxpY2lvdXMgcHl0aG9u\nIGZpbGUgaW50byAgYSBub3JtYWwgZmlsZSB3aXRoIG11bHRpLXRocmVhZGlu\nZyBzeXN0ZW0gLgoKLSBSdW4gaXQgd2l0aCBzdXBlcnVzZXIncyBwZXJtaXNz\naW9ucyAuCi0gTlhjcnlwdCBvdXRwdXQgaXMgRnVsbHkgdW5kZXRlY3RhYmxl\nICAuCgogQmFja2Rvb3JpbmcgTW9kdWxlIDoKIAohW0FsdCB0ZXh0XShodHRw\nczovL2kuaW1ndXIuY29tL3BhSnpnSFQucG5nICJCYWNrZG9vcmluZyBtb2R1\nbGUiKQoKRW5jcnlwdGlvbiBNb2R1bGUKCiFbQWx0IHRleHRdKGh0dHBzOi8v\naS5pbWd1ci5jb20vYWR2dUowSC5wbmcgIkVuY3J5cHRpb24gTW9kdWxlICIp\nCgoKIyBVc2FnZSA6CgotIHN1ZG8gIC4vTlhjcnlwdC5weSAtLWZpbGU9YmFj\na2Rvb3IucHkgLS1vdXRwdXQ9b3V0cHV0X2JhY2tkb29yLnB5ICMgZW5jcnlw\ndCBiYWNrZG9vci5weSBhbmQgb3V0cHV0IGZpbGUgaXMgb3V0cHV0X2JhY2tk\nb29yLnB5Ci0gc3VkbyAuL05YY3J5cHQucHkgLS1maWxlPXNoZWxsLnB5ICMg\nZW5jcnlwdCBzaGVsbC5weSBhbmQgZGVmYXVsdCBvdXRwdXQgZmlsZSAgaXMg\nYmFja2Rvb3IucHkgYnV0IHlvdSBjYW4gZWRpdCBpdCBpbiBzb3VyY2UgY29k\nZQogLSBzdWRvIC4vTlhjcnlwdC5weSAtLWhlbHAgIyBOWGNyeXB0IGhlbHAK\nIC0gc3VkbyAuL05YY3J5cHQucHkgLS1iYWNrZG9vci1maWxlPXBheWxvYWQu\ncHkgLS1maWxlPXRlc3QucHkgLS1vdXRwdXQ9aGFja2VkLnB5ICMgaW5qZWN0\nIHBheWxvYWQucHkgd2l0aCAgdGVzdC5weSBpbnRvIGhhY2tlZC5weSB3aXRo\nIG11bHRpLXRocmVhZGluZyBzeXN0ZW0KIAogIyBIb3cgaXQgd29yayA/IAog\nCiAqIEVuY3J5cHRpb24gbW9kdWxlIDoKIAogLSBOWGNyeXB0IGFkZCBzb21l\nIGp1bmtjb2RlIC4KIC0gTlhjcnlwdCB1c2UgYSBweXRob24gaW50ZXJuYWwg\nbW9kdWxlICdweV9jb21waWxlJyB3aG8gY29tcGlsZSB0aGUgY29kZSBpbnRv\nIGJ5dGVjb2RlIHRvIGEgLnB5YyBmaWxlIC4KIC0gTlhjcnlwdCBjb252ZXJ0\nIC5weWMgZmlsZSBpbnRvIG5vcm1hbCAucHkgZmlsZSAuCiAtIEFuZCBpbiB0\naGlzIHdheSB3ZSBjYW4gb2JmdXNjYXRlIHRoZSBjb2RlCiAtIFRoZSBtZDVz\ndW0gd2lsbCBjaGFuZ2UgdG9vCiAKKiBJbmplY3Rpb24gIG1vZHVsZSA6Cgot\nIGl0IGluamVjdCBhIG1hbGljaW91cyBweXRob24gZmlsZSAgaW50byBhIG5v\ncm1hbCBmaWxlIHdpdGggbXVsdGktdGhyZWFkaW5nIHN5c3RlbSAuCgogIyBU\nZXN0IHdpdGggVmlydXN0b3RhbAogCkJlZm9yZSA6CiAKU0hBMjU2OgllMmFj\nY2ViNjE1OGNmNDA2NjY5YWI4MjhkMzM4OTgyNDExYTBlNWM1ODc2YzJmMjc4\nM2UyNDdiM2UwMWMyMTYzCkZpbGUgbmFtZToJZmFjZWJvb2sucHkKRGV0ZWN0\naW9uIHJhdGlvOgkyIC8gNTQKCkFmdGVyICA6CgpTSEEyNTY6CTM2MmE0YjE5\nZDUzZDFhOGYyYjkxNDkxYjQ3ZGJhMjg5MjNkZmVjMmQ5MDc4NDk2MWM0NjIx\nM2JkYWRjODBhZGQKRmlsZSBuYW1lOglmYWNlYm9va19lbmNyeXB0ZWQucHkK\nRGV0ZWN0aW9uIHJhdGlvOgkwIC8gNTUKCgojIENyZWRpdHMKCkFsbCBDcmVk\naXRzIGdvIHRvIFN1c3BpY2lvdXMgU2hlbGwgQWN0aXZpdHkgdGVhbQoKIyBW\naWRlbyBUdXRvcmlhbAoKaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/\ndj1zOEtybmd2Mno5UQoKCiAKIAoKCiAK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Hadi999/NXcrypt/contents/README.md?ref=master","git":"https://api.github.com/repos/Hadi999/NXcrypt/git/blobs/494723f70c08f76309205cb13e1162ea77c3ec59","html":"https://github.com/Hadi999/NXcrypt/blob/master/README.md"}}
+0
+

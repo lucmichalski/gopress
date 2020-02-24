@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:16 GMT
+Etag: W/"8541e9ab3ae551078b090f934361808f"
+Last-Modified: Wed, 09 Aug 2017 15:11:25 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:67C1B:7BC83:5E53AF90
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3661
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+748
+{"name":"README.md","path":"README.md","sha":"6db2f69087b13594cc6961693d22356730b158a8","size":804,"url":"https://api.github.com/repos/1N3/HTTPoxyScan/contents/README.md?ref=master","html_url":"https://github.com/1N3/HTTPoxyScan/blob/master/README.md","git_url":"https://api.github.com/repos/1N3/HTTPoxyScan/git/blobs/6db2f69087b13594cc6961693d22356730b158a8","download_url":"https://raw.githubusercontent.com/1N3/HTTPoxyScan/master/README.md","type":"file","content":"IyBIVFRQb3h5IEV4cGxvaXQgU2Nhbm5lciAKCmJ5IDFOMyBAQ3Jvd2RTaGll\nbGQgKGh0dHBzOi8vY3Jvd2RzaGllbGQuY29tKQpMYXN0IFVwZGF0ZWQ6IDIw\nMTYwNzIwCgojIyBBQk9VVDogClBvQy9FeHBsb2l0IHNjYW5uZXIgdG8gc2Nh\nbiBjb21tb24gQ0dJIGZpbGVzIG9uIGEgdGFyZ2V0IFVSTCBmb3IgdGhlIEhU\nVFBveHkgdnVsbmVyYWJpbGl0eS4gSHR0cG94eSBpcyBhIHNldCBvZiB2dWxu\nZXJhYmlsaXRpZXMgdGhhdCBhZmZlY3QgYXBwbGljYXRpb24gY29kZSBydW5u\naW5nIGluIENHSSwgb3IgQ0dJLWxpa2UgZW52aXJvbm1lbnRzLiBGb3IgbW9y\nZSBkZXRhaWxzLCBnbyB0byBodHRwczovL2h0dHBveHkub3JnLgoKIyMgUkVR\nVUlSRU1FTlRTOiAKUmVxdWlyZXMgbmNhdCB0byBlc3RhYmxpc2ggcmV2ZXJz\nZSBzZXNzaW9uCgojIyBVU0FHRTogCmBgYAouL2h0dHBveHlzY2FuLnB5IGh0\ndHBzOi8vdGFyZ2V0LmNvbSBjZ2lfbGlzdC50eHQgMTAuMS4yLjI0MyAzMDAw\nCmBgYApUaGlzIHdpbGwgc2NhbiBodHRwczovL3RhcmdldC5jb20gd2l0aCBh\nIGxpc3Qgb2YgY29tbW9uIENHSSBmaWxlcyB3aGlsZSBpbmplY3RpbmcgYSBQ\ncm94eSBoZWFkZXIgYmFjayB0byBhIGdpdmVuIElQOlBPUlQuIEEgcmV2ZXJz\nZSBsaXN0ZW5lciB3aWxsIGNhdGNoIHRoZSBpbmNvbWluZyBjb25uZWN0aW9u\nIHRvIGNvbmZpcm0gdGhlIHJlbW90ZSBzaXRlIGlzIHZ1bG5lcmFibGUuCgoj\nIyBESVNDTEFJTUVSOiAKSSB0YWtlIG5vIHJlc3BvbnNpYmlsaXR5IGZvciB3\ncm9uZyBkb2luZyBvciBtaXN1c2Ugb2YgdGhpcyBleHBsb2l0LgoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/1N3/HTTPoxyScan/contents/README.md?ref=master","git":"https://api.github.com/repos/1N3/HTTPoxyScan/git/blobs/6db2f69087b13594cc6961693d22356730b158a8","html":"https://github.com/1N3/HTTPoxyScan/blob/master/README.md"}}
+0
+

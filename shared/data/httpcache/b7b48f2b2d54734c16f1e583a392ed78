@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:22:40 GMT
+Etag: W/"fefbf885bad7cd7ea7b082f8ddae2c7a"
+Last-Modified: Sun, 29 Sep 2019 23:14:28 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:8620:A075:5E53B200
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1836
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+778
+{"name":"README.md","path":"README.md","sha":"a7bfc8ef7bb8c4441547c091ec5d15eae6ea60c0","size":826,"url":"https://api.github.com/repos/inc0d3/moodlescan/contents/README.md?ref=master","html_url":"https://github.com/inc0d3/moodlescan/blob/master/README.md","git_url":"https://api.github.com/repos/inc0d3/moodlescan/git/blobs/a7bfc8ef7bb8c4441547c091ec5d15eae6ea60c0","download_url":"https://raw.githubusercontent.com/inc0d3/moodlescan/master/README.md","type":"file","content":"IyBtb29kbGVzY2FuIHYwLjUKVG9vbCBmb3Igc2NhbiB2dWxuZXJhYmlsaXRp\nZXMgaW4gTW9vZGxlIHBsYXRmb3JtcwoKIyMgTW9kbyBkZSB1c28KYGBgCk9w\nY2lvbmVzCgotdSBbVVJMXSAJOiBJbmljaWEgZWwgc2NhbiBlbiBsYSBVUkwg\naW5kaWNhZGEKLWEgCQk6IEFjdHVhbGl6YSBsYSBiYXNlIGRlIGRhdG9zIGRl\nIHZ1bG5lcmFiaWxpZGFkZXMKCkNvbmZpZ3VyYWNpb24gZGUgUHJveHkKCi1w\nIFtVUkxdCTogVXJsIGRlbCBwcm94eSAoaHR0cCkKLWIgW3VzdWFyaW9dCTog\nVXN1YXJpbyBwYXJhIGF1dGVudGljYXIgZW4gcHJveHkKLWMgW2NsYXZlXQk6\nIFBhc3N3b3JkIHBhcmEgYXV0ZW50aWNhciBlbiBwcm94eQotZCBbcHJvdG9j\nb2xvXSAgOiBQcm90b2NvbG8gZGUgYXV0ZW50aWNhY2lvbiBlbiBwcm94eTog\nYmFzaWMgbyBudGxtCgpgYGAKIyMgTGlzdGEgZGUgY2FtYmlvcwoKMC41Cgot\nIENhbWJpb3MgcGFyYSBvcGVyYXIgY29uIFB5dGhvbiAzLjcrCi0gU2UgY29y\ncmlnZSBhbGdvcml0bW8gcGFyYSBkZXRlcm1pbmFyIGxhIHZlcnNpw7NuCi0g\nU2UgY29ycmlnZW4gZXJyb3JlcyByZXBvcnRhZG9zCgowLjQKCi0gT3BjaW9u\nZXMgcGFyYSB1dGlsaXphciBwcm94eQotIE51ZXZhcyB2dWxuZXJhYmlsaWRh\nZGVzIGVuIGJhc2UgZGUgZGF0b3MKCjAuMwoKLSBWZXJzaW9uIGluaWNpYWwK\nCiMjIEF1dG9yCgoqICoqVsOtY3RvciBIZXJyZXJhKiogLSAqKiAKCiMjIExp\nY2Vuc2UKClRoaXMgcHJvamVjdCBpcyBsaWNlbnNlZCB1bmRlciB0aGUgTUlU\nIExpY2Vuc2UgLSBzZWUgdGhlIFtMSUNFTlNFLm1kXShMSUNFTlNFLm1kKSBm\naWxlIGZvciBkZXRhaWxzCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/inc0d3/moodlescan/contents/README.md?ref=master","git":"https://api.github.com/repos/inc0d3/moodlescan/git/blobs/a7bfc8ef7bb8c4441547c091ec5d15eae6ea60c0","html":"https://github.com/inc0d3/moodlescan/blob/master/README.md"}}
+0
+

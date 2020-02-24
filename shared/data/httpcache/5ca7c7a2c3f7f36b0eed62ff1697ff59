@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:21:49 GMT
+Etag: W/"b49571ffe84b25c8dc95ee2cbb872151"
+Last-Modified: Mon, 24 Feb 2020 00:44:31 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:3F3A:4C62:5E53B1CC
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1990
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b2f
+{"name":"README.md","path":"README.md","sha":"67efded1977ace8aea2fe5b814c18f0be3afb551","size":1465,"url":"https://api.github.com/repos/OpenCTI-Platform/connectors/contents/README.md?ref=master","html_url":"https://github.com/OpenCTI-Platform/connectors/blob/master/README.md","git_url":"https://api.github.com/repos/OpenCTI-Platform/connectors/git/blobs/67efded1977ace8aea2fe5b814c18f0be3afb551","download_url":"https://raw.githubusercontent.com/OpenCTI-Platform/connectors/master/README.md","type":"file","content":"IyBPcGVuQ1RJIGNvbm5lY3RvcnMKClshW1dlYnNpdGVdKGh0dHBzOi8vaW1n\nLnNoaWVsZHMuaW8vYmFkZ2Uvd2Vic2l0ZS1vcGVuY3RpLmlvLWJsdWUuc3Zn\nKV0oaHR0cHM6Ly93d3cub3BlbmN0aS5pbykKWyFbQ2lyY2xlQ0ldKGh0dHBz\nOi8vY2lyY2xlY2kuY29tL2doL09wZW5DVEktUGxhdGZvcm0vY29ubmVjdG9y\ncy5zdmc/c3R5bGU9c2hpZWxkKV0oaHR0cHM6Ly9jaXJjbGVjaS5jb20vZ2gv\nT3BlbkNUSS1QbGF0Zm9ybS9jb25uZWN0b3JzL3RyZWUvbWFzdGVyKQpbIVtT\nbGFjayBTdGF0dXNdKGh0dHBzOi8vc2xhY2subHVhdGl4Lm9yZy9iYWRnZS5z\ndmcpXShodHRwczovL3NsYWNrLmx1YXRpeC5vcmcpCgpUaGUgZm9sbG93aW5n\nIHJlcG9zaXRvcnkgaXMgdXNlZCB0byBzdG9yZSB0aGUgT3BlbkNUSSBjb25u\nZWN0b3JzIGZvciB0aGUgcGxhdGZvcm0gaW50ZWdyYXRpb24gd2l0aCBvdGhl\nciB0b29scyBhbmQgYXBwbGljYXRpb25zLiBUbyBrbm93IGhvdyB0byBlbmFi\nbGUgY29ubmVjdG9ycyBvbiBPcGVuQ1RJLCBwbGVhc2UgcmVhZCB0aGUgW2Rl\nZGljYXRlZCBkb2N1bWVudGF0aW9uXShodHRwczovL29wZW5jdGktcGxhdGZv\ncm0uZ2l0aHViLmlvL2RvY3MvaW5zdGFsbGF0aW9uL2Nvbm5lY3RvcnMpLgoK\nIyMgTGljZW5zZQoKKipVbmxlc3Mgc3BlY2lmaWVkIG90aGVyd2lzZSoqLCBj\nb25uZWN0b3JzIGFyZSByZWxlYXNlZCB1bmRlciB0aGUgW0FwYWNoZSAyLjBd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9PcGVuQ1RJLVBsYXRmb3JtL2Nvbm5lY3Rv\ncnMvYmxvYi9tYXN0ZXIvTElDRU5TRSkuIElmIGEgY29ubmVjdG9yIGlzIHJl\nbGVhc2VkIGJ5IGl0cyBhdXRob3IgdW5kZXIgYSBkaWZmZXJlbnQgbGljZW5z\nZSwgdGhlIHN1YmZvbGRlciBjb3JyZXNwb25kaW5nIHRvIGl0IHdpbGwgY29u\ndGFpbiBhICpMSUNFTlNFKiBmaWxlLgoKIyMgQ29udHJpYnV0aW5nCgpXZSB3\nZWxjb21lIHlvdXIgKipbY29udHJpYnV0aW9ucyBmb3IgbmV3IGNvbm5lY3Rv\ncnNdKGh0dHBzOi8vb3BlbmN0aS1wbGF0Zm9ybS5naXRodWIuaW8vZG9jcy9k\nZXZlbG9wbWVudC9jb25uZWN0b3JzKSoqLiBQbGVhc2UgZmVlbCBmcmVlIHRv\nIGZvcmsgdGhlIGNvZGUsIHBsYXkgd2l0aCBpdCwgbWFrZSBzb21lIHBhdGNo\nZXMgYW5kIHNlbmQgdXMgcHVsbCByZXF1ZXN0cyB1c2luZyBbaXNzdWVzXSho\ndHRwczovL2dpdGh1Yi5jb20vT3BlbkNUSS1QbGF0Zm9ybS9jb25uZWN0b3Jz\nL2lzc3VlcykuCgojIyBBYm91dAoKT3BlbkNUSSBpcyBhIHByb2R1Y3QgcG93\nZXJlZCBieSB0aGUgY29sbGFib3JhdGlvbiBvZiB0aGUgW0ZyZW5jaCBuYXRp\nb25hbCBjeWJlcnNlY3VyaXR5IGFnZW5jeSAoQU5TU0kpXShodHRwczovL3Nz\naS5nb3V2LmZyKSwgdGhlIFtDRVJULUVVXShodHRwczovL2NlcnQuZXVyb3Bh\nLmV1KSBhbmQgdGhlIFtMdWF0aXhdKGh0dHBzOi8vd3d3Lmx1YXRpeC5vcmcp\nIG5vbi1wcm9maXQgb3JnYW5pemF0aW9uLg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/OpenCTI-Platform/connectors/contents/README.md?ref=master","git":"https://api.github.com/repos/OpenCTI-Platform/connectors/git/blobs/67efded1977ace8aea2fe5b814c18f0be3afb551","html":"https://github.com/OpenCTI-Platform/connectors/blob/master/README.md"}}
+0
+

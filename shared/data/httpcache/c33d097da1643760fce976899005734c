@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:17 GMT
+Etag: W/"5764f6ed7f5087b1f4530fee4486a836"
+Last-Modified: Mon, 24 Feb 2020 00:44:37 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:9319A:AEF18:5E53B0F8
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2604
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+9e6
+{"name":"README.md","path":"README.md","sha":"a5169b48137436e7f82df0a22944b7ec879f3587","size":1284,"url":"https://api.github.com/repos/JesusFreke/smali/contents/README.md?ref=master","html_url":"https://github.com/JesusFreke/smali/blob/master/README.md","git_url":"https://api.github.com/repos/JesusFreke/smali/git/blobs/a5169b48137436e7f82df0a22944b7ec879f3587","download_url":"https://raw.githubusercontent.com/JesusFreke/smali/master/README.md","type":"file","content":"IyMjIEFib3V0CgpzbWFsaS9iYWtzbWFsaSBpcyBhbiBhc3NlbWJsZXIvZGlz\nYXNzZW1ibGVyIGZvciB0aGUgZGV4IGZvcm1hdCB1c2VkIGJ5IGRhbHZpaywg\nQW5kcm9pZCdzIEphdmEgVk0gaW1wbGVtZW50YXRpb24uIFRoZSBzeW50YXgg\naXMgbG9vc2VseSBiYXNlZCBvbiBKYXNtaW4ncy9kZWRleGVyJ3Mgc3ludGF4\nLCBhbmQgc3VwcG9ydHMgdGhlIGZ1bGwgZnVuY3Rpb25hbGl0eSBvZiB0aGUg\nZGV4IGZvcm1hdCAoYW5ub3RhdGlvbnMsIGRlYnVnIGluZm8sIGxpbmUgaW5m\nbywgZXRjLikKCkRvd25sb2FkcyBhcmUgYXQgIGh0dHBzOi8vYml0YnVja2V0\nLm9yZy9KZXN1c0ZyZWtlL3NtYWxpL2Rvd25sb2Fkcy8uIElmIHlvdSBhcmUg\naW50ZXJlc3RlZCBpbiBzdWJtaXR0aW5nIGEgcGF0Y2gsIGZlZWwgZnJlZSB0\nbyBzZW5kIG1lIGEgcHVsbCByZXF1ZXN0IGhlcmUuCgpTZWUgW3RoZSB3aWtp\nXShodHRwczovL2dpdGh1Yi5jb20vSmVzdXNGcmVrZS9zbWFsaS93aWtpKSBm\nb3IgbW9yZSBpbmZvL25ld3MvcmVsZWFzZSBub3Rlcy9ldGMuCgojIyMjIFN1\ncHBvcnQKLSBbZ2l0aHViIElzc3VlIHRyYWNrZXJdKGh0dHBzOi8vZ2l0aHVi\nLmNvbS9KZXN1c0ZyZWtlL3NtYWxpL2lzc3VlcykgLSBGb3IgYW55IGJ1Z3Mv\naXNzdWVzL2ZlYXR1cmUgcmVxdWVzdHMKLSBbI3NtYWxpIG9uIGZyZWVub2Rl\nXShodHRwOi8vd2ViY2hhdC5mcmVlbm9kZS5uZXQvP2NoYW5uZWxzPXNtYWxp\nKSAtIEZyZWUgZnJlZSB0byBkcm9wIGJ5IGFuZCBhc2sgYSBxdWVzdGlvbi4g\nRG9uJ3QgZXhwZWN0IGFuIGluc3RhbnQgcmVzcG9uc2UsIGJ1dCBpZiB5b3Ug\naGFuZyBhcm91bmQgc29tZW9uZSB3aWxsIHJlc3BvbmQuCgoKIyMjIyBTb21l\nIHVzZWZ1bCBsaW5rcyBmb3IgZ2V0dGluZyBzdGFydGVkIHdpdGggc21hbGkK\nCi0gW09mZmljaWFsIGRleCBieXRlY29kZSByZWZlcmVuY2VdKGh0dHBzOi8v\nc291cmNlLmFuZHJvaWQuY29tL2RldmljZXMvdGVjaC9kYWx2aWsvZGFsdmlr\nLWJ5dGVjb2RlLmh0bWwpCi0gW1JlZ2lzdGVycyB3aWtpIHBhZ2VdKGh0dHBz\nOi8vZ2l0aHViLmNvbS9KZXN1c0ZyZWtlL3NtYWxpL3dpa2kvUmVnaXN0ZXJz\nKQotIFtUeXBlcywgTWV0aG9kcyBhbmQgRmllbGRzIHdpa2kgcGFnZV0oaHR0\ncHM6Ly9naXRodWIuY29tL0plc3VzRnJla2Uvc21hbGkvd2lraS9UeXBlc01l\ndGhvZHNBbmRGaWVsZHMpCi0gW09mZmljaWFsIGRleCBmb3JtYXQgcmVmZXJl\nbmNlXShodHRwczovL3NvdXJjZS5hbmRyb2lkLmNvbS9kZXZpY2VzL3RlY2gv\nZGFsdmlrL2RleC1mb3JtYXQuaHRtbCkK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/JesusFreke/smali/contents/README.md?ref=master","git":"https://api.github.com/repos/JesusFreke/smali/git/blobs/a5169b48137436e7f82df0a22944b7ec879f3587","html":"https://github.com/JesusFreke/smali/blob/master/README.md"}}
+0
+

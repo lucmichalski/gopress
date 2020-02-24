@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:50 GMT
+Etag: W/"b82c06b5c6d52e38f525497fc10e518d"
+Last-Modified: Tue, 31 Dec 2019 17:32:13 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:AF199:D21A4:5E53B11A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2496
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b0f
+{"name":"README.md","path":"README.md","sha":"697f852c3d3c29a15ec15d49ab33182e1ed23562","size":1463,"url":"https://api.github.com/repos/simp/pupmod-simp-polkit/contents/README.md?ref=master","html_url":"https://github.com/simp/pupmod-simp-polkit/blob/master/README.md","git_url":"https://api.github.com/repos/simp/pupmod-simp-polkit/git/blobs/697f852c3d3c29a15ec15d49ab33182e1ed23562","download_url":"https://raw.githubusercontent.com/simp/pupmod-simp-polkit/master/README.md","type":"file","content":"WyFbTGljZW5zZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby86bGljZW5zZS1h\ncGFjaGUtYmx1ZS5zdmcpXShodHRwOi8vd3d3LmFwYWNoZS5vcmcvbGljZW5z\nZXMvTElDRU5TRS0yLjAuaHRtbCkKWyFbQ0lJIEJlc3QgUHJhY3RpY2VzXSho\ndHRwczovL2Jlc3RwcmFjdGljZXMuY29yZWluZnJhc3RydWN0dXJlLm9yZy9w\ncm9qZWN0cy83My9iYWRnZSldKGh0dHBzOi8vYmVzdHByYWN0aWNlcy5jb3Jl\naW5mcmFzdHJ1Y3R1cmUub3JnL3Byb2plY3RzLzczKQpbIVtQdXBwZXQgRm9y\nZ2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vcHVwcGV0Zm9yZ2Uvdi9zaW1w\nL3BvbGtpdC5zdmcpXShodHRwczovL2ZvcmdlLnB1cHBldGxhYnMuY29tL3Np\nbXAvcG9sa2l0KQpbIVtQdXBwZXQgRm9yZ2UgRG93bmxvYWRzXShodHRwczov\nL2ltZy5zaGllbGRzLmlvL3B1cHBldGZvcmdlL2R0L3NpbXAvcG9sa2l0LnN2\nZyldKGh0dHBzOi8vZm9yZ2UucHVwcGV0bGFicy5jb20vc2ltcC9wb2xraXQp\nClshW0J1aWxkIFN0YXR1c10oaHR0cHM6Ly90cmF2aXMtY2kub3JnL3NpbXAv\ncHVwbW9kLXNpbXAtcG9sa2l0LnN2ZyldKGh0dHBzOi8vdHJhdmlzLWNpLm9y\nZy9zaW1wL3B1cG1vZC1zaW1wLXBvbGtpdCkKCiMjIFRoaXMgaXMgYSBTSU1Q\nIG1vZHVsZQoKVGhpcyBtb2R1bGUgaXMgYSBjb21wb25lbnQgb2YgdGhlIFtT\neXN0ZW0gSW50ZWdyaXR5IE1hbmFnZW1lbnQgUGxhdGZvcm1dKGh0dHBzOi8v\nc2ltcC1wcm9qZWN0LmNvbSksCmEgY29tcGxpYW5jZS1tYW5hZ2VtZW50IGZy\nYW1ld29yayBidWlsdCBvbiBQdXBwZXQuCgpJZiB5b3UgZmluZCBhbnkgaXNz\ndWVzLCB0aGV5IGNhbiBiZSBzdWJtaXR0ZWQgdG8gb3VyIFtKSVJBXShodHRw\nczovL3NpbXAtcHJvamVjdC5hdGxhc3NpYW4ubmV0LykuCgpQbGVhc2UgcmVh\nZCBvdXIgW0NvbnRyaWJ1dGlvbiBHdWlkZV0oaHR0cHM6Ly9zaW1wLnJlYWR0\naGVkb2NzLmlvL2VuL3N0YWJsZS9jb250cmlidXRvcnNfZ3VpZGUvaW5kZXgu\naHRtbCkuCgojIyBNb2R1bGUgRGVzY3JpcHRpb24KClRoaXMgbW9kdWxlIHBy\nb3ZpZGVzIGZvciB0aGUgY29uZmlndXJhdGlvbiBvZgpbcG9sa2l0XShodHRw\nczovL3d3dy5mcmVlZGVza3RvcC5vcmcvc29mdHdhcmUvcG9sa2l0L2RvY3Mv\nbGF0ZXN0LykgcG9saWNpZXMuCgojIyBSZWZlcmVuY2UKClBsZXNhZSBzZWUg\nW1JFRkVSRU5DRS5tZF0oLi9SRUZFUkVOQ0UubWQpIGZvciBkZXRhaWxzLgoK\nIyBEZXZlbG9wbWVudAoKUGxlYXNlIHJlYWQgb3VyIFtDb250cmlidXRpb24g\nR3VpZGVdKGh0dHBzOi8vc2ltcC5yZWFkdGhlZG9jcy5pby9lbi9zdGFibGUv\nY29udHJpYnV0b3JzX2d1aWRlL2luZGV4Lmh0bWwpLgoKVmlzaXQgdGhlIFtw\ncm9qZWN0IGhvbWVwYWdlXShodHRwczovL3NpbXAtcHJvamVjdC5jb20pIGFu\nZCBsb29rIGF0IG91ciBpc3N1ZXMgb24KW0pJUkFdKGh0dHBzOi8vc2ltcC1w\ncm9qZWN0LmF0bGFzc2lhbi5uZXQpLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/simp/pupmod-simp-polkit/contents/README.md?ref=master","git":"https://api.github.com/repos/simp/pupmod-simp-polkit/git/blobs/697f852c3d3c29a15ec15d49ab33182e1ed23562","html":"https://github.com/simp/pupmod-simp-polkit/blob/master/README.md"}}
+0
+

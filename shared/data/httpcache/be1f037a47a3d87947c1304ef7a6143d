@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:47 GMT
+Etag: W/"d733f7f87e4b3337370af4eb5f703d9e"
+Last-Modified: Sat, 15 Feb 2020 18:46:53 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:6B8CA:803DC:5E53AFAF
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3595
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+8ba
+{"name":"README.md","path":"README.md","sha":"ebcc015ca71fd2a09bbff57d796d502e7f831cea","size":1084,"url":"https://api.github.com/repos/corkami/pics/contents/README.md?ref=master","html_url":"https://github.com/corkami/pics/blob/master/README.md","git_url":"https://api.github.com/repos/corkami/pics/git/blobs/ebcc015ca71fd2a09bbff57d796d502e7f831cea","download_url":"https://raw.githubusercontent.com/corkami/pics/master/README.md","type":"file","content":"U3VwcG9ydCBtZTogb3JkZXIgW3ByaW50c10oaHR0cDovL3ByaW50cy5jb3Jr\nYW1pLmNvbS8pLCBjaGVjayBteSBbcGF0cmVvbl0oaHR0cHM6Ly93d3cucGF0\ncmVvbi5jb20vY29ya2FtaSkuCgotLS0KV2VsY29tZSEKCiMjIDxhIGhyZWY9\nImJpbmFyeS9SRUFETUUubWQiPjY5IGJpbmFyeSBwb3N0ZXJzICgyMDIwLTAy\nLTE1KQo8aW1nIHNyYz0iYmluYXJ5L1BFMTAxLnBuZyIgd2lkdGg9IjQwMCI+\nIDxpbWcgc3JjPSJiaW5hcnkvUERGLnBuZyIgd2lkdGg9IjIwMCI+Cgo8aW1n\nIHNyYz0iYmluYXJ5L2NoYXJzZXRzL0FTQ0lJcHJpbnRhYmxlLnBuZyIgd2lk\ndGg9IjIwMCI+IDxpbWcgc3JjPSJiaW5hcnkvYmFzaWNzL2hleGFkZWNpbWFs\nLnBuZyIgd2lkdGg9IjQwMCI+PC9hPgoKIyMgPGEgaHJlZj0icG9zdGVycy9S\nRUFETUUubWQiPjI1IHBvc3RlcnMgKDIwMTctMTAtMzApCjxpbWcgc3JjPSJw\nb3N0ZXJzL01TMDY3T2xkVnVsbi5wbmciIHdpZHRoPSIxMDAiPiA8aW1nIHNy\nYz0icG9zdGVycy9TVE0zMkY0MHh4eC5wbmciIHdpZHRoPSIxMzAiPiA8aW1n\nIHNyYz0icG9zdGVycy9OZW9HZW8ucG5nIiB3aWR0aD0iMjAwIj48L2E+IAoK\nIyMgPGEgaHJlZj0idHJhY2luZy9SRUFETUUubWQiPjU4IHRyYWNpbmdzICgy\nMDE4LTA4LTExKQo8aW1nIHNyYz0idHJhY2luZy9yZmM3OTEucG5nIiB3aWR0\naD0iMjAwIj4gPGltZyBzcmM9InRyYWNpbmcvc29uaWMucG5nIiB3aWR0aD0i\nMjAwIj4gPGltZyBzcmM9InRyYWNpbmcvRGVSZUF0YXJpLnBuZyIgd2lkdGg9\nIjE1MCI+IDxpbWcgc3JjPSJ0cmFjaW5nL29jZWFuLnBuZyIgd2lkdGg9IjIw\nMCI+PC9hPgoKIyMgPGEgaHJlZj0ib3V0bGluZS9SRUFETUUubWQiPjkgb3V0\nbGluZXMgKDIwMTYtMTEtMjkpCjxpbWcgc3JjPSJvdXRsaW5lL0F0YXJpQ1gz\nMC5wbmciIHdpZHRoPSIxMDAiPiA8aW1nIHNyYz0ib3V0bGluZS9yb2IucG5n\nIiB3aWR0aD0iMTAwIj48L2E+CgotLS0KQW5nZQoKU3VwcG9ydCBtZTogb3Jk\nZXIgW3ByaW50c10oaHR0cDovL3ByaW50cy5jb3JrYW1pLmNvbS8pLCBjaGVj\nayBteSBbcGF0cmVvbl0oaHR0cHM6Ly93d3cucGF0cmVvbi5jb20vY29ya2Ft\naSkuCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/corkami/pics/contents/README.md?ref=master","git":"https://api.github.com/repos/corkami/pics/git/blobs/ebcc015ca71fd2a09bbff57d796d502e7f831cea","html":"https://github.com/corkami/pics/blob/master/README.md"}}
+0
+

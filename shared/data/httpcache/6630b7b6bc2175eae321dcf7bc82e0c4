@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:42 GMT
+Etag: W/"275adc57c30a1192a632fa3301dbff28"
+Last-Modified: Thu, 05 Dec 2019 13:33:30 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:AE09B:D0D85:5E53B111
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2524
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+9c9
+{"name":"README.md","path":"README.md","sha":"cb5c211b0c9ed584ccb0a09a0649c4b33d6442be","size":1246,"url":"https://api.github.com/repos/xFreed0m/SMTPTester/contents/README.md?ref=master","html_url":"https://github.com/xFreed0m/SMTPTester/blob/master/README.md","git_url":"https://api.github.com/repos/xFreed0m/SMTPTester/git/blobs/cb5c211b0c9ed584ccb0a09a0649c4b33d6442be","download_url":"https://raw.githubusercontent.com/xFreed0m/SMTPTester/master/README.md","type":"file","content":"IyBTTVRQVGVzdGVyCgpTTVRQVGVzdGVyIGlzIGEgcHl0aG9uMyB0b29sIHRv\nIHRlc3QgU01UUCBzZXJ2ZXIgZm9yIDMgY29tbW9uIHZ1bG5lcmFiaWxpdGll\nczoKKiBTcG9vZmluZyAtIFRoZSBhYmlsaXR5IHRvIHNlbmQgYSBtYWlsIG9u\nIGJlaGFsZiBvZiBhbiBpbnRlcm5hbCB1c2VyCiogUmVsYXkgLSBVc2luZyB0\naGlzIFNNVFAgc2VydmVyIHRvIHNlbmQgZW1haWwgdG8gb3RoZXIgYWRkcmVz\ncyBvdXRzaWRlIG9mIHRoZSBvcmdhbml6YXRpb24KKiB1c2VyIGVudW1lcmF0\naW9uIC0gdXNpbmcgdGhlIFNNVFAgVlJGWSBjb21tYW5kIHRvIGNoZWNrIGlm\nIHNwZWNpZmljIHVzZXJuYW1lIGFuZFxvciBlbWFpbCBhZGRyZXNzIGV4aXN0\nIHdpdGhpbiB0aGUgb3JnYW5pemF0aW9uLgoKIyMgSG93IHRvIHVzZSBpdApG\naXJzdCwgaW5zdGFsbCB0aGUgbmVlZGVkIGRlcGVuZGVuY2llczoKYGBgCnBp\ncCBpbnN0YWxsIC1yIHJlcXVpcm1lbnRzLnR4dApgYGAKU2Vjb25kLCBydW4g\ndGhlIHRvb2wgd2l0aCB0aGUgbmVlZGVkIGZsYWdzOgpgYGAKcHl0aG9uIFNN\nVFBUZXN0ZXIucHkgLS10ZXN0ZXIgW3Rlc3RlciBlbWFpbF0gLS10YXJnZXRz\nIFtTTVRQIElQIG9yIGZpbGUgY29udGFpbmluZyBtdWx0aXBsZSBJUHNdCmBg\nYAoKIyMgT3B0aW9ucyB0byBjb25zaWRlcgoqIC1pXFwtLWludGVybmFsCiAg\nKiB0ZXN0aW5nIG9ubHkgZm9yIG1haWwgc3Bvb2ZpbmcKKiAtZVxcLS1leHRl\ncm5hbAogICogb25seSB0ZXN0aW5nIGZvciBtYWlsIHJlbGF5CiogLXZcXC0t\ndnJmeQogICogb25seSBwZXJmb3JtIHVzZXIgZW51bWVyYXRpb24KdGhlIHRv\nb2wgd2lsbCBwZXJmb3JtIGJvdGggaW50ZXJuYWwgYW5kIGV4dGVybmFsIHdo\nZW4gbm8gc3BlY2lmaWMgdGVzdCB0eXBlIGlzIHNwZWNpZmllZCwgYW5kIHdp\nbGwgYXBwZW5kIHRoZSBvdXRwdXQgdG8gYSBsb2cgZmlsZSBvbiB0aGUgc2Ft\nZSBmb2xkZXIgYXMgdGhlIFNNVFBUZXN0ZXIucHkgZmlsZS4gCgojIyMgSXNz\ndWVzLCBidWdzIGFuZCBvdGhlciBjb2RlLWlzc3VlcwpZZWFoLCBJIGtub3cs\nIHRoaXMgY29kZSBpc24ndCB0aGUgYmVzdC4gSSdtIGZpbmUgd2l0aCBpdCBh\ncyBJJ20gbm90IGEgZGV2ZWxvcGVyIGFuZCB0aGlzIGlzIHBhcnQgb2YgbXkg\nbGVhcm5pbmcgcHJvY2Vzcy4KSWYgdGhlcmUgaXMgYW4gb3B0aW9uIHRvIGRv\nIHNvbWUgb2YgaXQgYmV0dGVyLCBwbGVhc2UsIGxldCBtZSBrbm93LgoKX05v\ndCBob3cgbWFueSwgYnV0IHdoZXJlLl8KCnYwLjEKCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/xFreed0m/SMTPTester/contents/README.md?ref=master","git":"https://api.github.com/repos/xFreed0m/SMTPTester/git/blobs/cb5c211b0c9ed584ccb0a09a0649c4b33d6442be","html":"https://github.com/xFreed0m/SMTPTester/blob/master/README.md"}}
+0
+

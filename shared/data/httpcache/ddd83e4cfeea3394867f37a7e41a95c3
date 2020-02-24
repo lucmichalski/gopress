@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:20:50 GMT
+Etag: W/"fd663e05ed5f766b0e8a2c0a10f0e264"
+Last-Modified: Tue, 22 Dec 2015 08:05:00 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:BF615:E5919:5E53B192
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2170
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c4c
+{"name":"README.md","path":"README.md","sha":"d79715d843ccad0d296937606170fb78eb2b6a7a","size":1667,"url":"https://api.github.com/repos/nccgroup/metasploitavevasion/contents/README.md?ref=master","html_url":"https://github.com/nccgroup/metasploitavevasion/blob/master/README.md","git_url":"https://api.github.com/repos/nccgroup/metasploitavevasion/git/blobs/d79715d843ccad0d296937606170fb78eb2b6a7a","download_url":"https://raw.githubusercontent.com/nccgroup/metasploitavevasion/master/README.md","type":"file","content":"TWV0YXNwbG9pdCBBViBFdmFzaW9uCj09PT09PT09PT09PT09PT09PT09PT09\nCgpNZXRhc3Bsb2l0IHBheWxvYWQgZ2VuZXJhdG9yIHRoYXQgYXZvaWRzIG1v\nc3QgQW50aS1WaXJ1cyBwcm9kdWN0cy4KClJlbGVhc2VkIGFzIG9wZW4gc291\ncmNlIGJ5IE5DQyBHcm91cCBQbGMgLSBodHRwOi8vd3d3Lm5jY2dyb3VwLmNv\nbS8KCkRldmVsb3BlZCBieSBEYW5pZWwgQ29tcHRvbiwgZGFuaWVsIGRvdCBj\nb21wdG9uIGF0IG5jY2dyb3VwIGRvdCBjb20KCmh0dHBzOi8vZ2l0aHViLmNv\nbS9uY2Nncm91cC9tZXRhc3Bsb2l0YXZldmFzaW9uCgpSZWxlYXNlZCB1bmRl\nciBBR1BMIHNlZSBMSUNFTlNFIGZvciBtb3JlIGluZm9ybWF0aW9uCgo9PT09\nPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpVcGRhdGVkIDA4LzIw\nMTUgYnkgSmFzb24gU290bywgamFzb25fc290byBbQVRdIGpzaXRlY2ggW0RP\nVF0gY29tCgpSZW1vdmVkIERlcHJlY2F0ZWQgQ29tbWFuZHMgaW4gZmF2b3Ig\nb2YgTXNmVmVub20KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09\nPT0KClVwZGF0ZWQgMTIvMjAxNQoKUmVtb3ZlZCB1c2Ugb2YgaWZjb25maWcg\nZm9yIG1vcmUgRGlzdHJvIENvbXBhdGliaWxpdHksIFVzaW5nICJpcCByb3V0\nZSIgZm9yIGlwIERldGVjdGlvbgoKQWRkZWQgZ2NjIGNvbXBpbGVyIHVzZSBj\nb25kaXRpb24gZm9yIHVzZSBpbiBBcmNoIEJhc2VkIERpc3Ryb3MKClVzaW5n\nICJtc2Zjb25zb2xlIC14IiBmb3IgYXV0byBMaXN0ZW5lciBsYXVuY2hpbmcg\naW5zdGVhZCBvZiByZXNvdXJjZSBmaWxlCgpDb2RlIENsZWFudXAKCgp3d3cu\nanNpdGVjaC5jb20KCmh0dHBzOi8vZ2l0aHViLmNvbS9qc2l0ZWNoCgpUd2l0\ndGVyID0gQEpzaVRlY2gKClRlc3RlZCBvbiBLYWxpIExpbnV4CgoKCkluc3Rh\nbGxpbmcgICAgCj09PT09PT09PT09PT09PT09PT09PT09CgogICAgZ2l0IGNs\nb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9uY2Nncm91cC9tZXRhc3Bsb2l0YXZl\ndmFzaW9uLmdpdAoKY2htb2QgK3ggdGhlIGF2b2lkLnNoIGZpbGUgYmVmb3Jl\nIHVzZS4KCgpIb3cgVG8gVXNlCj09PT09PT09PT09PT09PT09PT09PT09CiAg\nICAuL2F2b2lkLnNoCgpUaGVuIGZvbGxvdyB0aGUgb24gc2NyZWVuIHByb21w\ndHMuCgpGZWF0dXJlcwo9PT09PT09PT09PT09PT09PT09PT09PQoKKiBFYXNp\nbHkgZ2VuZXJhdGUgYSBNZXRhc3Bsb2l0IGV4ZWN1dGFibGUgcGF5bG9hZCB0\nbyBieXBhc3MgQW50aS1WaXJ1cyBkZXRlY3Rpb24KKiBMb2NhbCBvciByZW1v\ndGUgbGlzdGVuZXIgZ2VuZXJhdGlvbgoqIERpc2d1aXNlcyB0aGUgZXhlY3V0\nYWJsZSBmaWxlIHdpdGggYSBQREYgaWNvbgoqIEV4ZWN1dGFibGUgb3BlbnMg\nbWluaW1pc2VkIG9uIHRoZSB2aWN0aW1zIGNvbXB1dGVyCiogQXV0b21hdGlj\nYWxseSBjcmVhdGVzIEF1dG9SdW4gZmlsZXMgZm9yIENEUk9NIGV4cGxvaXRh\ndGlvbgoKClNjcmVlbiBTaG90ICAgIAo9PT09PT09PT09PT09PT09PT09PT09\nPQoKPGltZyBzcmM9Imh0dHA6Ly9jb21tb25leHBsb2l0cy5jb20vdG9vbHMv\nYXZvaWQvYXZvaWRzY3JlZW5zaG90LnBuZyIgYWx0PSJTY3JlZW5zaG90IiBz\ndHlsZT0ibWF4LXdpZHRoOjEwMCU7Ij4KQ2hhbmdlIExvZwo9PT09PT09PT09\nPT09PT09PT09PT09PQoKVmVyc2lvbiAxLjUgLSBPZmZpY2lhbCByZWxlYXNl\nLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/nccgroup/metasploitavevasion/contents/README.md?ref=master","git":"https://api.github.com/repos/nccgroup/metasploitavevasion/git/blobs/d79715d843ccad0d296937606170fb78eb2b6a7a","html":"https://github.com/nccgroup/metasploitavevasion/blob/master/README.md"}}
+0
+

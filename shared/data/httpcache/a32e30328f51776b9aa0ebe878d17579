@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:06:33 GMT
+Etag: "beaf8324ae5cad4e9b2f0fe55b618cb1"
+Last-Modified: Tue, 26 Feb 2019 03:15:39 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 304 Not Modified
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-From-Cache: 1
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:3E883:4B000:5E53AE39
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4708
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+648
+{"name":"README.md","path":"README.md","sha":"b3cb1856c0f52b79a74ca7e13b7de4b6aeedb080","size":617,"url":"https://api.github.com/repos/samhaxr/hackbox/contents/README.md?ref=master","html_url":"https://github.com/samhaxr/hackbox/blob/master/README.md","git_url":"https://api.github.com/repos/samhaxr/hackbox/git/blobs/b3cb1856c0f52b79a74ca7e13b7de4b6aeedb080","download_url":"https://raw.githubusercontent.com/samhaxr/hackbox/master/README.md","type":"file","content":"IyBIYWNrQjB4IHYyLjAKCkhhY2tCb3ggaXMgdGhlIGNvbWJpbmF0aW9uIG9m\nIGF3ZXNvbWUgdG9vbHMgYW5kIHRlY2huaXF1ZXMuCgojIyBVc2FnZQoKYGBg\nYmFzaApnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL3NhbWhheHIvaGFj\na2JveCAmJiBjZCBoYWNrYm94Cgp2aXJ0dWFsZW52IHZlbnYgJiYgc291cmNl\nIHZlbnYvYmluL2FjdGl2YXRlCgpwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVu\ndHMudHh0CgpweXRob24gaGFja2JveC5weQpgYGAKCiMjIFlvdVR1YmUgVHV0\nb3JpYWwKClshW1lvdVR1YmVdKC9kb2NzL2hhY2tib3guanBnKV0oaHR0cHM6\nLy93d3cueW91dHViZS5jb20vd2F0Y2g/dj1WYXNYcERrbzBWRSkKCiMgQ3Jl\nZGl0cwoKU2hhd2FyIEtoYW4gPGh0dHBzOi8vdHdpdHRlci5jb20vU2hhd2Fy\na09GRklDSUFMPgoKSm9iYXJ0IEFiYW1hIDxodHRwczovL3R3aXR0ZXIuY29t\nL2pvYmVydGFibWE+CgpWdWxuZXJzQ29tIDxodHRwczovL2dpdGh1Yi5jb20v\ndnVsbmVyc0NvbS9nZXRzcGxvaXQ+CgpFcndpbiBEZSBMYWF0IDxodHRwczov\nL3R3aXR0ZXIuY29tL2Vyd2luZGVsYWF0PgoKdGhlaGFwcHlkaW5vYSA8aHR0\ncHM6Ly90d2l0dGVyLmNvbS90aGVoYXBweWRpbm9hPgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/samhaxr/hackbox/contents/README.md?ref=master","git":"https://api.github.com/repos/samhaxr/hackbox/git/blobs/b3cb1856c0f52b79a74ca7e13b7de4b6aeedb080","html":"https://github.com/samhaxr/hackbox/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:21:51 GMT
+Etag: W/"754ff328336145169a93c89b98fe6ba4"
+Last-Modified: Wed, 11 Dec 2019 15:45:42 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:4246:5008:5E53B1CF
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1983
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+cec
+{"name":"README.md","path":"README.md","sha":"e02654ae5e9d9ab4586de8e42cd6e6840dc5dcfe","size":1834,"url":"https://api.github.com/repos/kbinani/screenshot/contents/README.md?ref=master","html_url":"https://github.com/kbinani/screenshot/blob/master/README.md","git_url":"https://api.github.com/repos/kbinani/screenshot/git/blobs/e02654ae5e9d9ab4586de8e42cd6e6840dc5dcfe","download_url":"https://raw.githubusercontent.com/kbinani/screenshot/master/README.md","type":"file","content":"c2NyZWVuc2hvdAo9PT09PT09PT09CgpbIVtCdWlsZCBTdGF0dXNdKGh0dHBz\nOi8vdHJhdmlzLWNpLm9yZy9rYmluYW5pL3NjcmVlbnNob3Quc3ZnP2JyYW5j\naD1tYXN0ZXIpXShodHRwczovL3RyYXZpcy1jaS5vcmcva2JpbmFuaS9zY3Jl\nZW5zaG90KQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZ29k\nb2MtcmVmZXJlbmNlLTUyNzJCNC5zdmcpXShodHRwczovL2dvZG9jLm9yZy9n\naXRodWIuY29tL2tiaW5hbmkvc2NyZWVuc2hvdCkKWyFbXShodHRwczovL2lt\nZy5zaGllbGRzLmlvL2JhZGdlL2xpY2Vuc2UtTUlULTQyOEY3RS5zdmc/c3R5\nbGU9ZmxhdCldKGh0dHBzOi8vZ2l0aHViLmNvbS9rYmluYW5pL3NjcmVlbnNo\nb3QvYmxvYi9tYXN0ZXIvTElDRU5TRSkKWyFbR28gUmVwb3J0IENhcmRdKGh0\ndHBzOi8vZ29yZXBvcnRjYXJkLmNvbS9iYWRnZS9naXRodWIuY29tL2tiaW5h\nbmkvc2NyZWVuc2hvdCldKGh0dHBzOi8vZ29yZXBvcnRjYXJkLmNvbS9yZXBv\ncnQvZ2l0aHViLmNvbS9rYmluYW5pL3NjcmVlbnNob3QpCgoqIEdvIGxpYnJh\ncnkgdG8gY2FwdHVyZSBkZXNrdG9wIHNjcmVlbi4KKiBTdXBwb3J0IFdpbmRv\nd3MsIE1hYywgTGludXgsIEZyZWVCU0QsIE9wZW5CU0QsIE5ldEJTRCwgYW5k\nIFNvbGFyaXMgZW52aXJvbm1lbnQuCiogTXVsdGlwbGUgZGlzcGxheSBzdXBw\nb3J0ZWQuCiogYGNnb2AgZnJlZSBmb3IgV2luZG93cywgTGludXgsIEZyZWVC\nU0QsIE9wZW5CU0QsIE5ldEJTRCwgYW5kIFNvbGFyaXMuCgpleGFtcGxlCj09\nPT09PT0KCiogc2FtcGxlIHByb2dyYW0gYG1haW4uZ29gCgoJYGBgZ28KCXBh\nY2thZ2UgbWFpbgoKCWltcG9ydCAoCgkJImdpdGh1Yi5jb20va2JpbmFuaS9z\nY3JlZW5zaG90IgoJCSJpbWFnZS9wbmciCgkJIm9zIgoJCSJmbXQiCgkpCgoJ\nZnVuYyBtYWluKCkgewoJCW4gOj0gc2NyZWVuc2hvdC5OdW1BY3RpdmVEaXNw\nbGF5cygpCgoJCWZvciBpIDo9IDA7IGkgPCBuOyBpKysgewoJCQlib3VuZHMg\nOj0gc2NyZWVuc2hvdC5HZXREaXNwbGF5Qm91bmRzKGkpCgoJCQlpbWcsIGVy\nciA6PSBzY3JlZW5zaG90LkNhcHR1cmVSZWN0KGJvdW5kcykKCQkJaWYgZXJy\nICE9IG5pbCB7CgkJCQlwYW5pYyhlcnIpCgkJCX0KCQkJZmlsZU5hbWUgOj0g\nZm10LlNwcmludGYoIiVkXyVkeCVkLnBuZyIsIGksIGJvdW5kcy5EeCgpLCBi\nb3VuZHMuRHkoKSkKCQkJZmlsZSwgXyA6PSBvcy5DcmVhdGUoZmlsZU5hbWUp\nCgkJCWRlZmVyIGZpbGUuQ2xvc2UoKQoJCQlwbmcuRW5jb2RlKGZpbGUsIGlt\nZykKCgkJCWZtdC5QcmludGYoIiMlZCA6ICV2IFwiJXNcIlxuIiwgaSwgYm91\nbmRzLCBmaWxlTmFtZSkKCQl9Cgl9CglgYGAKCiogb3V0cHV0IGV4YW1wbGUK\nCQoJYGBgYmFzaAoJJCBnbyBydW4gbWFpbi5nbwoJIzAgOiAoMCwwKS0oMTI4\nMCw4MDApICIwXzEyODB4ODAwLnBuZyIKCSMxIDogKC0yOTMsLTE0NDApLSgy\nMjY3LDApICIxXzI1NjB4MTQ0MC5wbmciCgkjMiA6ICgtMTM3MywtMTgxMikt\nKC0yOTMsMTA4KSAiMl8xMDgweDE5MjAucG5nIgoJJCBscyAtMQoJMF8xMjgw\neDgwMC5wbmcKCTFfMjU2MHgxNDQwLnBuZwoJMl8xMDgweDE5MjAucG5nCglt\nYWluLmdvCglgYGAKCmNvb3JkaW5hdGUKPT09PT09PT09PT09PT09PT0KWS1h\neGlzIGlzIGRvd253YXJkIGRpcmVjdGlvbiBpbiB0aGlzIGxpYnJhcnkuIFRo\nZSBvcmlnaW4gb2YgY29vcmRpbmF0ZSBpcyB1cHBlci1sZWZ0IGNvcm5lciBv\nZiBtYWluIGRpc3BsYXkuIFRoaXMgbWVhbnMgY29vcmRpbmF0ZSBzeXN0ZW0g\naXMgc2ltaWxhciB0byBXaW5kb3dzIE9TCgpsaWNlbnNlCj09PT09PT0KCk1J\nVCBMaWNlbmNlCgphdXRob3IKPT09PT09CgprYmluYW5pCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/kbinani/screenshot/contents/README.md?ref=master","git":"https://api.github.com/repos/kbinani/screenshot/git/blobs/e02654ae5e9d9ab4586de8e42cd6e6840dc5dcfe","html":"https://github.com/kbinani/screenshot/blob/master/README.md"}}
+0
+

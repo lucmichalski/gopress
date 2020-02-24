@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:11:54 GMT
+Etag: W/"d4541c18196e2bd1afd27346f1bb689f"
+Last-Modified: Thu, 29 Jun 2017 17:11:39 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:7647C:8E223:5E53AF7A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3727
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e95
+{"name":"README.md","path":"README.md","sha":"09de6a4ecc7070fd404d7bfb385668645372f750","size":2118,"url":"https://api.github.com/repos/rajeshmajumdar/PloitKit/contents/README.md?ref=master","html_url":"https://github.com/rajeshmajumdar/PloitKit/blob/master/README.md","git_url":"https://api.github.com/repos/rajeshmajumdar/PloitKit/git/blobs/09de6a4ecc7070fd404d7bfb385668645372f750","download_url":"https://raw.githubusercontent.com/rajeshmajumdar/PloitKit/master/README.md","type":"file","content":"IyBQbG9pdEtpdApUaGUgSGFja2VyJ3MgVG9vbEJveAoKUGxvaXRLaXQgaXMg\nYSBQeXRob24gYmFzZWQgR1VJIHRvb2wgZGVzaWduZWQgYXMgb25lLXN0b3Ag\nZm9yIGFsbCBvdGhlciBzb2Z0d2FyZXMuIEkgd2FzIGZhY2luZyB0aGVzZSBr\naW5kcyBvZiBwcm9ibGVtLCB3aGVuIEkgbmVlZCB0byBzd2l0Y2ggdG8gZGlm\nZmVyZW50IHN5c3RlbSwgb3IgSSBsb3N0IG15IHBlbi1kcml2ZS4gSSBoYXZl\nIHRvIGdvIHRvIGdvb2dsZSwgYW5kIHNlYXJjaCBldmVyeSB0b29sIGFuZCBk\nb3dubG9hZCBldmVyeSB0b29sIGFuZCBzbyBvbi4gU28gSSBkZWNpZGVkIHRv\nIGNyZWF0ZSBhIHRvb2wsIGluIHdoaWNoIEkganVzdCBjbGljayBhbmQgY2xp\nY2sgYW5kIHRvb2wgaXMgdGhlcmUuCgpJIGhhdmUgYWRkZWQgbW9yZSB0aGFu\nIDkwMCsgdG9vbHMgaW4gdGhpcyB0b29sLCBidXQgb25seSA0MDArIGlzIGF2\nYWlsYWJsZSBub3csIHRvIHRlc3Qgd2lsbCB0aGlzIHRvb2wgd29yaywgaWYg\naXQgd29ya3MgSSdsbCBtYWtlIGl0IGF2YWlsYWJsZSBmb3IgZXZlcnlvbmUu\nCgojIEZlYXR1cmVzCgoxLiBBdXRvLVVwZGF0ZSAtIE5vIG5lZWQgdG8gY29t\nZSBvdmVyIGhlcmUsIGFuZCBsb29rIGZvciBuZXcgdmVyc2lvbiBldmVyeSB0\naW1lLgoyLiBCZXR0ZXIgRXJyb3IgSGFuZGxpbmcgLSBTb21lIHRvb2xzIG1h\neSBjYXVzZSBlcnJvciwgdGhhdCdzIHdoeSBJIGFkZGVkIHRoaXMgb3B0aW9u\nLgozLiBHcmFwaGljYWwgSW50ZXJmYWNlIC0gRm9yIGp1c3QgY2xpY2sgJiBj\nbGljay4KNC4gTWFsd2FyZSBQcm90ZWN0aW9uZyAtIEFsbCB0b29scyBhcmUg\nZG93bmxvYWRlZCBmcm9tIHRoZWlyIG9yaWdpbmFsIHNvdXJjZSwgc28gbm8g\nbWFsd2FyZXMgb3IgYW55IHZpcnVzZXMuCjUuIE11bHRpLVBsYXRmb3JtIC0g\nTWFueSB0b29scyBhcmUgZm9yIGRlc2lnbmVkIGRpZmZlcmVudGx5IGZvciBN\nYWMsIFdpbmRvd3MgJiBMaW51eCwgc28gSSBhZGRlZCBvcHRpb24gZm9yIHRo\nYXQuIENob29zZSB5b3VyIHBsYXRmb3JtIGFuZCB5b3UncmUgZ29vZCB0byBn\nby4KNi4gQmV0dGVyIG9yZ2FuaXNlZCAtIEV2ZXJ5dGhpbmcgaXMgYmV0dGVy\nIG9yZ2FuaXNlZCBub3RoaW5nIGxpa2Ugc2VhcmNoIGV2ZXJ5dGhpbmcsIGFu\nZCBhbGwgdGhhdCBtZXNzLgoKSSBiZWxpZXZlIHRoYXQsIG5vdGhpbmcgY2Fu\nJ3QgYmUgcGVyZmVjdCwgU28gSSBhZGRlZCBvcHRpb24gdG8gcmVwb3J0IGEg\ndG9vbCwgb3Igc2VuZCBtZSBzdWdnZXN0aW9ucyBhYm91dCBhbnkgbmV3IHRv\nb2wsIEkgc2hvdWxkIGFkZC4KCiMgQ29udHJpYnV0aW9ucwpJIGFkZGVkIGFu\nIG9wdGlvbiB3aXRoaW4gdGhlIHRvb2wsIHNvIHRoYXQgeW91IGNhbiBzdXBw\nb3J0IG1lLCBlaXRoZXIgaW4gZGV2ZWxvcGluZywgc3BvbnNvcmluZyBvciBz\naW1wbHkgZG9uYXRpbmcuCgpUaGFua3MgdG86CgoxLiBkZXZpbDY3CjIuIGJl\nZXByaW1lCjMuIEJPV2FkYXB0ZXIKNC4gaXJiaXNydXMKNS4gZmNhZnJhCjYu\nIHppZmxhcgo3LiBMeWRlY2tlciBCbGFjawoKRm9yIHBvaW50aW5nIG91dCBz\nb21lIGNyaXRpY2FsIGJ1Z3MgaW4gdGhlIHRvb2wgJiBmb3IgYWRkaW5nIG1v\ncmUgdG9vbHMuCgojIFVzYWdlCgpnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIu\nY29tL3JhamVzaG1hanVtZGFyL1Bsb2l0S2l0LmdpdAoKV2luZG93cwpwbG9p\ndGtpdC5weQoKVU5JWCBvciBNYWMKcHl0aG9uIHBsb2l0a2l0LnB5CgojIFNj\ncmVlbnNob3RzCgohW0FsdCB0ZXh0XSgvc2NyZWVuc2hvdHMvcGxvaXRraXQu\ncG5nP3Jhdz10cnVlICJQbG9pdEtpdCB0b29sIikKCiMgQnV5IG1lIGEgY29m\nZmVlCgpZb3UgY2FuIGhlbHAgbWUgaW4gY29udmVydGluZyBtb3JlIGNvZmZl\nZSBpbnRvIG1vcmUgY29kZS4KClshW0RvbmF0ZV0oaHR0cHM6Ly9pbWcuc2hp\nZWxkcy5pby9iYWRnZS9Eb25hdGUtUGF5UGFsLWdyZWVuLnN2ZyldKGh0dHBz\nOi8vd3d3LnBheXBhbC5jb20vY2dpLWJpbi93ZWJzY3I/Y21kPV9zLXhjbGlj\nayZob3N0ZWRfYnV0dG9uX2lkPTJMUUZUOVFNNE03WVUpCgojIElzc3VlcwoK\nSWYgYW55IGVycm9yIG9jY3VyZWQsIG9yIGFueSBzdWdnZXN0aW9ucy4gU2Vu\nZCBtZSB0aHJvdWdoIHRoZSB0b29sIGl0c2VsZiBvciBmcm9tIElzc3VlIHRh\nYi4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/rajeshmajumdar/PloitKit/contents/README.md?ref=master","git":"https://api.github.com/repos/rajeshmajumdar/PloitKit/git/blobs/09de6a4ecc7070fd404d7bfb385668645372f750","html":"https://github.com/rajeshmajumdar/PloitKit/blob/master/README.md"}}
+0
+

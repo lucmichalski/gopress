@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:22:55 GMT
+Etag: W/"419a9d49c3069066f3de506f6230ca13"
+Last-Modified: Thu, 07 Mar 2019 07:31:15 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:978B:B560:5E53B20F
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1787
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+eb0
+{"name":"README.md","path":"README.md","sha":"81d88c0e31e8c62362db432825eb4effddee43d2","size":2161,"url":"https://api.github.com/repos/justmao945/mallory/contents/README.md?ref=master","html_url":"https://github.com/justmao945/mallory/blob/master/README.md","git_url":"https://api.github.com/repos/justmao945/mallory/git/blobs/81d88c0e31e8c62362db432825eb4effddee43d2","download_url":"https://raw.githubusercontent.com/justmao945/mallory/master/README.md","type":"file","content":"IyMgbWFsbG9yeQpIVFRQL0hUVFBTIHByb3h5IG92ZXIgU1NILgoKCiMjIElu\nc3RhbGxhdGlvbgoqIExvY2FsIG1hY2hpbmU6IGBnbyBnZXQgZ2l0aHViLmNv\nbS9qdXN0bWFvOTQ1L21hbGxvcnkvY21kL21hbGxvcnlgCiogUmVtb3RlIHNl\ncnZlcjogbmVlZCBvdXIgb2xkIGZyaWVuZCBzc2hkCgoKIyMgQ29uZmlndWVy\nYXRpb24KIyMjIENvbmZpZyBmaWxlCkRlZmF1bHQgcGF0aCBpcyBgJEhPTUUv\nLmNvbmZpZy9tYWxsb3J5Lmpzb25gLCBjYW4gYmUgc2V0IHdoZW4gc3RhcnQg\ncHJvZ3JhbQpgYGAKbWFsbG9yeSAtY29uZmlnIHBhdGgvdG8vY29uZmlnLmpz\nb24KYGBgCgpDb250ZW50OgoqIGBpZF9yc2FgIGlzIHRoZSBwYXRoIHRvIG91\nciBwcml2YXRlIGtleSBmaWxlLCBjYW4gYmUgZ2VuZXJhdGVkIGJ5IGBzc2gt\na2V5Z2VuYAoqIGBsb2NhbF9zbWFydGAgaXMgdGhlIGxvY2FsIGFkZHJlc3Mg\ndG8gc2VydmUgSFRUUCBwcm94eSB3aXRoIHNtYXJ0IGRldGVjdGlvbiBvZiBk\nZXN0aW5hdGlvbiBob3N0CiogYGxvY2FsX25vcm1hbGAgaXMgc2ltaWxhciB0\nbyBgbG9jYWxfc21hcnRgIGJ1dCBzZW5kIGFsbCB0cmFmZmljIHRocm91Z2gg\ncmVtb3RlIFNTSCBzZXJ2ZXIgd2l0aG91dCBkZXN0aW5hdGlvbiBob3N0IGRl\ndGVjdGlvbgoqIGByZW1vdGVgIGlzIHRoZSByZW1vdGUgYWRkcmVzcyBvZiBT\nU0ggc2VydmVyCiogYGJsb2NrZWRgIGlzIGEgbGlzdCBvZiBkb21haW5zIHRo\nYXQgbmVlZCB1c2UgcHJveHksIGFueSBvdGhlciBkb21haW5zIHdpbGwgY29u\nbmVjdCB0byB0aGVpciBzZXJ2ZXIgZGlyZWN0bHkKCmBgYGpzb24KewogICJp\nZF9yc2EiOiAiJEhPTUUvLnNzaC9pZF9yc2EiLAogICJsb2NhbF9zbWFydCI6\nICI6MTMxNSIsCiAgImxvY2FsX25vcm1hbCI6ICI6MTMxNiIsCiAgInJlbW90\nZSI6ICJzc2g6Ly91c2VyQHZtLm1lOjIyIiwKICAiYmxvY2tlZCI6IFsKICAg\nICJhbmd1bGFyanMub3JnIiwKICAgICJnb2xhbmcub3JnIiwKICAgICJnb29n\nbGUuY29tIiwKICAgICJnb29nbGUuY28uanAiLAogICAgImdvb2dsZWFwaXMu\nY29tIiwKICAgICJnb29nbGV1c2VyY29udGVudC5jb20iLAogICAgImdvb2ds\nZS1hbmFseXRpY3MuY29tIiwKICAgICJnc3RhdGljLmNvbSIsCiAgICAidHdp\ndHRlci5jb20iLAogICAgInlvdXR1YmUuY29tIgogIF0KfQpgYGAKCkJsb2Nr\nZWQgbGlzdCBpbiBjb25maWcgZmlsZSB3aWxsIGJlIHJlbG9hZGVkIGF1dG9t\nYXRpY2FsbHkgd2hlbiB1cGRhdGVkLCBhbmQgeW91IGNhbiBkbyBpdCBtYW51\nYWxseToKYGBgCiMgc2VuZCBzaWduYWwgdG8gcmVsb2FkCmtpbGwgLVVTUjIg\nPHBpZCBvZiBtYWxsb3J5PgoKIyBvciB1c2UgcmVsb2FkIGNvbW1hbmQgYnkg\nc2VuZGluZyBodHRwIHJlcXVlc3QKbWFsbG9yeSAtcmVsb2FkCmBgYAoKIyMj\nIFN5c3RlbSBjb25maWcKKiBTZXQgYm90aCBIVFRQIGFuZCBIVFRQUyBwcm94\neSB0byBgbG9jYWxob3N0YCB3aXRoIHBvcnQgYDEzMTVgIHRvIHVzZSB3aXRo\nIGJsb2NrIGxpc3QKKiBTZXQgZW52IHZhciBgaHR0cF9wcm94eWAgYW5kIGBo\ndHRwc19wcm94eWAgdG8gYGxvY2FsaG9zdDoxMzE2YCBmb3IgdGVybWluYWwg\ndXNhZ2UKCiMjIyBHZXQgdGhlIHJpZ2h0IHN1ZmZpeCBuYW1lIGZvciBhIGRv\nbWFpbgpgYGAKbWFsbG9yeSAtc3VmZml4IHd3dy5nb29nbGUuY29tCmBgYAoK\nIyMjIEEgc2ltcGxlIGNvbW1hbmQgdG8gZm9yd2FyZCBhbGwgdHJhZmZpYyBm\nb3IgdGhlIGdpdmVuIHBvcnQKYGBgc2gKIyBpbnN0YWxsIGl0OiBnbyBnZXQg\nZ2l0aHViLmNvbS9qdXN0bWFvOTQ1L21hbGxvcnkvY21kL2ZvcndhcmQKCiMg\nYWxsIHRyYWZmaWMgdGhyb3VnaCBwb3J0IDIwMDIyIHdpbGwgYmUgZm9yd2Fy\nZGVkIHRvIGRlc3RpbmF0aW9uLmNvbToyMgpmb3J3YXJkIC1uZXR3b3JrIHRj\ncCAtbGlzdGVuIDoyMDAyMiAtZm9yd2FyZCBkZXN0aW5hdGlvbi5jb206MjIK\nCiMgeW91IGNhbiBzc2ggdG8gZGVzdGluYXRpb246MjIgdGhyb3VnaCBsb2Nh\nbGhvc3Q6MjAwMjIKc3NoIHJvb3RAbG9jYWxob3N0IC1wIDIwMDIyCmBgYAoK\nIyMjIFRPRE8KKiByZXR1cm4gaHR0cCBlcnJvciB3aGVuIHVuYWJsZSB0byBk\naWFsCiogYWRkIGhvc3QgdG8gbGlzdCBhdXRvbWF0aWNhbGx5IHdoZW4gdW5h\nYmxlIHRvIGRpYWwKKiBzdXBwb3J0IG11bHRpcGxlIHJlbW90ZSBzZXJ2ZXJz\nCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/justmao945/mallory/contents/README.md?ref=master","git":"https://api.github.com/repos/justmao945/mallory/git/blobs/81d88c0e31e8c62362db432825eb4effddee43d2","html":"https://github.com/justmao945/mallory/blob/master/README.md"}}
+0
+

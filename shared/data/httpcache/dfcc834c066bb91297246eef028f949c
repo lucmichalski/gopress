@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:05:46 GMT
+Etag: "c67fd249b787d163b7d10d59f1107158"
+Last-Modified: Mon, 18 Nov 2019 03:02:21 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 304 Not Modified
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-From-Cache: 1
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:42E55:50CFC:5E53AE09
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4768
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+ea9
+{"name":"README.md","path":"README.md","sha":"9dbcd8d3e951c0e8af51305546838045fa8acbaf","size":2154,"url":"https://api.github.com/repos/zerobyte-id/NetAss2/contents/README.md?ref=master","html_url":"https://github.com/zerobyte-id/NetAss2/blob/master/README.md","git_url":"https://api.github.com/repos/zerobyte-id/NetAss2/git/blobs/9dbcd8d3e951c0e8af51305546838045fa8acbaf","download_url":"https://raw.githubusercontent.com/zerobyte-id/NetAss2/master/README.md","type":"file","content":"IyBOZXRBc3MyCkVhc2llciBuZXR3b3JrIHNjYW5uaW5nIHdpdGggTmV0QXNz\nMiAoTmV0d29yayBBc3Nlc3NtZW50IEFzc2lzdGFuY2UgRnJhbWV3b3JrKS4K\nCiFbTmV0QXNzMiBNZW51XShodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVu\ndC5jb20vemVyb2J5dGUtaWQvTmV0QXNzMi9tYXN0ZXIvaW1nLWRvY3MvbmV0\nYXNzMi1tZW51LnBuZykKCk1ha2UgaXQgZWFzeSBmb3IgUGVudGVzdGVyIHRv\nIGRvIHBlbmV0cmF0aW9uIHRlc3Rpbmcgb24gbmV0d29yay4KCiMjIyBEZXBl\nbmRlbmNpZXMKLSBubWFwICh0b29sKQotIHptYXAgKHRvb2wpCgojIyMgSW5z\ndGFsbGF0aW9uCgpgYGAKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS96\nZXJvYnl0ZS1pZC9OZXRBc3MyLmdpdApgYGAKYGBgCmNkIE5ldEFzczIKYGBg\nCmBgYApzdWRvIGNobW9kICt4IGluc3RhbGwuYmFzaApgYGAKYGBgCnN1ZG8g\nLi9pbnN0YWxsLmJhc2gKYGBgCgojIyMgUnVuCgpgYGAKbmV0YXNzMgpgYGAK\nCiMjIyBFeGlzdGluZyBNZW51CgpgYGAKLSBIT1NUIERJU0NPVkVSWQotIFBP\nUlQgU0NBTiBPTiBTSU5HTEUgSE9TVAotIE1BU1NJVkUgUE9SVCBTQ0FOIFZJ\nQSBESVNDT1ZFUkVEIEhPU1RTCi0gTUFTU0lWRSBQT1JUIFNDQU4gVklBIExJ\nU1QgT04gRklMRQotIFNJTkdMRSBQT1JUIFFVSUNLIFNDQU4gVklBIE5FVFdP\nUksgQkxPQ0sKLSBNVUxUSVBMRSBQT1JUIFFVSUNLIFNDQU4gVklBIE5FVFdP\nUksgQkxPQ0sKLSBTSE9XIFJFUE9SVFMKYGBgCgojIyMgU2NyZWVuc2hvdCAo\nRG9jdW1lbnRhdGlvbikKIVtOZXRBc3MyIEhvc3RdKGh0dHBzOi8vcmF3Lmdp\ndGh1YnVzZXJjb250ZW50LmNvbS96ZXJvYnl0ZS1pZC9OZXRBc3MyL21hc3Rl\nci9pbWctZG9jcy9uZXRhc3MyLWhvc3QucG5nKQohW05ldEFzczIgUG9ydF0o\naHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3plcm9ieXRlLWlk\nL05ldEFzczIvbWFzdGVyL2ltZy1kb2NzL25ldGFzczItcG9ydC5wbmcpCgoK\nIyMjIE1lZGlhIFJldmlldwotIEtpdHBsb2l0LmNvbSA6IDxhIGhyZWY9Imh0\ndHBzOi8vd3d3LmtpdHBsb2l0LmNvbS8yMDE5LzExL25ldGFzczItbmV0d29y\nay1hc3Nlc3NtZW50LWFzc2lzdGFuY2UuaHRtbCI+aHR0cHM6Ly93d3cua2l0\ncGxvaXQuY29tLzIwMTkvMTEvbmV0YXNzMi1uZXR3b3JrLWFzc2Vzc21lbnQt\nYXNzaXN0YW5jZS5odG1sPC9hPgoKLSBNcmhhY2tlciA6IDxhIGhyZWY9Imh0\ndHBzOi8vbXJoYWNrZXIuY28vaGFja2Vycy1yZXBvc2l0b3J5L2hhY2stdG9v\nbHMvbmV0YXNzMi1uZXR3b3JrLWFzc2Vzc21lbnQtYXNzaXN0YW5jZS1mcmFt\nZXdvcmsiPmh0dHBzOi8vbXJoYWNrZXIuY28vaGFja2Vycy1yZXBvc2l0b3J5\nL2hhY2stdG9vbHMvbmV0YXNzMi1uZXR3b3JrLWFzc2Vzc21lbnQtYXNzaXN0\nYW5jZS1mcmFtZXdvcms8L2E+CgotIEhheGY0cmFsbCA6IDxhIGhyZWY9Imh0\ndHBzOi8vaGF4ZjRyYWxsLmNvbS8yMDE5LzExLzEzL25ldGFzczItbmV0d29y\nay1hc3Nlc3NtZW50LWFzc2lzdGFuY2UtZnJhbWV3b3JrLyI+aHR0cHM6Ly9o\nYXhmNHJhbGwuY29tLzIwMTkvMTEvMTMvbmV0YXNzMi1uZXR3b3JrLWFzc2Vz\nc21lbnQtYXNzaXN0YW5jZS1mcmFtZXdvcmsvPC9hPgoKLSBLYWxpbGludXh0\ndXRvcmlhbHMgOiA8YSBocmVmPSJodHRwczovL2thbGlsaW51eHR1dG9yaWFs\ncy5jb20vbmV0YXNzMi1uZXR3b3JrLWFzc2Vzc21lbnQtYXNzaXN0YW5jZS1m\ncmFtZXdvcmsvIj5odHRwczovL2thbGlsaW51eHR1dG9yaWFscy5jb20vbmV0\nYXNzMi1uZXR3b3JrLWFzc2Vzc21lbnQtYXNzaXN0YW5jZS1mcmFtZXdvcmsv\nPC9hPgoKLSBMaW51eHNlYyA6IDxhIGhyZWY9Imh0dHBzOi8vYmxvZy5saW51\neHNlYy5vcmcvZWFzaWVyLW5ldHdvcmstc2Nhbm5pbmctd2l0aC1uZXRhc3My\nLyI+aHR0cHM6Ly9ibG9nLmxpbnV4c2VjLm9yZy9lYXNpZXItbmV0d29yay1z\nY2FubmluZy13aXRoLW5ldGFzczIvPC9hPgoKLSBIYWNraW5nLnJldmlld3Mg\nOiA8YSBocmVmPSJodHRwczovL3d3dy5oYWNraW5nLnJldmlld3MvMjAxOS8x\nMS9uZXRhc3MyLW5ldHdvcmstYXNzZXNzbWVudC1hc3Npc3RhbmNlLmh0bWwi\nPmh0dHBzOi8vd3d3LmhhY2tpbmcucmV2aWV3cy8yMDE5LzExL25ldGFzczIt\nbmV0d29yay1hc3Nlc3NtZW50LWFzc2lzdGFuY2UuaHRtbDwvYT4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/zerobyte-id/NetAss2/contents/README.md?ref=master","git":"https://api.github.com/repos/zerobyte-id/NetAss2/git/blobs/9dbcd8d3e951c0e8af51305546838045fa8acbaf","html":"https://github.com/zerobyte-id/NetAss2/blob/master/README.md"}}
+0
+

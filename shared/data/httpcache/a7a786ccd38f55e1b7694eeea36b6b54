@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:32:43 GMT
+Etag: W/"66a9b755838d37053d3a75cca2ea260c"
+Last-Modified: Sun, 01 Dec 2019 07:48:21 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:36EED:41D44:5E53B45B
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 231
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b13
+{"name":"README.md","path":"README.md","sha":"14607a3824b3c108d8bd16e69deb33d7f02760fe","size":1496,"url":"https://api.github.com/repos/saeeddhqan/Maryam/contents/README.md?ref=master","html_url":"https://github.com/saeeddhqan/Maryam/blob/master/README.md","git_url":"https://api.github.com/repos/saeeddhqan/Maryam/git/blobs/14607a3824b3c108d8bd16e69deb33d7f02760fe","download_url":"https://raw.githubusercontent.com/saeeddhqan/Maryam/master/README.md","type":"file","content":"IVtWZXJzaW9uIDEuMy4yXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdl\nL1ZlcnNpb24tMS4zLjItZ3JlZW4uc3ZnKQpbIVtHUEx2MyBMaWNlbnNlXSho\ndHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpY2Vuc2UtR1BMdjMtcmVk\nLnN2ZykKIVtQeXRob24gMi54XShodHRwczovL2ltZy5zaGllbGRzLmlvL2Jh\nZGdlL1B5dGhvbi0yLngtZ3JlZW4uc3ZnKQpbIVtDb2RhY3kgQmFkZ2VdKGh0\ndHBzOi8vYXBpLmNvZGFjeS5jb20vcHJvamVjdC9iYWRnZS9HcmFkZS80MGQ4\nMWM0OGIzNDQ0ZWU3OGZmYzZjNWM4NjM5MTM0YyldKGh0dHBzOi8vd3d3LmNv\nZGFjeS5jb20vbWFudWFsL3NhZWVkZGhxYW4vTWFyeWFtP3V0bV9zb3VyY2U9\nZ2l0aHViLmNvbSZhbXA7dXRtX21lZGl1bT1yZWZlcnJhbCZhbXA7dXRtX2Nv\nbnRlbnQ9c2FlZWRkaHFhbi9NYXJ5YW0mYW1wO3V0bV9jYW1wYWlnbj1CYWRn\nZV9HcmFkZSkKCjxpbWcgc3JjPSJodHRwczovL3d3dy5vd2FzcC5vcmcvaW1h\nZ2VzLzgvODMvT3dhc3AtYmFubmVyLnBuZyI+CgpPV0FTUCBNYXJ5YW0KPT09\nPQoKWyFbYXNjaWljYXN0XShodHRwczovL2FzY2lpbmVtYS5vcmcvYS9EbFdI\nOUFna1J0ZzJUZkxkOUR2d0R2bXkzLnN2ZyldKGh0dHBzOi8vYXNjaWluZW1h\nLm9yZy9hL0RsV0g5QWdrUnRnMlRmTGQ5RHZ3RHZteTMpCgoqKk9XQVNQIE1h\ncnlhbSoqIGlzIGFuICoqT3Blbi1zb3VyY2UgaW50ZWxsaWdlbmNlKE9TSU5U\nKSoqIGFuZCAqKldlYi1iYXNlZCBGb290cHJpbnRpbmcqKiBtb2R1bGFyIGZy\nYW1ld29yayBiYXNlZCBvbiB0aGUgUmVjb24tbmcgYW5kIHdyaXR0ZW4gaW4g\nUHl0aG9uLgoKIyMgV2hhdCBjYW4gYmUgZG9uZQoKKipDYW4gZXh0cmFjdCoq\nCiogICBDb21tZW50cywgTGlua3MsIENETnMsIENTUywgSlMgZmlsZXMuLgoq\nICAgRG9jdW1lbnRhdGlvbnMocGRmLCBkb2MsIC4uKQoqICAgS2V5d29yZHMs\nIGVycm9ycywgdXNlcm5hbWVzLCAuLgoqICAgRE5TLCBUTEQgYW5kIGJydXRl\nZm9yY2UgaXQuCiogICBTaXRlTWFwCgoqKkNhbiBpZGVudGlmeSoqCiogICBJ\nbnRlcmVzdGluZyBhbmQgaW1wb3J0YW50IGZpbGVzCiogICBFbWFpbHMgZnJv\nbSBzZWFyY2ggZW5naW5lcwoqICAgT25pb24gcmVsYXRlZCBsaW5rcwoqICAg\nU3ViZG9tYWlucyBmcm9tIGRpZmZlcmVudCBzb3VyY2VzCiogICBXZWJBcHBz\nLCBXQUYsLi4KKiAgIFNvY2lhbCBuZXR3b3JrcwoqICAgLi4KCiMjIGxpbmtz\nCiMjIyBbT1dBU1BdKGh0dHBzOi8vd3d3Lm93YXNwLm9yZy9pbmRleC5waHAv\nT1dBU1BfTWFyeWFtX1Byb2plY3QpCiMjIyBbV2lraV0oaHR0cHM6Ly9naXRo\ndWIuY29tL3NhZWVkZGhxYW4vbWFyeWFtL3dpa2kpCiMjIyBbTW9kdWxlcyBH\ndWlkZV0oaHR0cHM6Ly9naXRodWIuY29tL3NhZWVkZGhxYW4vbWFyeWFtL3dp\na2kvbW9kdWxlcykKCkJ1Z3MsIHJlcXVlc3RzLCBvciBhbnkgb3RoZXIgaXNz\ndWVzIHBsZWFzZSBbQ29udGFjdCB1c10obWFpbHRvOnNhZWVkLmRlaGdoYW5A\nb3dhc3Aub3JnKQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/saeeddhqan/Maryam/contents/README.md?ref=master","git":"https://api.github.com/repos/saeeddhqan/Maryam/git/blobs/14607a3824b3c108d8bd16e69deb33d7f02760fe","html":"https://github.com/saeeddhqan/Maryam/blob/master/README.md"}}
+0
+

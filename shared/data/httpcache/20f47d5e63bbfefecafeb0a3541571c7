@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:03 GMT
+Etag: W/"8067bc7f0bbc4c07af839a356db6c13f"
+Last-Modified: Sat, 18 Jan 2020 15:33:56 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:779DA:8FB8A:5E53AF83
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3699
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+ba0
+{"name":"README.md","path":"README.md","sha":"da9daa161b7e14a76ed314e11977c62c8df21df7","size":1603,"url":"https://api.github.com/repos/b4b4r07/httpstat/contents/README.md?ref=master","html_url":"https://github.com/b4b4r07/httpstat/blob/master/README.md","git_url":"https://api.github.com/repos/b4b4r07/httpstat/git/blobs/da9daa161b7e14a76ed314e11977c62c8df21df7","download_url":"https://raw.githubusercontent.com/b4b4r07/httpstat/master/README.md","type":"file","content":"aHR0cHN0YXQKPT09CgpjdXJsIHN0YXRpc3RpY3MgbWFkZSBzaW1wbGUuCgo8\ncCBhbGlnbj0iY2VudGVyIj4KPGltZyBzcmM9ImRlbW8ucG5nIiB3aWR0aD0i\nNTAwIj4KPC9wPgoKIyMgVXNhZ2UKCmBgYGNvbnNvbGUKJCBiYXNoIC4vaHR0\ncHN0YXQuc2ggLS1oZWxwClVzYWdlOiBodHRwc3RhdCBVUkwgW0NVUkxfT1BU\nSU9OU10KICAgICAgIGh0dHBzdGF0IC1oIHwgLS1oZWxwCiAgICAgICBodHRw\nc3RhdCAtLXZlcnNpb24KQXJndW1lbnRzOgogIFVSTCAgICAgdXJsIHRvIHJl\ncXVlc3QsIGNvdWxkIGJlIHdpdGggb3Igd2l0aG91dCBgaHR0cChzKTovL2Ag\ncHJlZml4Ck9wdGlvbnM6CiAgQ1VSTF9PUFRJT05TICBhbnkgY3VybCBzdXBw\nb3J0ZWQgb3B0aW9ucywgZXhjZXB0IGZvciAtdyAtRCAtbyAtUyAtcywKICAg\nICAgICAgICAgICAgIHdoaWNoIGFyZSBhbHJlYWR5IHVzZWQgaW50ZXJuYWxs\neS4KICAtaCAtLWhlbHAgICAgIHNob3cgdGhpcyBzY3JlZW4uCiAgLS12ZXJz\naW9uICAgICBzaG93IHZlcnNpb24uCkVudmlyb25tZW50czoKICBIVFRQU1RB\nVF9TSE9XX0JPRFkgICAgQnkgZGVmYXVsdCBodHRwc3RhdCB3aWxsIHdyaXRl\nIHJlc3BvbnNlIGJvZHkKICAgICAgICAgICAgICAgICAgICAgICAgaW4gYSB0\nZW1wZmlsZSwgYnV0IHlvdSBjYW4gbGV0IGl0IHByaW50IG91dCBieSBzZXR0\naW5nCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMgdmFyaWFibGUgdG8g\nYHRydWVgLgogIEhUVFBTVEFUX1NIT1dfU1BFRUQgICBzZXQgdG8gYHRydWVg\nIHRvIHNob3cgZG93bmxvYWQgYW5kIHVwbG9hZCBzcGVlZC4KYGBgCgpUaGlz\nIGBodHRwc3RhdGAgaXMgd3JpdHRlbiBieSBiYXNoIG9ubHkuIERvIHlvdSBo\nYXZlIGAvYmluL2Jhc2hgIGFuZCB0aGUgbGlrZT8KCiMjIEluc3RhbGxhdGlv\nbgoKVGhlcmUgYXJlIHR3byB3YXlzIHRvIGdldCBodHRwc3RhdDoKCi0gRG93\nbmxvYWQgdGhlIHNjcmlwdCBkaXJlY3RseToKCS0gYHdnZXQgaHR0cHM6Ly9y\nYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2I0YjRyMDcvaHR0cHN0YXQvbWFz\ndGVyL2h0dHBzdGF0LnNoYAoJLSBgY3VybCBodHRwczovL3Jhdy5naXRodWJ1\nc2VyY29udGVudC5jb20vYjRiNHIwNy9odHRwc3RhdC9tYXN0ZXIvaHR0cHN0\nYXQuc2ggPmh0dHBzdGF0LnNoYAotIEluc3RhbGwgdGhyb3VnaCBbenBsdWdd\nKGh0dHBzOi8vZ2l0aHViLmNvbS96cGx1Zy96cGx1Zyk6IAoKICAgIGBgYHpz\naAogICAgenBsdWcgImI0YjRyMDcvaHR0cHN0YXQiLCBcCiAgICAgICAgYXM6\nY29tbWFuZCwgXAogICAgICAgIHVzZTonKCopLnNoJywgXAogICAgICAgIHJl\nbmFtZS10bzonJDEnCiAgICBgYGAKCiMjIEltcGxlbWVudGF0aW9ucwoKTWFu\neSB0aGFua3MuCgotIDxodHRwczovL2dpdGh1Yi5jb20vcmVvcngvaHR0cHN0\nYXQ+Ci0gPGh0dHBzOi8vZ2l0aHViLmNvbS9kYXZlY2hlbmV5L2h0dHBzdGF0\nPgotIDxodHRwczovL2dpdGh1Yi5jb20veW9zdWtlLWZ1cnVrYXdhL2h0dHBz\ndGF0PgotIDxodHRwczovL2dpdGh1Yi5jb20vdGNua3NtL2dvLWh0dHBzdGF0\nPgoKIyMgQXV0aG9yCgpiNGI0cjA3CgojIyBMaWNlbnNlCgpbTUlUXShodHRw\nOi8vYjRiNHIwNy5taXQtbGljZW5zZS5vcmcpCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/b4b4r07/httpstat/contents/README.md?ref=master","git":"https://api.github.com/repos/b4b4r07/httpstat/git/blobs/da9daa161b7e14a76ed314e11977c62c8df21df7","html":"https://github.com/b4b4r07/httpstat/blob/master/README.md"}}
+0
+

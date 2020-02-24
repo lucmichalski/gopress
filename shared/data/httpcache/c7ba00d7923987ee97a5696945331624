@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:56 GMT
+Etag: W/"a48128685cff058221b6100cf4741693"
+Last-Modified: Fri, 19 May 2017 17:39:33 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:7EFA7:98849:5E53AFB8
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3566
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+94a
+{"name":"README.md","path":"README.md","sha":"39e35dd12a4c45f287c49831ec4af1a333525e39","size":1159,"url":"https://api.github.com/repos/Cn33liz/MacroMeter/contents/README.md?ref=master","html_url":"https://github.com/Cn33liz/MacroMeter/blob/master/README.md","git_url":"https://api.github.com/repos/Cn33liz/MacroMeter/git/blobs/39e35dd12a4c45f287c49831ec4af1a333525e39","download_url":"https://raw.githubusercontent.com/Cn33liz/MacroMeter/master/README.md","type":"file","content":"YGBgCiAgIF9fX19fICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBf\nX19fXyAgICAgICAgICBfXwogIC8gICAgIFwgX19fX18gICAgX19fX19fX19f\nX18gIF9fX18gICAvICAgICBcICAgX19fX18vICB8XyAgX19fX19fX19fX18K\nIC8gIFwgLyAgXFxfXyAgXCBfLyBfX19cXyAgX18gXC8gIF8gXCAvICBcIC8g\nIFxfLyBfXyBcICAgX19cLyBfXyBcXyAgX18gXAovICAgIFkgICAgXC8gX18g\nXFwgIFxfX198ICB8IFwoICA8Xz4gKSAgICBZICAgIFwgIF9fXy98ICB8IFwg\nIF9fXy98ICB8IFwvClxfX19ffF9fICAoX19fXyAgL1xfX18gID5fX3wgICBc\nX19fXy9cX19fX3xfXyAgL1xfX18gID5fX3wgIFxfX18gID5fX3wKICAgICAg\nICBcLyAgICAgXC8gICAgIFwvICAgICAgICAgICAgICAgICAgICAgXC8gICAg\nIFwvICAgICAgICAgIFwvCgogICAgICAgICAgICAgICAgICAgICAgIE1ldGFz\ncGxvaXQgQmlnIEdhbWUgUGhpc2luZyBCYWl0IC0gYnkgQ24zM2xpeiAyMDE3\nCmBgYAojIyMgVkJBIFJldmVyc2VkIFRDUCBNZXRlcnByZXRlciBTdGFnZXIK\nQ1NoYXJwIE1ldGVycHJldGVyIFN0YWdlciBidWlsZCBieSBDbjMzbGl6IGFu\nZCBlbWJlZGRlZCB3aXRoaW4gVkJBIHVzaW5nIERvdE5ldFRvSlNjcmlwdCBm\ncm9tIEphbWVzIEZvcnNoYXcKaHR0cHM6Ly9naXRodWIuY29tL3R5cmFuaWQv\nRG90TmV0VG9KU2NyaXB0CgpgYGAKVXNhZ2U6CkNoYW5nZSBSSE9TVCBhbmQg\nUlBPUlQgdG8gc3VpdCB5b3VyIG5lZWRzOgoKVGhlbiBjcmVhdGUgYW4gYXdl\nc29tZSBFeGNlbCBvciBXb3JkIERvY3VtZW50IGNvbnRhaW5pbmcgeW91ciBW\nQkEgQmFpdAoKU3RhcnQgTXNmY29uc29sZToKdXNlIGV4cGxvaXQvbXVsdGkv\naGFuZGxlcgpzZXQgUEFZTE9BRCB3aW5kb3dzL21ldGVycHJldGVyL3JldmVy\nc2VfdGNwCnNldCBMSE9TVCAwLjAuMC4wCnNldCBMUE9SVCA0NDMKc2V0IEF1\ndG9SdW5TY3JpcHQgcG9zdC93aW5kb3dzL21hbmFnZS9taWdyYXRlIE5BTUU9\nbm90ZXBhZC5leGUKc2V0IEVYSVRGVU5DIHRocmVhZApzZXQgRW5hYmxlVW5p\nY29kZUVuY29kaW5nIHRydWUKc2V0IEVuYWJsZVN0YWdlRW5jb2RpbmcgdHJ1\nZQpzZXQgRXhpdE9uU2Vzc2lvbiBmYWxzZQpleHBsb2l0IC1qCgpUaGVuIHRo\ncm93IG91dCB5b3VyIEJhaXQgYW5kIHdhaXQuLi4KYGBgCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Cn33liz/MacroMeter/contents/README.md?ref=master","git":"https://api.github.com/repos/Cn33liz/MacroMeter/git/blobs/39e35dd12a4c45f287c49831ec4af1a333525e39","html":"https://github.com/Cn33liz/MacroMeter/blob/master/README.md"}}
+0
+

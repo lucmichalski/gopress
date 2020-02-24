@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:31:29 GMT
+Etag: W/"1d7c94fcca07344da4497f5239cb1217"
+Last-Modified: Fri, 21 Feb 2020 21:01:25 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:3148E:3B031:5E53B411
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 440
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a99
+{"name":"README.md","path":"README.md","sha":"36cb7851fa0ba72208b83babf7b4b6a7afdb8b35","size":1368,"url":"https://api.github.com/repos/Orange-Cyberdefense/rabid/contents/README.md?ref=master","html_url":"https://github.com/Orange-Cyberdefense/rabid/blob/master/README.md","git_url":"https://api.github.com/repos/Orange-Cyberdefense/rabid/git/blobs/36cb7851fa0ba72208b83babf7b4b6a7afdb8b35","download_url":"https://raw.githubusercontent.com/Orange-Cyberdefense/rabid/master/README.md","type":"file","content":"IyBSQUJJRAoKWyFbR2VtIFZlcnNpb25dKGh0dHBzOi8vYmFkZ2UuZnVyeS5p\nby9yYi9yYWJpZC5zdmcpXShodHRwczovL2JhZGdlLmZ1cnkuaW8vcmIvcmFi\naWQpCiFbR2l0SHViIHRhZyAobGF0ZXN0IFNlbVZlcildKGh0dHBzOi8vaW1n\nLnNoaWVsZHMuaW8vZ2l0aHViL3RhZy9PcmFuZ2UtQ3liZXJkZWZlbnNlL3Jh\nYmlkKQpbIVtHaXRIdWIgZm9ya3NdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8v\nZ2l0aHViL2ZvcmtzL09yYW5nZS1DeWJlcmRlZmVuc2UvcmFiaWQpXShodHRw\nczovL2dpdGh1Yi5jb20vT3JhbmdlLUN5YmVyZGVmZW5zZS9yYWJpZC9uZXR3\nb3JrKQpbIVtHaXRIdWIgc3RhcnNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8v\nZ2l0aHViL3N0YXJzL09yYW5nZS1DeWJlcmRlZmVuc2UvcmFiaWQpXShodHRw\nczovL2dpdGh1Yi5jb20vT3JhbmdlLUN5YmVyZGVmZW5zZS9yYWJpZC9zdGFy\nZ2F6ZXJzKQpbIVtHaXRIdWIgbGljZW5zZV0oaHR0cHM6Ly9pbWcuc2hpZWxk\ncy5pby9naXRodWIvbGljZW5zZS9PcmFuZ2UtQ3liZXJkZWZlbnNlL3JhYmlk\nKV0oaHR0cHM6Ly9naXRodWIuY29tL09yYW5nZS1DeWJlcmRlZmVuc2UvcmFi\naWQvYmxvYi9tYXN0ZXIvTElDRU5TRS50eHQpClshW1Jhd3NlYydzIEN5YmVy\nU2VjdXJpdHkgSW52ZW50b3J5XShodHRwczovL2ludmVudG9yeS5yYXdzZWMu\nbWwvaW1nL2JhZGdlcy9SYXdzZWMtaW52ZW50b3JpZWQtRkY1MDUwX2ZsYXQu\nc3ZnKV0oaHR0cHM6Ly9pbnZlbnRvcnkucmF3c2VjLm1sL3Rvb2xzLmh0bWwj\nUmFiaWQpCgpbIVtQYWNrYWdpbmcgc3RhdHVzXShodHRwczovL3JlcG9sb2d5\nLm9yZy9iYWRnZS92ZXJ0aWNhbC1hbGxyZXBvcy9yYWJpZC5zdmcpXShodHRw\nczovL3JlcG9sb2d5Lm9yZy9wcm9qZWN0L3JhYmlkL3ZlcnNpb25zKQoKIVtd\nKGh0dHBzOi8vb3JhbmdlLWN5YmVyZGVmZW5zZS5naXRodWIuaW8vcmFiaWQv\nX21lZGlhL2xvZ28ucG5nKQoKPiAqKlJBKipwaWQgKipCKippZyAqKkkqKlAg\nKipEKiplY29kZXIKCiMjIFdoYXQgaXQgaXMKCkEgQ0xJIHRvb2wgYW5kIGxp\nYnJhcnkgYWxsb3dpbmcgdG8gc2ltcGx5IGRlY29kZSBhbGwga2luZCBvZiBC\naWdJUCBjb29raWVzLgoKIyMgRmVhdHVyZXMKCi0gU3VwcG9ydCBhbGwgNCBj\nb29raWUgZm9ybWF0cwotIENMSSB0b29sICYgbGlicmFyeQotIEhhY2thYmxl\nCgojIyBSZWZlcmVuY2VzCgpIb21lcGFnZSAvIERvY3VtZW50YXRpb246IGh0\ndHBzOi8vb3JhbmdlLWN5YmVyZGVmZW5zZS5naXRodWIuaW8vcmFiaWQvCgoj\nIyBBdXRob3IKCk1hZGUgYnkgQWxleGFuZHJlIFpBTk5JIChbQG5vcmFqXSho\ndHRwczovL2dpdGh1Yi5jb20vbm9yYWopKSwgcGVudGVzdGVyIGZyb20gT3Jh\nbmdlIEN5YmVyZGVmZW5zZS4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Orange-Cyberdefense/rabid/contents/README.md?ref=master","git":"https://api.github.com/repos/Orange-Cyberdefense/rabid/git/blobs/36cb7851fa0ba72208b83babf7b4b6a7afdb8b35","html":"https://github.com/Orange-Cyberdefense/rabid/blob/master/README.md"}}
+0
+

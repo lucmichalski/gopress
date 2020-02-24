@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:10:19 GMT
+Etag: W/"19637af38b8571238d90454ada057d37"
+Last-Modified: Thu, 21 Mar 2019 12:59:04 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:689B8:7DEB4:5E53AF1B
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3993
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e35
+{"name":"README.md","path":"README.md","sha":"a77a505183773afa227ad078e1d44d5ab709103a","size":2070,"url":"https://api.github.com/repos/sleinen/samplicator/contents/README.md?ref=master","html_url":"https://github.com/sleinen/samplicator/blob/master/README.md","git_url":"https://api.github.com/repos/sleinen/samplicator/git/blobs/a77a505183773afa227ad078e1d44d5ab709103a","download_url":"https://raw.githubusercontent.com/sleinen/samplicator/master/README.md","type":"file","content":"VURQIFNhbXBsaWNhdG9yCj09PT09PT09PT09PT09PQoKVGhpcyBzbWFsbCBw\ncm9ncmFtIHJlY2VpdmVzIFVEUCBkYXRhZ3JhbXMgb24gYSBnaXZlbiBwb3J0\nLCBhbmQgcmVzZW5kcwp0aG9zZSBkYXRhZ3JhbXMgdG8gYSBzcGVjaWZpZWQg\nc2V0IG9mIHJlY2VpdmVycy4gIEluIGFkZGl0aW9uLCBhCnNhbXBsaW5nIGRp\ndmlzb3IgTiBtYXkgYmUgc3BlY2lmaWVkIGluZGl2aWR1YWxseSBmb3IgZWFj\naCByZWNlaXZlciwKd2hpY2ggd2lsbCB0aGVuIG9ubHkgcmVjZWl2ZSBvbmUg\naW4gTiBvZiB0aGUgcmVjZWl2ZWQgcGFja2V0cy4KCkRPV05MT0FESU5HCi0t\nLS0tLS0tLS0tCgpUaGlzIHBhY2thZ2UgaXMgZGlzdHJpYnV0ZWQgdW5kZXIK\nCWh0dHBzOi8vZ2l0aHViLmNvbS9zbGVpbmVuL3NhbXBsaWNhdG9yLwoKSU5T\nVEFMTEFUSU9OCi0tLS0tLS0tLS0tLQoKU2VlIFtJTlNUQUxMLm1kXShJTlNU\nQUxMLm1kKS4KCkFVVEhPUlMKLS0tLS0tLQoKU2VlIHRoZSBgQVVUSE9SU2Ag\nZmlsZS4KClVTQUdFCi0tLS0tCgpUaGUgdXNhZ2UgY29udmVudGlvbiBmb3Ig\ndGhlIHByb2dyYW0gaXMKCgkkIHNhbXBsaWNhdGUgWzxvcHRpb24+Li4uXSBb\nPGRlc3RpbmF0aW9uPi4uLl0KCldoZXJlIGVhY2ggYDxvcHRpb24+YCBjYW4g\nYmUgb25lIG9mCgoJLWQgPGxldmVsPgl0byBzZXQgdGhlIGRlYnVnZ2luZyBs\nZXZlbAoJLXMgPGFkZHJlc3M+CXRvIHNldCBpbnRlcmZhY2UgYWRkcmVzcyBv\nbiB3aGljaCB0byBsaXN0ZW4KCQkJZm9yIGluY29taW5nIHBhY2tldHMgKGRl\nZmF1bHQgYW55KQoJLXAgPHBvcnQ+CXRvIHNldCB0aGUgVURQIHBvcnQgb24g\nd2hpY2ggdG8gbGlzdGVuIGZvcgoJCQlpbmNvbWluZyBwYWNrZXRzIChkZWZh\ndWx0IDIwMDApCgktYiA8YnVmbGVuPglzaXplIG9mIHJlY2VpdmUgYnVmZmVy\nIChkZWZhdWx0IDY1NTM2KQoJLWMgPGNvbmZpZ2ZpbGU+CXNwZWNpZnkgYSBj\nb25maWcgZmlsZSB0byByZWFkCgkteCA8ZGVsYXk+CXRvIHNwZWNpZnkgYSB0\ncmFuc21pc3Npb24gZGVsYXkgYWZ0ZXIgZWFjaCBwYWNrZXQsCgkJICAgIGlu\nIHVuaXRzIG9mCW1pY3Jvc2Vjb25kcwoJLVMJCW1haW50YWluIChzcG9vZikg\nc291cmNlIGFkZHJlc3NlcwoJLW4JCWRvbid0IGNvbXB1dGUgVURQIGNoZWNr\nc3VtIChvbmx5IHJlbGV2YW50IHdpdGggLVMpCgktZgkJZm9yayBwcm9ncmFt\nIGludG8gYmFja2dyb3VuZAoJLW0gPHBpZGZpbGU+CXdyaXRlIHRoZSBwcm9j\nZXNzIElEIHRvIGEgZmlsZQoJLTQJCUlQdjQgb25seQoJLTYJCUlQdjYgb25s\neQoJLWgJCXRvIHByaW50IGEgdXNhZ2UgbWVzc2FnZSBhbmQgZXhpdAoJLXUg\nPHBkdWxlbj4Jc2l6ZSBvZiBtYXggcGR1IG9uIGxpc3RlbmVkIHNvY2tldCAo\nZGVmYXVsdCA2NTUzNikKCmFuZCBlYWNoIGA8ZGVzdGluYXRpb24+YCBzaG91\nbGQgYmUgc3BlY2lmaWVkIGFzCmA8YWRkcj5bLzxwb3J0PlsvPGludGVydmFs\nPlssdHRsXV1dYCwgd2hlcmUKCgk8YWRkcj4JCUlQIGFkZHJlc3Mgb2YgdGhl\nIHJlY2VpdmVyCgk8cG9ydD4JCXBvcnQgVURQIG51bWJlciBvZiB0aGUgcmVj\nZWl2ZXIgKGRlZmF1bHQgMjAwMCkKCTxmcmVxPgkJbnVtYmVyIG9mIHJlY2Vp\ndmVkIGRhdGFncmFtcyBiZXR3ZWVuIHN1Y2Nlc3NpdmUKCQkJY29waWVkIGRh\ndGFncmFtcyBmb3IgdGhpcyByZWNlaXZlci4KCTx0dGw+CQlUaGUgVFRMIChJ\nUHY0KSBvciBob3AtbGltaXQgKElQdjYpIGZvcgoJCQlvdXRnb2luZyBkYXRh\nZ3JhbXMuCgpDb25maWcgZmlsZSBmb3JtYXQ6CgogICAgYS5iLmMuZFsvZS5m\nLmcuaF06IHJlY2VpdmVyIC4uLgoKd2hlcmU6CgoJYS5iLmMuZCAgICAgaXMg\ndGhlIHNlbmRlcidzIElQIGFkZHJlc3MKICAgIGUuZi5nLmggICAgIGlzIGEg\nbWFzayB0byBhcHBseSB0byB0aGUgc2VuZGVyIChkZWZhdWx0IDI1NS4yNTUu\nMjU1LjI1NSkKICAgIHJlY2VpdmVyICAgIHNlZSBhYm92ZS4KClJlY2VpdmVy\ncyBzcGVjaWZpZWQgb24gdGhlIGNvbW1hbmQgbGluZSB3aWxsIGdldCBhbGwg\ncGFja2V0cywgdGhvc2UKc3BlY2lmaWVkIGluIHRoZSBjb25maWctZmlsZSB3\naWxsIGdldCBvbmx5IHBhY2tldHMgd2l0aCBhIG1hdGNoaW5nCnNvdXJjZS4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/sleinen/samplicator/contents/README.md?ref=master","git":"https://api.github.com/repos/sleinen/samplicator/git/blobs/a77a505183773afa227ad078e1d44d5ab709103a","html":"https://github.com/sleinen/samplicator/blob/master/README.md"}}
+0
+

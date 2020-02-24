@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:24:08 GMT
+Etag: W/"d9871d48142d4e7da73052a471c9ba17"
+Last-Modified: Sat, 15 Feb 2020 20:18:56 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: repo
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.scarlet-witch-preview; format=json, github.mercy-preview; format=json, github.baptiste-preview; format=json
+X-Github-Request-Id: D039:17643:F09E:11F8C:5E53B257
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1571
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.scarlet-witch-preview+json, application/vnd.github.mercy-preview+json, application/vnd.github.baptiste-preview+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+13b6
+{"id":918177,"node_id":"MDEwOlJlcG9zaXRvcnk5MTgxNzc=","name":"hdcp-genkey","full_name":"rjw57/hdcp-genkey","private":false,"owner":{"login":"rjw57","id":146860,"node_id":"MDQ6VXNlcjE0Njg2MA==","avatar_url":"https://avatars0.githubusercontent.com/u/146860?v=4","gravatar_id":"","url":"https://api.github.com/users/rjw57","html_url":"https://github.com/rjw57","followers_url":"https://api.github.com/users/rjw57/followers","following_url":"https://api.github.com/users/rjw57/following{/other_user}","gists_url":"https://api.github.com/users/rjw57/gists{/gist_id}","starred_url":"https://api.github.com/users/rjw57/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/rjw57/subscriptions","organizations_url":"https://api.github.com/users/rjw57/orgs","repos_url":"https://api.github.com/users/rjw57/repos","events_url":"https://api.github.com/users/rjw57/events{/privacy}","received_events_url":"https://api.github.com/users/rjw57/received_events","type":"User","site_admin":false},"html_url":"https://github.com/rjw57/hdcp-genkey","description":"Generate HDCP source and sink keys from the leaked master key","fork":false,"url":"https://api.github.com/repos/rjw57/hdcp-genkey","forks_url":"https://api.github.com/repos/rjw57/hdcp-genkey/forks","keys_url":"https://api.github.com/repos/rjw57/hdcp-genkey/keys{/key_id}","collaborators_url":"https://api.github.com/repos/rjw57/hdcp-genkey/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/rjw57/hdcp-genkey/teams","hooks_url":"https://api.github.com/repos/rjw57/hdcp-genkey/hooks","issue_events_url":"https://api.github.com/repos/rjw57/hdcp-genkey/issues/events{/number}","events_url":"https://api.github.com/repos/rjw57/hdcp-genkey/events","assignees_url":"https://api.github.com/repos/rjw57/hdcp-genkey/assignees{/user}","branches_url":"https://api.github.com/repos/rjw57/hdcp-genkey/branches{/branch}","tags_url":"https://api.github.com/repos/rjw57/hdcp-genkey/tags","blobs_url":"https://api.github.com/repos/rjw57/hdcp-genkey/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/rjw57/hdcp-genkey/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/rjw57/hdcp-genkey/git/refs{/sha}","trees_url":"https://api.github.com/repos/rjw57/hdcp-genkey/git/trees{/sha}","statuses_url":"https://api.github.com/repos/rjw57/hdcp-genkey/statuses/{sha}","languages_url":"https://api.github.com/repos/rjw57/hdcp-genkey/languages","stargazers_url":"https://api.github.com/repos/rjw57/hdcp-genkey/stargazers","contributors_url":"https://api.github.com/repos/rjw57/hdcp-genkey/contributors","subscribers_url":"https://api.github.com/repos/rjw57/hdcp-genkey/subscribers","subscription_url":"https://api.github.com/repos/rjw57/hdcp-genkey/subscription","commits_url":"https://api.github.com/repos/rjw57/hdcp-genkey/commits{/sha}","git_commits_url":"https://api.github.com/repos/rjw57/hdcp-genkey/git/commits{/sha}","comments_url":"https://api.github.com/repos/rjw57/hdcp-genkey/comments{/number}","issue_comment_url":"https://api.github.com/repos/rjw57/hdcp-genkey/issues/comments{/number}","contents_url":"https://api.github.com/repos/rjw57/hdcp-genkey/contents/{+path}","compare_url":"https://api.github.com/repos/rjw57/hdcp-genkey/compare/{base}...{head}","merges_url":"https://api.github.com/repos/rjw57/hdcp-genkey/merges","archive_url":"https://api.github.com/repos/rjw57/hdcp-genkey/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/rjw57/hdcp-genkey/downloads","issues_url":"https://api.github.com/repos/rjw57/hdcp-genkey/issues{/number}","pulls_url":"https://api.github.com/repos/rjw57/hdcp-genkey/pulls{/number}","milestones_url":"https://api.github.com/repos/rjw57/hdcp-genkey/milestones{/number}","notifications_url":"https://api.github.com/repos/rjw57/hdcp-genkey/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/rjw57/hdcp-genkey/labels{/name}","releases_url":"https://api.github.com/repos/rjw57/hdcp-genkey/releases{/id}","deployments_url":"https://api.github.com/repos/rjw57/hdcp-genkey/deployments","created_at":"2010-09-17T11:43:14Z","updated_at":"2020-02-15T20:18:56Z","pushed_at":"2013-09-21T12:43:14Z","git_url":"git://github.com/rjw57/hdcp-genkey.git","ssh_url":"git@github.com:rjw57/hdcp-genkey.git","clone_url":"https://github.com/rjw57/hdcp-genkey.git","svn_url":"https://github.com/rjw57/hdcp-genkey","homepage":"","size":129,"stargazers_count":89,"watchers_count":89,"language":"Python","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":17,"mirror_url":null,"archived":false,"disabled":false,"open_issues_count":0,"license":null,"topics":[],"is_template":false,"forks":17,"open_issues":0,"watchers":89,"default_branch":"master","permissions":{"admin":false,"push":false,"pull":true},"code_of_conduct":{"key":"none","name":"None","html_url":null,"url":"https://api.github.com/repos/rjw57/hdcp-genkey/community/code_of_conduct"},"temp_clone_token":"","template_repository":null,"network_count":17,"subscribers_count":11}
+0
+

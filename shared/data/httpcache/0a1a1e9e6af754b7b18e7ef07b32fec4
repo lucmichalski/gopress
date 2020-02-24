@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:32 GMT
+Etag: W/"cedb65e38c591f8b05c8f54e860194a5"
+Last-Modified: Sat, 15 Jun 2019 05:59:17 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:61E5E:75EA7:5E53AEEC
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4145
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a71
+{"name":"README.md","path":"README.md","sha":"003682897338b42c68535eccec7105cbc6f96e25","size":1378,"url":"https://api.github.com/repos/ruped24/killchain/contents/README.md?ref=master","html_url":"https://github.com/ruped24/killchain/blob/master/README.md","git_url":"https://api.github.com/repos/ruped24/killchain/git/blobs/003682897338b42c68535eccec7105cbc6f96e25","download_url":"https://raw.githubusercontent.com/ruped24/killchain/master/README.md","type":"file","content":"IyBraWxsY2hhaW4KCiFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdl\nL2tpbGxjaGFpbi1weXRob25fMi43LWJsdWUuc3ZnP3N0eWxlPWZsYXQtc3F1\nYXJlKSAhW10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9kZXBlbmRl\nbmNpZXMtdG9yX3NldF9vcGVudmFzX3ZlaWxfd2Vic3Bsb2l0X21ldGFzcGxv\naXRfd2lmaXRlLW9yYW5nZS5zdmc/c3R5bGU9ZmxhdC1zcXVhcmUpICFbXSho\ndHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dQTC12Mi1ibHVlLnN2Zz9z\ndHlsZT1mbGF0LXNxdWFyZSkKCiMjIyMgW+KAnEtpbGwgQ2hhaW7igJ1dKGh0\ndHBzOi8vZ2l0aHViLmNvbS9ydXBlZDI0L2tpbGxjaGFpbi93aWtpL1doYXQt\naXMtS2lsbC1DaGFpbiUzRiN3aGF0LWlzLWtpbGwtY2hhaW4pIGlzIGEgdW5p\nZmllZCBjb25zb2xlIHdpdGggYW4gYW5vbnltaXplciB0aGF0IHdpbGwgcGVy\nZm9ybSB0aGVzZSBzdGFnZXMgb2YgYXR0YWNrczoKCiogUmVjb25uYWlzc2Fu\nY2UKCiogV2VhcG9uaXphdGlvbgoKKiBEZWxpdmVyeQoKKiBFeHBsb2l0Cgoq\nIEluc3RhbGxhdGlvbgoKKiBDb21tYW5kICYgQ29udHJvbCAKCiogQW5kIEFj\ndGlvbnMKCl9fXwoKIyMjIyBEZXBlbmRlbnQgdG9vbCBzZXRzIGFyZTogIyMK\nCjEpICBUb3IgLS0gRm9yIHRoZSBjb25zb2xlIGJ1aWxkLWluIFthbm9ueW1p\nemVyXShodHRwczovL2dpdGh1Yi5jb20vcnVwZWQyNC90b3JpcHRhYmxlczIp\nLgoKMikgIFNldCAtLSBTb2NpYWwtRW5naW5lZXIgVG9vbGtpdCAoU0VUKSwg\nYXR0YWNrcyBhZ2FpbnN0IGh1bWFucy4KCjMpICBPcGVuVmFzIC0tICBWdWxu\nZXJhYmlsaXR5IHNjYW5uaW5nIGFuZCB2dWxuZXJhYmlsaXR5IG1hbmFnZW1l\nbnQuCgo0KSAgVmVpbC1FdmFzaW9uIC0tIEdlbmVyYXRlIG1ldGFzcGxvaXQg\ncGF5bG9hZHMgYnlwYXNzIGFudGktdmlydXMuCgo1KSAgV2Vic3Bsb2l0IC0t\nIFdlYlNwbG9pdCBBZHZhbmNlZCBNSVRNIEZyYW1ld29yay4KCjYpICBNZXRh\nc3Bsb2l0IC0tIEV4ZWN1dGluZyBleHBsb2l0IGNvZGUgYWdhaW5zdCB0YXJn\nZXQuCgo3KSAgV2lGaXRlIC0tIEF1dG9tYXRlZCB3aXJlbGVzcyBhdWRpdG9y\nLCBkZXNpZ25lZCBmb3IgTGludXguCgpfX18KCiMjIyBbU2NyZWVuc2hvdF0o\naHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL29wZW4/aWQ9MEI3OXI0d1RWai1D\nWllUVXhNbFJMZG1OMlJHTSkKCiMjIyBba2lsbGNoYWluIFNldHVwXShodHRw\nczovL2dpdGh1Yi5jb20vcnVwZWQyNC9raWxsY2hhaW4vd2lraS9LaWxsLUNo\nYWluLVNldHVwI3NldHRpbmctdXAteW91ci1raWxsLWNoYWluLWVudmlyb25t\nZW50KQoKIyMjIFtraWxsY2hhaW4gQWRkLW9uXShodHRwczovL2dpdGh1Yi5j\nb20vcnVwZWQyNC90b3JfaXBfc3dpdGNoZXIpCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/ruped24/killchain/contents/README.md?ref=master","git":"https://api.github.com/repos/ruped24/killchain/git/blobs/003682897338b42c68535eccec7105cbc6f96e25","html":"https://github.com/ruped24/killchain/blob/master/README.md"}}
+0
+

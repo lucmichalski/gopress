@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:17:45 GMT
+Etag: W/"c2158a4d7e0b2f985ecfb48adb3bbd9d"
+Last-Modified: Wed, 06 Mar 2019 14:18:23 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:A6371:C7816:5E53B0D9
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2706
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c8f
+{"name":"README.md","path":"README.md","sha":"1b154a424e81315e2272b8d084fa712a17de33bd","size":1720,"url":"https://api.github.com/repos/phxbandit/scripts-and-tools/contents/README.md?ref=master","html_url":"https://github.com/phxbandit/scripts-and-tools/blob/master/README.md","git_url":"https://api.github.com/repos/phxbandit/scripts-and-tools/git/blobs/1b154a424e81315e2272b8d084fa712a17de33bd","download_url":"https://raw.githubusercontent.com/phxbandit/scripts-and-tools/master/README.md","type":"file","content":"IyBTY3JpcHRzIGFuZCBUb29scwoKLSAzMGJhY2t1cHMuc2ggLS0gQ3JlYXRl\ncyBhbmQga2VlcHMgdGhlIGxhdGVzdCAzMCB3ZWIgYW5kIFNRTCBiYWNrdXBz\nCi0gOTUway11c2VybmFtZXMudHh0Lmd6IC0tIFB1c2hpbmcgYSBtaWxsaW9u\nIHVzZXIgbmFtZXMKLSBhZGlnLnNoIC0tIFF1ZXJpZXMgYXV0aG9yaXRhdGl2\nZSBuYW1lIHNlcnZlcnMgZm9yIEEsIHd3dywgYW5kIFRYVCByZWNvcmRzCi0g\nY2hhcmFjdGVyLWNsYXNzZXMudHh0IC0tIENoYXJhY3RlciBjbGFzc2VzIHVz\nZWZ1bCBmb3Igd2ViIG1hbHdhcmUgYW5hbHlzaXMKLSBjaGVjay1jaGVmLnNo\nIC0tIENoZWNrcyBmb3IgbmV3IHZlcnNpb24gb2YgQ3liZXJDaGVmCi0gY29s\nYWRkLnNoIC0tIFN1bXMgYSBjb2x1bW4gZnJvbSBhIGZpbGUKLSBjb252ZXJ0\nc3RyLnBsIC0tIENvbnZlcnRzIGEgc3RyaW5nIGludG8gdmFyaW91cyBmb3Jt\nYXRzCi0gY291bnRyeS1jb2Rlcy50eHQgLS0gSVNPIDMxNjYgY291bnRyeSBj\nb2RlcwotIGVzY2FwZS5wbCAtLSBBdXRvbWF0aWNhbGx5IGVzY2FwZXMgcmVn\ndWxhciBleHByZXNzaW9ucwotIGhvc3RzLXBsdXMudHh0IC0tIGhvc3RzLXBs\ndXMudHh0IGZvciBtaWxkLnNoCi0gaXNvODYwMSAtLSBJU08gODYwMSBzdGFu\nZGFyZCBkYXRlIGFuZCB0aW1lIGZ1bmN0aW9ucwotIGtyYWNrcm9rLnNoIC0t\nIFJlbW92ZXMgb2xkIGtlcm5lbHMgb24gVWJ1bnR1IHN5c3RlbXMKLSBsYXN0\nNHBhc3MucGhwIC0tIGh0dHBzOi8vaXNjLnNhbnMuZWR1L2ZvcnVtcy9kaWFy\neS9XZWxsK0hlbGxvK0FnYWluK1BlcHBhLzIzODYwLwotIG1hbHdhcmUtZW1h\naWwtYWRkcmVzc2VzLnR4dCAtLSBFbWFpbCBhZGRyZXNzZXMgY29sbGVjdGVk\nIGZyb20gbWFsd2FyZQotIG1pbGQuc2ggLS0gU3ViZG9tYWluIGJydXRlIGZv\ncmNlciBpbnNwaXJlZCBieSBmaWVyY2UucGwKLSBvdWkuc2ggLS0gSUVFRSBP\nVUkgbG9va3VwCi0gcGhwLm5hbm9yYyAtLSBOYW5vIFBIUCBzeW50YXggaGln\naGxpZ2h0aW5nCi0gcHJvbi1zY3JhcGVyLnNoIC0tIE9yIG1hbmdhIG9yIHdo\nYXRldmVyCi0gcHduZGlycy5waHAgLS0gTWFzcyBkZWZhY2VyCi0gcXVpY2st\na2ljay5zaCAtLSBRdWljayBzY2FuIHNjcmlwdAotIHJjcHRUb3VzZXJzLnB5\nIC0tIEVudW1lcmF0ZXMgZW1haWwgYWRkcmVzc2VzIHZpYSByY3B0IHRvCi0g\ncmRwLXNjYW5uZXItdXNlcnMudHh0IC0tIFVzZXJzIHVzZWQgaW4gbWFsd2Fy\nZSBSRFAgc2Nhbm5lcgotIHJkcC1zY2FubmVyLXdvcmRzLnR4dCAtLSAoUGFz\ncyl3b3JkcyB1c2VkIGluIG1hbHdhcmUgUkRQIHNjYW5uZXIKLSBzaGVsbGZ1\nbi5waHAgLS0gUGxheWluZyB3aXRoIFBIUCBzaGVsbAotIHNwaWdhLmNvbmYg\nLS0gQ29uZiBmaWxlIGZvciBzcGlnYS5weQotIHNwaWdhLnB5IC0tIENvbmZp\nZ3VyYWJsZSwgdGhyZWFkZWQgd2ViIHJlc291cmNlIHNjYW5uZXIKLSBzc2hz\nY2FuLnB5IC0tIEhvcml6b250YWwgU1NIIHNjYW5uZXIKLSBzdGF0ZXMtY29k\nZXMudHh0IC0tIExpc3Qgb2YgVVMgc3RhdGVzIGFuZCB0d28tbGV0dGVyIGNv\nZGVzCi0gdG9DaGFyQ29kZS5wbCAtLSBDcmVhdGVzIGRlY2ltYWwgc3RyaW5n\nIGZvciBKYXZhU2NyaXB0J3MgZnJvbUNoYXJDb2RlCi0gdWFzLnR4dCAtLSBV\nc2VyIGFnZW50IHN0cmluZ3MKLSB6b25ldHJhbnMuc2ggLS0gQXR0ZW1wdHMg\nZnVsbCB6b25lIHRyYW5zZmVyIGZyb20gZWFjaCBhdXRob3JpdGF0aXZlIG5h\nbWUgc2VydmVyCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/phxbandit/scripts-and-tools/contents/README.md?ref=master","git":"https://api.github.com/repos/phxbandit/scripts-and-tools/git/blobs/1b154a424e81315e2272b8d084fa712a17de33bd","html":"https://github.com/phxbandit/scripts-and-tools/blob/master/README.md"}}
+0
+

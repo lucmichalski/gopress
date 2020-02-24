@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:15:39 GMT
+Etag: W/"baece931f10892d605f1a0b1d4b626b3"
+Last-Modified: Wed, 05 Feb 2020 05:52:33 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: repo
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.scarlet-witch-preview; format=json, github.mercy-preview; format=json, github.baptiste-preview; format=json
+X-Github-Request-Id: FFE6:981E:80274:98997:5E53B05B
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3077
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.scarlet-witch-preview+json, application/vnd.github.mercy-preview+json, application/vnd.github.baptiste-preview+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+1305
+{"id":53830419,"node_id":"MDEwOlJlcG9zaXRvcnk1MzgzMDQxOQ==","name":"dryad","full_name":"m4b/dryad","private":false,"owner":{"login":"m4b","id":1920204,"node_id":"MDQ6VXNlcjE5MjAyMDQ=","avatar_url":"https://avatars2.githubusercontent.com/u/1920204?v=4","gravatar_id":"","url":"https://api.github.com/users/m4b","html_url":"https://github.com/m4b","followers_url":"https://api.github.com/users/m4b/followers","following_url":"https://api.github.com/users/m4b/following{/other_user}","gists_url":"https://api.github.com/users/m4b/gists{/gist_id}","starred_url":"https://api.github.com/users/m4b/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/m4b/subscriptions","organizations_url":"https://api.github.com/users/m4b/orgs","repos_url":"https://api.github.com/users/m4b/repos","events_url":"https://api.github.com/users/m4b/events{/privacy}","received_events_url":"https://api.github.com/users/m4b/received_events","type":"User","site_admin":false},"html_url":"https://github.com/m4b/dryad","description":"An almost-parallel, semi-functioning, dynamic linker experiment, written in Rust","fork":false,"url":"https://api.github.com/repos/m4b/dryad","forks_url":"https://api.github.com/repos/m4b/dryad/forks","keys_url":"https://api.github.com/repos/m4b/dryad/keys{/key_id}","collaborators_url":"https://api.github.com/repos/m4b/dryad/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/m4b/dryad/teams","hooks_url":"https://api.github.com/repos/m4b/dryad/hooks","issue_events_url":"https://api.github.com/repos/m4b/dryad/issues/events{/number}","events_url":"https://api.github.com/repos/m4b/dryad/events","assignees_url":"https://api.github.com/repos/m4b/dryad/assignees{/user}","branches_url":"https://api.github.com/repos/m4b/dryad/branches{/branch}","tags_url":"https://api.github.com/repos/m4b/dryad/tags","blobs_url":"https://api.github.com/repos/m4b/dryad/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/m4b/dryad/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/m4b/dryad/git/refs{/sha}","trees_url":"https://api.github.com/repos/m4b/dryad/git/trees{/sha}","statuses_url":"https://api.github.com/repos/m4b/dryad/statuses/{sha}","languages_url":"https://api.github.com/repos/m4b/dryad/languages","stargazers_url":"https://api.github.com/repos/m4b/dryad/stargazers","contributors_url":"https://api.github.com/repos/m4b/dryad/contributors","subscribers_url":"https://api.github.com/repos/m4b/dryad/subscribers","subscription_url":"https://api.github.com/repos/m4b/dryad/subscription","commits_url":"https://api.github.com/repos/m4b/dryad/commits{/sha}","git_commits_url":"https://api.github.com/repos/m4b/dryad/git/commits{/sha}","comments_url":"https://api.github.com/repos/m4b/dryad/comments{/number}","issue_comment_url":"https://api.github.com/repos/m4b/dryad/issues/comments{/number}","contents_url":"https://api.github.com/repos/m4b/dryad/contents/{+path}","compare_url":"https://api.github.com/repos/m4b/dryad/compare/{base}...{head}","merges_url":"https://api.github.com/repos/m4b/dryad/merges","archive_url":"https://api.github.com/repos/m4b/dryad/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/m4b/dryad/downloads","issues_url":"https://api.github.com/repos/m4b/dryad/issues{/number}","pulls_url":"https://api.github.com/repos/m4b/dryad/pulls{/number}","milestones_url":"https://api.github.com/repos/m4b/dryad/milestones{/number}","notifications_url":"https://api.github.com/repos/m4b/dryad/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/m4b/dryad/labels{/name}","releases_url":"https://api.github.com/repos/m4b/dryad/releases{/id}","deployments_url":"https://api.github.com/repos/m4b/dryad/deployments","created_at":"2016-03-14T05:52:06Z","updated_at":"2020-02-05T05:52:33Z","pushed_at":"2018-02-07T05:12:49Z","git_url":"git://github.com/m4b/dryad.git","ssh_url":"git@github.com:m4b/dryad.git","clone_url":"https://github.com/m4b/dryad.git","svn_url":"https://github.com/m4b/dryad","homepage":null,"size":482,"stargazers_count":109,"watchers_count":109,"language":"Rust","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":6,"mirror_url":null,"archived":false,"disabled":false,"open_issues_count":1,"license":{"key":"bsd-3-clause","name":"BSD 3-Clause \"New\" or \"Revised\" License","spdx_id":"BSD-3-Clause","url":"https://api.github.com/licenses/bsd-3-clause","node_id":"MDc6TGljZW5zZTU="},"topics":[],"is_template":false,"forks":6,"open_issues":1,"watchers":109,"default_branch":"master","permissions":{"admin":false,"push":false,"pull":true},"code_of_conduct":{"key":"none","name":"None","html_url":null,"url":"https://api.github.com/repos/m4b/dryad/community/code_of_conduct"},"temp_clone_token":"","template_repository":null,"network_count":6,"subscribers_count":14}
+0
+

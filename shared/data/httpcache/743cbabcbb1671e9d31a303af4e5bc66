@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:43 GMT
+Etag: W/"4869742cf8d443ae582f10c2536d0f63"
+Last-Modified: Tue, 28 Jan 2020 09:18:43 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:AE329:D1090:5E53B113
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2521
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+ad1
+{"name":"README.rst","path":"README.rst","sha":"7cc008104d063c1fb75f6cfe1ff86c27946c2d8c","size":1468,"url":"https://api.github.com/repos/mu-editor/mu/contents/README.rst?ref=master","html_url":"https://github.com/mu-editor/mu/blob/master/README.rst","git_url":"https://api.github.com/repos/mu-editor/mu/git/blobs/7cc008104d063c1fb75f6cfe1ff86c27946c2d8c","download_url":"https://raw.githubusercontent.com/mu-editor/mu/master/README.rst","type":"file","content":"TXUgLSBBIFNpbXBsZSBQeXRob24gQ29kZSBFZGl0b3IgCj09PT09PT09PT09\nPT09PT09PT09PT09PT09PT09PT09CgouLiBpbWFnZTo6IGh0dHBzOi8vbXUu\ncmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0L19pbWFnZXMvbG9nby5wbmcKCk11\nIGlzIGEgc2ltcGxlIGNvZGUgZWRpdG9yIGZvciBiZWdpbm5lciBwcm9ncmFt\nbWVycyBiYXNlZCBvbiBleHRlbnNpdmUgZmVlZGJhY2sKZnJvbSB0ZWFjaGVy\ncyBhbmQgbGVhcm5lcnMuIEhhdmluZyBzYWlkIHRoYXQsIE11IGlzIGZvciBh\nbnlvbmUgd2hvIHdhbnRzIHRvIHVzZQphIHNpbXBsZSAibm8gZnJpbGxzIiBl\nZGl0b3IuCgpNdSBpcyBhIG1vZGFsIGVkaXRvciB3aXRoIG1vZGVzIGZvciBB\nZGFmcnVpdCdzIENpcmN1aXRQeXRob24sIHRoZSBtaWNybzpiaXQncwp2ZXJz\naW9uIG9mIE1pY3JvUHl0aG9uLCBQeUdhbWUgWmVybyBhbmQgc3RhbmRhcmQg\nUHl0aG9uIDMgKGluY2x1ZGluZyBhCmdyYXBoaWNhbCBkZWJ1Z2dlcikuIFNv\nbWUgb2YgdGhlIG1vZGVzIG1ha2UgYXZhaWxhYmxlIGEgUkVQTCAoZWl0aGVy\nCnJ1bm5pbmcgb24gdGhlIGNvbm5lY3RlZCBDaXJjdWl0UHl0aG9uIG9yIE1p\nY3JvUHl0aG9uIGRldmljZSBvciBhcyBhIEp1cHl0ZXIKYmFzZWQgaVB5dGhv\nbiBzZXNzaW9uIGluIFB5dGhvbjMgbW9kZSkuCgpNdSBpcyB3cml0dGVuIGlu\nIFB5dGhvbiBhbmQgd29ya3Mgb24gV2luZG93cywgbWFjT1MsIExpbnV4IGFu\nZCBSYXNwYmVycnkgUGkuIFRoZQpwcm9qZWN0J3MgcHVibGljIGZhY2luZyB3\nZWJzaXRlIGlzCmBodHRwczovL2NvZGV3aXRoLm11LyA8aHR0cHM6Ly9jb2Rl\nd2l0aC5tdS8+YF8uIFdlIGNlbGVicmF0ZSB0aGUgd29yayBkb25lIGJ5CnVz\nZXJzIG9mIG11IGF0IGBodHRwczovL21hZGV3aXRoLm11LyA8aHR0cHM6Ly9t\nYWRld2l0aC5tdS8+YF8uCgpXZSBoYXZlIGBleHRlbnNpdmUgZGV2ZWxvcGVy\nIGRvY3VtZW50YXRpb24gPGh0dHBzOi8vbXUucmVhZHRoZWRvY3MuaW8vPmBf\nCmluY2x1ZGluZyBhIGd1aWRlIGZvcgpgc2V0dGluZyB1cCBhIGRldmVsb3Bt\nZW50IGVudmlyb25tZW50IDxodHRwczovL211LnJlYWR0aGVkb2NzLmlvL2Vu\nL2xhdGVzdC9zZXR1cC5odG1sPmBfLCAKYGNvbnRyaWJ1dG9yIGd1aWRlbGlu\nZXMgPGh0dHBzOi8vbXUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0L2NvbnRy\naWJ1dGluZy5odG1sPmBfIGFuZApgc29tZSBzdWdnZXN0ZWQgZmlyc3Qgc3Rl\ncHMgPGh0dHBzOi8vbXUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0L2ZpcnN0\nLXN0ZXBzLmh0bWw+YF8uCgpXZSB3YW50IG91ciBjb21tdW5pdHkgdG8gYmUg\nYSBmcmllbmRseSBwbGFjZS4gVGhlcmVmb3JlLCB3ZSBleHBlY3QgY29udHJp\nYnV0b3JzCmFuZCBjb2xsYWJvcmF0b3JzIHRvIGZvbGxvdyBvdXIKYENvZGUg\nb2YgQ29uZHVjdCA8aHR0cHM6Ly9tdS5yZWFkdGhlZG9jcy5pby9lbi9sYXRl\nc3QvY29kZV9vZl9jb25kdWN0Lmh0bWw+YF8uCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/mu-editor/mu/contents/README.rst?ref=master","git":"https://api.github.com/repos/mu-editor/mu/git/blobs/7cc008104d063c1fb75f6cfe1ff86c27946c2d8c","html":"https://github.com/mu-editor/mu/blob/master/README.rst"}}
+0
+

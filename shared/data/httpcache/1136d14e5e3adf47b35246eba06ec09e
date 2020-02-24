@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:05:06 GMT
+Etag: W/"221f62d071839279c62fc2fd681e7441"
+Last-Modified: Wed, 05 Feb 2020 08:40:07 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: repo
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.scarlet-witch-preview; format=json, github.mercy-preview; format=json, github.baptiste-preview; format=json
+X-Github-Request-Id: FFA3:B9CD:3D9D2:4A75A:5E53ADE2
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4821
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.scarlet-witch-preview+json, application/vnd.github.mercy-preview+json, application/vnd.github.baptiste-preview+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+1300
+{"id":41086657,"node_id":"MDEwOlJlcG9zaXRvcnk0MTA4NjY1Nw==","name":"snuck","full_name":"mauro-g/snuck","private":false,"owner":{"login":"mauro-g","id":13884355,"node_id":"MDQ6VXNlcjEzODg0MzU1","avatar_url":"https://avatars2.githubusercontent.com/u/13884355?v=4","gravatar_id":"","url":"https://api.github.com/users/mauro-g","html_url":"https://github.com/mauro-g","followers_url":"https://api.github.com/users/mauro-g/followers","following_url":"https://api.github.com/users/mauro-g/following{/other_user}","gists_url":"https://api.github.com/users/mauro-g/gists{/gist_id}","starred_url":"https://api.github.com/users/mauro-g/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/mauro-g/subscriptions","organizations_url":"https://api.github.com/users/mauro-g/orgs","repos_url":"https://api.github.com/users/mauro-g/repos","events_url":"https://api.github.com/users/mauro-g/events{/privacy}","received_events_url":"https://api.github.com/users/mauro-g/received_events","type":"User","site_admin":false},"html_url":"https://github.com/mauro-g/snuck","description":"Automatic XSS filter bypass","fork":false,"url":"https://api.github.com/repos/mauro-g/snuck","forks_url":"https://api.github.com/repos/mauro-g/snuck/forks","keys_url":"https://api.github.com/repos/mauro-g/snuck/keys{/key_id}","collaborators_url":"https://api.github.com/repos/mauro-g/snuck/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/mauro-g/snuck/teams","hooks_url":"https://api.github.com/repos/mauro-g/snuck/hooks","issue_events_url":"https://api.github.com/repos/mauro-g/snuck/issues/events{/number}","events_url":"https://api.github.com/repos/mauro-g/snuck/events","assignees_url":"https://api.github.com/repos/mauro-g/snuck/assignees{/user}","branches_url":"https://api.github.com/repos/mauro-g/snuck/branches{/branch}","tags_url":"https://api.github.com/repos/mauro-g/snuck/tags","blobs_url":"https://api.github.com/repos/mauro-g/snuck/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/mauro-g/snuck/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/mauro-g/snuck/git/refs{/sha}","trees_url":"https://api.github.com/repos/mauro-g/snuck/git/trees{/sha}","statuses_url":"https://api.github.com/repos/mauro-g/snuck/statuses/{sha}","languages_url":"https://api.github.com/repos/mauro-g/snuck/languages","stargazers_url":"https://api.github.com/repos/mauro-g/snuck/stargazers","contributors_url":"https://api.github.com/repos/mauro-g/snuck/contributors","subscribers_url":"https://api.github.com/repos/mauro-g/snuck/subscribers","subscription_url":"https://api.github.com/repos/mauro-g/snuck/subscription","commits_url":"https://api.github.com/repos/mauro-g/snuck/commits{/sha}","git_commits_url":"https://api.github.com/repos/mauro-g/snuck/git/commits{/sha}","comments_url":"https://api.github.com/repos/mauro-g/snuck/comments{/number}","issue_comment_url":"https://api.github.com/repos/mauro-g/snuck/issues/comments{/number}","contents_url":"https://api.github.com/repos/mauro-g/snuck/contents/{+path}","compare_url":"https://api.github.com/repos/mauro-g/snuck/compare/{base}...{head}","merges_url":"https://api.github.com/repos/mauro-g/snuck/merges","archive_url":"https://api.github.com/repos/mauro-g/snuck/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/mauro-g/snuck/downloads","issues_url":"https://api.github.com/repos/mauro-g/snuck/issues{/number}","pulls_url":"https://api.github.com/repos/mauro-g/snuck/pulls{/number}","milestones_url":"https://api.github.com/repos/mauro-g/snuck/milestones{/number}","notifications_url":"https://api.github.com/repos/mauro-g/snuck/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/mauro-g/snuck/labels{/name}","releases_url":"https://api.github.com/repos/mauro-g/snuck/releases{/id}","deployments_url":"https://api.github.com/repos/mauro-g/snuck/deployments","created_at":"2015-08-20T09:15:46Z","updated_at":"2020-02-05T08:40:07Z","pushed_at":"2015-08-20T13:08:53Z","git_url":"git://github.com/mauro-g/snuck.git","ssh_url":"git@github.com:mauro-g/snuck.git","clone_url":"https://github.com/mauro-g/snuck.git","svn_url":"https://github.com/mauro-g/snuck","homepage":"","size":32941,"stargazers_count":87,"watchers_count":87,"language":"Java","has_issues":true,"has_projects":true,"has_downloads":false,"has_wiki":true,"has_pages":false,"forks_count":42,"mirror_url":null,"archived":false,"disabled":false,"open_issues_count":2,"license":null,"topics":[],"is_template":false,"forks":42,"open_issues":2,"watchers":87,"default_branch":"master","permissions":{"admin":false,"push":false,"pull":true},"code_of_conduct":{"key":"none","name":"None","html_url":null,"url":"https://api.github.com/repos/mauro-g/snuck/community/code_of_conduct"},"temp_clone_token":"","template_repository":null,"network_count":42,"subscribers_count":6}
+0
+

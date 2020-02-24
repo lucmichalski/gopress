@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:21 GMT
+Etag: W/"d3b605b868f354d7e0c5d62090bd8138"
+Last-Modified: Thu, 29 Nov 2018 00:32:10 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:18FA3:1DF1A:5E53B2DD
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1171
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+edc
+{"name":"README.md","path":"README.md","sha":"b3dd5916b47f310c29a5779dd9b3656270deab38","size":2094,"url":"https://api.github.com/repos/quarantyne/heroku-buildpack-quarantyne/contents/README.md?ref=master","html_url":"https://github.com/quarantyne/heroku-buildpack-quarantyne/blob/master/README.md","git_url":"https://api.github.com/repos/quarantyne/heroku-buildpack-quarantyne/git/blobs/b3dd5916b47f310c29a5779dd9b3656270deab38","download_url":"https://raw.githubusercontent.com/quarantyne/heroku-buildpack-quarantyne/master/README.md","type":"file","content":"IyBIZXJva3UgQnVpbGRwYWNrOiBRdWFyYW50eW5lIFshW0J1aWxkIFN0YXR1\nc10oaHR0cHM6Ly90cmF2aXMtY2kub3JnL3F1YXJhbnR5bmUvaGVyb2t1LWJ1\naWxkcGFjay1xdWFyYW50eW5lLnN2Zz9icmFuY2g9bWFzdGVyKV0oaHR0cHM6\nLy90cmF2aXMtY2kub3JnL3F1YXJhbnR5bmUvaGVyb2t1LWJ1aWxkcGFjay1x\ndWFyYW50eW5lKQpBIFtIZXJva3UgYnVpbGRwYWNrXShodHRwOi8vZGV2Y2Vu\ndGVyLmhlcm9rdS5jb20vYXJ0aWNsZXMvYnVpbGRwYWNrcykgdG8gaW5zdGFs\nbCBbKipRdWFyYW50eW5lKipdKGh0dHBzOi8vZ2l0aHViLmNvbS9xdWFyYW50\neW5lL3F1YXJhbnR5bmUpIG9uIGEgaGVyb2t1IGR5bm8uICoqUXVhcmFudHlu\nZSoqIGlzIGFuIG9wZW4tc291cmNlIHdlYiBmaXJld2FsbCB0aGF0IHByb3Rl\nY3RzIHdlYnNpdGVzIGFuZCBBUElzIGZyb20gYm90cywgZnJhdWR1bGVudCBi\nZWhhdmlvciwgYXBwbGljYXRpb24gbWlzdXNlLCBhbmQgY3liZXItYXR0YWNr\ncy4KCiMjIFJlcXVpcmVtZW50cwpRdWFyYW50eW5lIHJlcXVpcmVzIGEgSlZN\nIHRvIGZ1bmN0aW9uLiBJZiB5b3VyIGFwcCBpcyBub3QgYSBKVk0gYXBwIChq\nYXZhLCBzY2FsYSwgY2xvanVyZSksIHlvdSBtdXN0IGluc3RhbGwgdGhlIG9m\nZmljaWFsIFtKVk1dKGh0dHBzOi8vZWxlbWVudHMuaGVyb2t1LmNvbS9idWls\nZHBhY2tzL2hlcm9rdS9oZXJva3UtYnVpbGRwYWNrLWp2bS1jb21tb24pIGJ1\naWxkcGFjayBmcm9tIEhlcm9rdS4KCiMjIEluc3RhbGxhdGlvbgpBZGQgdGhp\ncyBidWlsZHBhY2sgdG8gYW55IGhlcm9rdSBhcHAgd2l0aAoKICAgICQgaGVy\nb2t1IGJ1aWxkcGFja3M6c2V0IGh0dHBzOi8vZ2l0aHViLmNvbS9xdWFyYW50\neW5lL2hlcm9rdS1idWlsZHBhY2stcXVhcmFudHluZQoKIyMgVXNhZ2UKUXVh\ncmFudHluZSB3b3JrcyBlaXRoZXIgYXMgYSBzb2xvIGR5bm8gcHJvY2VzcyBv\nciBpbi1mcm9udCBvZiBhbiBleGlzdGluZyBhcHAuIEVkaXQgeW91ciBgUHJv\nY2ZpbGVgIGFjY29yZGluZyB0byB0aGUgZm9sbG93aW5nIHNjZW5hcmlvcy4K\nCiMjIyBRdWljayBkZW1vCiAgICAjIDEpIGRlZmF1bHQgZWdyZXNzIGlzIGh0\ndHBiaW4ub3JnLgogICAgIyAyKSBVc2UgdGhlIHNhbXBsZSB0cmFmZmljIGJs\nb2NraW5nIGNvbmZpZyB3ZSBwcm92aWRlCiAgICB3ZWI6IGphdmEgLWphciBx\ndWFyYW50eW5lLmphciAtLWluZ3Jlc3MgMC4wLjAuMDokUE9SVCAtLWNvbmZp\nZy1maWxlIGh0dHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vcmVs\nZWFzZXMucXVhcmFudHluZS5jb20vcXVhcmFudHluZS5qc29uIAoKIyMjIFdp\ndGggYXBwIG9uIHNhbWUgZHlubwogICAgIyAxKSBSdW4geW91ciBhcHAgaW4g\nYSBkaWZmZXJlbnQgcHJvY2VzcwogICAgd2ViOiBqYXZhIC1qYXIgcXVhcmFu\ndHluZS5qYXIgLS1pbmdyZXNzIDAuMC4wLjA6JFBPUlQgLS1lZ3Jlc3MgMTI3\nLjAuMC4xOjMwMDAgLS1jb25maWctZmlsZSBodHRwczovL3MzLXVzLXdlc3Qt\nMi5hbWF6b25hd3MuY29tL3JlbGVhc2VzLnF1YXJhbnR5bmUuY29tL3F1YXJh\nbnR5bmUuanNvbiAKICAgIGFwcDogYnVuZGxlIGV4ZWMgdW5pY29ybiAtcCAz\nMDAwIC1iMTI3LjAuMC4xIC1jIC4vY29uZmlnL3VuaWNvcm4ucmIKICAgIAoj\nIyMgV2l0aCBhcHAgb24gZGlmZmVyZW50IGR5bm8vaG9zdAogICAgIyBiZXdh\ncmUgb2YgZXh0cmEgbGF0ZW5jeSBpbmN1cnJlZCBiZXR3ZWVuIHF1YXJhbnR5\nbmUgb24gdGhpcyBkeW5vIGFuZCB0aGUgcmVtb3RlIGhvc3QKICAgIHdlYjog\namF2YSAtamFyIHF1YXJhbnR5bmUuamFyIC0taW5ncmVzcyAwLjAuMC4wOiRQ\nT1JUIC0tZWdyZXNzIGFwcC5leGFtcGxlLmNvbSAtLWNvbmZpZy1maWxlIGh0\ndHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vcmVsZWFzZXMucXVh\ncmFudHluZS5jb20vcXVhcmFudHluZS5qc29uIAoKIyMgU3VwcG9ydApQbGVh\nc2UgZmlsZSBhbiBpc3N1ZSBpbiB0aGlzIHByb2plY3QgaWYgcmVsYXRlZCB0\nbyB0aGUgYnVpbGRwYWNrIG9ubHkuIE90aGVyd2lzZSBwbGVhc2UgZmlsZSBh\nIFtRdWFyYW50eW5lIGlzc3VlXShodHRwczovL2dpdGh1Yi5jb20vcXVhcmFu\ndHluZS9xdWFyYW50eW5lL2lzc3VlcykK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/quarantyne/heroku-buildpack-quarantyne/contents/README.md?ref=master","git":"https://api.github.com/repos/quarantyne/heroku-buildpack-quarantyne/git/blobs/b3dd5916b47f310c29a5779dd9b3656270deab38","html":"https://github.com/quarantyne/heroku-buildpack-quarantyne/blob/master/README.md"}}
+0
+

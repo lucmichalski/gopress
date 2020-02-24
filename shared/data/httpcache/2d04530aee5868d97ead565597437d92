@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:29:53 GMT
+Etag: W/"e07e3d45faed4402d556637cd29c06fc"
+Last-Modified: Fri, 18 Dec 2015 17:54:25 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:29C10:31E41:5E53B3B1
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 614
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+ea7
+{"name":"README.md","path":"README.md","sha":"c1c25d29449d6b87518fa04b4fb6b140699dd7e1","size":2121,"url":"https://api.github.com/repos/DanMcInerney/wifi-monitor/contents/README.md?ref=master","html_url":"https://github.com/DanMcInerney/wifi-monitor/blob/master/README.md","git_url":"https://api.github.com/repos/DanMcInerney/wifi-monitor/git/blobs/c1c25d29449d6b87518fa04b4fb6b140699dd7e1","download_url":"https://raw.githubusercontent.com/DanMcInerney/wifi-monitor/master/README.md","type":"file","content":"d2lmaS1tb25pdG9yCj09PT09PT09CgpQcmludHMgdGhlIElQcyBvbiB5b3Vy\nIGxvY2FsIG5ldHdvcmsgdGhhdCdyZSBzZW5kaW5nIHRoZSBtb3N0IHBhY2tl\ndHMKCmFjayA9IDgwMi4xMSBjb250cm9sIGZyYW1lIGFja25vd2xlZGdlbWVu\ndCBvciBibG9jayBhY2tub3dsZWRnZW1lbnQKCnJlcSA9IDgwMi4xMSBjb250\ncm9sIGZyYW1lIHJlcXVlc3QgdG8gc2VuZAoKY2xlYXIgPSA4MDIuMTEgY29u\ndHJvbCBmcmFtZSBjbGVhciB0byBzZW5kCgpkYXRhID0gUW9TRGF0YSBvciBE\nYXRhCgpPcHRpb25zOgoKLWo6IHByaW50cyBuZXcgZGV2aWNlcyB0aGF0IHJl\ncXVlc3QgYW4gSVAgdmlhIERIQ1AgcGFja2V0IGF0IHRoZSBib3R0b20KCgoK\nTGljZW5zZQotLS0tLS0tCgpDb3B5cmlnaHQgKGMpIDIwMTMsIERhbiBNY0lu\nZXJuZXkKQWxsIHJpZ2h0cyByZXNlcnZlZC4KClJlZGlzdHJpYnV0aW9uIGFu\nZCB1c2UgaW4gc291cmNlIGFuZCBiaW5hcnkgZm9ybXMsIHdpdGggb3Igd2l0\naG91dAptb2RpZmljYXRpb24sIGFyZSBwZXJtaXR0ZWQgcHJvdmlkZWQgdGhh\ndCB0aGUgZm9sbG93aW5nIGNvbmRpdGlvbnMgYXJlIG1ldDoKKiBSZWRpc3Ry\naWJ1dGlvbnMgb2Ygc291cmNlIGNvZGUgbXVzdCByZXRhaW4gdGhlIGFib3Zl\nIGNvcHlyaWdodCBub3RpY2UsIHRoaXMgbGlzdCBvZiBjb25kaXRpb25zIGFu\nZCB0aGUgZm9sbG93aW5nIGRpc2NsYWltZXIuCiogUmVkaXN0cmlidXRpb25z\nIGluIGJpbmFyeSBmb3JtIG11c3QgcmVwcm9kdWNlIHRoZSBhYm92ZSBjb3B5\ncmlnaHQgbm90aWNlLCB0aGlzIGxpc3Qgb2YgY29uZGl0aW9ucyBhbmQgdGhl\nIGZvbGxvd2luZyBkaXNjbGFpbWVyIGluIHRoZSBkb2N1bWVudGF0aW9uIGFu\nZC9vciBvdGhlciBtYXRlcmlhbHMgcHJvdmlkZWQgd2l0aCB0aGUgZGlzdHJp\nYnV0aW9uLgoqIE5laXRoZXIgdGhlIG5hbWUgb2YgdGhlIERhbiBNY0luZXJu\nZXkgbm9yIHRoZSBuYW1lcyBvZiBpdHMgY29udHJpYnV0b3JzIG1heSBiZSB1\nc2VkIHRvIGVuZG9yc2Ugb3IgcHJvbW90ZSBwcm9kdWN0cyBkZXJpdmVkIGZy\nb20gdGhpcyBzb2Z0d2FyZSB3aXRob3V0IHNwZWNpZmljIHByaW9yIHdyaXR0\nZW4gcGVybWlzc2lvbi4KClRISVMgU09GVFdBUkUgSVMgUFJPVklERUQgQlkg\nVEhFIENPUFlSSUdIVCBIT0xERVJTIEFORCBDT05UUklCVVRPUlMgIkFTIElT\nIiBBTkQKQU5ZIEVYUFJFU1MgT1IgSU1QTElFRCBXQVJSQU5USUVTLCBJTkNM\nVURJTkcsIEJVVCBOT1QgTElNSVRFRCBUTywgVEhFIElNUExJRUQKV0FSUkFO\nVElFUyBPRiBNRVJDSEFOVEFCSUxJVFkgQU5EIEZJVE5FU1MgRk9SIEEgUEFS\nVElDVUxBUiBQVVJQT1NFIEFSRQpESVNDTEFJTUVELiBJTiBOTyBFVkVOVCBT\nSEFMTCA8Q09QWVJJR0hUIEhPTERFUj4gQkUgTElBQkxFIEZPUiBBTlkKRElS\nRUNULCBJTkRJUkVDVCwgSU5DSURFTlRBTCwgU1BFQ0lBTCwgRVhFTVBMQVJZ\nLCBPUiBDT05TRVFVRU5USUFMIERBTUFHRVMKKElOQ0xVRElORywgQlVUIE5P\nVCBMSU1JVEVEIFRPLCBQUk9DVVJFTUVOVCBPRiBTVUJTVElUVVRFIEdPT0RT\nIE9SIFNFUlZJQ0VTOwpMT1NTIE9GIFVTRSwgREFUQSwgT1IgUFJPRklUUzsg\nT1IgQlVTSU5FU1MgSU5URVJSVVBUSU9OKSBIT1dFVkVSIENBVVNFRCBBTkQK\nT04gQU5ZIFRIRU9SWSBPRiBMSUFCSUxJVFksIFdIRVRIRVIgSU4gQ09OVFJB\nQ1QsIFNUUklDVCBMSUFCSUxJVFksIE9SIFRPUlQKKElOQ0xVRElORyBORUdM\nSUdFTkNFIE9SIE9USEVSV0lTRSkgQVJJU0lORyBJTiBBTlkgV0FZIE9VVCBP\nRiBUSEUgVVNFIE9GIFRISVMKU09GVFdBUkUsIEVWRU4gSUYgQURWSVNFRCBP\nRiBUSEUgUE9TU0lCSUxJVFkgT0YgU1VDSCBEQU1BR0UuCgoKCioqKgoqIFtk\nYW5tY2luZXJuZXkub3JnXShodHRwOi8vZGFubWNpbmVybmV5Lm9yZykKKiBb\nIVtGbGF0dHIgdGhpc10oaHR0cDovL2FwaS5mbGF0dHIuY29tL2J1dHRvbi9m\nbGF0dHItYmFkZ2UtbGFyZ2UucG5nKV0oaHR0cHM6Ly9mbGF0dHIuY29tL3N1\nYm1pdC9hdXRvP3VzZXJfaWQ9RGFuTWNJbmVybmV5JnVybD1odHRwczovL2dp\ndGh1Yi5jb20vRGFuTWNJbmVybmV5L3dpZmktbW9uaXRvciZ0aXRsZT13aWZp\nLW1vbml0b3ImbGFuZ3VhZ2U9JnRhZ3M9Z2l0aHViJmNhdGVnb3J5PXNvZnR3\nYXJlKSAK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/DanMcInerney/wifi-monitor/contents/README.md?ref=master","git":"https://api.github.com/repos/DanMcInerney/wifi-monitor/git/blobs/c1c25d29449d6b87518fa04b4fb6b140699dd7e1","html":"https://github.com/DanMcInerney/wifi-monitor/blob/master/README.md"}}
+0
+

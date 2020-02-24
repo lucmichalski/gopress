@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:57 GMT
+Etag: W/"2c1a4256e44b735f1713fcfd6be5bb45"
+Last-Modified: Wed, 26 Feb 2014 14:37:38 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:1BABF:21274:5E53B300
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1073
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e28
+{"name":"README.md","path":"README.md","sha":"883fd6714dcc4f81f6a3664b929037009d241e0a","size":2054,"url":"https://api.github.com/repos/SYWorks/wireless-ids/contents/README.md?ref=master","html_url":"https://github.com/SYWorks/wireless-ids/blob/master/README.md","git_url":"https://api.github.com/repos/SYWorks/wireless-ids/git/blobs/883fd6714dcc4f81f6a3664b929037009d241e0a","download_url":"https://raw.githubusercontent.com/SYWorks/wireless-ids/master/README.md","type":"file","content":"V2lyZWxlc3MgSURTIFtJbnRydXNpb24gRGV0ZWN0aW9uIFN5c3RlbV0gCj09\nPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpXaXJl\nbGVzcyBJRFMgaXMgYW4gb3BlbiBzb3VyY2UgdG9vbCB3cml0dGVuIGluIFB5\ndGhvbiBhbmQgd29yayBvbiBMaW51eCBlbnZpcm9ubWVudC4gVGhpcyB0b29s\nIHdpbGwgc25pZmYgeW91ciBzdXJyb3VuZGluZyBhaXIgdHJhZmZpYyBmb3Ig\nc3VzcGljaW91cyBhY3Rpdml0aWVzIHN1Y2ggYXMgV0VQL1dQQS9XUFMgYXR0\nYWNraW5nIHBhY2tldHMuIEl0IGRvIHRoZSBmb2xsb3dpbmcKKiBEZXRlY3Qg\nbWFzcyBkZWF1dGhlbnRpY2F0aW9uIHNlbnQgdG8gY2xpZW50IC8gYWNjZXNz\nIHBvaW50IHdoaWNoIHVucmVhc29uYWJsZSBhbW91bnQgaW5kaWNhdGUgcG9z\nc2libGUgV1BBIGF0dGFjayBmb3IgaGFuZHNoYWtlcy4KKiBDb250aW51YWwg\nc2VuZGluZyBkYXRhIHRvIGFjY2VzcyBwb2ludCB1c2luZyBicm9hZGNhc3Qg\nTUFDIGFkZHJlc3Mgd2hpY2ggaW5kaWNhdGUgYSBwb3NzaWJpbGl0eSBvZiBX\nRVAgYXR0YWNrcwoqIFVucmVhc29uYWJsZSBhbW91bnQgb2YgY29tbXVuaWNh\ndGlvbiBiZXR3ZWVuIHdpcmVsZXNzIGNsaWVudCBhbmQgYWNjZXNzIHBvaW50\nIHVzaW5nIEVBUCBhdXRoZW50aWNhdGlvbiB3aGljaCBpbmRpY2F0ZSB0aGUg\ncG9zc2liaWxpdHkgb2YgV1BTIGJydXRlZm9yY2UgYXR0YWNrIGJ5IFJlYXZl\nciAvIFdQU0NyYWNrCiogRGV0ZWN0aW9uIG9mIGNoYW5nZXMgaW4gY29ubmVj\ndGlvbiB0byBhbnRoZXIgYWNjZXNzIHBvaW50IHdoaWNoIG1heSBoYXZlIHRo\nZSBwb3NzaWJpbGl0eSBvZiBjb25uZWN0aW9uIHRvIFJvZ3VlIEFQIChVc2Vy\nIG5lZWRzIHRvIGFzc2VzcyB0aGUgc2l0dWF0aW9uIHdoZXRoZXIgc2ltaWxh\nciBBUCBuYW1lKQoqIERldGVjdHMgcG9zc2libGUgUm9ndWUgQWNjZXNzIFBv\naW50IHJlc3BvbmRpbmcgdG8gcHJvYmUgYnkgd2lyZWxlc3MgZGV2aWNlcyBp\nbiB0aGUgc3Vycm91bmRpbmcuCgpOZXdseSBBZGRlZCAhISEhCj09PT09PT09\nPT09PT09PT09PT09PT0KKiBEaXNwbGF5IHNpbWlsYXIgQWNjZXNzIFBvaW50\nJ3MgbmFtZSAoU1NJRCkgd2hpY2ggY291bGQgaGF2ZSB0aGUgcG9zc2liaWxp\ndHkgb2YgV2lGaSAnRXZpbCBUd2lucycuCiogRGlzcGxheSBvZiBwcm9iaW5n\nIFNTSUQgYnkgd2lyZWxlc3MgZGV2aWNlcwoqIERldGVjdGlvbiBvZiBLb3Jl\nayBDaG9wY2hvcCBwYWNrZXRzIHNlbnQgYnkgQWlyY3JhY2stTkcgKFdFUCBh\ndHRhY2tzKQoqIERldGVjdGlvbiBvZiBGcmFnbWVudGF0aW9uIFBSR0EgcGFj\na2V0cyBzZW50IGJ5IEFpcmNyYWNrLU5HIChXRVAgYXR0YWNrcykKKiBEZXRl\nY3Rpb24gb2YgcG9zc2libGUgV1BBIERvd25ncmFkZSBhdHRhY2sgYnkgTURL\nMwoqIERldGVjdGlvbiBvZiBwb3NzaWJsZSBNaWNoYWVsIFNodXRkb3duIGV4\ncGxvaXRhdGlvbiAoVEtJUCkgYnkgTURLMwoqIERldGVjdGlvbiBvZiBCZWFj\nb24gZmxvb2RpbmcgYnkgTURLMwoqIERldGVjdGlvbiBvZiBwb3NzaWJsZSBB\ndXRoZW50aWNhdGlvbiBEb1MgYnkgTURLMwoqIERldGVjdGlvbiBvZiBwb3Nz\naWJsZSBhc3NvY2lhdGlvbiBmbG9vZGluZwoqIERldGVjdGlvbiBvZiBXUEEg\nTWlncmF0aW9uIEF0dGFjayBieSBBaXJjcmFjay1ORyAoV1BBIEF0dGFjaykK\nKiBBbGxvdyBsb2dnaW5nIG9mIGV2ZW50cyB0byBmaWxlLgoqIEFsbG93IGRp\nc2FibGluZyBvZiBkaXNwbGF5aW5nIG9mIHByb2JpbmcgZGV2aWNlcwoqIFNl\ndHRpbmcgb2Ygc2Nhbm5pbmcgY291bnQuLgoKClZpc2l0IGFuZCBMaWtlIFtt\neSBGYWNlYm9vayBQYWdlXShodHRwczovL3d3dy5mYWNlYm9vay5jb20vc3l3\nb3JrcykgZm9yIG90aGVyIHVwZGF0ZWQgaW5mb3JtYXRpb24gYW5kIHRvb2xz\nLgoKUmVhZCBXaWtpIGZvciBpbnN0YWxsYXRpb24gYW5kIG90aGVyIGRldGFp\nbHMgKGh0dHBzOi8vZ2l0aHViLmNvbS9TWVdvcmtzL3dpcmVsZXNzLWlkcy93\naWtpKQoKU3VibWl0IGlzc3VlIFtoZXJlXShodHRwczovL2dpdGh1Yi5jb20v\nU1lXb3Jrcy93aXJlbGVzcy1pZHMvaXNzdWVzKQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/SYWorks/wireless-ids/contents/README.md?ref=master","git":"https://api.github.com/repos/SYWorks/wireless-ids/git/blobs/883fd6714dcc4f81f6a3664b929037009d241e0a","html":"https://github.com/SYWorks/wireless-ids/blob/master/README.md"}}
+0
+

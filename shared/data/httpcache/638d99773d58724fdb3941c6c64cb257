@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:29:08 GMT
+Etag: W/"e329e5847fc5fdfaf3e7b2b3c75f56e4"
+Last-Modified: Thu, 31 Jul 2014 13:44:51 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:262DD:2DAA8:5E53B384
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 734
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+8c6
+{"name":"README.md","path":"README.md","sha":"8811530ef20b0f9a10d70b4a4bd887a350edc69b","size":989,"url":"https://api.github.com/repos/ajinabraham/OAuth-Request-Crafter/contents/README.md?ref=master","html_url":"https://github.com/ajinabraham/OAuth-Request-Crafter/blob/master/README.md","git_url":"https://api.github.com/repos/ajinabraham/OAuth-Request-Crafter/git/blobs/8811530ef20b0f9a10d70b4a4bd887a350edc69b","download_url":"https://raw.githubusercontent.com/ajinabraham/OAuth-Request-Crafter/master/README.md","type":"file","content":"T0F1dGgtUmVxdWVzdC1DcmFmdGVyCj09PT09PT09PT09PT09PT09PT09PQoK\nT0F1dGggUmVxdWVzdCBDcmFmdGVyIGlzIGEgdG9vbCB0aGF0IGhlbHBzIHlv\ndSB0byBwbGF5IHdpdGggT0F1dGggc2lnbmF0dXJlIHByb3RlY3RlZCBVUkxz\nLgoKCiNGZWF0dXJlcwoKLSBTdXBwb3J0IEdFVCxQT1NULFBVVCBhbmQgREVM\nRVRFCgotIFByb3h5IHRoZSBSZXF1ZXN0CgotIFRhbXBlciBVUkwsIFBhcmFt\nZXRlcnMgJiBIZWFkZXJzIG9uIHRoZSBHTwoKLSBBZGQgYWRkaXRpb25hbCBI\nZWFkZXJzIGFuZCBDb29raWUKCiNXaHk/CgotIFdoZW4gZGVhbGluZyB3aXRo\nIE9BdXRoIHNpZ25hdHVyZSBwcm90ZWN0ZWQgVVJMcywgRm9yIHRhbXBlcmlu\nZyBvciBpc3N1aW5nIGEgcmVxdWVzdCwgRXZlcnl0aW1lIHlvdSBoYXZlIHRv\nIHVzZSBzb21lIHRvb2wgdG8gZ2VuZXJhdGUgYSB2YWxpZCBzaWduYXR1cmUg\nYW5kIG5vbmNlIHByb3RlY3RlZCBwYXJhbWV0ZXJzIGFuZCBhZGQgaXQgdG8g\neW91ciBwcm94eSB0byBtYWtlIGEgc3VjY2Vzc2Z1bCByZXF1ZXN0LgpUaGlz\nIGlzIGEgcGFpbiBzaW5jZSB5b3UgaGF2ZSB0byBkbyB0aGlzIG1hbnVhbGx5\nIGZvciBldmVyeSBzaW5nbGUgcmVxdWVzdC4KCi0gT0F1dGggUmVxdWVzdCBD\ncmFmdGVyIHdpbGwgc29sdmUgdGhhdCBwcm9ibGVtIGJ5IGF1dG9tYXRpbmcg\nZXZlcnl0aGluZy4KCi0gUHJvdmlkZSBpdCB3aXRoIENPTlNVTUVSIEtFWSBh\nbmQgQ09OU1VNRVIgU0VDUkVUIGFuZCBPQVVUSCBUT0tFTiBBTkQgVE9LRU4g\nU0VDUkVUIChvcHRpb25hbCkKCi0gTWFrZSBSZXF1ZXN0IHRhbXBlciB0aGUg\nVVJMLCBQYXJhbWV0ZXJzIGFuZCBIZWFkZXJzIG9uIHRoZSBHby4KIAojRG93\nbmxvYWQKCi0gaHR0cDovL29wZW5zZWN1cml0eS5pbi9kb3dubG9hZHMvT0F1\ndGhfUmVxdWVzdF9DcmFmdGVyLnppcAoKI1NvdXJjZQoKLSBodHRwczovL2dp\ndGh1Yi5jb20vYWppbmFicmFoYW0vT0F1dGgtUmVxdWVzdC1DcmFmdGVyCgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/ajinabraham/OAuth-Request-Crafter/contents/README.md?ref=master","git":"https://api.github.com/repos/ajinabraham/OAuth-Request-Crafter/git/blobs/8811530ef20b0f9a10d70b4a4bd887a350edc69b","html":"https://github.com/ajinabraham/OAuth-Request-Crafter/blob/master/README.md"}}
+0
+

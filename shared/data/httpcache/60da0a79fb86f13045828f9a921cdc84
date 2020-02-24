@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:05 GMT
+Etag: W/"7c38e1d052dba8b9b2fbc94fc24caab8"
+Last-Modified: Thu, 28 Nov 2019 12:54:43 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:919E1:AD382:5E53B0ED
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2639
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+788
+{"name":"README.md","path":"README.md","sha":"acebef6333bc051b087232fcd259e6b32c6ec52c","size":808,"url":"https://api.github.com/repos/anti-bot/AntiDisposmail/contents/README.md?ref=master","html_url":"https://github.com/anti-bot/AntiDisposmail/blob/master/README.md","git_url":"https://api.github.com/repos/anti-bot/AntiDisposmail/git/blobs/acebef6333bc051b087232fcd259e6b32c6ec52c","download_url":"https://raw.githubusercontent.com/anti-bot/AntiDisposmail/master/README.md","type":"file","content":"IyBBbnRpRGlzcG9zbWFpbApEZXRlY3RpbmcgRGlzcG9zYWJsZSBFbWFpbCBB\nZGRyZXNzZXMKCkFudGJvdC5wdyBwcm92aWRlcyBhIGZyZWUsIG9wZW4gQVBJ\nIGVuZHBvaW50IGZvciBjaGVja2luZyBhIGRvbWFpbiBvciBlbWFpbCBhZGRy\nZXNzIGFnYWluc3QgYSBmcmVxdWVudGx5LXVwZGF0ZWQgbGlzdCBvZiBkaXNw\nb3NhYmxlIGRvbWFpbnMuIGBgYENPUlMgaXMgZW5hYmxlZCBmb3IgYWxsIG9y\naWdpbmF0aW5nIGRvbWFpbnMsIHNvIHlvdSBjYW4gY2FsbCB0aGUgQVBJIGRp\ncmVjdGx5IGZyb20geW91ciBjbGllbnQtc2lkZSBjb2RlLmBgYAoKYGBgR0VU\nIGh0dHBzOi8vYW50aWJvdC5wdy9hcGkvZGlzcG9zYWJsZT9lbWFpbD1yYWRl\nbnZvZGthQDA4MTUuc3UgSFRUUC8xLjFgYGAKClRoZSByZXNwb25zZSB3aWxs\nIGJlIEpTT04gd2l0aCBvbmUgYm9vbGVhbiBwcm9wZXJ0eSwgZS5nLiBgYGB7\nImRpc3Bvc2FibGUiOmZhbHNlfWBgYAoKYFVzaW5nIGpRdWVyeT9gCgpgYGAK\nPHNjcmlwdD4KICAgICQoICIjZW1haWwiICkuY2hhbmdlKGZ1bmN0aW9uKCkg\newogICAgICB2YXIgdmFsID0gJCgiI2VtYWlsIikudmFsKCk7CiAgICAgICQu\nZ2V0KCdodHRwczovL2FudGlib3QucHcvYXBpL2Rpc3Bvc2FibGU/ZW1haWw9\nJyt2YWwsCiAgICAgICAgZnVuY3Rpb24gKGRhdGEsIHRleHRTdGF0dXMpIHsg\nIAogICAgICAgICAgICBpZihkYXRhWydkaXNwb3NhYmxlJ10gPT0gdHJ1ZSl7\nCiAgICAgICAgICAgICAgYWxlcnQoImVtYWlsIGRpc3Bvc2FibGUiKTsKICAg\nICAgICAgICAgfQogICAgICB9KTsKICAgIH0pOwo8L3NjcmlwdD4KYGBgCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/anti-bot/AntiDisposmail/contents/README.md?ref=master","git":"https://api.github.com/repos/anti-bot/AntiDisposmail/git/blobs/acebef6333bc051b087232fcd259e6b32c6ec52c","html":"https://github.com/anti-bot/AntiDisposmail/blob/master/README.md"}}
+0
+

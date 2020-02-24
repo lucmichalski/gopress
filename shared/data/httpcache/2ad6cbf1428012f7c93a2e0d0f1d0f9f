@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:08:39 GMT
+Etag: W/"e79b79bd6e140059c109bb482f6b86d5"
+Last-Modified: Mon, 11 Apr 2016 19:36:31 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:4D568:5C8FD:5E53AEB7
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4313
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+99d
+{"name":"README.md","path":"README.md","sha":"35380af346fffdcbe6775d4a8257f7bb7cefbc47","size":1183,"url":"https://api.github.com/repos/praetorian-code/Hob0Rules/contents/README.md?ref=master","html_url":"https://github.com/praetorian-code/Hob0Rules/blob/master/README.md","git_url":"https://api.github.com/repos/praetorian-code/Hob0Rules/git/blobs/35380af346fffdcbe6775d4a8257f7bb7cefbc47","download_url":"https://raw.githubusercontent.com/praetorian-code/Hob0Rules/master/README.md","type":"file","content":"IyBIb2IwUnVsZXMKUGFzc3dvcmQgY3JhY2tpbmcgcnVsZXMgZm9yIEhhc2hj\nYXQgYmFzZWQgb24gc3RhdGlzdGljcyBhbmQgaW5kdXN0cnkgcGF0dGVybnMu\nClRoZSBmb2xsb3dpbmcgYmxvZyBwb3N0cyBvbiBwYXNzd29yZHMgZXhwbGFp\nbiB0aGUgc3RhdGlzdGljYWwgc2lnbmlmaWdhbmNlIG9mIHRoZXNlIHJ1bGVz\nZXRzOgoKW1N0YXRpc3RpY3MgV2lsbCBDcmFjayBZb3VyIFBhc3N3b3JkXSho\ndHRwczovL3d3dy5wcmFldG9yaWFuLmNvbS9ibG9nL3N0YXRpc3RpY3Mtd2ls\nbC1jcmFjay15b3VyLXBhc3N3b3JkLW1hc2stc3RydWN0dXJlKQoKW1ByYWV0\nb3JpYW4gUGFzc3dvcmQgQ3JhY2tpbmcgUnVsZXMgUmVsZWFzZWRdKGh0dHBz\nOi8vd3d3LnByYWV0b3JpYW4uY29tL2Jsb2cvaG9iMDY0LXN0YXRpc3RpY3Mt\nYmFzZWQtcGFzc3dvcmQtY3JhY2tpbmctcnVsZXMtaGFzaGNhdC1kM2FkaG9i\nMCkKClVzZWZ1bCB3b3JkbGlzdHMgdG8gdXRpbGl6ZSB3aXRoIHRoZXNlIHJ1\nbGVzIGhhdmUgYmVlbiBpbmNsdWRlZCBpbiB0aGUgd29yZGxpc3RzIGRpcmVj\ndG9yeSAKClVuY29tcHJlc3MgdGhlc2Ugd2l0aCB0aGUgdW5mb2xsb3dpbmcg\nY29tbWFuZCAKYGBgCmd1bnppcCByb2NreW91LnR4dC5negpgYGAKIyNob2Iw\nNjQgClRoaXMgcnVsZXNldCBjb250YWlucyA2NCBvZiB0aGUgbW9zdCBmcmVx\ndWVudCBwYXNzd29yZCBwYXR0ZXJucyB1c2VkIHRvIGNyYWNrIHBhc3N3b3Jk\ncy4gTmVlZCBhIGhhc2ggY3JhY2tlZCBxdWlja2x5IHRvIG1vdmUgb24gdG8g\nbW9yZSB0ZXN0aW5nPyBVc2UgdGhpcyBsaXN0LgpgYGAKaGFzaGNhdCAtYSAw\nIC1tIDEwMDAgPE5UTE1IQVNIRVM+IHdvcmRsaXN0cy9yb2NreW91LnR4dCAt\nciBob2IwNjQucnVsZSAtbyBjcmFja2VkLnR4dApgYGAKCiMjZDNhZGhvYjAK\nVGhpcyBydWxlc2V0IGlzIG11Y2ggbW9yZSBleHRlbnNpdmUgYW5kIHV0aWxp\nemVzIG1hbnkgY29tbW9uIHBhc3N3b3JkIHN0cnVjdHVyZSBpZGVhcyBzZWVu\nIGFjcm9zcyBldmVyeSBpbmR1c3RyeS4gTG9va2luZyB0byBzcGVuZCBzZXZl\ncmFsIGhvdXJzIHRvIGNyYWNrIG1hbnkgbW9yZSBoYXNoZXM/IFVzZSB0aGlz\nIGxpc3QuCmBgYApoYXNoY2F0IC1hIDAgLW0gMTAwMCA8TlRMTUhBU0hFUz4g\nd29yZGxpc3RzL2VuZ2xpc2gudHh0IC1yIGQzYWRob2IwLnJ1bGUgLW8gY3Jh\nY2tlZC50eHQKYGBgCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/praetorian-code/Hob0Rules/contents/README.md?ref=master","git":"https://api.github.com/repos/praetorian-code/Hob0Rules/git/blobs/35380af346fffdcbe6775d4a8257f7bb7cefbc47","html":"https://github.com/praetorian-code/Hob0Rules/blob/master/README.md"}}
+0
+

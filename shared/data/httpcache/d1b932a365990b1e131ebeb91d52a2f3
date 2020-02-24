@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:20:42 GMT
+Etag: W/"6017a0981f07577d03bec373b1b845a4"
+Last-Modified: Sun, 26 Mar 2017 14:14:22 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:BE551:E44E6:5E53B189
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2200
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+8c2
+{"name":"README.md","path":"README.md","sha":"9cf4073379920a81154bd5dae1d4eea9a8ef0756","size":1062,"url":"https://api.github.com/repos/dobin/BurpSentinel/contents/README.md?ref=master","html_url":"https://github.com/dobin/BurpSentinel/blob/master/README.md","git_url":"https://api.github.com/repos/dobin/BurpSentinel/git/blobs/9cf4073379920a81154bd5dae1d4eea9a8ef0756","download_url":"https://raw.githubusercontent.com/dobin/BurpSentinel/master/README.md","type":"file","content":"IyBCdXJwIFNlbnRpbmVsCgpFYXNlcyBkaXNjb3Zlcnkgb2YgY29tbW9uIHNl\nY3VyaXR5IGhvbGVzIGluIHdlYiBhcHBsaWNhdGlvbnMuCgoqIEludHJvIC8g\ndHV0b3JpYWw6IGh0dHBzOi8vZ2l0aHViLmNvbS9kb2Jpbi9CdXJwU2VudGlu\nZWwvd2lraS9CdXJwU2VudGluZWwtLS1Ib3dUby1hbmQtaW50cm9kdWN0aW9u\nCiogQmxvZzogaHR0cDovL2RvYmluLmdpdGh1Yi5pby8KCldpdGggQnVycFNl\nbnRpbmVsIGl0IGlzIHBvc3NpYmxlIGZvciB0aGUgcGVuZXRyYXRpb24gdGVz\ndGVyIHRvIHF1aWNrbHkgYW5kIGVhc2lseQpzZW5kIGEgbG90IG9mIG1hbGlj\naW91cyByZXF1ZXN0cyB0byBwYXJhbWV0ZXJzIG9mIGEgSFRUUCByZXF1ZXN0\nLiBOb3Qgb25seSB0aGF0LApidXQgaXQgYWxzbyBzaG93cyBhIGxvdCBvZiBp\nbmZvcm1hdGlvbiBvZiB0aGUgSFRUUCByZXNwb25zZXMsIGNvcnJlc3BvbmRp\nbmcgdG8gdGhlCmF0dGFjayByZXF1ZXN0cy4gSXRzIGVhc3kgdG8gZmluZCBs\nb3ctaGFuZ2luZyBmcnVpdHMgYW5kIGhpZGRlbiB2dWxuZXJhYmlsaXRpZXMK\nbGlrZSB0aGlzLCBhbmQgYWxsb3dzIHRoZSB0ZXN0ZXIgdG8gZm9jdXMgb24g\nbW9yZSBpbXBvcnRhbnQgc3R1ZmYhCgoKIyMgRmVhdHVyZXMKCiogQXR0YWNr\nIHBheWxvYWRzIGFscmVhZHkgaW5zaWRlCiogSWRlbnRpZmljYXRpb24gb2Yg\ncmVmbGVjdGVkIFhTUywgYW5kIHN0b3JlZCBYU1MKKiBJZGVudGlmaWNhdGlv\nbiBvZiBTUUwgaW5qZWN0aW9ucyAobm9uLWJsaW5kKQoqIEluZGljYXRvcnMg\nYW5kIHZpc3VhbCBhaWQgZm9yIHRoZSB1c2VyIHRvIGlkZW50aWZ5IGJsaW5k\nL2Z1bGxibGluZCBTUUwgaW5qZWN0aW9ucwoqIERpZmYgb3JpZ2luYWwgYW5k\nIG1vZGlmaWVkIHJlcXVlc3RzIGVhc2lseQoKCiMjIE90aGVyIAoKV2hhdCBp\ndCBjYW5ub3QgZG86CiogRmluZCBET00gSW5qZWN0aW9ucwoqIEV4cGxvaXQg\ndnVsbmVyYWJpbGl0aWVzCgoKQWx0ZXJuYXRpdmVzOgoqIElyb253YXNwICh3\nd3cuaXJvbndhc3Aub3JnLCAuTkVUKQoqIFdmdXp6ICh3d3cuZWRnZS1zZWN1\ncml0eS5jb20vd2Z1enoucGhwLCBQeXRob24p\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/dobin/BurpSentinel/contents/README.md?ref=master","git":"https://api.github.com/repos/dobin/BurpSentinel/git/blobs/9cf4073379920a81154bd5dae1d4eea9a8ef0756","html":"https://github.com/dobin/BurpSentinel/blob/master/README.md"}}
+0
+

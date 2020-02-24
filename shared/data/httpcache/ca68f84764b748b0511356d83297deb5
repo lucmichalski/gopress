@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:51 GMT
+Etag: W/"d662312ab6dffa0a5b81a9f1517d1467"
+Last-Modified: Sun, 12 Jan 2020 16:25:40 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:3BB1A:479A8:5E53B49E
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 13
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+933
+{"name":"README.md","path":"README.md","sha":"3b9fa27f4536aad19f30fc716ee29cca357b4812","size":1066,"url":"https://api.github.com/repos/phpstan/phpstan-deprecation-rules/contents/README.md?ref=master","html_url":"https://github.com/phpstan/phpstan-deprecation-rules/blob/master/README.md","git_url":"https://api.github.com/repos/phpstan/phpstan-deprecation-rules/git/blobs/3b9fa27f4536aad19f30fc716ee29cca357b4812","download_url":"https://raw.githubusercontent.com/phpstan/phpstan-deprecation-rules/master/README.md","type":"file","content":"IyBSdWxlcyBmb3IgZGV0ZWN0aW5nIHVzYWdlIG9mIGRlcHJlY2F0ZWQgY2xh\nc3NlcywgbWV0aG9kcywgcHJvcGVydGllcywgY29uc3RhbnRzIGFuZCB0cmFp\ndHMuCgpbIVtCdWlsZCBTdGF0dXNdKGh0dHBzOi8vdHJhdmlzLWNpLm9yZy9w\naHBzdGFuL3BocHN0YW4tZGVwcmVjYXRpb24tcnVsZXMuc3ZnKV0oaHR0cHM6\nLy90cmF2aXMtY2kub3JnL3BocHN0YW4vcGhwc3Rhbi1kZXByZWNhdGlvbi1y\ndWxlcykKWyFbTGF0ZXN0IFN0YWJsZSBWZXJzaW9uXShodHRwczovL3Bvc2Vy\nLnB1Z3gub3JnL3BocHN0YW4vcGhwc3Rhbi1kZXByZWNhdGlvbi1ydWxlcy92\nL3N0YWJsZSldKGh0dHBzOi8vcGFja2FnaXN0Lm9yZy9wYWNrYWdlcy9waHBz\ndGFuL3BocHN0YW4tZGVwcmVjYXRpb24tcnVsZXMpClshW0xpY2Vuc2VdKGh0\ndHBzOi8vcG9zZXIucHVneC5vcmcvcGhwc3Rhbi9waHBzdGFuLWRlcHJlY2F0\naW9uLXJ1bGVzL2xpY2Vuc2UpXShodHRwczovL3BhY2thZ2lzdC5vcmcvcGFj\na2FnZXMvcGhwc3Rhbi9waHBzdGFuLWRlcHJlY2F0aW9uLXJ1bGVzKQoKCiMj\nIEluc3RhbGxhdGlvbgoKVG8gdXNlIHRoaXMgZXh0ZW5zaW9uLCByZXF1aXJl\nIGl0IGluIFtDb21wb3Nlcl0oaHR0cHM6Ly9nZXRjb21wb3Nlci5vcmcvKToK\nCmBgYApjb21wb3NlciByZXF1aXJlIC0tZGV2IHBocHN0YW4vcGhwc3Rhbi1k\nZXByZWNhdGlvbi1ydWxlcwpgYGAKCklmIHlvdSBhbHNvIGluc3RhbGwgW3Bo\ncHN0YW4vZXh0ZW5zaW9uLWluc3RhbGxlcl0oaHR0cHM6Ly9naXRodWIuY29t\nL3BocHN0YW4vZXh0ZW5zaW9uLWluc3RhbGxlcikgdGhlbiB5b3UncmUgYWxs\nIHNldCEKCjxkZXRhaWxzPgogIDxzdW1tYXJ5Pk1hbnVhbCBpbnN0YWxsYXRp\nb248L3N1bW1hcnk+CgpJZiB5b3UgZG9uJ3Qgd2FudCB0byB1c2UgYHBocHN0\nYW4vZXh0ZW5zaW9uLWluc3RhbGxlcmAsIGluY2x1ZGUgcnVsZXMubmVvbiBp\nbiB5b3VyIHByb2plY3QncyBQSFBTdGFuIGNvbmZpZzoKCmBgYAppbmNsdWRl\nczoKICAgIC0gdmVuZG9yL3BocHN0YW4vcGhwc3Rhbi1kZXByZWNhdGlvbi1y\ndWxlcy9ydWxlcy5uZW9uCmBgYAo8L2RldGFpbHM+Cg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/phpstan/phpstan-deprecation-rules/contents/README.md?ref=master","git":"https://api.github.com/repos/phpstan/phpstan-deprecation-rules/git/blobs/3b9fa27f4536aad19f30fc716ee29cca357b4812","html":"https://github.com/phpstan/phpstan-deprecation-rules/blob/master/README.md"}}
+0
+

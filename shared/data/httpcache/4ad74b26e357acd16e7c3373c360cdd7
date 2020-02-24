@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:52 GMT
+Etag: W/"9d31d527aa036368f1353eaed87453e9"
+Last-Modified: Tue, 14 Jan 2020 12:51:12 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:64AA8:79357:5E53AF00
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4079
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+72e
+{"name":"README.md","path":"README.md","sha":"400b0c22aa8db4de3b696e4e62703e36220dd7f5","size":794,"url":"https://api.github.com/repos/tismayil/rsdl/contents/README.md?ref=master","html_url":"https://github.com/tismayil/rsdl/blob/master/README.md","git_url":"https://api.github.com/repos/tismayil/rsdl/git/blobs/400b0c22aa8db4de3b696e4e62703e36220dd7f5","download_url":"https://raw.githubusercontent.com/tismayil/rsdl/master/README.md","type":"file","content":"IyByc2RsIFN1YmRvbWFpbiBTY2FubmVyClN1YmRvbWFpbiBTY2FuIFdpdGgg\nUGluZyBNZXRob2QuCgoKIVtdKGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250\nZW50LmNvbS90aXNtYXlpbC9yc2RsL21hc3Rlci9yc2RsLmdpZikKCgp8IEZs\nYWdzICAgICAgICB8IFZhbHVlICAgICAgICAgfCBEZXNjcmlwdGlvbiAgfAp8\nIC0tLS0tLS0tLS0tLSB8Oi0tLS0tLS0tLS0tLS06fCAtLS0tLTp8CnwgLS1o\nb3N0bmFtZSAgIHwgZXhhbXBsZS5jb20gfCBEb21haW4gZm9yIHNjYW4uIHwK\nfCAtLW91dHB1dCAgICAgfCAgfCBSZWNvcmRzIHRoZSBvdXRwdXQgd2l0aCB0\naGUgZG9tYWluIG5hbWUuIHwKfCAtLWxpc3QgICAgICAgfCAvdG1wL2xpc3Rz\nL2V4YW1wbGUudHh0IHwgTGlzdGVyIGZvciBzdWJkb21haW5zLgoKCiMjIyMg\nTXkgZmlyc3QgcHJvamVjdCBJIGRldmVsb3BlZCB3aXRoIEdPLgojIyMjIEkg\nd2FzIGEgbGl0dGxlIG5vdmljZS4g8J+YhfCfmIXwn5iF8J+YhQoKIyMgSW5z\ndGFsbGF0aW9uCgoqIC0gZ28gZ2V0IGdpdGh1Yi5jb20vdGlzbWF5aWwvcnNk\nbAoqIC0gY2xvbmUgcmVwbyBhbmQgYnVpbGQgKCAqKmdvIGJ1aWxkIHJzZGwu\nZ28qKiApCgoKIyMgVXNlZCBSZXBvcy4KCiogLSBHTyBTcGlubmVyIDogZ2l0\naHViLmNvbS9icmlhbmRvd25zL3NwaW5uZXIgLSBbICoqZ28gZ2V0IGdpdGh1\nYi5jb20vYnJpYW5kb3ducy9zcGlubmVyKiogXQoqIC0gR08gUGluZyAgICA6\nIGdpdGh1Yi5jb20vc3BhcnJjL2dvLXBpbmcgICAgIC0gWyAqKmdvIGdldCBn\naXRodWIuY29tL3NwYXJyYy9nby1waW5nKiogXQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/tismayil/rsdl/contents/README.md?ref=master","git":"https://api.github.com/repos/tismayil/rsdl/git/blobs/400b0c22aa8db4de3b696e4e62703e36220dd7f5","html":"https://github.com/tismayil/rsdl/blob/master/README.md"}}
+0
+

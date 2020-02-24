@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:28:17 GMT
+Etag: W/"88e6be6492c4cc4a83c845c1f24a3ab3"
+Last-Modified: Wed, 12 Oct 2016 20:34:22 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:22386:28F0D:5E53B351
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 887
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+fcf
+{"name":"README.md","path":"README.md","sha":"48790f164c7007345568acd8c51af55035025a01","size":2365,"url":"https://api.github.com/repos/xorond/sudo-snooper/contents/README.md?ref=master","html_url":"https://github.com/xorond/sudo-snooper/blob/master/README.md","git_url":"https://api.github.com/repos/xorond/sudo-snooper/git/blobs/48790f164c7007345568acd8c51af55035025a01","download_url":"https://raw.githubusercontent.com/xorond/sudo-snooper/master/README.md","type":"file","content":"IyBzdWRvLXNub29wZXIKCnN1ZG8tc25vb3BlciBhY3RzIGxpa2UgdGhlIG9y\naWdpbmFsIHN1ZG8gYmluYXJ5IHRvIGZvb2wgdXNlcnMgaW50byBlbnRlcmlu\nZyB0aGVpciBwYXNzd29yZHMuCgpJdCB3aWxsIHNob3cgYSBmYWtlIHByb21w\ndCBqdXN0IGxpa2UgdGhlIG9yaWdpbmFsIHRvIHRoZSB1c2VyIHRvIGVudGVy\nIHRoZWlyIHN1ZG8gcGFzc3dvcmQuCgpUaGlzIGNhbiBiZSB1c2VmdWwgaW4g\ncGVuZXRyYXRpb24gdGVzdHMgb3Igc2VjdXJpdHkgZXZhbHVhdGlvbnMgZm9y\nIHRlc3RpbmcgdXNlciBrbm93bGVkZ2UuCgojIyBJbnN0YWxsYXRpb24gc3Rl\ncHMKCiMjIyBPcHRpb24gMSAtIEluc3RhbGwgaW4gcGxhY2Ugb2YgdGhlIHJl\nYWwgc3VkbyAoaGFyZGVyIGJ1dCBsZXNzIG9idmlvdXMpCgoqKllvdSBuZWVk\nIHJvb3QgYWNjZXNzIGZvciB0aGlzIGluc3RhbGwgb3B0aW9uKioKCiogbW92\nZSB0aGUgb3JpZ2luYWwgc3VkbyBiaW5hcnkgdG8gYW5vdGhlciBuYW1lCgpg\nYGAKIyBtdiAvdXNyL2Jpbi9zdWRvIC91c3IvYmluL3NvbWVuYW1lCmBgYAoK\nKiBjaGFuZ2UgdGhlIHBhcmFtZXRlcnMgaW4gdGhlIGZpbGUgdG8geW91ciBs\naWtpbmcKCkNoYW5nZSB0aGVzZSBpbiBzdWRvLXNub29wZXIucHk6CgpgYGAK\nZHVtcGRpciA9ICIvdG1wLy5zbm9vcGVyIgpkdW1wZmlsZSA9ICIvdG1wLy5z\nbm9vcGVyL2R1bXAudHh0IgpzdWRvID0gJ3N1ZG8nCmBgYAoKKiBpbnN0YWxs\nIHRoZSBweXRob24gZmlsZSBpbiAvdXNyL2Jpbi9zdWRvIChvciB3aGVyZXZl\nciBzdWRvIHdhcyBiZWZvcmUpCmBgYAojIGluc3RhbGwgLWRtNzU1IHN1ZG8t\nc25vb3Blci5weSAvdXNyL2Jpbi9zdWRvCmBgYAoKKiBnaXZlIHRoZSBuZWNl\nc3NhcnkgcGVybWlzc2lvbnMgdG8gdGhlIHB5dGhvbiBmaWxlCgogIFlvdSBj\nYW4gZ28gZmFuY3kgaGVyZSBhbmQgbWFrZSBhIG5vbi1yZWFkYWJsZSBleGVj\ndXRhYmxlIGZpbGUgZm9yIHVzZXJzLCBidXQgSSdtIG5vdCBnb2luZyBpbnRv\nIHRoYXQuIENoZWNrIHNvbWUgb2YgdGhlIGFuc3dlcnMgW2hlcmVdKGh0dHA6\nLy91bml4LnN0YWNrZXhjaGFuZ2UuY29tL3F1ZXN0aW9ucy8xNjYyMy9maWxl\nLXBlcm1pc3Npb24tZXhlY3V0ZS1vbmx5KSBmb3IgdGhhdC4KCioqTk9URSoq\nOiBBIHNvbWV3aGF0IG1vcmUgY29udmluY2luZyB3YXkgdG8gaW5zdGFsbCB0\naGlzIGlzIHRvIGNvbXBpbGUgaXQgdXNpbmcgYHB5aW5zdGFsbGVyYCBzbyB0\naGF0IGl0IGRvZXNuJ3Qgc2hvdyB1cCBhcyBhIHB5dGhvbiBmaWxlIHdoZW4g\nYGZpbGUgL3Vzci9iaW4vc3Vkb2AgaXMgZXhlY3V0ZWQuCgpUbyBkbyB0aGF0\nIHVuZGVyIEFyY2hsaW51eDogYHB5aW5zdGFsbGVyIC0tb25lZmlsZSBzdWRv\nLXNub29wZXIucHlgIHdpbGwgd29yay4gSG93ZXZlciBwbGVhc2Ugbm90ZSB0\naGF0IG9uY2UgY29tcGlsZWQgeW91IHdvbid0IGJlIGFibGUgdG8gY2hhbmdl\nIHRoZSBwYXJhbWV0ZXJzIGluIHRoZSBjb21waWxlZCBiaW5hcnkuCgojIyMg\nT3B0aW9uIDIgLSBBbGlhcyB0aGUgc3VkbyBjb21tYW5kIChlYXNpZXIgYnV0\nIHNvbWV3aGF0IG1vcmUgbm90aWNhYmxlKQoKVGhpcyBvcHRpb24gaXMgZWFz\naWVyIHRvIGRvIGFuZCBtb3JlIHBvcnRhYmxlLCBob3dldmVyIGl0IG1pZ2h0\nIGJlIG1vcmUgbm90aWNhYmxlIHRvIGNhcmVmdWwgdXNlcnMuCgpFZGl0IHRo\nZSAucmMgZmlsZSBvZiB0aGUgc2hlbGwgdGhlIHVzZXIgaXMgdXNpbmcgKGNh\nbiBiZSAuYmFzaHJjIC56c2hyYyBhbmQgc28gb24pIGFuZCBhZGQgdGhlIGZv\nbGxvd2luZzoKCmBgYAphbGlhcyBzdWRvPSdweXRob24zLjUgL3BhdGgvdG8v\nc3Vkby1zbm9vcGVyLnB5JwpgYGAKCk1ha2Ugc3VyZSBzdWRvLXNub29wZXIu\ncHkgaGFzIHRoZSBjb3JyZWN0IHBlcm1pc3Npb25zLgoKCiMjIFVzYWdlOgoK\nT25jZSBpbnN0YWxsZWQsIHN1ZG8tc25vb3BlciBjYW4gYmUgY2FsbGVkIGp1\nc3QgbGlrZSB0aGUgbm9ybWFsIHN1ZG8uCgpGb3IgZXhhbXBsZSwgcnVubmlu\nZwoKYGBgCnN1ZG8gdmltIC9ldGMvcmVzb2x2LmNvbmYKYGBgCgp3aWxsIHJl\nc3VsdCBpbiBzdWRvLXNub29wZXIgYmVpbmcgY2FsbGVkIChhc3N1bWluZyBp\ndCdzIHByb3Blcmx5IGluc3RhbGxlZCkuCgpJdCB3aWxsIGFzayBmb3IgdGhl\nIHVzZXIgcGFzc3dvcmQgYW5kIHRoZW4gZXhlY3V0ZSB0aGUgY29tbWFuZCBi\neSByZWRpcmVjdGluZyB0byB0aGUgcmVhbCBzdWRvIGJpbmFyeSBpZiB0aGUg\ncGFzc3dvcmQgaXMgY29ycmVjdC4KCllvdSBjYW4gdGhlbiByZXRyaWV2ZSB0\naGUgdXNlciBwYXNzd29yZCBieSByZWFkaW5nIHRoZSBkdW1wIGZpbGUgaW4g\ndGhlIHNldHRpbmdzLgoKIyMgVE9ETzoKCi0gWyBdIGhhbmRsZSB3aGVuIHVz\nZXIgZW50ZXJzIHdyb25nIHBhc3N3b3JkCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/xorond/sudo-snooper/contents/README.md?ref=master","git":"https://api.github.com/repos/xorond/sudo-snooper/git/blobs/48790f164c7007345568acd8c51af55035025a01","html":"https://github.com/xorond/sudo-snooper/blob/master/README.md"}}
+0
+

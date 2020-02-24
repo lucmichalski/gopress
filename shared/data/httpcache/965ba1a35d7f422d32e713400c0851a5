@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:21:17 GMT
+Etag: W/"eeb76ecba26d63765804a2d88095f56f"
+Last-Modified: Sat, 01 Aug 2015 13:42:06 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:1860:1DBC:5E53B1AD
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2089
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+af4
+{"name":"README.md","path":"README.md","sha":"54f74fe73144b37910beb069d9458e3e468c1828","size":1468,"url":"https://api.github.com/repos/bcoles/LiferayScan/contents/README.md?ref=master","html_url":"https://github.com/bcoles/LiferayScan/blob/master/README.md","git_url":"https://api.github.com/repos/bcoles/LiferayScan/git/blobs/54f74fe73144b37910beb069d9458e3e468c1828","download_url":"https://raw.githubusercontent.com/bcoles/LiferayScan/master/README.md","type":"file","content":"IyBMaWZlcmF5U2NhbgoKIyMgRGVzY3JpcHRpb24KCkxpZmVyYXlTY2FuIGlz\nIGEgc2ltcGxlIHJlbW90ZSBzY2FubmVyIGZvciBMaWZlcmF5IFBvcnRhbC4K\nCiMjIEluc3RhbGxhdGlvbgoKYGBgCmJ1bmRsZSBpbnN0YWxsCmdlbSBidWls\nZCBMaWZlcmF5U2Nhbi5nZW1zcGVjCmdlbSBpbnN0YWxsIC0tbG9jYWwgTGlm\nZXJheVNjYW4tMC4wLjEuZ2VtCmBgYAoKIyMgVXNhZ2UgKGNvbW1hbmQgbGlu\nZSkKCmBgYAolIExpZmVyYXlTY2FuIC1oClVzYWdlOiBMaWZlcmF5U2NhbiA8\ndXJsPiBbb3B0aW9uc10KICAgIC11LCAtLXVybCBVUkwgICAgICAgICAgICAg\nICAgICAgIExpZmVyYXkgVVJMIHRvIHNjYW4KICAgIC1zLCAtLXNraXAgICAg\nICAgICAgICAgICAgICAgICAgIFNraXAgY2hlY2sgZm9yIExpZmVyYXkKICAg\nIC12LCAtLXZlcmJvc2UgICAgICAgICAgICAgICAgICAgIEVuYWJsZSB2ZXJi\nb3NlIG91dHB1dAogICAgLWgsIC0taGVscCAgICAgICAgICAgICAgICAgICAg\nICAgU2hvdyB0aGlzIGhlbHAKCmBgYAoKIyMgVXNhZ2UgKHJ1YnkpCgpgYGAK\ncmVxdWlyZSAnTGlmZXJheVNjYW4nCmlzX2xpZmVyYXkgPSBMaWZlcmF5U2Nh\nbjo6aXNMaWZlcmF5KHVybCkgICAgICAgICAgICAjIENoZWNrIGlmIGEgVVJM\nIGlzIExpZmVyYXkKdmVyc2lvbiAgICA9IExpZmVyYXlTY2FuOjpnZXRWZXJz\naW9uKHVybCkgICAgICAgICAgICMgR2V0IExpZmVyYXkgdmVyc2lvbgpsYW5n\ndWFnZSAgID0gTGlmZXJheVNjYW46OmdldExhbmd1YWdlKHVybCkgICAgICAg\nICAgIyBHZXQgZGVmYXVsdCBsYW5ndWFnZSAoaWUsIGVuX1VTKQpkb21haW4g\nICAgID0gTGlmZXJheVNjYW46OmdldE9yZ2FuaXNhdGlvbkVtYWlsKHVybCkg\nIyBHZXQgb3JnYW5pc2F0aW9uIGVtYWlsIGFkZHJlc3MgZG9tYWluIChpZSwg\nQGxpZmVyYXkuY29tKQpyZWdpc3RlciAgID0gTGlmZXJheVNjYW46OnVzZXJS\nZWdpc3RyYXRpb24odXJsKSAgICAgIyBDaGVjayBpZiB1c2VyIHJlZ2lzdHJh\ndGlvbiBpZiBlbmFibGVkCnNvYXBfYXBpICAgPSBMaWZlcmF5U2Nhbjo6cmVt\nb3RlU29hcEFwaSh1cmwpICAgICAgICAjIENoZWNrIGlmIFNPQVAgQVBJIGlz\nIGFjY2Vzc2libGUKanNvbl9hcGkgICA9IExpZmVyYXlTY2FuOjpyZW1vdGVK\nc29uQXBpKHVybCkgICAgICAgICMgQ2hlY2sgaWYgSlNPTiBBUEkgaXMgYWNj\nZXNzaWJsZQpjYXB0Y2hhICAgID0gTGlmZXJheVNjYW46OnVzZXNDYXB0Y2hh\nKHVybCkgICAgICAgICAgIyBDaGVjayBpZiBGb3Jnb3QgUGFzc3dvcmQgdXNl\ncyBDQVBUQ0hBCnVzZXJzICAgICAgPSBMaWZlcmF5U2Nhbjo6ZW51bWVyYXRl\nVXNlcnModXJsKSAgICAgICAjIEVudW1lcmF0ZSBzb21lIHVzZXIgbmFtZXMg\nZnJvbSBvcGVuIHNlYXJjaCBhbmQgYmxvZyByc3MKcG9ydGxldHMgICA9IExp\nZmVyYXlTY2FuOjplbnVtZXJhdGVQb3J0bGV0cyh1cmwpICAgICMgRW51bWVy\nYXRlIGluc3RhbGxlZCBwb3J0bGV0cwpgYGAKCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/bcoles/LiferayScan/contents/README.md?ref=master","git":"https://api.github.com/repos/bcoles/LiferayScan/git/blobs/54f74fe73144b37910beb069d9458e3e468c1828","html":"https://github.com/bcoles/LiferayScan/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:21:54 GMT
+Etag: W/"3a1f9bd9276c170c11bd04cfebe93d5b"
+Last-Modified: Thu, 14 Jul 2016 18:36:57 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:45FA:5477:5E53B1D1
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1974
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b4d
+{"name":"README.md","path":"README.md","sha":"efda1a984ad4f62d97b782455bb7fd979e44745e","size":1528,"url":"https://api.github.com/repos/khr0x40sh/MacroShop/contents/README.md?ref=master","html_url":"https://github.com/khr0x40sh/MacroShop/blob/master/README.md","git_url":"https://api.github.com/repos/khr0x40sh/MacroShop/git/blobs/efda1a984ad4f62d97b782455bb7fd979e44745e","download_url":"https://raw.githubusercontent.com/khr0x40sh/MacroShop/master/README.md","type":"file","content":"IyBNYWNyb1Nob3AKQ29sbGVjdGlvbiBvZiBzY3JpcHRzIHRvIGFpZCBpbiBk\nZWxpdmVyaW5nIHBheWxvYWRzIHZpYSBPZmZpY2UgTWFjcm9zLiAgTW9zdCBh\ncmUgcHl0aG9uLiBTZWUgaHR0cDovL2tocjB4NDBzaC53b3JkcHJlc3MuY29t\nIGZvciBkZXRhaWxzLgoKMS4gbWFjcm9fc2FmZS5weQoKICAgR2VuZXJhdGVz\nIHNhZmUgZm9yIFZCIGluY2x1c2lvbiBpbnRvIGFuIGV4Y2VsIHNwcmVhZHNo\nZWV0LiAgUmVxdWlyZXMgYSBiYXRjaCBmaWxlIGdlbmVyYXRlZCBieSBWZWls\nLUV2YXNpb24gcG93ZXJzaGVsbCBwYXlsb2Fkcy4gVG8gaW5jbHVkZSwgZW5h\nYmxlIHRoZSBkZXZlbG9wZXIgbWVudSBpbiBPZmZpY2UsIGhlYWQgdG8gVmlz\ndWFsIEJhc2ljIHRhYiwgZG91YmxlIGNsaWNrIG9uIFRoaXNfV29ya2Jvb2sg\nYW5kIHBhc3RlIHRoZSBjb250ZW50cyBvZiB0aGUgb3V0cHV0IGZpbGUuIFN5\nbnRheCBpczoKcHl0aG9uIG1hY3JvX3NhZmUucHkgdGVzdC5iYXQgdGVzdC50\neHQKCjIuIGV4ZWludmJhLnB5CgogICBHZW5lcmF0ZXMgVkIgY29kZSBmb3Ig\naW5jbHVkaW5nIGFuZCB1bnBhY2tpbmcgYSBwb3J0YWJsZSBleGVjdXRhYmxl\nIG9udG8gYSBmaWxlIHN5c3RlbSBmb3IgZGVsaXZlcnkgdmlhIE9mZmljZSBN\nYWNyby4gIFRvIGluY2x1ZGUsIGVuYWJsZSB0aGUgZGV2ZWxvcGVyIG1lbnUg\naW4gT2ZmaWNlLCBoZWFkIHRvIFZpc3VhbCBCYXNpYyB0YWIsIGRvdWJsZSBj\nbGljayBvbiBUaGlzX1dvcmtib29rIGFuZCBwYXN0ZSB0aGUgY29udGVudHMg\nb2YgdGhlIG91dHB1dCBmaWxlLiAgUmVxdWlyZXMgYSBQRS4gU3ludGF4IGlz\nOgpweXRob24gZXhlaW52YmEucHkgLS1leGUgdGVzdC5leGUgLS1vdXQgdGVz\ndC52YiAtLWRlc3QgIkM6XFxVc2Vyc1xcUHVibGljXFxEb2N1bWVudHNcXHRl\nc3QuZXhlIgpFbnN1cmUgYW55IGJhY2tzbGFzaGVzIGFyZSBlc2NhcGVkIGlu\nIHRoZSBkZXN0IHZhcmlhYmxlCgozLiBtYWNyb19zYWZlX29sZC5weQoKICAg\nU2FtZSBhcyBtYWNyb19zYWZlLnB5LCBqdXN0IHVzZXMgcG93ZXJzaGVsbCB2\naWNlIFZCIGZvciBhcmNoaXRlY3R1cmUgZGV0ZWN0aW9uIHRvIGNhbGwgdGhl\nIGNvcnJlY3QgdmVyc2lvbiBvZiBwb3dlcnNoZWxsLgoKNC4gYjY0X2VuYy5w\neQoKICAgV2F0ZXJlZCBkb3duIHZlcnNpb24gb2YgZXhlaW52YmEucHkgdGhh\ndCB3aWxsIG91dHB1dCBib3RoIHRoZSByYXcgYmFzZTY0IHN0cmluZyBvZiB0\naGUgZXhlY3V0YWJsZSBhbmQgdGhlIHZhcmlhYmxlIHNwZWNpZmljIHNlY3Rp\nb24gb2YgdGhlIFZCLiAgTWF5IGJlIHVzZWZ1bCBmb3IgdXNlIHdpdGggZGlm\nZmVyZW50IFZCIHRlbXBsYXRlcyBvciBvdGhlciBtZXRob2RzIHRoYXQgbWF5\nIHJlcXVpcmUgYW4gZXhlY3V0YWJsZSBwYXNzZWQgYXMgYSBiYXNlNjQgc3Ry\naW5nIHNvbWV3aGVyZS4gIEF1dG9tYXRpY2FsbHkgc3RvcmVzIG91dHB1dCBp\nbnRvIGJhc2U2NF9vdXRwdXQudHh0IChyYXcpIGFuZCBiYXNlNjRfb3V0cHV0\nLnZiLiBTeW50YXggaXM6CnB5dGhvbiBiNjRfZW5jLnB5IHRlc3QuZXhlCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/khr0x40sh/MacroShop/contents/README.md?ref=master","git":"https://api.github.com/repos/khr0x40sh/MacroShop/git/blobs/efda1a984ad4f62d97b782455bb7fd979e44745e","html":"https://github.com/khr0x40sh/MacroShop/blob/master/README.md"}}
+0
+

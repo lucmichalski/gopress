@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:31:13 GMT
+Etag: W/"aeebd80e1504c1b7e1d2b799732a0cd4"
+Last-Modified: Mon, 05 Dec 2016 22:58:35 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:2FFDB:39715:5E53B400
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 480
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+8f0
+{"name":"README.md","path":"README.md","sha":"a1b1ac2353a26411285b0d818140275f8ce1f811","size":1064,"url":"https://api.github.com/repos/simp/pupmod-simp-ganglia/contents/README.md?ref=master","html_url":"https://github.com/simp/pupmod-simp-ganglia/blob/master/README.md","git_url":"https://api.github.com/repos/simp/pupmod-simp-ganglia/git/blobs/a1b1ac2353a26411285b0d818140275f8ce1f811","download_url":"https://raw.githubusercontent.com/simp/pupmod-simp-ganglia/master/README.md","type":"file","content":"WyFbTGljZW5zZV0oaHR0cDovL2ltZy5zaGllbGRzLmlvLzpsaWNlbnNlLWFw\nYWNoZS1ibHVlLnN2ZyldKGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNl\ncy9MSUNFTlNFLTIuMC5odG1sKSBbIVtCdWlsZCBTdGF0dXNdKGh0dHBzOi8v\ndHJhdmlzLWNpLm9yZy9zaW1wL3B1cG1vZC1zaW1wLWdhbmdsaWEuc3ZnKV0o\naHR0cHM6Ly90cmF2aXMtY2kub3JnL3NpbXAvcHVwbW9kLXNpbXAtZ2FuZ2xp\nYSkgWyFbU0lNUCBjb21wYXRpYmlsaXR5XShodHRwczovL2ltZy5zaGllbGRz\nLmlvL2JhZGdlL1NJTVAlMjBjb21wYXRpYmlsaXR5LTQuMi4qJTJGNS4xLiot\nb3JhbmdlLnN2ZyldKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvU0lN\nUCUyMGNvbXBhdGliaWxpdHktNC4yLiolMkY1LjEuKi1vcmFuZ2Uuc3ZnKQoK\nIyMgVGhpcyBpcyBhIFNJTVAgbW9kdWxlClRoaXMgbW9kdWxlIGlzIGEgY29t\ncG9uZW50IG9mIHRoZSBbU3lzdGVtIEludGVncml0eSBNYW5hZ2VtZW50IFBs\nYXRmb3JtXShodHRwczovL2dpdGh1Yi5jb20vTmF0aW9uYWxTZWN1cml0eUFn\nZW5jeS9TSU1QKSwgYSBjb21wbGlhbmNlLW1hbmFnZW1lbnQgZnJhbWV3b3Jr\nIGJ1aWx0IG9uIFB1cHBldC4KCklmIHlvdSBmaW5kIGFueSBpc3N1ZXMsIHRo\nZXkgY2FuIGJlIHN1Ym1pdHRlZCB0byBvdXIgW0pJUkFdKGh0dHBzOi8vc2lt\ncC1wcm9qZWN0LmF0bGFzc2lhbi5uZXQvKS4KClBsZWFzZSByZWFkIG91ciBb\nQ29udHJpYnV0aW9uIEd1aWRlXShodHRwczovL3NpbXAtcHJvamVjdC5hdGxh\nc3NpYW4ubmV0L3dpa2kvZGlzcGxheS9TRC9Db250cmlidXRpbmcrdG8rU0lN\nUCkgYW5kIHZpc2l0IG91ciBbZGV2ZWxvcGVyIHdpa2ldKGh0dHBzOi8vc2lt\ncC1wcm9qZWN0LmF0bGFzc2lhbi5uZXQvd2lraS9kaXNwbGF5L1NEL1NJTVAr\nRGV2ZWxvcG1lbnQrSG9tZSkuCgojIyBXb3JrIGluIFByb2dyZXNzCgpQbGVh\nc2UgZXhjdXNlIHVzIGFzIHdlIHRyYW5zaXRpb24gdGhpcyBjb2RlIGludG8g\ndGhlIHB1YmxpYyBkb21haW4uCgpEb3dubG9hZHMsIGRpc2N1c3Npb24sIGFu\nZCBwYXRjaGVzIGFyZSBzdGlsbCB3ZWxjb21lIQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/simp/pupmod-simp-ganglia/contents/README.md?ref=master","git":"https://api.github.com/repos/simp/pupmod-simp-ganglia/git/blobs/a1b1ac2353a26411285b0d818140275f8ce1f811","html":"https://github.com/simp/pupmod-simp-ganglia/blob/master/README.md"}}
+0
+

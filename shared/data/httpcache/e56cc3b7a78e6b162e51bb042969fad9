@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:05:47 GMT
+Etag: "21e365964f99f9988a8cff2a52f139a8"
+Last-Modified: Fri, 30 Sep 2011 16:59:56 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 304 Not Modified
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-From-Cache: 1
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:39059:44799:5E53AE0A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4768
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+928
+{"name":"README","path":"README","sha":"181bdc96b90d51b08edb9fb51b84fa57177918db","size":1166,"url":"https://api.github.com/repos/moxie0/sslstrip/contents/README?ref=master","html_url":"https://github.com/moxie0/sslstrip/blob/master/README","git_url":"https://api.github.com/repos/moxie0/sslstrip/git/blobs/181bdc96b90d51b08edb9fb51b84fa57177918db","download_url":"https://raw.githubusercontent.com/moxie0/sslstrip/master/README","type":"file","content":"c3Nsc3RyaXAgaXMgYSBNSVRNIHRvb2wgdGhhdCBpbXBsZW1lbnRzIE1veGll\nIE1hcmxpbnNwaWtlJ3MgU1NMIHN0cmlwcGluZyAKYXR0YWNrcy4KCkl0IHJl\ncXVpcmVzIFB5dGhvbiAyLjUgb3IgbmV3ZXIsIGFsb25nIHdpdGggdGhlICd0\nd2lzdGVkJyBweXRob24gbW9kdWxlLgoKSW5zdGFsbGluZzoKCSogVW5wYWNr\nOiB0YXIgenh2ZiBzc2xzdHJpcC0wLjUudGFyLmd6CgkqIEluc3RhbGwgdHdp\nc3RlZDogIHN1ZG8gYXB0LWdldCBpbnN0YWxsIHB5dGhvbi10d2lzdGVkLXdl\nYgoJKiAoT3B0aW9uYWxseSkgcnVuICdweXRob24gc2V0dXAucHkgaW5zdGFs\nbCcgYXMgcm9vdCB0byBpbnN0YWxsLCAKCSAgb3IgeW91IGNhbiBqdXN0IHJ1\nbiBpdCBvdXQgb2YgdGhlIGRpcmVjdG9yeS4gIAoKUnVubmluZzoKCXNzbHN0\ncmlwIGNhbiBiZSBydW4gZnJvbSB0aGUgc291cmNlIGJhc2Ugd2l0aG91dCBp\nbnN0YWxsYXRpb24uICAKCUp1c3QgcnVuICdweXRob24gc3Nsc3RyaXAucHkg\nLWgnIGFzIGEgbm9uLXJvb3QgdXNlciB0byBnZXQgdGhlIAoJY29tbWFuZC1s\naW5lIG9wdGlvbnMuCgoJVGhlIGZvdXIgc3RlcHMgdG8gZ2V0dGluZyB0aGlz\nIHdvcmtpbmcgKGFzc3VtaW5nIHlvdSdyZSBydW5uaW5nIExpbnV4KSAKCWFy\nZToKCgkxKSBGbGlwIHlvdXIgbWFjaGluZSBpbnRvIGZvcndhcmRpbmcgbW9k\nZSAoYXMgcm9vdCk6CgkgICBlY2hvICIxIiA+IC9wcm9jL3N5cy9uZXQvaXB2\nNC9pcF9mb3J3YXJkCgoJMikgU2V0dXAgaXB0YWJsZXMgdG8gaW50ZXJjZXB0\nIEhUVFAgcmVxdWVzdHMgKGFzIHJvb3QpOgoJICAgaXB0YWJsZXMgLXQgbmF0\nIC1BIFBSRVJPVVRJTkcgLXAgdGNwIC0tZGVzdGluYXRpb24tcG9ydCA4MCAt\naiBSRURJUkVDVCAtLXRvLXBvcnQgPHlvdXJMaXN0ZW5Qb3J0PgoJCgkzKSBS\ndW4gc3Nsc3RyaXAgd2l0aCB0aGUgY29tbWFuZC1saW5lIG9wdGlvbnMgeW91\nJ2QgbGlrZSAoc2VlIGFib3ZlKS4KCgk0KSBSdW4gYXJwc3Bvb2YgdG8gcmVk\naXJlY3QgdHJhZmZpYyB0byB5b3VyIG1hY2hpbmUgKGFzIHJvb3QpOgoJICAg\nYXJwc3Bvb2YgLWkgPHlvdXJOZXR3b3JrZERldmljZT4gLXQgPHlvdXJUYXJn\nZXQ+IDx0aGVSb3V0ZXJzSXBBZGRyZXNzPgoKTW9yZSBJbmZvOgoJaHR0cDov\nL3d3dy50aG91Z2h0Y3JpbWUub3JnL3NvZnR3YXJlL3NzbHN0cmlwLwo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/moxie0/sslstrip/contents/README?ref=master","git":"https://api.github.com/repos/moxie0/sslstrip/git/blobs/181bdc96b90d51b08edb9fb51b84fa57177918db","html":"https://github.com/moxie0/sslstrip/blob/master/README"}}
+0
+

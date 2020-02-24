@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:13:32 GMT
+Etag: W/"b7e0d4aea14456073481448b68566355"
+Last-Modified: Fri, 17 Jan 2020 19:37:18 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:7108E:86BCC:5E53AFDB
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3450
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e3c
+{"name":"README.md","path":"README.md","sha":"48c288813be44e65ffdba962e867d9e14a3f9327","size":2077,"url":"https://api.github.com/repos/gmdutra/aws-report/contents/README.md?ref=master","html_url":"https://github.com/gmdutra/aws-report/blob/master/README.md","git_url":"https://api.github.com/repos/gmdutra/aws-report/git/blobs/48c288813be44e65ffdba962e867d9e14a3f9327","download_url":"https://raw.githubusercontent.com/gmdutra/aws-report/master/README.md","type":"file","content":"PHAgYWxpZ249ImNlbnRlciI+CiAgPGgzIGFsaWduPSJjZW50ZXIiPkFXUyBS\nZXBvcnQ8L2gzPgogIDxwIGFsaWduPSJjZW50ZXIiPkFXUyBSZXBvcnQgaXMg\nYSB0b29sIGZvciBhbmFseXppbmcgYW1hem9uIHJlc291cmNlcy48L3A+Cgog\nIDxwIGFsaWduPSJjZW50ZXIiPgogICAgPGEgaHJlZj0iaHR0cHM6Ly90d2l0\ndGVyLmNvbS9nbWR1dHJheCI+CiAgICAgIDxpbWcgc3JjPSJodHRwczovL2lt\nZy5zaGllbGRzLmlvL2JhZGdlL3R3aXR0ZXItQGdtZHV0cmF4LWJsdWUuc3Zn\nIj4KICAgIDwvYT4KICAgIDxhIGhyZWY9Imh0dHBzOi8vdHJhdmlzLWNpLm9y\nZy9nbWR1dHJhL2F3cy1yZXBvcnQiPgogICAgICA8aW1nIHNyYz0iaHR0cHM6\nLy90cmF2aXMtY2kub3JnL2dtZHV0cmEvYXdzLXJlcG9ydC5zdmc/YnJhbmNo\nPW1hc3RlciI+CiAgICA8L2E+CiAgICA8YSBocmVmPSJodHRwczovL3d3dy5n\nbnUub3JnL2xpY2Vuc2VzL2dwbC0zLjAiPgogICAgICA8aW1nIHNyYz0iaHR0\ncHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaWNlbnNlLUdQTHYzLWJsdWUu\nc3ZnIj4KICAgIDwvYT4KICA8L3A+CjwvcD4KCjxocj4KCiMjIyBGZWF0dXJl\ncwoKKiBTZWFyY2ggaWFtIHVzZXJzIGJhc2VkIG9uIGNyZWF0aW9uIGRhdGUK\nKiBTZWFyY2ggYnVja2V0cyBwdWJsaWMKKiBTZWFyY2ggc2VjdXJpdHkgZ3Jv\ndXAgd2l0aCBpbmJvdW5kIHJ1bGUgZm9yIDAuMC4wLjAvMAoqIFNlYXJjaCBl\nbGFzdGljIGlwIGRpc3NvY2lhdGVkCiogU2VhcmNoIHZvbHVtZXMgYXZhaWxh\nYmxlCiogU2VhcmNoIEFNSXMgd2l0aCBwZXJtaXNzaW9uIHB1YmxpYwoqIFNl\nYXJjaCBpbnRlcm5ldCBnYXRld2F5cyBkZXRhY2hlZAoqIFNlYXJjaCBSRFMg\nd2l0aCBwZXJtaXNzaW9uIHB1YmxpYwoKIyMjIEluc3RhbGwgcmVxdWlyZW1l\nbnRzCmBgYApwaXAzIGluc3RhbGwgLS11c2VyIC1yIHJlcXVpcmVtZW50cy50\neHQKYGBgCgojIyMgRW52aXJvbWVudCB2YXJpYWJsZXMKCmBgYApJQU1fTUFY\nX0FDQ0VTU19LRVlfQUdFIGRlZmF1bHQgaXMgNjAgZGF5cy4KYGBgCgojIyMg\nVXNhZ2UKCmBgYApVc2FnZTogYXdzX3JlcG9ydC5weSBbT1BUSU9OU10KCk9w\ndGlvbnM6CiAgLS1zMyAgICAgICAgICAgU2VhcmNoIGJ1Y2tldHMgcHVibGlj\nIGluIHMzCiAgLS1pYW0gICAgICAgICAgU2VhcmNoIGlhbSB1c2VycyBiYXNl\nZCBvbiBjcmVhdGlvbiBkYXRlCiAgLS1zZyAgICAgICAgICAgU2VhcmNoIHNl\nY3VyaXR5IGdyb3VwcyB3aXRoIGluYm91bmQgcnVsZSAwLjAuMC4wCiAgLS1l\nbGFzdGljaXAgICAgU2VhcmNoIGVsYXN0aWMgSVAgbm90IGFzc29jaWF0ZWQK\nICAtLXZvbHVtZXMgICAgICBTZWFyY2ggdm9sdW1lcyBhdmFpbGFibGUKICAt\nLWFtaSAgICAgICAgICBTZWFyY2ggQU1JcyB3aXRoIHBlcm1pc3Npb24gcHVi\nbGljCiAgLS1vd25lciBURVhUICAgRGVmaW5lcyB0aGUgb3duZXIgb2YgdGhl\nIHJlc291cmNlcyB0byBiZSBmb3VuZAogIC0taWd3ICAgICAgICAgIFNlYXJj\naCBpbnRlcm5ldCBnYXRld2F5cyBkZXRhY2hlZAogIC0tcmRzICAgICAgICAg\nIFNlYXJjaCByZWxhdGlvbmFsIGRhdGFiYXNlcyB3aXRoIGFjY2VzcyBwdWJs\naWMKICAtLXJlZ2lvbiBURVhUICBEZWZpbmVzIHRoZSByZWdpb24gb2YgcmVz\nb3VyY2VzCiAgLS1oZWxwICAgICAgICAgU2hvdyB0aGlzIG1lc3NhZ2UgYW5k\nIGV4aXQuCmBgYAoKIyMjIEV4YW1wbGVzCgpgYGAKcHl0aG9uMyBhd3NfcmVw\nb3J0LnB5IC0tczMKcHl0aG9uMyBhd3NfcmVwb3J0LnB5IC0taWFtCnB5dGhv\nbjMgYXdzX3JlcG9ydC5weSAtLW93bmVyIDI5NjE5MzA2Nzg0MiAtLWFtaQpg\nYGAKCiMjIyBSdW5uaW5nIGluIERvY2tlcgoKYGBgCmRvY2tlciBydW4gLWl0\nIC1lIEFXU19BQ0NFU1NfS0VZX0lEPXlvdS1hY2Nlc3Mta2V5IC1lIEFXU19T\nRUNSRVRfQUNDRVNTX0tFWT15b3Utc2VjcmV0LWtleSBnbWR1dHJhL2F3cy1y\nZXBvcnQgLS1zMwpgYGAKCiMjIyBDb250YWN0CgpgYGAKWytdRW1haWwgICAg\nIGdtZHV0cmEuZXVAZ21haWwuY29tClsrXUxpbmtlZGluICBsaW5rZWRpbi5j\nb20vaW4vZ21kdXRyYQpbK11Ud2l0dGVyICAgdHdpdHRlci5jb20vZ21kdXRy\nYXgKYGBgCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/gmdutra/aws-report/contents/README.md?ref=master","git":"https://api.github.com/repos/gmdutra/aws-report/git/blobs/48c288813be44e65ffdba962e867d9e14a3f9327","html":"https://github.com/gmdutra/aws-report/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:40 GMT
+Etag: W/"e94e4d4c797af29b35efb4a10ba6efdc"
+Last-Modified: Sat, 10 Mar 2018 17:50:08 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:3B006:46C22:5E53B494
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 49
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d51
+{"name":"README.md","path":"README.md","sha":"b48b2fbabc36d4f9b63691f542c545af604e3774","size":1883,"url":"https://api.github.com/repos/Abdulrah33m/Cl0neMast3r/contents/README.md?ref=master","html_url":"https://github.com/Abdulrah33m/Cl0neMast3r/blob/master/README.md","git_url":"https://api.github.com/repos/Abdulrah33m/Cl0neMast3r/git/blobs/b48b2fbabc36d4f9b63691f542c545af604e3774","download_url":"https://raw.githubusercontent.com/Abdulrah33m/Cl0neMast3r/master/README.md","type":"file","content":"IyAqKkNsMG5lTWFzdDNyKioKCiMjIEFib3V0OgoqKkNsMG5lTWFzdDNyKiog\naXMgYSBQeXRob24gc2NyaXB0IHRoYXQgd2FzIGNvZGVkIHRvIG1ha2UgeW91\nciBsaWZlIGVhc2llci4KPGJyPk5vdyB5b3UgY2FuIGVhc2lseSBjaG9vc2Ug\neW91ciBmYXZvcml0ZSB0b29scyBmcm9tIEdpdEh1YiBhbmQgaW5zdGFsbCB0\naGVtIG9uIHlvdXIgc3lzdGVtIHdpdGggb25lIGNsaWNrLjxicj4KRXZlbiBi\nZXR0ZXIgeW91IGNhbiBlbnN1cmUgdGhhdCB5b3UgaGF2ZSBsYXRlc3QgdmVy\nc2lvbiBvZiB5b3VyIGZhdm9yaXRlIHRvb2xzLjxicj4KQWxsIHRoaXMgYW5k\nIG1vcmUgeW91IGNhbiBkbyB3aXRoIENsb25lIG1hc3Rlci4KCkNsb25lIE1h\nc3RlciB3YXMgbWFpbmx5IG1hZGUgZm9yICoqcGVuZXRyYXRpb24gdGVzdGVy\ncyoqIGFuZCAqKmJ1ZyBodW50ZXJzKiogOndpbms6CgojIyBTY3JlZW5zaG90\nczoKIVttYWNPU10oaHR0cHM6Ly9pLmltZ3VyLmNvbS9qeVNIOEEyLmpwZykK\nQ2hlY2sgYWxsIFtTY3JlZW5zaG90c10oaHR0cHM6Ly9naXRodWIuY29tL0Fi\nZHVscmFoZWVtMzAwNDIvQ2wwbmVNYXN0M3IvdHJlZS9tYXN0ZXIvU2NyZWVu\nU2hvdHMpCgojIyBPcHRpb25zOgpDbDBuZU1hc3QzciBwcm92aWRlcyB5b3Ug\nd2l0aCBhIGxvdCBvZiBvcHRpb25zOgoKT3B0aW9uIHwgRGVzY3JpcHRpb24K\nLS0tLS0tIHwgLS0tLS0tLS0tLS0KKipBKiogIHwgKipBKipkZCBhIHRvb2wg\nZnJvbSBHaXRIdWIgdXNpbmcgVVJMCioqRioqICB8ICoqRioqaW5kIGEgdG9v\nbCBvbiBHaXRIdWIKKipSKiogIHwgKipSKiplaW5zdGFsbCB5b3VyIHRvb2xz\nCioqVSoqICB8ICoqVSoqcGRhdGUgeW91ciB0b29scwoqKlMqKiAgfCBEaSoq\ncyoqcGxheSBpbmZvcm1hdGlvbiBhYm91dCB5b3VyIGZhdm9yaXRlIHRvb2xz\nCioqRCoqICB8ICoqRCoqZWxldGUgdGhlIGxpc3Qgb2YgdG9vbHMKKipNKiog\nIHwgSSoqbSoqcG9ydCB5b3VyIGZhdm9yaXRlIHRvb2xzCioqWCoqICB8IEUq\nKngqKnBvcnQgeW91ciB0b29scyB0byBIVE1MCgojIyBSZXF1aXJlbWVudHM6\nCiogKipQeXRob24gMi43LioqKgoKKiAqKlJlcXVlc3RzKiogWW91IGNhbiBm\naW5kIGl0IFtIZXJlXShodHRwczovL3B5cGkucHl0aG9uLm9yZy9weXBpL3Jl\ncXVlc3RzKTxicj4KKipIb3cgVG8gSW5zdGFsbCoqOiBgcGlwIGluc3RhbGwg\ncmVxdWVzdHNgCgoqICoqQmVhdXRpZnVsU291cDQqKiBZb3UgY2FuIGZpbmQg\naXQgW0hlcmVdKGh0dHBzOi8vcHlwaS5weXRob24ub3JnL3B5cGkvYmVhdXRp\nZnVsc291cDQpPGJyPgoqKkhvdyBUbyBJbnN0YWxsKio6IGBwaXAgaW5zdGFs\nbCBiZWF1dGlmdWxzb3VwNGAKCgojIyBJbnN0YWxsYXRpb246CmBgYApnaXQg\nY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL0FiZHVscmFoZWVtMzAwNDIvQ2ww\nbmVNYXN0M3IuZ2l0CmNkIENsMG5lTWFzdDNyLwpwaXAgaW5zdGFsbCAtciBy\nZXF1aXJlbWVudHMudHh0CmBgYAoKIyMgRW52aXJvbm1lbnQ6CmBEb2Vzbid0\nIHN1cHBvcnQgV2luZG93cyByaWdodCBub3cgOihgPGJyPgpDbDBuZU1hc3Qz\nciBoYXMgYmVlbiB0ZXN0ZWQgb246CiogKiptYWNPUyBIaWdoIFNpZXJyYSoq\nCiogKipLYWxpIExpbnV4KioKKiAqKkxpbnV4IE1pbnQqKgoKIyMgVmVyc2lv\nbjoKQ3VycmVudCB2ZXJzaW9uOiAqKjEuMCoqPGJyPgpZb3UgY2FuIGNoZWNr\nIHZlcnNpb25zIGhpc3RvcnkgZnJvbSBbSGVyZV0oaHR0cHM6Ly9naXRodWIu\nY29tL0FiZHVscmFoZWVtMzAwNDIvQ2wwbmVNYXN0M3IvYmxvYi9tYXN0ZXIv\nQ2hhbmdlbG9nLm1kKQoKIyMgQ29kZXI6CkNvZGVkIHdpdGggKipsb3ZlKiog\nYW5kICoqYnVncyoqIGJ5IFsqKkFiZHVscmFoZWVtIEtoYWxlZCoqXShodHRw\nczovL3R3aXR0ZXIuY29tL2FiZHVscmFoMzNtaykgOmhlYXJ0Ogo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Abdulrah33m/Cl0neMast3r/contents/README.md?ref=master","git":"https://api.github.com/repos/Abdulrah33m/Cl0neMast3r/git/blobs/b48b2fbabc36d4f9b63691f542c545af604e3774","html":"https://github.com/Abdulrah33m/Cl0neMast3r/blob/master/README.md"}}
+0
+

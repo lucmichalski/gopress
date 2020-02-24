@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:15:31 GMT
+Etag: W/"e0e93b8ab71c680845acfd107b4524d7"
+Last-Modified: Thu, 07 May 2015 10:00:57 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:9436C:B1F38:5E53B052
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3103
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+fb9
+{"name":"README.md","path":"README.md","sha":"0c0f74c61359f54fcfe7ba8faf826b1379320eaa","size":2360,"url":"https://api.github.com/repos/Smaash/fuckshitup/contents/README.md?ref=master","html_url":"https://github.com/Smaash/fuckshitup/blob/master/README.md","git_url":"https://api.github.com/repos/Smaash/fuckshitup/git/blobs/0c0f74c61359f54fcfe7ba8faf826b1379320eaa","download_url":"https://raw.githubusercontent.com/Smaash/fuckshitup/master/README.md","type":"file","content":"CiNBZ2VuZGEKCkZ1Y2tTaGl0VXAgMC4xIC0gTXVsdGkgVnVsbmVyYWJpbGl0\naWVzIFNjYW5uZXIKCkJhc2ljYWxseSwgRlNVIGlzIGJ1bmNoIG9mIHRvb2xz\nIHdyaXR0ZW4gaW4gUEhQLUNMSS4gVXNpbmcgYnVpbGQtaW4gZnVuY3Rpb25z\nLCB5b3UgYXJlIGFibGUgdG8gZ3JhYiB1cmwncyB1c2luZyBzZWFyY2ggZW5n\naW5lcyAtIGFuZCBzbywgZG9yayBmb3IgaW50ZXJlc3RpbmcgZmlsZXMgYW5k\nIGZ1bGwgcGF0aCBkaXNjbG9zdXJlcy4gVXNpbmcgbGlzdCBvZiB1cmwncywg\nc2Nhbm5lciB3aWxsIGxvb2sgZm9yIENyb3NzIFNpdGUgU2NyaXB0aW5nLCBS\nZW1vdGUgRmlsZSBJbmNsdXNpb24sIFNRTCBJbmplY3Rpb24gYW5kIExvY2Fs\nIEZpbGUgSW5jbHVzaW9uIHZ1bG5lcmFiaWxpdGllcy4gSXQgaXMgYWJsZSB0\nbyBwZXJmb3JtIG1hc3MgYnJ1dGVmb3JjZSBhdHRhY2tzIGZvciBzcGVjaWZp\nYyByYW5nZSBvZiBob3N0cywgb3IgYnJ1dGVmb3JjZSBzc2ggd2l0aCBzcGVj\naWZpYyB1c2VybmFtZSB0YWtlbiBmcm9tIEZQRC4gV2hlbmV2ZXIgc29tZXRo\naW5nIGludGVyZXN0aW5nIHdpbGwgYmUgZm91bmQsIGxpa2UgdnVsbmVyYWJp\nbGl0eSBvciBicm9rZW4gYXV0aCBjcmVkZW50aWFscywgZGF0YSB3aWxsIGJl\nIHNhdmVkIGluIC50eHQgZmlsZXMgLSBqdXN0IGxpa2UgdXJsJ3MsIGFuZCBh\nbnkgb3RoZXIgZmlsZXMuIEZTVSBpcyBiYXNlZCBvbiBQSFAgYW5kIHRleHQg\nZmlsZXMsIGl0J3Mgc3RpbGwgdW5kZXIgY29uc3RydWN0aW9uIHNvIGkgYW0g\nYXdhcmUgb2YgYW55IHBvdGVudGlhbCBidWdzLiBQcmluY2lwbGUgb2Ygb3Bl\ncmF0aW9uIGlzIHNpbXBsZS4KCk1vcmUgdXJsJ3MgLT4gbW9yZSB2dWxuJ3Mu\nCkZvciBlZHVjYXRpb25hbCBwdXJwb3NlcyBvbmx5LgoKI0ludHJvCgotIERh\ndGEgZ3JhYmJpbmc6CiAtIFVSTCdzIChnZXR1cmwvbWFzc3VybCkgLT4gKHNj\nYW4pCiAtIENvbmZpZ3MsIERhdGFiYXNlcywgU1FMaSdzIChkb3JrKQogLSBG\ndWxsIFBhdGggRGlzY2xvc3VyZXMgLyBVc2VycyAoZnBkcykgLT4gKGJydXRl\nZnBkcykKIC0gVG9wIHdlYnNpdGVzIGluZm8gKHRvcCkKICAKLSBNYXNzaXZl\nIHNjYW5uaW5nCiAtIFhTUywgU1FMaSwgTEZJLCBSRkkgKHNjYW4pCiAtIEZU\nUCwgU1NILCBEQidzLCBJTUFQIChtdWx0aWJydXRlcikKIC0gQWNjdXJhdGUg\nU1NIIGJydXRlZm9yY2UgKGJydXRlZnBkcykKCiNQbGFuCgotIFdlYiBBcHBz\nCiAtIEdyYWIgdXJsJ3MgdmlhICdnZXR1cmwnIG9yICdtYXNzdXJsJyAobWFz\nc3VybCByZXF1aXJlcyBsaXN0IG9mIHRhZ3MgYXMgZmlsZSkKIC0gU2NhbiB1\ncmwncyBwYXJhbWV0ZXJzIGZvciB2dWxucyB3aXRoICdzY2FuJwoKLSBTZXJ2\nZXJzCiAtIFBpY2sgdGFyZ2V0LCBnZXQgaXAgcmFuZ2UKIC0gU2NhbiBmb3Ig\nc2VydmljZXMgb24gZWFjaCBJUCBhbmQgYnJ1dGVmb3JjZSB3aXRoICdtdWx0\naWJydXRlcicKIC0gR3JhYiBmdWxsIHBhdGggZGlzY2xvc3VyZXMsIGFuZCBz\nbyBsaW51eCB1c2VybmFtZXMKIC0gUGVyZm9ybSBTU0ggYnJ1dGVmb3JjZSBm\nb3Igc3BlY2lmaWMgdXNlciB3aXRoICdicnV0ZWZwZHMnCgotIEluZm8gZ3Jh\nYmJpbmcKIC0gVXNlICdkb3JrJyBmb3IgYXV0b21hdGljIGRvcmtpbmcKIC0g\nVXNlICdmcGRzJyBmb3IgZnVsbCBwYXRoIGRpc2Nsb3N1cmUgZ3JhYmJpbmcK\nIC0gVXNlICdzZWFyY2gnIGZvciBzZWFyY2hpbmcgc29tZW9uZSBpbiB1ciBk\nYXRhYmFzZXMKIC0gVXNlICd0b3AnIGZvciBzY2FubmluZyBhbGwgdG9wIHdl\nYnNpdGVzIG9mIHNwZWNpZmljIG5hdGlvbgoKLSBPdGhlcnMKIC0gJ1N0YXQn\nIHNob3dzIGFjdHVhbCBzdGF0aXN0aWNzIGFuZCBpbmZvcm1hdGlvbnMKIC0g\nJ1Nob3cnIGRpc3BsYXkgc3BlY2lmaWMgZmlsZQogLSAnQ2xlYXInIGFuZCAn\nZmlsdGVyJyAtIHJlbW92ZSBkdXBsaWNhdGVzLCByZW1vdmUgYmxhY2tsaXN0\nZWQgdXJsJ3MKCiNPdGhlcnMKCk11bHRpQnJ0dWVyIHJlcXVpcmVtZW50cyAo\ncGhwNSk6CiAtIHBocDUtbXlzcWwgLSBmb3IgbXlzcWwgY29ubmVjdGlvbnMK\nIC0gcGhwNS1wZ3NxbCAtIGZvciBwb3N0Z3Jlc3FsIGNvbm5lY3Rpb25zCiAt\nIGxpYnNzaDItcGhwIC0gZm9yIHNzaCBjb25uZWN0aW9ucwogLSBwaHA1LXN5\nYmFzZSAtIGZvciBtc3NxbCBjb25uZWN0aW9ucwogLSBwaHA1LWltYXAgLSBm\nb3IgaW1hcCBjb25uZWN0aW9ucwoKU2NyZWVuczoKIC0gaHR0cDovL2kuaW1n\ndXIuY29tL1dLRWJWR1EucG5nCiAtIGh0dHA6Ly9pLmltZ3VyLmNvbS9QSnRZ\nV1FrLnBuZwogLSBodHRwOi8vaS5pbWd1ci5jb20vbzhmeXlMUS5wbmcKIC0g\naHR0cDovL2kuaW1ndXIuY29tL1dZOG5jQngucG5nCiAtIGh0dHA6Ly9pLmlt\nZ3VyLmNvbS9jbW9UY1BZLnBuZwo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Smaash/fuckshitup/contents/README.md?ref=master","git":"https://api.github.com/repos/Smaash/fuckshitup/git/blobs/0c0f74c61359f54fcfe7ba8faf826b1379320eaa","html":"https://github.com/Smaash/fuckshitup/blob/master/README.md"}}
+0
+

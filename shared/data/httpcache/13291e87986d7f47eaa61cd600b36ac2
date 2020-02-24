@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:31:59 GMT
+Etag: W/"c4a2774afacc3acc80e654417b988ffa"
+Last-Modified: Thu, 07 Dec 2017 21:44:27 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:33774:3DA98:5E53B42F
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 354
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+6fd
+{"name":"README.md","path":"README.md","sha":"3b82b84530bcd189c1890401d5a283d7a3b76add","size":722,"url":"https://api.github.com/repos/nccgroup/AWS-recipes/contents/README.md?ref=master","html_url":"https://github.com/nccgroup/AWS-recipes/blob/master/README.md","git_url":"https://api.github.com/repos/nccgroup/AWS-recipes/git/blobs/3b82b84530bcd189c1890401d5a283d7a3b76add","download_url":"https://raw.githubusercontent.com/nccgroup/AWS-recipes/master/README.md","type":"file","content":"IyBBV1MtcmVjaXBlcwoKWyFbQnVpbGQgU3RhdHVzXShodHRwczovL3RyYXZp\ncy1jaS5vcmcvbmNjZ3JvdXAvQVdTLXJlY2lwZXMuc3ZnP2JyYW5jaD1tYXN0\nZXIpXShodHRwczovL3RyYXZpcy1jaS5vcmcvbmNjZ3JvdXAvQVdTLXJlY2lw\nZXMpCgojIyBJbnN0YWxsYXRpb24KCiAgICAkIGdpdCBjbG9uZSBodHRwczov\nL2dpdGh1Yi5jb20vbmNjZ3JvdXAvQVdTLXJlY2lwZXMKICAgICQgY2QgQVdT\nLXJlY2lwZXMKICAgICQgcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4\ndAoKIyMgQ29udGVudHMKClRvIGZvbGxvdyBpcyBhIGhpZ2gtbGV2ZWwgZGVz\nY3JpcHRpb24gb2YgdGhlIGNvbnRlbnRzIG9mIHRoaXMgcmVwb3NpdG9yeS4K\nCiMjIyBDbG91ZEZvcm1hdGlvbiBUZW1wbGF0ZXMKClRoaXMgZm9sZGVyIGNv\nbnRhaW5zIGEgbnVtYmVyIG9mIENsb3VkRm9ybWF0aW9uIHRlbXBsYXRlcyB0\naGF0IG1heSBiZSB1c2VkIHRvCmltcGxlbWVudCBvciBkZW1vbnN0cmF0ZSBm\ndW5jdGlvbmFsaXR5LgoKIyMjIElBTSBQb2xpY2llcwoKVGhpcyBmb2xkZXIg\nY29udGFpbnMgYSBudW1iZXIgb2YgdXNlZnVsIElBTSBwb2xpY2llcy4KCiMj\nIyBQeXRob24KClRoaXMgZm9sZGVyIGNvbnRhaW5zIGEgbnVtYmVyIG9mIFJl\nY2lwZXMgZm9yIEFXUywgd3JpdHRlbiBpbiBQeXRob24sIHRoYXQgd2VyZQpk\nZXNpZ25lZCB0byBoZWxwIGltcHJvdmUgb25lJ3Mgc2VjdXJpdHkgaW4gQVdT\nLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/nccgroup/AWS-recipes/contents/README.md?ref=master","git":"https://api.github.com/repos/nccgroup/AWS-recipes/git/blobs/3b82b84530bcd189c1890401d5a283d7a3b76add","html":"https://github.com/nccgroup/AWS-recipes/blob/master/README.md"}}
+0
+

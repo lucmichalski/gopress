@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:07:45 GMT
+Etag: W/"92f352b4ffa81d048746dee04938d026"
+Last-Modified: Thu, 16 May 2019 07:52:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:5324D:64507:5E53AE81
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4485
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c80
+{"name":"README.md","path":"README.md","sha":"5127efec530e46d609e6945edb0b811490fd05ff","size":1686,"url":"https://api.github.com/repos/w-digital-scanner/w12scan-client/contents/README.md?ref=master","html_url":"https://github.com/w-digital-scanner/w12scan-client/blob/master/README.md","git_url":"https://api.github.com/repos/w-digital-scanner/w12scan-client/git/blobs/5127efec530e46d609e6945edb0b811490fd05ff","download_url":"https://raw.githubusercontent.com/w-digital-scanner/w12scan-client/master/README.md","type":"file","content":"IyB3MTJzY2FuLWNsaWVudArnvZHnu5zotYTkuqfmkJzntKLlj5HnjrDlvJXm\nk44s5aSn6KeE5qih6LWE5Lqn6K+G5Yir77yM5q+V5Lia6K6+6K6h77yMdzEy\nc2NhbiDlrqLmiLfnq6/nqIvluo8KCiMjIOiuvuiuoeaAneaDswpjbGllbnTn\nmoTmgJ3mg7PmmK/mjqXmlLbliLDlk6rkupvmlbDmja4odXJsLGlwKeWwseWP\nquS8mui3kei/meS6m++8jOS4jeS8muagueaNrnVybCAzMDHoh6rliqjot7Po\nvazotbDvvIzkuZ/kuI3kvJrmoLnmja51cmzmnaXmiavmj49pcOOAgui/meS6\nm+S6i+aDheaYr+mcgOimgeWcqOa3u+WKoOebruagh+WIsGNsaWVudOS5i+WJ\njeWBmueahO+8jOS+i+Wmgua3u+WKoGh0dHA6Ly91cmwg5Lul5Y+KIGh0dHBz\nOi8vdXJsIOS7peWPiuWvueW6lOeahGlw77yM6L+Z5qC3dzEyc2NhbuS8muag\nueaNruebuOWFs+WGheWuuei/m+ihjOiBmuWQiOWIhuaekOOAggoKIyMg6YWN\n572u6K+05piOCi0g6L+Z5pivdzEyc2NhbueahOaJq+aPj+err++8jOWfuuS6\njnB5dGhvbjPnvJblhpnvvIzlnKjov5vooYzmiavmj4/kuYvliY3vvIzpnIDo\npoHlronoo4Vgbm1hcGDlkoxgbWFzc2NhbmDvvIzlubblsIblroPku6zorr7n\nva7kuLrnjq/looPlj5jph4/vvIzlvZPnhLbvvIzlpoLmnpzkvaDmmK/kvb/n\nlKhkb2NrZXLnvJbor5Hlronoo4XnmoTlsLHkuI3pnIDopoHmraTmraXpqqTk\nuobjgIIKLSBgY29uZmlnLnB5YOS4reWumuS5ieS6huaJq+aPj+eahOebuOWF\ns+mFjee9ru+8jOS9oOWPr+S7peiuvue9rm1hc3NjYW7miavmj4/nmoRgcmF0\nZWDvvIzmmK/lkKbmiavmj4/lhajnq6/lj6Mo6buY6K6k5omr5o+P6YOo5YiG\n56uv5Y+jKe+8jOe6v+eoi+aVsOS7peWPiuiKgueCueWQjeensOetieetiS4u\nLgoKIyMgZG9ja2Vy57yW6K+RCi0g5pys5LuT5bqT5omA5pyJ5Luj56CB5o+Q\n5Lqk6YO95Lya6Ieq5Yqo57yW6K+R5YiwZG9ja2VyaHVi5LiK77yM5omA5Lul\n5L2g5peg6ZyA5LiL6L296L+Z6YeM55qE5LuT5bqT44CC5L2g5Y+q6ZyA6KaB\n5oyJ54WnW2h0dHBzOi8vZ2l0aHViLmNvbS9ib3ktaGFjay93MTJzY2FuXSho\ndHRwczovL2dpdGh1Yi5jb20vYm95LWhhY2svdzEyc2NhbinnmoTopoHmsYLo\nv5DooYzljbPlj6/jgIIKLSDpmaTpnZ7kvaDmg7Poh6rlt7Hkv67mlLnkuIDk\nupvphY3nva7lj6/ku6Xkvb/nlKjlpoLkuIvlkb3ku6Qs5Zyo5pys5paH5Lu2\n55uu5b2V5LiLCmBgYGJhc2gKJGRvY2tlciBidWlsZCAtdCB3MTJzY2FuLWNs\naWVudDpsYXRlc3QgLgokZG9ja2VyIHRhZyB3MTJzY2FuLWNsaWVudDpsYXRl\nc3QgYm95aGFjay93MTJzY2FuLWNsaWVudApgYGAK5YaN5oyJ54WnW2h0dHBz\nOi8vZ2l0aHViLmNvbS9ib3ktaGFjay93MTJzY2FuXShodHRwczovL2dpdGh1\nYi5jb20vYm95LWhhY2svdzEyc2NhbinnmoTopoHmsYLov5DooYzljbPlj6/j\ngIIKCiMjIElQ5pWw5o2u5bqT5pu05pawCi0g572R57uc5LiK5aSn6YOo5YiG\naXDmjqXlj6Ppg73mnInpopHnjofpmZDliLbvvIzmiYDku6VJUOaVsOaNruS9\nv+eUqEdFT0lQ5pWw5o2u77yM5L2G5LiN5L+d6K+B5pWw5o2u55qE5pe25pWI\n5oCn77yM5Y+v5Lul6YCa6L+H5LiL6L295pyA5paw5pWw5o2u5bqT6Kej5Yaz\nCi0gaHR0cHM6Ly9nZW9saXRlLm1heG1pbmQuY29tL2Rvd25sb2FkL2dlb2lw\nL2RhdGFiYXNlL0dlb0xpdGUyLUNvdW50cnkudGFyLmd6ICAKLSDmlL7liLBk\nYXRhL0dlb0xpdGUy55uu5b2V5LiL\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/w-digital-scanner/w12scan-client/contents/README.md?ref=master","git":"https://api.github.com/repos/w-digital-scanner/w12scan-client/git/blobs/5127efec530e46d609e6945edb0b811490fd05ff","html":"https://github.com/w-digital-scanner/w12scan-client/blob/master/README.md"}}
+0
+

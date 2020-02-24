@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:13 GMT
+Etag: W/"631b566026c0e9ccbc2fbd3a69b31493"
+Last-Modified: Wed, 27 Aug 2014 18:05:15 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:92AC6:AE723:5E53B0F5
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2616
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+738
+{"name":"README.md","path":"README.md","sha":"2f10a502cb6c769f03c840ce2f33b0cbcf4509da","size":760,"url":"https://api.github.com/repos/AdamLaurie/hdmi-sniff/contents/README.md?ref=master","html_url":"https://github.com/AdamLaurie/hdmi-sniff/blob/master/README.md","git_url":"https://api.github.com/repos/AdamLaurie/hdmi-sniff/git/blobs/2f10a502cb6c769f03c840ce2f33b0cbcf4509da","download_url":"https://raw.githubusercontent.com/AdamLaurie/hdmi-sniff/master/README.md","type":"file","content":"aGRtaS1zbmlmZgo9PT09PT09PT09CgpIRE1JIEREQyAoSTJDKSBpbnNwZWN0\naW9uIHRvb2wKCkxhdGVzdCB2ZXJzaW9uOgoKICBodHRwczovL2dpdGh1Yi5j\nb20vQXBlcnR1cmVMYWJzTHRkL2hkbWktc25pZmYKClRoaXMgdG9vbCBpcyBk\nZXNpZ25lZCB0byBkZW1vbnN0cmF0ZSBqdXN0IGhvdyBlYXN5IGl0IGlzIHRv\nIHJlY292ZXIgSERDUCBjcnlwdG8Ka2V5cyBmcm9tIEhETUkgZGV2aWNlcywg\nYnV0IGl0IGNvdWxkIGJlIGV4dGVuZGVkIHRvIGRlY29kZSBhbGwgZGF0YSBw\nYXNzZWQgb3Zlcgp0aGUgSTJDIGludGVyZmFjZSwgc3VjaCBhcyBNQ0NTLCBF\nRElELCBldGMuIFlvdSdsbCBuZWVkIGFuIEhETUkgYnJlYWtvdXQgY2FibGUK\nKGhvdyB0byBtYWtlIG9uZSBpcyBkZXNjcmliZWQgaW4gdGhlIGJsb2cgZW50\ncnkgYmVsb3cpLCBhbmQgYSBCdXMgUGlyYXRlOgoKICBodHRwOi8vZGFuZ2Vy\nb3VzcHJvdG90eXBlcy5jb20vZG9jcy9CdXNfUGlyYXRlCgpZb3UnbGwgYWxz\nbyBuZWVkIGEgY29weSBvZiBSaWNoIFdhcmVoYW0ncyBoZGNwLWdlbmtleSB0\nbyBjb252ZXJ0IHRoZSBzbmlmZmVkIEtTVgp0byBhIGtleToKCiAgaHR0cHM6\nLy9naXRodWIuY29tL3JqdzU3L2hkY3AtZ2Vua2V5CgpGb3IgYSB3YWxrZWQg\ndGhyb3VnaCBleGFtcGxlLCByZWFkIHRoaXM6CgogIGh0dHA6Ly9hZGFtc2Js\nb2cuYXBlcnR1cmVsYWJzLmNvbS8yMDEzLzAyL2hkY3AtaXMtZGVhZC1sb25n\nLWxpdmUtaGRjcC1wZWVrLWludG8uaHRtbAoKRW5qb3khCkFkYW0KCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/AdamLaurie/hdmi-sniff/contents/README.md?ref=master","git":"https://api.github.com/repos/AdamLaurie/hdmi-sniff/git/blobs/2f10a502cb6c769f03c840ce2f33b0cbcf4509da","html":"https://github.com/AdamLaurie/hdmi-sniff/blob/master/README.md"}}
+0
+

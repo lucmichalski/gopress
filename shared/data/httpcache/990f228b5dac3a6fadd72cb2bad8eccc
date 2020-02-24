@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:16:22 GMT
+Etag: W/"6ca0e05dc89681ef06361e2046955ff2"
+Last-Modified: Fri, 21 Feb 2020 04:39:27 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:9B133:BA324:5E53B086
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2948
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+7de
+{"name":"README.md","path":"README.md","sha":"186806ff8df13bac1ae8c004220856b27e187168","size":932,"url":"https://api.github.com/repos/jm33-m0/mec/contents/README.md?ref=master","html_url":"https://github.com/jm33-m0/mec/blob/master/README.md","git_url":"https://api.github.com/repos/jm33-m0/mec/git/blobs/186806ff8df13bac1ae8c004220856b27e187168","download_url":"https://raw.githubusercontent.com/jm33-m0/mec/master/README.md","type":"file","content":"IyBtYXNzRXhwbG9pdENvbnNvbGUKYSBjb2xsZWN0aW9uIG9mIGhhY2tpbmcg\ndG9vbHMgd2l0aCBhIGNsaSB1aQoKIyMgc2NyZWVuc2hvdAoKIVthdHRhY2td\nKC9zY3JlZW5zaG90L21haW4uanBnKQohW3pvb21leWVdKC9zY3JlZW5zaG90\nL3pvb21leWUuanBnKQoKCiMjIGRpc2NsYWltZXIKCi0gcGxlYXNlIHVzZSB0\naGlzIHRvb2wgb25seSBvbiAqKmF1dGhvcml6ZWQgc3lzdGVtcyoqLCBpbSBu\nb3QgcmVzcG9uc2libGUgZm9yIGFueSBkYW1hZ2UgY2F1c2VkIGJ5IHVzZXJz\nIHdobyBpZ25vcmUgbXkgd2FybmluZwotIGV4cGxvaXRzIGFyZSBhZGFwdGVk\nIGZyb20gb3RoZXIgc291cmNlcywgcGxlYXNlIHJlZmVyIHRvIHRoZWlyIGF1\ndGhvciBpbmZvCi0gcGxlYXNlIG5vdGUsIGR1ZSB0byBteSBsaW1pdGVkIHBy\nb2dyYW1taW5nIGV4cGVyaWVuY2UgKGl0J3MgbXkgZmlyc3QgUHl0aG9uIHBy\nb2plY3QpLCB5b3UgY2FuIGV4cGVjdCBzb21lIHNpbGx5IGJ1Z3MKCgojIyBm\nZWF0dXJlcwoKLSBbeF0gYW4gZWFzeS10by11c2UgY2xpIHVpCi0gW3hdIGV4\nZWN1dGUgYW55IGFkcGF0ZWQgZXhwbG9pdHMgd2l0aCAqKnByb2Nlc3MtbGV2\nZWwgY29uY3VycmVuY3kqKgotIFt4XSBzb21lIGJ1aWx0LWluIGV4cGxvaXRz\nIChhdXRvbWF0ZWQpCi0gW3hdIGhpZGUgeW91ciBpcCBhZGRyIHVzaW5nIGBw\ncm94eWNoYWluczRgIGFuZCBgc3MtcHJveHlgIChidWlsdC1pbikKLSBbeF0g\nem9vbWV5ZSBob3N0IHNjYW4gKDEwIHRocmVhZHMpCi0gW3hdIGEgc2ltcGxl\nIGJhaWR1IGNyYXdsZXIgKG11bHRpLXRocmVhZGVkKQotIFt4XSBjZW5zeXMg\naG9zdCBzY2FuCi0gW3hdIGJ1aWx0LWluIHNzaCBicnV0ZWZvcmNlcgoKIyMg\nZ2V0dGluZyBzdGFydGVkCgpwbGVhc2UgcmVhZCB0aGUgW3dpa2ldKGh0dHBz\nOi8vZ2l0aHViLmNvbS9qbTMzLW0wL21lYy93aWtpKQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/jm33-m0/mec/contents/README.md?ref=master","git":"https://api.github.com/repos/jm33-m0/mec/git/blobs/186806ff8df13bac1ae8c004220856b27e187168","html":"https://github.com/jm33-m0/mec/blob/master/README.md"}}
+0
+

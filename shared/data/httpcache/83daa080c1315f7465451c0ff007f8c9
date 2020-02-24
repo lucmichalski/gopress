@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:11 GMT
+Etag: W/"d7d06b502b2373283dcb1bf175a6c4ca"
+Last-Modified: Mon, 06 Jan 2020 09:37:18 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:5EE23:7256F:5E53AED7
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4217
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d1e
+{"name":"README.md","path":"README.md","sha":"72b2ec4ea798c63ed867e382d4cce2160c5814fe","size":1871,"url":"https://api.github.com/repos/cyrus-and/zizzania/contents/README.md?ref=master","html_url":"https://github.com/cyrus-and/zizzania/blob/master/README.md","git_url":"https://api.github.com/repos/cyrus-and/zizzania/git/blobs/72b2ec4ea798c63ed867e382d4cce2160c5814fe","download_url":"https://raw.githubusercontent.com/cyrus-and/zizzania/master/README.md","type":"file","content":"IyB6aXp6YW5pYQoKeml6emFuaWEgc25pZmZzIHdpcmVsZXNzIHRyYWZmaWMg\nbGlzdGVuaW5nIGZvciBXUEEgaGFuZHNoYWtlcyBhbmQgZHVtcGluZyBvbmx5\nIHRob3NlIGZyYW1lcyBzdWl0YWJsZSB0byBiZSBkZWNyeXB0ZWQgKG9uZSBi\nZWFjb24gKyBFQVBPTCBmcmFtZXMgKyBkYXRhKS4gSW4gb3JkZXIgdG8gc3Bl\nZWQgdXAgdGhlIHByb2Nlc3MsIHppenphbmlhIHNlbmRzIElFRUUgODAyLjEx\nIERlQXV0aCBmcmFtZXMgdG8gdGhlIHN0YXRpb25zIHdob3NlIGhhbmRzaGFr\nZSBpcyBuZWVkZWQsIHByb3Blcmx5IGhhbmRsaW5nIHJldHJhbnNtaXNzaW9u\ncyBhbmQgcmVhc3NvY2lhdGlvbnMgYW5kIHRyeWluZyB0byBsaW1pdCB0aGUg\nbnVtYmVyIG9mIERlQXV0aCBmcmFtZXMgc2VudCB0byBlYWNoIHN0YXRpb24u\nCgohW1NjcmVlbnNob3RdKGh0dHBzOi8vaS5pbWd1ci5jb20vekd4UFNURS5w\nbmcpCgojIyBFeGFtcGxlcwoKUHV0IHRoZSBuZXR3b3JrIGludGVyZmFjZSBp\nbiBSRk1PTiBtb2RlIG9uIGNoYW5uZWwgNiBhbmQgc2F2ZSB0aGUgdHJhZmZp\nYyBnYXRoZXJlZCBmcm9tIHRoZSBzdGF0aW9ucyBhc3NvY2lhdGVkIHRvIGEg\nc3BlY2lmaWMgYWNjZXNzIHBvaW50IGV4Y2x1ZGluZyB0aG9zZSB3aG9zZSBN\nQUMgYWRkcmVzcyBzdGFydHMgd2l0aCBgMDA6MTE6MjJgOgoKYGBgCnppenph\nbmlhIC1pIHdsYW4wIC1jIDYgLWIgQUE6QkI6Q0M6REQ6RUU6RkYgLXggMDA6\nMTE6MjI6MzM6NDQ6NTUvZmY6ZmY6ZmY6MDA6MDA6MDAgLXcgb3V0LnBjYXAK\nYGBgCgotLS0KClBhc3NpdmVseSBhbmFseXplIHRoZSB0cmFmZmljIGdlbmVy\nYXRlZCBieSBhbnkgc3RhdGlvbiBvbiB0aGUgY3VycmVudCBjaGFubmVsIGFz\nc3VtaW5nIHRoYXQgdGhlIG5ldHdvcmsgaW50ZXJmYWNlIGlzIGFscmVhZHkg\nUkZNT04gbW9kZToKCmBgYAp6aXp6YW5pYSAtaSB3bGFuMCAtbgpgYGAKCi0t\nLQoKU3RyaXAgdW5uZWNlc3NhcnkgZnJhbWVzIGZyb20gYSBwY2FwIGZpbGUg\nKGV4Y2x1ZGluZyBhbHRvZ2V0aGVyIHRoZSB0cmFmZmljIGdlbmVyYXRlZCBi\neSBvbmUgcGFydGljdWxhciBzdGF0aW9uKSBjb25zaWRlcmluZyBhbiBoYW5k\nc2hha2UgY29tcGxldGUgYWZ0ZXIganVzdCB0aGUgZmlyc3QgdHdvIG1lc3Nh\nZ2VzICh3aGljaCBzaG91bGQgYmUgZW5vdWdoIGZvciB1bmljYXN0IHRyYWZm\naWMgZGVjcnlwdGlvbik6CgpgYGAKeml6emFuaWEgLXIgaW4ucGNhcCAteCAw\nMDoxMToyMjozMzo0NDo1NSAtdyBvdXQucGNhcApgYGAKCiMjIFNldHVwCgoj\nIyMgRGVwZW5kZW5jaWVzCgpGb3IgRGViaWFuLWJhc2VkIHN5c3RlbXM6Cgpg\nYGAKc3VkbyBhcHQtZ2V0IGluc3RhbGwgbGlicGNhcC1kZXYKYGBgCgpGb3Ig\nbWFjT1Mgc3lzdGVtcyAoSG9tZWJyZXcpOgoKYGBgCmJyZXcgaW5zdGFsbCBs\naWJwY2FwCmBgYAoKIyMjIEJ1aWxkaW5nCgpgYGAKbWFrZSAtZiBjb25maWcu\nTWFrZWZpbGUKbWFrZQpgYGAKCiMjIyBJbnN0YWxsYXRpb24KClRoZSBpbnN0\nYWxsYXRpb24gcHJvY2VzcyBpcyBub3QgbWFuZGF0b3J5LCB6aXp6YW5pYSBj\nYW4gYmUgcnVuIGZyb20gdGhlIGBzcmNgIGRpcmVjdG9yeS4gSnVzdCBpbiBj\nYXNlOgoKYGBgCm1ha2UgaW5zdGFsbAptYWtlIHVuaW5zdGFsbApgYGAKCiMj\nIG1hY09TIHN1cHBvcnQKCkNoYW5uZWwgc3dpdGNoaW5nIG11c3QgYmUgcGVy\nZm9ybWVkIG1hbnVhbGx5OgoKYGBgCmxuIC1zIC9TeXN0ZW0vTGlicmFyeS9Q\ncml2YXRlRnJhbWV3b3Jrcy9BcHBsZTgwMjExLmZyYW1ld29yay9WZXJzaW9u\ncy9DdXJyZW50L1Jlc291cmNlcy9haXJwb3J0IC91c3IvbG9jYWwvYmluL2Fp\ncnBvcnQKc3VkbyBhaXJwb3J0IC0tZGlzYXNzb2NpYXRlCnN1ZG8gYWlycG9y\ndCAtLWNoYW5uZWw9PGNoYW5uZWw+CmBgYAo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/cyrus-and/zizzania/contents/README.md?ref=master","git":"https://api.github.com/repos/cyrus-and/zizzania/git/blobs/72b2ec4ea798c63ed867e382d4cce2160c5814fe","html":"https://github.com/cyrus-and/zizzania/blob/master/README.md"}}
+0
+

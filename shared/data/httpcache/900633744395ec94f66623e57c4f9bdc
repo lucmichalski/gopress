@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:47 GMT
+Etag: W/"fd8d14f068e0c61c9942118e826f1ab8"
+Last-Modified: Wed, 14 Aug 2019 22:19:33 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:554AD:65FCF:5E53AEFA
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4096
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+aab
+{"name":"README.md","path":"README.md","sha":"710ead0f6e6d88d026c9df5fc14e87b21b1aaacb","size":1392,"url":"https://api.github.com/repos/dustyfresh/dictionaries/contents/README.md?ref=master","html_url":"https://github.com/dustyfresh/dictionaries/blob/master/README.md","git_url":"https://api.github.com/repos/dustyfresh/dictionaries/git/blobs/710ead0f6e6d88d026c9df5fc14e87b21b1aaacb","download_url":"https://raw.githubusercontent.com/dustyfresh/dictionaries/master/README.md","type":"file","content":"IyMgRGljdGlvbmFyaWVzClRoaXMgaXMgYSBjb2xsZWN0aW9uIG9mIGRpY3Rp\nb25hcmllcyB0byBiZSB1c2VkIGJ5IHNlY3VyaXR5IG1pbmRlZCBwZW9wbGUg\nZm9yIHRlc3RpbmcgcGFzc3dvcmRzLiBTb21lIG9mIHRoZW0gY29tZSBmcm9t\nIHZhcmlvdXMgc291cmNlcyBsaWtlIHNrdWxsc2VjdXJpdHkub3JnIG9yIG90\naGVyIHBsYWNlcyBJIGNhbm5vdCByZW1lbWJlci4gUGxlYXNlIGNvbnRyaWJ1\ndGUuIElmIHlvdSBuZWVkIGEgUkVBTExZIGxhcmdlIGxpc3QgSeKAmWQgcmVj\nb21tZW5kIFtjcmFja3N0YXRpb25dKGh0dHBzOi8vY3JhY2tzdGF0aW9uLm5l\ndC9idXktY3JhY2tzdGF0aW9uLXdvcmRsaXN0LXBhc3N3b3JkLWNyYWNraW5n\nLWRpY3Rpb25hcnkuaHRtKQpfX18KRm9sbG93aW5nIGRpY3Rpb25hcmllcyBp\nbiB0aGlzIHJlcG9zaXRvcnk6CiogW0RpckJ1c3Rlci1saXN0c10oaHR0cDov\nL3NvdXJjZWZvcmdlLm5ldC9wcm9qZWN0cy9kaXJidXN0ZXIvKQoqIGhvc3Rz\nLnR4dCAtIExpc3QgZm9yIGVudW1lcmF0aW5nIEROUyByZWNvcmRzCiogQXNo\nbGV5TWFkaXNvbkNyYWNrZWQudHh0IC0gQ3JhY2tlZCBwYXNzd29yZHMgZnJv\nbSB0aGUgQXNobGV5IE1hZGlzb24gbGVhawoqIGNvbW1vbl91c2Vycy50eHQg\nLSBsaXN0IG9mIGNvbW1vbiBkZWZhdWx0IHVzZXJuYW1lcwoqIGNvbmZpY2tl\nci50eHQgLSBkaWN0aW9uYXJ5IHRoYXQgdGhlIG1hbHdhcmUgdmFyaWFudCBb\nQ29uZmlja2VyXShodHRwczovL2VuLndpa2lwZWRpYS5vcmcvd2lraS9Db25m\naWNrZXIpIHVzZWQuCiogVG9wIDEwMCwgNTAwLCAxMDAwIHdvcnN0IHBhc3N3\nb3JkIGRpY3Rpb25hcmllcwoqIGxhbmdhZ2VzIC0gR2VybWFuLCBTaW5kYXJp\nbiAoTGFuZ3VhZ2UgY3JlYXRlZCBieSBKUlIgVG9sa2llbiAvIExvcmQgb2Yg\ndGhlIFJpbmdzKSwgU3BhbmlzaCwgRnJlbmNoLCBUdXJraXNoCiogS2luZyBK\nYW1lcyBCaWJsZQoqIGZpbGUtbG9jYXRpb25zLnR4dCAtIGRpY3Rpb25hcnkg\nb2YgZGVmYXVsdCBmaWxlIGxvY2F0aW9ucwoqIHdlYi1leHRlbnNpb25zLnR4\ndCAtIGxpc3Qgb2YgY29tbW9uIHNlcnZlci1zaWRlIHdlYiBleHRlbnNpb25z\nCiogemlwY29kZXMudHh0IC0gbGlzdCBvZiBQb3N0YWwgY29kZXMgaW4gdGhl\nIFVuaXRlZCBTdGF0ZXMKKiBmdXp6aW5nLXN0cmluZ3MudHh0IC0gc3RyaW5n\ncyB1c2VkIGZvciBmdXp6aW5nCiogdXNfY2l0aWVzLnR4dCAtIGxpc3Qgb2Yg\nY2l0aWVzIGluIHRoZSBVbml0ZWQgU3RhdGVzCiogd2ViLWZ1enotZGljdC50\neHQgLSBtb2Rlcm4gZmlsZSBsaXN0IGZvciBlbnVtZXJhdGluZyBmaWxlcyBv\nbiBhIHdlYnNlcnZlci4gTWFrZXMgYSBncmVhdCBbZGlyc2VhcmNoXShodHRw\nczovL2dpdGh1Yi5jb20vZXZpbHNvY2tldC9kaXJzZWFyY2gpIGxpc3QK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/dustyfresh/dictionaries/contents/README.md?ref=master","git":"https://api.github.com/repos/dustyfresh/dictionaries/git/blobs/710ead0f6e6d88d026c9df5fc14e87b21b1aaacb","html":"https://github.com/dustyfresh/dictionaries/blob/master/README.md"}}
+0
+

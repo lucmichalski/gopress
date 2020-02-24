@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:03 GMT
+Etag: W/"2817cd7cb0e5ca0caca89e00c9ee5aa6"
+Last-Modified: Mon, 18 Jun 2018 09:11:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:3845D:4379D:5E53B46F
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 168
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+cb8
+{"name":"README.md","path":"README.md","sha":"f8a9f97108f07800b1700256f980f06aeab8c9fc","size":1766,"url":"https://api.github.com/repos/ajinabraham/Xenotix-xBOT/contents/README.md?ref=master","html_url":"https://github.com/ajinabraham/Xenotix-xBOT/blob/master/README.md","git_url":"https://api.github.com/repos/ajinabraham/Xenotix-xBOT/git/blobs/f8a9f97108f07800b1700256f980f06aeab8c9fc","download_url":"https://raw.githubusercontent.com/ajinabraham/Xenotix-xBOT/master/README.md","type":"file","content":"WGVub3RpeC14Qk9UCj09PT09PT09PT09PQpYZW5vdGl4ICB4Qk9UICBpcyAg\nYSAgcHJvb2Ygb2YgY29uY2VwdCAgY3Jvc3MgIHBsYXRmb3JtICAoTGludXgs\nICBXaW5kb3dzLCAgTWFjKSAgYm90ICB3cml0dGVuICBpbiAgUHl0aG9uICB0\naGF0IAphYnVzZSAgY2VydGFpbiAgR29vZ2xlICBTZXJ2aWNlcyAgdG8gIGlt\ncGxlbWVudCAgQ29tbWFuZCAgJiAgQ29udHJvbCAgQ2VudGVyICBmb3IgIHRo\nZSAgYm90bmV0LiAgVGhlIApHb29nbGUgQXBwcyBEYXRhIEFQSSwgR29vZ2xl\nIEZvcm1zIGFuZCAgR29vZ2xlIFNwcmVhZHNoZWV0IGlzIGFidXNlZCB0byBp\nbXBsZW1lbnQgQzIgZm9yIGEgCmJvdCBuZXR3b3JrLiBUaGUgR29vZ2xlIEZv\ncm1zIGNhbiBhY3QgYXMgdGhlIEMyIGZvciBhIGJvdCBuZXR3b3JrLiBBbGwg\ndGhlIGVudHJpZXMgdG8gdGhlIEdvb2dsZSAKRm9ybSBhcmUgc2VuZCB0byBh\nbiBhdHRhY2hlZCBTcHJlYWRzaGVldC4gIEhlcmUgd2UgY2FuIGltcGxlbWVu\ndCBhICBib3QgdGhhdCB3aWxsIGxpc3RlbiB0byB0aGUgCkdvb2dsZSBEYXRh\nIEFQSSBVUkwgYW5kIGV4dHJhY3QgdGhlIGNvbW1hbmRzIGFuZCBsYXRlciBz\nZW5kIGJhY2sgdGhlIHJlc3BvbnNlIHZpYSB0aGUgc2FtZSAKRm9ybS4gVGhl\nIEdvb2dsZSBEYXRhIEFQSSBhbGxvd3MgIHVzIHRvIGZldGNoIHRoZSBjb250\nZW50cyAgb2YgYSBwdWJsaXNoZWQgc3ByZWFkc2hlZXQgaW4gYSB2YXJpZXR5\nIApvZiBmb3JtYXRzLiAgVGhlICBzcHJlYWRzaGVldCBmZWVkcyAgYXJlIGZl\ndGNoZWQgaW4gUlNTIGZvcm1hdCAgYW5kIHdpbGwgcGFyc2VkLiAgRm9yIGlt\ncGxlbWVudGluZyAKdGhlICBib3QgIHdlICB3aWxsICBwYXJzZSAgdGhyb3Vn\naCAgdGhlICBzb3VyY2UsICBmZXRjaCAgdGhlICBjb21tYW5kcyAgYW5kICBk\nbyAgdGhlICBjb3JyZXNwb25kaW5nIApvcGVyYXRpb25zLgoKeEJPVCdzIGNv\nbW11bmljYXRpb24gaXMgZW5jcnlwdGVkIGFzIGl0IHVzZXMgR29vZ2xlJ3Mg\nb3duIFNTTCBjb25uZWN0aW9uIGFuZCBpcyBub3doZXJlIAphZmZlY3RlZCBi\neSBhbnkgZmlyZXdhbGxzIGFzIGl0IHdvcmtzIGF0IEFwcGxpY2F0aW9uIGxh\neWVyLiBUaGUgYm90bmV0J3MgY29tbWFuZHMgYW5kIApyZXNwb25zZXMgYXJl\nIGVuY3J5cHRlZCB3aXRoIFNTTCBmcm9tIEdvb2dsZSBJdHNlbGYgbWFraW5n\nIGl0IGhhcmRlciB0byBzbmlmZiB0aGUgYm904oCZcyAKY29tbXVuaWNhdGlv\nbnMgaW4gdGhlIG5ldHdvcmsuIEl0IGlzIGEgcHJvdG90eXBlIGJvdCB3aXRo\nIHRoZSBiYXJlIG1pbmltdW0gZmVhdHVyZXMgb2YgYSBUeXBpY2FsIApCb3Qu\nIFRoZSBpbnRlbnRpb24gb2YgdGhpcyB0b29sIGlzIHRvIGdpdmUgYW4gaWRl\nYSBhYm91dCBob3cgR29vZ2xlIEFQSeKAmXMgY2FuIGJlIGFidXNlZCBmb3Ig\nCkJvdG5ldCBJbXBsZW1lbnRhdGlvbi4KCgp4Qk9UIENPTU1BTkRTCj09PT09\nPT09PT09PQoqIHhTWVNJTkZPIDogR2V0IFN5c3RlbSBJbmZvcm1hdGlvbgoq\nIEVYRUNVVEUgPGNvbW1hbmQ+IDogRXhlY3V0ZSBhIHBhc3NpdmUgc3lzdGVt\nIGNvbW1hbmQKKiB4RE9XTkxPQUQgPHVybD4gOiBEb3dubG9hZCBhIGZpbGUg\nZnJvbSBhbiBVUkwKKiB4VVBMT0FEIDxmaWxlcGF0aD4gOiBVcGxvYWQgYSBm\naWxlCiogeE5FVFdPUksgOiBHZXQgbmV0d29yayBpbmZvcm1hdGlvbgoqIHhQ\nT1JUU0NBTiA8aXA+IDogUnVuIGEgUG9ydHNjYW4KKiB4U0NSRUVOU0hPVCA6\nIEdyYWIgYSBTY3JlZW5zaG90CiogeEtJTEwgOiBLaWxsIGFuZCBSZW1vdmUg\ndGhlIHhCT1QuCgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/ajinabraham/Xenotix-xBOT/contents/README.md?ref=master","git":"https://api.github.com/repos/ajinabraham/Xenotix-xBOT/git/blobs/f8a9f97108f07800b1700256f980f06aeab8c9fc","html":"https://github.com/ajinabraham/Xenotix-xBOT/blob/master/README.md"}}
+0
+

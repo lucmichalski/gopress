@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:28:24 GMT
+Etag: W/"f5119a3c649c1ddd754593a4bbe840f1"
+Last-Modified: Wed, 17 Jul 2019 01:47:42 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:22BBB:298CF:5E53B357
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 865
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b28
+{"name":"README.md","path":"README.md","sha":"815d7cd15ed2d1145b5dbc3dccb6e190bf14be3a","size":1495,"url":"https://api.github.com/repos/sneakerhax/PyPhisher/contents/README.md?ref=master","html_url":"https://github.com/sneakerhax/PyPhisher/blob/master/README.md","git_url":"https://api.github.com/repos/sneakerhax/PyPhisher/git/blobs/815d7cd15ed2d1145b5dbc3dccb6e190bf14be3a","download_url":"https://raw.githubusercontent.com/sneakerhax/PyPhisher/master/README.md","type":"file","content":"IyBQeVBoaXNoZXIKCkEgc2ltcGxlIHB5dGhvbiB0b29sIGZvciBwaGlzaGlu\nZwoKIyMjIERlc2NyaXB0aW9uOgpUaGlzIHRvb2wgd2FzIGNyZWF0ZWQgZm9y\nIHRoZSBwdXJwb3NlIG9mIHBoaXNoaW5nIGR1cmluZyBhIHBlbmV0cmF0aW9u\nIHRlc3QuIEkgd2FudGVkIHRvIGNyZWF0ZSBjb21tYW5kIGxpbmUgdG9vbCh0\nbyBhbGxvdyBmb3IgYXV0b21hdGlvbikgdGhhdCB3b3VsZCB0YWtlIGEgcHJl\nLWNyYWZ0ZWQgaHRtbCBlbWFpbCBmaWxlIHRoZW4gcmVwbGFjZSBhbGwgdGhl\nIGxpbmtzIGFuZCBzZW5kIHRoZSBlbWFpbC4gVGhlIHJlcGxhY2luZyBvZiBs\naW5rcyB3YXMgc29tZXRoaW5nIEkgd2FzIHByZXZpb3VzbHkgZG9pbmcgbWFu\ndWFsbHkuIFRoaXMgd2FzIGluc3BpcmVkIGJ5IFNwZWFyUGhpc2VyIGJldGEg\nYnkgRGF2ZSBLZW5uZWR5IGZyb20gVHJ1c3RlZHNlYyBhbmQgYSBmZWF0dXJl\nIGZvdW5kIGluIENvYmFsdCBTdHJpa2UgYnkgUmFwaGVhbCBNdWRnZSBmcm9t\nIFN0cmF0ZWdpYyBDeWJlcgoKIyMjIFVzYWdlOgpgYGAKUHlQaGlzaGVyLnB5\nIC0tc2VydmVyIG1haWwuc2VydmVyLmNvbSAtLXBvcnQgMjUgLS11c2VybmFt\nZSB1c2VyIC0tcGFzc3dvcmQgcGFzc3dvcmQgLS1odG1sIHBoaXNoLnR4dCAt\nLXVybF9yZXBsYWNlIHBoaXNobGluay5jb20gLS1zdWJqZWN0IFJlYWQhISAt\nLXNlbmRlciBpbXBvcnRhbnRAcGhpc2guY29tIC0tc2VuZHRvIHRhcmdldEBj\nb21wYW55LmNvbQpgYGAKIyMjIEF2YWlsYWJsZSBvcHRpb25zOgpgYGAKLS1z\nZXJ2ZXIgICAgICAgICAgVGhlIFNNVFAgc2VydmVyIHRoYXQgeW91IGFyZSBn\nb2luZyB0byBiZSB1c2luZyB0byBzZW5kIHRoZSBlbWFpbAotLXBvcnQgICAg\nICAgICAgICBUaGUgcG9ydCBudW1iZXIgdGhhdCBpcyBzZXR1cCBmb3IgU01U\nUAotLWh0bWwgICAgICAgICAgICBUaGUgcHJlLWNyYWZ0ZWQgaHRtbCB0aGF0\nIHdpbGwgYmUgdXNlZCBpbiB0aGUgZW1haWwKLS11cmxfcmVwbGFjZSAgICAg\nVGhlIHVybCB0aGF0IHdpbGwgYmUgdXNlZCB0byByZXBsYWNlIGFsbCBsaW5r\ncyBpbiB0aGUgZW1haWwKLS1zdWJqZWN0ICAgICAgICAgVGhlIHN1YmplY3Qg\ndGhhdCB3aWxsIGFwcGVhciBpbiB0aGUgZW1haWwgbWVzc2FnZQotLXNlbmRl\nciAgICAgICAgICBUaGUgc2VuZGVyIHRoYXQgd2lsbCBhcHBlYXIgb24gdGhl\nIGVtYWlsIGV4YW1wbGUKLS1zZW5kdG8gICAgICAgICAgV2hvIHlvdSB3b3Vs\nZCBsaWtlIHRvIHNlbmQgdGhlIGVtYWlsIHRvCi0tc3RhcnQtdGxzICAgICAg\nIFdpbGwgYXR0ZW1wdCB0byB1cGdyYWRlIGNvbm5lY3Rpb24gdXNpbmcgU1NM\nL1RMUwpgYGAKCiMjIyBDaGVja2luZyBTTVRQIGNyZWRzOgoKSWYgeW91IG5l\nZWQgdG8gY2hlY2sgeW91ciBjcmVkZW50aWFscyBmb3IgeW91ciBTTVRQIHNl\ncnZlciB1c2U6CgpodHRwczovL2dpdGh1Yi5jb20vc25lYWtlcmhheC9QeXRo\nb24tTmV0d29yay1Ub29scy9ibG9iL21hc3Rlci9zY3JpcHRzL3NtdHBfYXV0\naGNoZWNrLnB5Cg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/sneakerhax/PyPhisher/contents/README.md?ref=master","git":"https://api.github.com/repos/sneakerhax/PyPhisher/git/blobs/815d7cd15ed2d1145b5dbc3dccb6e190bf14be3a","html":"https://github.com/sneakerhax/PyPhisher/blob/master/README.md"}}
+0
+

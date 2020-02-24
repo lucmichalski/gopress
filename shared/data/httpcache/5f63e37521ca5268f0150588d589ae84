@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:20:28 GMT
+Etag: W/"539252f0dd22749f7e8bd386da4aaf08"
+Last-Modified: Tue, 08 Jan 2019 17:41:43 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:A245F:C0EDB:5E53B17C
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2241
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+988
+{"name":"README","path":"README","sha":"6f2edffa9e924b9c439a96ce8cf6e7d7bb10e36d","size":1235,"url":"https://api.github.com/repos/wireghoul/doona/contents/README?ref=master","html_url":"https://github.com/wireghoul/doona/blob/master/README","git_url":"https://api.github.com/repos/wireghoul/doona/git/blobs/6f2edffa9e924b9c439a96ce8cf6e7d7bb10e36d","download_url":"https://raw.githubusercontent.com/wireghoul/doona/master/README","type":"file","content":"CiAgICAgICAgWyBEb29uYSAtIE5ldHdvcmsgZnV6emluZyB0b29sIF0KCi46\nOiBBYm91dCAgOjouCgogIERvb25hIGlzIGEgZm9yayBvZiB0aGUgQnJ1dGVm\nb3JjZSBFeHBsb2l0IERldGVjdG9yIFRvb2wgKEJFRCkuCiAgQkVEIGlzIGEg\ncHJvZ3JhbSB3aGljaCBpcyBkZXNpZ25lZCB0byBjaGVjayBkYWVtb25zIGZv\ncgogIHBvdGVudGlhbCBidWZmZXIgb3ZlcmZsb3dzLCBmb3JtYXQgc3RyaW5n\nIGJ1Z3MgZXRjLgoKICBEb29uYSBpcyBBdXN0cmFsaWFuIGZvciBkdXZldC4g\nSXQgYWRkcyBhIHNpZ25pZmljYW50IGVub3VnaCBudW1iZXIKICBvZiBmZWF0\ndXJlcy9jaGFuZ2VzIHRvIEJFRCB0aGF0IEkgcmVuYW1lZCBpdCB0byBhdm9p\nZCBjb25mdXNpb24uCgogIEkgaG9wZSB5b3UnbGwgZmluZCBpdCB1c2VmdWwu\nCgogIEBXaXJlZ2hvdWwKCi46OiBWZXJzaW9uIDo6LgogIDEuMCAtIE5ldyBj\nb21tYW5kIGxpbmUgc3dpdGNoZXMsIG1vcmUgZnV6eiBkYXRhIGFuZCBmdXp6\nIGNhc2VzCiAgMC45IC0gQnVnZml4ZXMsIG1vcmUgZnV6eiBjYXNlcyBhbmQg\nbmV3IG1vZHVsZXMKICAwLjggLSBCdWdmaXhlcyBhbmQgbW9yZSBmdXp6IGNh\nc2VzCiAgMC43IC0gTXVsdGkgdmVyYiBzdXBwb3J0LCBtb3JlIGZ1enogY2Fz\nZXMgYW5kIGJ1ZyBmaXhlcwogIDAuNiAtIEZpcnN0IG9mZmljaWFsIGRvb25h\nIHJlbGVhc2UKICAwLjUgLSBGb3JrIGZyb20gQkVECgogIFNlZSAnRG9jcy9D\nSEFOR0VTJyBmb3IgdGhlIGZ1bGwgY2hhbmdlbG9nLgoKLjo6IExpY2Vuc2Ug\nOjouCgogIFRoaXMgcHJvZ3JhbSBpcyBmcmVlIHNvZnR3YXJlOyB5b3UgY2Fu\nIHJlZGlzdHJpYnV0ZSBpdCBhbmQvb3IgbW9kaWZ5CiAgaXQgdW5kZXIgdGhl\nIHRlcm1zIG9mIHRoZSBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcyBw\ndWJsaXNoZWQgYnkKICB0aGUgRnJlZSBTb2Z0d2FyZSBGb3VuZGF0aW9uOyBl\naXRoZXIgdmVyc2lvbiAyIG9mIHRoZSBMaWNlbnNlLCBvcgogIGFueSBsYXRl\nciB2ZXJzaW9uLgoKCiAgU2VlICdEb2NzL2dwbC50eHQnIGZvciBtb3JlIGlu\nZm9ybWF0aW9uLgoKLjo6IEF1dGhvcnMgOjouCgogIERvb25hOgogIEVsZGFy\nIE1hcmN1c3NlbiBha2EsICdXaXJlZ2hvdWwnCiAgICAgaHR0cDovL3d3dy5q\ndXN0YW5vdGhlcmhhY2tlci5jb20KCiAgQkVEIHdhcyB3cml0dGVuIGJ5Ogog\nIEVyaWMgU2VzdGVyaGVubiBha2EuICdTbmFrZWJ5dGUnCiAgTWFydGluIEou\nIE11ZW5jaCBha2EuICdtam0nCgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/wireghoul/doona/contents/README?ref=master","git":"https://api.github.com/repos/wireghoul/doona/git/blobs/6f2edffa9e924b9c439a96ce8cf6e7d7bb10e36d","html":"https://github.com/wireghoul/doona/blob/master/README"}}
+0
+

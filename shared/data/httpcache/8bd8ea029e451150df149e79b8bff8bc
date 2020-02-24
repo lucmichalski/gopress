@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:08:21 GMT
+Etag: W/"9d74514edf3811452c51426625f4b1c1"
+Last-Modified: Sat, 11 Jan 2020 20:38:46 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:4B509:5A2DD:5E53AEA5
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4379
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+cdb
+{"name":"Readme.md","path":"Readme.md","sha":"c18e8aac7376709b8f774c1fa6850c36e7a4d217","size":1846,"url":"https://api.github.com/repos/lgandx/PCredz/contents/Readme.md?ref=master","html_url":"https://github.com/lgandx/PCredz/blob/master/Readme.md","git_url":"https://api.github.com/repos/lgandx/PCredz/git/blobs/c18e8aac7376709b8f774c1fa6850c36e7a4d217","download_url":"https://raw.githubusercontent.com/lgandx/PCredz/master/Readme.md","type":"file","content":"IyBQQ3JlZHoKClRoaXMgdG9vbCBleHRyYWN0cyBDcmVkaXQgY2FyZCBudW1i\nZXJzLCBOVExNKERDRS1SUEMsIEhUVFAsIFNRTCwgTERBUCwgZXRjKSwgS2Vy\nYmVyb3MgKEFTLVJFUSBQcmUtQXV0aCBldHlwZSAyMyksIEhUVFAgQmFzaWMs\nIFNOTVAsIFBPUCwgU01UUCwgRlRQLCBJTUFQLCBldGMgZnJvbSBhIHBjYXAg\nZmlsZSBvciBmcm9tIGEgbGl2ZSBpbnRlcmZhY2UuCgojIyBGZWF0dXJlcwoK\nLSBFeHRyYWN0IGZyb20gYSBwY2FwIGZpbGUgb3IgZnJvbSBhIGxpdmUgaW50\nZXJmYWNlOgogIC0gQ3JlZGl0IGNhcmQgbnVtYmVycwogIC0gUE9QCiAgLSBT\nTVRQCiAgLSBJTUFQCiAgLSBTTk1QIGNvbW11bml0eSBzdHJpbmcKICAtIEZU\nUAogIC0gSFRUUAogIC0gTlRMTXYxL3YyIChEQ0UtUlBDLFNNQnYxLzIsTERB\nUCwgTVNTUUwsIEhUVFAsIGV0YykKICAtIEtlcmJlcm9zIChBUy1SRVEgUHJl\nLUF1dGggZXR5cGUgMjMpIGhhc2hlcy4KCi0gQWxsIGhhc2hlcyBhcmUgZGlz\ncGxheWVkIGluIGEgaGFzaGNhdCBmb3JtYXQgKHVzZSAtbSA3NTAwIGZvciBr\nZXJiZXJvcywgLW0gNTUwMCBmb3IgTlRMTXYxLCAtbSA1NjAwIGZvciBOVExN\ndjIpLgotIExvZyBhbGwgY3JlZGVudGlhbHMgdG8gYSBmaWxlIChDcmVkZW50\naWFsRHVtcC1TZXNzaW9uLmxvZykuCgojIyBJbnN0YWxsCgojIyMgTGludXgK\nCk9uIGEgZGViaWFuIGJhc2VkIE9TIGJhc2g6CgpgYGBiYXNoCmFwdC1nZXQg\naW5zdGFsbCBweXRob24tbGlicGNhcApgYGAKCk5vdGU6IFlvdSBtaWdodCBu\nZWVkIHRvIHVzZSBhIHByZXZpb3VzIGxpYnBjYXAgdmVyc2lvbiBvbiBzb21l\nIGRpc3RyaWJ1dGlvbjoKCmBgYGJhc2gKd2dldCBodHRwOi8vbWlycm9ycy5r\nZXJuZWwub3JnL3VidW50dS9wb29sL3VuaXZlcnNlL3AvcHl0aG9uLWxpYnBj\nYXAvcHl0aG9uLWxpYnBjYXBfMC42LjQtMV9hbWQ2NC5kZWIgJiYgZHBrZyAt\naSBweXRob24tbGlicGNhcF8wLjYuNC0xX2FtZDY0LmRlYgpgYGAKCk9uIEth\nbGksIHlvdSB3aWxsIG5lZWQgdG86CgpgYGBiYXNoCmFwdC1nZXQgcmVtb3Zl\nIHB5dGhvbi1weXBjYXAgJiYgYXB0LWdldCBpbnN0YWxsIHB5dGhvbi1saWJw\nY2FwCmBgYAoKIyMjIE9TWCBhbmQgb3RoZXIgZGlzdHJpYnV0aW9ucwoKYGBg\nYmFzaAp3Z2V0IGh0dHA6Ly9kb3dubG9hZHMuc291cmNlZm9yZ2UubmV0L3By\nb2plY3QvcHlsaWJwY2FwL3B5bGlicGNhcC8wLjYuNC9weWxpYnBjYXAtMC42\nLjQudGFyLmd6CnRhciB4dmYgcHlsaWJwY2FwLTAuNi40LnRhci5negpjZCBw\neWxpYnBjYXAtMC42LjQKcHl0aG9uIHNldHVwLnB5IGluc3RhbGwKYGBgCgoj\nIyBVc2FnZQogCiBgYGAKICMgZXh0cmFjdCBjcmVkZW50aWFscyBmcm9tIGEg\ncGNhcCBmaWxlCi4vUGNyZWR6IC1mIGZpbGUtdG8tcGFyc2UucGNhcAoKIyBl\neHRyYWN0IGNyZWRlbnRpYWxzIGZyb20gYWxsIHBjYXAgZmlsZXMgaW4gYSBm\nb2xkZXIKLi9QY3JlZHogLWQgL3RtcC9wY2FwLWRpcmVjdG9yeS10by1wYXJz\nZS8KCiMgZXh0cmFjdCBjcmVkZW50aWFscyBmcm9tIGEgbGl2ZSBwYWNrZXQg\nY2FwdHVyZSBvbiBhIG5ldHdvcmsgaW50ZXJmYWNlCi4vUGNyZWR6IC1pIGV0\naDAKYGBgCgojIyMgT3B0aW9ucwoKYGBgYmFzaAogIC1oLCAtLWhlbHAgICAg\nICAgICAgc2hvdyB0aGlzIGhlbHAgbWVzc2FnZSBhbmQgZXhpdAogIC1mIGNh\ncHR1cmUucGNhcCAgICAgUGNhcCBmaWxlIHRvIHBhcnNlCiAgLWQgL2hvbWUv\ncG50L3BjYXAvICBQY2FwIGRpcmVjdG9yeSB0byBwYXJzZSByZWN1cnNpdmx5\nCiAgLWkgZXRoMCAgICAgICAgICAgICBpbnRlcmZhY2UgZm9yIGxpdmUgY2Fw\ndHVyZQogIC12ICAgICAgICAgICAgICAgICAgTW9yZSB2ZXJib3NlLgpgYGAK\nCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/lgandx/PCredz/contents/Readme.md?ref=master","git":"https://api.github.com/repos/lgandx/PCredz/git/blobs/c18e8aac7376709b8f774c1fa6850c36e7a4d217","html":"https://github.com/lgandx/PCredz/blob/master/Readme.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:05:28 GMT
+Etag: W/"10c0937263113d5fc5d7ba9fa204e499"
+Last-Modified: Wed, 05 Feb 2020 21:54:05 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:36D4C:41E73:5E53ADF8
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4789
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c57
+{"name":"README.md","path":"README.md","sha":"45fa7c0129278f31ff696c9ef983b72eacba8ac1","size":1742,"url":"https://api.github.com/repos/chipsec/chipsec/contents/README.md?ref=master","html_url":"https://github.com/chipsec/chipsec/blob/master/README.md","git_url":"https://api.github.com/repos/chipsec/chipsec/git/blobs/45fa7c0129278f31ff696c9ef983b72eacba8ac1","download_url":"https://raw.githubusercontent.com/chipsec/chipsec/master/README.md","type":"file","content":"Q0hJUFNFQzogUGxhdGZvcm0gU2VjdXJpdHkgQXNzZXNzbWVudCBGcmFtZXdv\ncmsNCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09\nPT09PT09DQoNClshW0J1aWxkIFN0YXR1c10oaHR0cHM6Ly90cmF2aXMtY2ku\nb3JnL2NoaXBzZWMvY2hpcHNlYy5zdmc/YnJhbmNoPW1hc3RlcildKGh0dHBz\nOi8vdHJhdmlzLWNpLm9yZy9jaGlwc2VjL2NoaXBzZWMpDQoNCkNISVBTRUMg\naXMgYSBmcmFtZXdvcmsgZm9yIGFuYWx5emluZyB0aGUgc2VjdXJpdHkgb2Yg\nUEMgcGxhdGZvcm1zIGluY2x1ZGluZyBoYXJkd2FyZSwgc3lzdGVtIGZpcm13\nYXJlIChCSU9TL1VFRkkpLCBhbmQgcGxhdGZvcm0gY29tcG9uZW50cy4gSXQg\naW5jbHVkZXMgYSBzZWN1cml0eSB0ZXN0IHN1aXRlLCB0b29scyBmb3IgYWNj\nZXNzaW5nIHZhcmlvdXMgbG93IGxldmVsIGludGVyZmFjZXMsIGFuZCBmb3Jl\nbnNpYyBjYXBhYmlsaXRpZXMuIEl0IGNhbiBiZSBydW4gb24gV2luZG93cywg\nTGludXgsIE1hYyBPUyBYIGFuZCBVRUZJIHNoZWxsLiBJbnN0cnVjdGlvbnMg\nZm9yIGluc3RhbGxpbmcgYW5kIHVzaW5nIENISVBTRUMgY2FuIGJlIGZvdW5k\nIGluIHRoZSBbbWFudWFsXShjaGlwc2VjLW1hbnVhbC5wZGYpLg0KDQpOT1RF\nOiBUaGlzIHNvZnR3YXJlIGlzIGZvciBzZWN1cml0eSB0ZXN0aW5nIHB1cnBv\nc2VzLiBVc2UgYXQgeW91ciBvd24gcmlzay4gUmVhZCBbV0FSTklORy50eHRd\nKGNoaXBzZWMvV0FSTklORy50eHQpIGJlZm9yZSB1c2luZy4NCg0KRmlyc3Qg\ndmVyc2lvbiBvZiBDSElQU0VDIHdhcyByZWxlYXNlZCBpbiBNYXJjaCAyMDE0\nOg0KW0Fubm91bmNlbWVudCBhdCBDYW5TZWNXZXN0IDIwMTRdKGh0dHBzOi8v\nY2Fuc2Vjd2VzdC5jb20vc2xpZGVzLzIwMTQvUGxhdGZvcm0lMjBGaXJtd2Fy\nZSUyMFNlY3VyaXR5JTIwQXNzZXNzbWVudCUyMHdDSElQU0VDLWNzdzE0LWZp\nbmFsLnBkZikNCg0KUmVjZW50IHByZXNlbnRhdGlvbiBvbiBob3cgdG8gdXNl\nIENISVBTRUMgdG8gZmluZCB2dWxuZXJhYmlsaXRpZXMgaW4gZmlybXdhcmUs\nIGh5cGVydmlzb3JzIGFuZCBoYXJkd2FyZSBjb25maWd1cmF0aW9uLCBleHBs\nb3JlIGxvdyBsZXZlbCBzeXN0ZW0gYXNzZXRzIGFuZCBldmVuIGRldGVjdCBm\naXJtd2FyZSBpbXBsYW50czoNCltFeHBsb3JpbmcgWW91ciBTeXN0ZW0gRGVl\ncGVyXShodHRwczovL3d3dy5zbGlkZXNoYXJlLm5ldC9DYW5TZWNXZXN0L2Nz\ndzIwMTctYmF6aGFuaXVrLWV4cGxvcmluZ3lvdXJzeXN0ZW1kZWVwZXJ1cGRh\ndGVkKQ0KDQpQcm9qZWN0cyBUaGF0IEluY2x1ZGUgQ0hJUFNFQw0KLS0tLS0t\nLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCg0KICogW0xpbnV4IFVFRkkgVmFs\naWRhdGlvbiAoTFVWKV0oaHR0cHM6Ly8wMS5vcmcvbGludXgtdWVmaS12YWxp\nZGF0aW9uKQ0KICogW0JsYWNrQXJjaCBMaW51eF0oaHR0cHM6Ly93d3cuYmxh\nY2thcmNoLm9yZy9pbmRleC5odG1sKQ0KDQpDb250YWN0IFVzDQotLS0tLS0t\nLS0tDQoNCk1haWxpbmcgbGlzdHM6DQoNCiAqIENISVBTRUMgdXNlcnM6IFtj\naGlwc2VjLXVzZXJzXShodHRwczovL2dyb3Vwcy5nb29nbGUuY29tL2ZvcnVt\nLyMhZm9ydW0vY2hpcHNlYy11c2VycykNCiAqIFtDSElQU0VDIGRpc2N1c3Np\nb24gbGlzdCBvbiAwMS5vcmddKGh0dHBzOi8vbGlzdHMuMDEub3JnL21haWxt\nYW4vbGlzdGluZm8vY2hpcHNlYykNCg0KRm9sbG93IHVzIG9uIFt0d2l0dGVy\nXShodHRwczovL3R3aXR0ZXIuY29tL0NISVBTRUMpDQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/chipsec/chipsec/contents/README.md?ref=master","git":"https://api.github.com/repos/chipsec/chipsec/git/blobs/45fa7c0129278f31ff696c9ef983b72eacba8ac1","html":"https://github.com/chipsec/chipsec/blob/master/README.md"}}
+0
+

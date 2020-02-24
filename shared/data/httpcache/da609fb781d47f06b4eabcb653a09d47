@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:27 GMT
+Etag: W/"a536eae954a28c4d0ead2da245ca8afc"
+Last-Modified: Sun, 23 Apr 2017 01:43:42 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:AC0EE:CE757:5E53B102
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2571
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+987
+{"name":"README.md","path":"README.md","sha":"59aa62dcb7cc3ff26dc6248879d8716110b0f1e1","size":1198,"url":"https://api.github.com/repos/HatBashBR/ShodanHat/contents/README.md?ref=master","html_url":"https://github.com/HatBashBR/ShodanHat/blob/master/README.md","git_url":"https://api.github.com/repos/HatBashBR/ShodanHat/git/blobs/59aa62dcb7cc3ff26dc6248879d8716110b0f1e1","download_url":"https://raw.githubusercontent.com/HatBashBR/ShodanHat/master/README.md","type":"file","content":"IyBEZXBlbmRlbmNpZXMKWW91IG5lZWQgdG8gaW5zdGFsbCBzaG9kYW4gd2l0\naCBwaXAgaW5zdGFsbCBzaG9kYW4gb3IgZWFzeV9pbnN0YWxsIHNob2Rhbi48\nYnIgLz4KWW91IG5lZWQgdG8gaW5zdGFsbCBweXRob24tbm1hcCB3aXRoIHBp\ncCBpbnN0YWxsIHB5dGhvbi1ubWFwLjxiciAvPgpZb3UgbmVlZCB0byBzZXQg\neW91ciBBUEkgS2V5IGluIHRoZSAnY29uc3RhbnRlcy5weScgZmlsZS4KCiMg\nT3B0aW9ucwotaCwgLS1oZWxwICAgICAgICAgICAgICAgICBzaG93IHRoaXMg\naGVscCBtZXNzYWdlIGFuZCBleGl0PGJyIC8+Ci1pIElQLCAtLWlwPUlQICAg\nICAgICAgICAgIGluZm8gYWJvdXQgb25lIGhvc3Q8YnIgLz4KLWwgTElTVCwg\nLS1saXN0PUxJU1QgICAgICAgaW5mbyBhYm91dCBhIGxpc3Qgb2YgaG9zdHM8\nYnIgLz4KLXMgU1EsIC0tc3E9U1EgICAgICAgICAgICAgc2VhcmNocXVlcnkg\nc3RyaW5nPGJyIC8+Ci0tbm1hcCAgICAgICAgICAgICAgICAgICAgIHBlcmZv\ncm0gYSBubWFwIHNjYW4gaW4gdGhlIGhvc3RzPGJyIC8+Ci0tc2V0a2V5PVNF\nVEtFWQkJICAgICAgIHNldCB5b3VyIGFwaSBrZXkgYXV0b21hdGljYWxseTxi\nciAvPgotciBSQU5HRSwgLS1yYW5nZT1SQU5HRSAgICBzY2FuIGEgcmFuZ2Ug\nb2YgaXBzLiBleDogMTkyLjE2OC4xLjEtMTkyLjE2OC4xLjI1NTxiciAvPgot\nbyBPVVRQVVQsIC0tb3V0cHV0PU9VVFBVVCBzcGVjaWZ5IGEgb3V0cHV0IGZp\nbGU8YnIgLz48YnIgLz4KCk5tYXAgT3B0aW9uczo8YnIgLz4KLS1zUyAgICAg\nICAgICAgICAgICAgIFRDUCBTeW4gU2NhbjxiciAvPgotLXNUICAgICAgICAg\nICAgICAgICAgVENQIENvbm5lY3QgU2NhbjxiciAvPgotLXNVICAgICAgICAg\nICAgICAgICAgVURQIFNjYW4KCiMgVXNhZ2UKPGVtPkZvciBPbmUgSG9zdDxl\nbT48YnIgLz4KcHl0aG9uIHNob2RhbmhhdC5weSAtaSBJUDxiciAvPgo8ZW0+\nRm9yIGEgbGlzdCBvZiBIb3N0czwvZW0+PGJyIC8+CnB5dGhvbiBzaG9kYW5o\nYXQucHkgLWwgbGlzdC50eHQ8YnIgLz4KWW91IGNhbiBhbHNvIHNldCBhIHNl\nYXJjaHF1ZXJ5IHRvIG1ha2UgYSBzcGVjaWZpYyBxdWVyeSB3aXRoICctcycg\nb3B0aW9uIQoKIyBTY3JlZW5TaG90cwo8aW1nIHNyYz0iaHR0cDovL2kuaW1n\ndXIuY29tL0o0YUFIb3YuanBnIiAvPjxiciAvPgo8aW1nIHNyYz0iaHR0cDov\nL2kuaW1ndXIuY29tL3EzWVRIbTguanBnIiAvPg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/HatBashBR/ShodanHat/contents/README.md?ref=master","git":"https://api.github.com/repos/HatBashBR/ShodanHat/git/blobs/59aa62dcb7cc3ff26dc6248879d8716110b0f1e1","html":"https://github.com/HatBashBR/ShodanHat/blob/master/README.md"}}
+0
+

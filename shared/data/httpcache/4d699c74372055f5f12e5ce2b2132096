@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:36 GMT
+Etag: W/"8dcd5623dd51fe96acb33299f339dad9"
+Last-Modified: Thu, 25 Jul 2019 10:14:52 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:AD566:CFFE7:5E53B10C
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2542
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+dd9
+{"name":"README.md","path":"README.md","sha":"de7ad91533a7edf8bb1201b255a85d4b4156883a","size":1991,"url":"https://api.github.com/repos/yxuko/terminus-altair/contents/README.md?ref=master","html_url":"https://github.com/yxuko/terminus-altair/blob/master/README.md","git_url":"https://api.github.com/repos/yxuko/terminus-altair/git/blobs/de7ad91533a7edf8bb1201b255a85d4b4156883a","download_url":"https://raw.githubusercontent.com/yxuko/terminus-altair/master/README.md","type":"file","content":"PGgxIGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHVi\nLmNvbS95eHVrby90ZXJtaW51cy1hbHRhaXIiPgogICAgPGltZyBhbHQ9IkFs\ndGFpciIgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20v\neXh1a28vdGVybWludXMtYWx0YWlyL21hc3Rlci9hc3NldHMvbG9nby5zdmc/\nc2FuaXRpemU9dHJ1ZSIgd2lkdGg9IjcwIj4KICA8L2E+Cgk8YnI+CiAgQWx0\nYWlyCjwvaDE+Cgo8aDYgYWxpZ249ImNlbnRlciI+T3ZlcnZpZXc8L2g2Pgo8\naDQgYWxpZ249ImNlbnRlciI+CiAgQWx0YWlyIGlzIGEgZWxlZ2FudCwgY3Vz\ndG9taXphYmxlIGFuZCBoYXMgdml2aWQgY29sb3JzIGp1c3QgZm9yIDxhIGhy\nZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9FdWdlbnkvdGVybWludXMiIHRhcmdl\ndD0iX2JsYW5rIj48Y29kZT5UZXJtaW51czwvY29kZT48L2E+Lgo8L2g0PgoK\nPHAgYWxpZ249ImNlbnRlciI+CiAgPGEgaHJlZj0iaHR0cHM6Ly93d3cubnBt\nanMuY29tL3BhY2thZ2UvdGVybWludXMtYWx0YWlyIj4KICAgIDxpbWcgc3Jj\nPSJodHRwczovL2ltZy5zaGllbGRzLmlvL25wbS92L3Rlcm1pbnVzLWFsdGFp\nci9sYXRlc3Quc3ZnP3N0eWxlPWZvci10aGUtYmFkZ2UiCiAgICAgIGFsdD0i\nTGFzdGVzdCBWZXJzaW9uIiAvPgogIDwvYT4KICA8YSBocmVmPSJodHRwczov\nL3d3dy5ucG1qcy5jb20vcGFja2FnZS90ZXJtaW51cy1hbHRhaXIiPgogICAg\nPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vbnBtL2R0L3Rlcm1p\nbnVzLWFsdGFpci5zdmc/c3R5bGU9Zm9yLXRoZS1iYWRnZSIKICAgICAgYWx0\nPSJEb3dubG9hZHMiIC8+CiAgPC9hPgo8L3A+Cgo8ZGl2IGFsaWduPSJjZW50\nZXIiPgogIDxoND4KICAgIDxhIGhyZWY9IiNpbnN0YWxsIj5JbnN0YWxsPC9h\nPiB8CiAgICA8YSBocmVmPSIjdGhlLWZhbWlseSI+VGhlIEZhbWlseTwvYT4g\nfAoJCTxhIGhyZWY9IiNjb250cmlidXRlIj5Db250cmlidXRlPC9hPgogIDwv\naDQ+CjwvZGl2PgoKCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgYWx0PSJB\nbHRhaXIgU2NyZWVuc2hvdCIgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2Vy\nY29udGVudC5jb20veXh1a28vdGVybWludXMtYWx0YWlyL21hc3Rlci9hc3Nl\ndHMvc2NyZWVuc2hvdC5wbmciIHdpZHRoPSI4MDAiPgo8L3A+Cgo8YnI+Cgoj\nIyBJbnN0YWxsClRvIGluc3RhbGwgQWx0YWlyIG9uIFRlcm1pbnVzOgoKMS4g\nR28gdG8gUGx1Z2lucyBpbiBTZXR0aW5ncy4KMi4gSW5zdGFsbCBgdGVybWlu\ndXMtYWx0YWlyYCBpbiB0aGUgYXZhaWxhYmxlIHBsdWdpbnMgYW5kIHJlc3Rh\ncnQuCjMuIFNlbGVjdCBBbHRhaXIgaW4gVGhlbWUgc2V0dGluZ3MuCjQuIFRh\nZGRhYSEgRW5qb3kuCgo8YnI+CgojIyBUaGUgRmFtaWx5CgotIFtoeXBlci1h\nbHRhaXJdKGh0dHBzOi8vZ2l0aHViLmNvbS95eHVrby9oeXBlci1hbHRhaXIp\nIC0gSHlwZXIgdmVyc2lvbgotIFt0ZXJtaW51cy1hbHRhaXJdKGh0dHBzOi8v\nZ2l0aHViLmNvbS95eHVrby90ZXJtaW51cy1hbHRhaXIpIC0gVGVybWludXMg\ndmVyc2lvbgotIFt2c2NvZGUtYWx0YWlyXShodHRwczovL2dpdGh1Yi5jb20v\neXh1a28vdnNjb2RlLWFsdGFpcikgLSBWUyBDb2RlIHZlcnNpb24KCiMjIENv\nbnRyaWJ1dGUKCkFsdGFpciBpcyBiYXNlZCBvbiBCb290c3RyYXAgNCwgc3R5\nbGVzIGFyZSBsb2NhdGVkIGluIHRoZSBbdGhlbWUuc2Nzc10oaHR0cHM6Ly9n\naXRodWIuY29tL3l4dWtvL3Rlcm1pbnVzLWFsdGFpci9ibG9iL21hc3Rlci9z\ncmMvdGhlbWUuc2NzcykgZmlsZQoKQ2xvbmUgdGhpcyByZXBvc2l0b3J5IGFu\nZCBydW46CgpgYGAKbnBtIGluc3RhbGwKYGBgCgpTdGFydCBXZWJwYWNrIGlu\nIHRoZSB3YXRjaCBtb2RlOgoKYGBgCm5wbSBydW4gd2F0Y2gKYGBgCgpDaGFu\nZ2VzIHRvIHRoZSBzdHlsZXMgd2lsbCBiZSBidWlsdCBhdXRvbWF0aWNhbGx5\nLgoKIyMgTGljZW5zZQoKTUlUIMKpIFt5eHVrb10oaHR0cHM6Ly9naXRodWIu\nY29tL3l4dWtvKQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/yxuko/terminus-altair/contents/README.md?ref=master","git":"https://api.github.com/repos/yxuko/terminus-altair/git/blobs/de7ad91533a7edf8bb1201b255a85d4b4156883a","html":"https://github.com/yxuko/terminus-altair/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:20:22 GMT
+Etag: W/"ce0d45a21437effbdbeaf53f124b36b5"
+Last-Modified: Wed, 07 Nov 2018 21:45:42 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:A17E2:C0017:5E53B175
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2257
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e7d
+{"name":"README.md","path":"README.md","sha":"9761aeffda6c8e1d4efeea082247b50f3c0b080f","size":2140,"url":"https://api.github.com/repos/tokyoneon/Armor/contents/README.md?ref=master","html_url":"https://github.com/tokyoneon/Armor/blob/master/README.md","git_url":"https://api.github.com/repos/tokyoneon/Armor/git/blobs/9761aeffda6c8e1d4efeea082247b50f3c0b080f","download_url":"https://raw.githubusercontent.com/tokyoneon/Armor/master/README.md","type":"file","content":"IyBBcm1vcgoKQXJtb3IgaXMgYSBzaW1wbGUgQmFzaCBzY3JpcHQgZGVzaWdu\nZWQgdG8gY3JlYXRlIGVuY3J5cHRlZCBtYWNPUyBwYXlsb2FkcyBjYXBhYmxl\nIG9mIGV2YWRpbmcgYW50aXZpcnVzIHNjYW5uZXJzLiBCZWxvdyBpcyBhbiBl\neGFtcGxlIGdpZiBvZiBBcm1vciBiZWluZyB1c2VkIHdpdGggYSBzaW1wbGUg\nTmV0Y2F0IHBheWxvYWQuCgohW0FybW9yXShodHRwczovL3Jhdy5naXRodWJ1\nc2VyY29udGVudC5jb20vdG9reW9uZW9uL0FybW9yL21hc3Rlci9Bcm1vci5n\naWYpCgpBIE5ldGNhdCBsaXN0ZW5lciBpcyBzdGFydGVkIG9uIHBvcnQgNDQ0\nNC4gVGhlICJwYXlsb2FkLnR4dCIgZmlsZSBpcyByZWFkIGFuZCBzaG93biB0\nbyBjb250YWluIGEgc2ltcGxlIEJhc2ggb25lLWxpbmVyIHRoYXQsIHdoZW4g\nZXhlY3V0ZWQsIHdpbGwgY3JlYXRlIGEgVENQIGNvbm5lY3Rpb24gYmV0d2Vl\nbiB0aGUgdGFyZ2V0IE1hY0Jvb2sgYXQgdGhlIGF0dGFja2VyJ3MgTmV0Y2F0\nIGxpc3RlbmVyLiBBcm1vciBpcyB1c2VkIHRvIGVuY3J5cHQgdGhlIGJhc2gg\nb25lLWxpbmVyLiBOY2F0IGlzIHVzZWQgdG8gaG9zdCB0aGUgZGVjcnlwdGlv\nbiBrZXkgb24gdGhlIGF0dGFja2VyJ3Mgc2VydmVyLiBXaGVuIHRoZSBzdGFn\nZXIgaXMgZXhlY3V0ZWQgaW4gdGhlIHRhcmdldCBNYWNCb29rIChub3Qgc2hv\nd24gaW4gdGhlIGdpZiksIHRoZSBiYXNoIG9uZS1saW5lciBpcyBkZWNyeXB0\nZWQgYW5kIGV4ZWN1dGVkIHdpdGhvdXQgd3JpdGluZyBhbnkgZGF0YSB0byB0\naGUgaGFyZGRyaXZlLiBOY2F0IGltbWVkaWF0ZWx5IHRlcm1pbmF0ZXMgdGhl\nIGxpc3RlbmVyIGFmdGVyIHRoZSBrZXkgaGFzIGJlZW4gdXNlZC4gV2hlbiB0\naGUgTmV0Y2F0IGNvbm5lY3Rpb24gaXMgZXN0YWJsaXNoZWQsIHRoZSBhdHRh\nY2tlciBoYXMgcmVtb3RlIGFjY2VzcyB0byB0aGUgdGFyZ2V0IE1hY0Jvb2su\nCgpBZG1pdHRlZGx5LCBlbmNyeXB0aW5nIG1vc3QgbWFjT1Mtc3BlY2lmaWMg\ncGF5bG9hZHMgaXMgb3ZlcmtpbGwuIFRoaXMgc3BlY2lmaWMgYmFzaCBvbmUt\nbGluZXIgaXMgY2FwYWJsZSBvZiBieXBhc3NpbmcgYW50aXZpcnVzIHdpdGhv\ndXQgdGhlIGhlbHAgb2YgQXJtb3IuIEJ1dCB0aGlzIGlzIGp1c3QgYW4gZXht\nYXBsZS4gVGhlIHNhbWUgZGVncmVlIG9mIG9iZnVzY2F0aW9uIGNhbiBiZSBh\ncHBsaWVkIHRvIHNvcGhpc3RpY2F0ZWQgUHl0aG9uLCBSdWJ5LCBhbmQgU2hl\nbGwgc2NyaXB0cyBkZXNpZ25lZCB0byBleGVjdXRlIGEgdmFyaWV0eSBvZiBh\nZHZhbmNlZCBhdHRhY2tzLiAKIAojIyBJbnN0YWxsYXRpb24KCkFybW9yIHJl\nbGllcyBvbiBMaWJyZVNTTCB0byBlbmNyeXB0IHRoZSBpbnB1dCBmaWxlIGFu\nZCBjcmVhdGUgdGhlIFNTTCBjZXJ0aWZpY2F0ZS4gSWYgTGlicmVTU0wgaXNu\nJ3QgZm91bmQgaW4geW91ciBzeXN0ZW0sIEFybW9yIHdpbGwgYXR0ZW1wdCB0\nbyBpbnN0YWxsIGl0LiBUaGUgZnVuY3Rpb24gZm9yIHRoaXMgY2FuIGJlIGZv\ndW5kIGluIHRoZSBgYXJtb3Iuc2hgIGZpbGUuIE5jYXQgaXMgYWxzbyBhIGRl\ncGVuZGVuY3kgYW5kIGNhbiBiZSBpbnN0YWxsZWQgaW4gS2FsaSB1c2luZyBg\nJCBhcHQtZ2V0IHVwZGF0ZSAmJiBhcHQtZ2V0IGluc3RhbGwgbm1hcGAuCgpB\ncm1vciBjYW4gYmUgY2xvbmVkIGFuZCBleGVjdXRlZCB1c2luZyB0aGUgYmVs\nb3cgY29tbWFuZHMuCgoJZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS90\nb2t5b25lb24vQXJtb3IKCWNkIEFybW9yLwoJY2htb2QgK3ggYXJtb3Iuc2gK\nCS4vYXJtb3Iuc2ggL3BhdGgvdG8vcGF5bG9hZC50eHQgMS4yLjMuNCA0NDMK\nClRoZSAqMS4yLjMuNCogYWRkcmVzcyBpcyB0aGUgYXR0YWNrZXIncyBJUCBh\nZGRyZXNzIHdoZXJlIHRoZSBkZWNyeXB0aW9uIGtleSB3aWxsIGJlIGhvc3Rl\nZC4gVGhpcyBjYW4gYmUgYSBsb2NhbCBJUCBhZGRyZXNzIG9yIFZQUy4gVGhl\nIHBvcnQgbnVtYmVyICgqNDQzKiksIGlzIGFyYml0cmFyeSBhbmQgY2FuIGJl\nIGNoYW5nZWQgYXMgbmVlZGVkLgoKUXVlc3Rpb25zIGFuZCBjb25jZXJuczoK\nLSBUd2l0dGVyOiBAdG9reW9uZW9uXwotIFdvbmRlckhvd1RvOiBodHRwczov\nL2NyZWF0b3Iud29uZGVyaG93dG8uY29tL3Rva3lvbmVvbi8KLSBFbWFpbDog\nZEc5cmVXOXVaVzl1UUhCdExtMWxDZz09Cg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/tokyoneon/Armor/contents/README.md?ref=master","git":"https://api.github.com/repos/tokyoneon/Armor/git/blobs/9761aeffda6c8e1d4efeea082247b50f3c0b080f","html":"https://github.com/tokyoneon/Armor/blob/master/README.md"}}
+0
+

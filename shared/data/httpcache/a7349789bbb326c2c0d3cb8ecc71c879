@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:15:47 GMT
+Etag: W/"8fe56e14b8a92c1c8b0e0eb35206fdb6"
+Last-Modified: Thu, 19 Dec 2019 14:37:42 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:81115:99B69:5E53B063
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3049
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e6f
+{"name":"README.md","path":"README.md","sha":"cdba974004f7164e50460d004e626c56675db340","size":2119,"url":"https://api.github.com/repos/ninoseki/ayashige/contents/README.md?ref=master","html_url":"https://github.com/ninoseki/ayashige/blob/master/README.md","git_url":"https://api.github.com/repos/ninoseki/ayashige/git/blobs/cdba974004f7164e50460d004e626c56675db340","download_url":"https://raw.githubusercontent.com/ninoseki/ayashige/master/README.md","type":"file","content":"IyBBeWFzaGlnZQoKWyFbQnVpbGQgU3RhdHVzXShodHRwczovL3RyYXZpcy1j\naS5vcmcvbmlub3Nla2kvYXlhc2hpZ2Uuc3ZnP2JyYW5jaD1tYXN0ZXIpXSho\ndHRwczovL3RyYXZpcy1jaS5vcmcvbmlub3Nla2kvYXlhc2hpZ2UpClshW0Nv\ndmVyYWdlIFN0YXR1c10oaHR0cHM6Ly9jb3ZlcmFsbHMuaW8vcmVwb3MvZ2l0\naHViL25pbm9zZWtpL2F5YXNoaWdlL2JhZGdlLnN2Zz9icmFuY2g9bWFzdGVy\nKV0oaHR0cHM6Ly9jb3ZlcmFsbHMuaW8vZ2l0aHViL25pbm9zZWtpL2F5YXNo\naWdlP2JyYW5jaD1tYXN0ZXIpClshW0NvZGFjeSBCYWRnZV0oaHR0cHM6Ly9h\ncGkuY29kYWN5LmNvbS9wcm9qZWN0L2JhZGdlL0dyYWRlLzI0OTMwNGIyYWY3\nYzRhNjlhZTUyMzNlZTkzMTg4YzQ4KV0oaHR0cHM6Ly93d3cuY29kYWN5LmNv\nbS9hcHAvbmlub3Nla2kvYXlhc2hpZ2UpCgpBeWFzaGlnZSBwcm92aWRlcyBh\nIGxpc3Qgb2Ygc3VzcGljaW91cyBuZXdseSByZWdpc3RlcmVkIGRvbWFpbnMg\nYXMgYSBKU09OIGZlZWQuCgojIyBIb3cgaXQgd29ya3MKCi0gSXQgY29sbGVj\ndHMgbmV3bHkgcmVnaXN0ZXJlZCBkb21haW5zIHZpYSBDZXJ0aWZpZmF0ZSBU\ncmFuc3BhcmVuY3kgbG9nIHNlcnZlcnMgYW5kIFtTZWN1cml0eVRyYWlsc10o\naHR0cHM6Ly9zZWN1cml0eXRyYWlscy5jb20vKS4KLSBJdCBjb21wdXRlcyBh\nIHN1c3BpY2lvdXMgc2NvcmUgb2YgYSBnaXZlbiBkb21haW4uCiAgLSBUaGUg\nc2NvcmluZyBydWxlIGNvbWVzIGZyb20gW3gwcnovcGhpc2hpbmdfY2F0Y2hl\ncl0oaHR0cHM6Ly9naXRodWIuY29tL3gwcnovcGhpc2hpbmdfY2F0Y2hlciku\nCi0gSXQgc3RvcmVzIHN1c3BpY2lvdXMgZG9tYWlucyBpbnRvIGEgUmVkaXMg\naW5zdGFuY2UuCi0gSXQgcHJvdmlkZXMgc3VzcGljaW91cyBkb21haW5zIGFz\nIGEgSlNPTiB2aWEgYC9mZWVkYCBlbmRwb2ludC4KCiMjIEluc3RhbGxhdGlv\nbgoKYGBgc2gKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9uaW5vc2Vr\naS9heWFzaGlnZQpidW5kbGUgaW5zdGFsbCAtLXBhdGggdmVuZG9yL2J1bmRs\nZQpgYGAKCiMjIFVzYWdlCgpQbGVhc2Ugc2V0IGZvbGxvd2luZyBlbnZpcm9u\nbWVudCB2YXJpYWJsZXMgYmVmb3JlIHVzaW5nLgoKYGBgc2gKUkVESVNfSE9T\nVCA9IFlPVVJfUkVESVNfSE9TVApSRURJU19QT1JUID0gWU9VUl9SRURJU19Q\nT1JUClJFRElTX1BBU1NXT1JEID0gWU9VUl9SRURJU19QQVNTV09SRApTRUNV\nUklUWVRSQUlMU19BUElfS0VZID0gWU9VUl9TRUNVUklUWVRSQUlMU19BUElf\nS0VZCmBgYAoKIyMjIFJ1biBDcm9uIGpvYnMKCmBgYHNoCiMgR3JhYiBkb21h\naW5zIGZyb20gQ1QgbG9nIHNlcnZlcnMKYnVuZGxlIGV4ZWMgcnVieSBiaW4v\nY3Rfam9iLnJiCgojIEdyYWIgZG9tYWlucyBmcm9tIFNlY3VyaXR5VHJhaWxz\nCmJ1bmRsZSBleGVjIHJ1YnkgYmluL3NlY3VyaXR5dHJhaWxzX2pvLnJiCmBg\nYAoKLSBJdCBjaGVja3MgYSBzdXNwaWNpb3VzIHNjb3JlIG9mIGEgZ2l2ZW4g\nZWFjaCBkb21haW4gYW5kIHN0b3JlcyBhIHN1c3BpY2lvdXMgb25lIGludG8g\nYSBSZWRpcyBpbnN0YW5jZSB3aXRoIFRUTCAyNCBob3Vycy4KICAtIFlvdSBj\nYW4gc3BlY2lmeSB5b3VyIG93biBkZWZhdWx0IFRUTCB2aWEgYERFRkFVTFRf\nVFRMYCBlbnZpcm9ubWVudCB2YXJpYWJsZS4KCiMjIyBSdW4gYSBXZWIgYXBw\nCgpgYGBzaApidW5kbGUgZXhlYyBwdW1hIGNvbmZpZy5ydQpgYGAKCiMjIERl\nbW8KCi0gaHR0cHM6Ly9heWFzaGlnZS5oZXJva3VhcHAuY29tL2ZlZWQKCi0g\nTm90ZXM6CiAgLSBUaGlzIGFwcCBpcyBob3N0ZWQgb24gSGVyb2t1IGZyZWUg\nZHluby4KICAtIEknbSBydW5uaW5nIHRoaXMgYXBwIGp1c3QgYXMgYSBob2Ji\neSBhbmQgSSBjYW5ub3QgYXNzdXJlIGl0cyBjb25zaXN0ZW5jeS4KCiMjIENv\nbnRyaWJ1dGluZwoKQnVnIHJlcG9ydHMgYW5kIHB1bGwgcmVxdWVzdHMgYXJl\nIHdlbGNvbWUgb24gR2l0SHViIGF0IGh0dHBzOi8vZ2l0aHViLmNvbS9uaW5v\nc2VraS9heWFzaGlnZS4KCiMjIExpY2Vuc2UKClRoZSBnZW0gaXMgYXZhaWxh\nYmxlIGFzIG9wZW4gc291cmNlIHVuZGVyIHRoZSB0ZXJtcyBvZiB0aGUgW01J\nVCBMaWNlbnNlXShodHRwczovL29wZW5zb3VyY2Uub3JnL2xpY2Vuc2VzL01J\nVCkuCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/ninoseki/ayashige/contents/README.md?ref=master","git":"https://api.github.com/repos/ninoseki/ayashige/git/blobs/cdba974004f7164e50460d004e626c56675db340","html":"https://github.com/ninoseki/ayashige/blob/master/README.md"}}
+0
+

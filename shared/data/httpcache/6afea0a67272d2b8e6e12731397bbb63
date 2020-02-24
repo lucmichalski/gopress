@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:20:42 GMT
+Etag: W/"c92c3984b5de26dde3c3a5915a334edf"
+Last-Modified: Tue, 05 Nov 2013 10:01:50 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:A3CBA:C2BBA:5E53B189
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2199
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+5eb
+{"name":"README.md","path":"README.md","sha":"9b352960271d7c90f51684d2510a27648c81d56b","size":524,"url":"https://api.github.com/repos/nccgroup/FrisbeeLite/contents/README.md?ref=master","html_url":"https://github.com/nccgroup/FrisbeeLite/blob/master/README.md","git_url":"https://api.github.com/repos/nccgroup/FrisbeeLite/git/blobs/9b352960271d7c90f51684d2510a27648c81d56b","download_url":"https://raw.githubusercontent.com/nccgroup/FrisbeeLite/master/README.md","type":"file","content":"RnJpc2JlZSBMaXRlCj09PT09PT09PT09PQpBIEdVSS1iYXNlZCBVU0IgZGV2\naWNlIGZ1enplcgoKUmVsZWFzZWQgYXMgb3BlbiBzb3VyY2UgYnkgTkNDIEdy\nb3VwIFBsYyAtIGh0dHA6Ly93d3cubmNjZ3JvdXAuY29tLwoKRGV2ZWxvcGVk\nIGJ5IEFuZHkgRGF2aXMsIGFuZHkgZG90IGRhdmlzIGF0IG5jY2dyb3VwIGRv\ndCBjb20KCmh0dHBzOi8vd3d3LmdpdGh1Yi5jb20vbmNjZ3JvdXAvRnJpc2Jl\nZUxpdGUKClJlbGVhc2VkIHVuZGVyIEFHUEwgc2VlIExJQ0VOU0UgZm9yIG1v\ncmUgaW5mb3JtYXRpb24KCiMjIERvY3VtZW50YXRpb24KCkluIG9yZGVyIHRv\nIGdldCBGcmlzYmVlIExpdGUgdXAgYW5kIHJ1bm5pbmcgdGhlcmUgYXJlIGEg\nbnVtYmVyIG9mIGRlcGVuZGVuY2llcy4gUGxlYXNlIHNlZSAiRnV6emluZyBV\nU0IgZGV2aWNlcyB3aXRoCkZyaXNiZWUgTGl0ZSIgLSBTZWN0aW9uIDQgZm9y\nIGluc3RhbGxhdGlvbiBpbnN0cnVjdGlvbnMKCiMjIFByZS1yZXF1aXNpdGVz\nCgpQeXRob24sIHd4LCBsaWJ1c2IsIHB5dXNiCgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/nccgroup/FrisbeeLite/contents/README.md?ref=master","git":"https://api.github.com/repos/nccgroup/FrisbeeLite/git/blobs/9b352960271d7c90f51684d2510a27648c81d56b","html":"https://github.com/nccgroup/FrisbeeLite/blob/master/README.md"}}
+0
+

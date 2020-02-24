@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:15 GMT
+Etag: W/"4fb21ff25adbb15fbd82b4e5efe0077b"
+Last-Modified: Tue, 24 Mar 2015 14:35:33 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:3931C:44925:5E53B47B
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 134
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d2b
+{"name":"README.md","path":"README.md","sha":"149aa69917421aa4fe53e90332d0380d50deff78","size":1836,"url":"https://api.github.com/repos/honeynet/ghost-usb-honeypot/contents/README.md?ref=master","html_url":"https://github.com/honeynet/ghost-usb-honeypot/blob/master/README.md","git_url":"https://api.github.com/repos/honeynet/ghost-usb-honeypot/git/blobs/149aa69917421aa4fe53e90332d0380d50deff78","download_url":"https://raw.githubusercontent.com/honeynet/ghost-usb-honeypot/master/README.md","type":"file","content":"IyBHaG9zdCBVU0IgaG9uZXlwb3QgIwoKR2hvc3QgaXMgYSBob25leXBvdCBm\nb3IgbWFsd2FyZSB0aGF0IHNwcmVhZHMgdmlhIFVTQiBzdG9yYWdlIGRldmlj\nZXMuIEl0IGRldGVjdHMgaW5mZWN0aW9ucyB3aXRoIHN1Y2ggbWFsd2FyZSB3\naXRob3V0IHRoZSBuZWVkIG9mIGFueSBmdXJ0aGVyIGluZm9ybWF0aW9uLiBJ\nZiB5b3Ugd291bGQgbGlrZSB0byBzZWUgYSB2aWRlbyBpbnRyb2R1Y3Rpb24g\ndG8gdGhlIHByb2plY3QsIGhhdmUgYSBsb29rIGF0IFt0aGlzIFlvdXR1YmUg\ndmlkZW9dKGh0dHA6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05RzlvbzNi\nOXFSNCkuCgpUaGUgaG9uZXlwb3Qgd2FzIGZpcnN0IGRldmVsb3BlZCBmb3Ig\nYSBiYWNoZWxvciB0aGVzaXMgYXQgQm9ubiBVbml2ZXJzaXR5IGluIEdlcm1h\nbnkuIE5vdyBkZXZlbG9wbWVudCBpcyBjb250aW51ZWQgYnkgdGhlIHNhbWUg\nZGV2ZWxvcGVyIHdpdGhpbiB0aGUgW0hvbmV5bmV0IFByb2plY3RdKGh0dHBz\nOi8vaG9uZXluZXQub3JnLykuCgpHaG9zdCB3YXMgb25lIG9mIHRoZSBwcm9q\nZWN0cyBzdXBwb3J0ZWQgYnkgUmFwaWQ3J3MgTWFnbmlmaWNlbnQ3IHByb2dy\nYW0gKHNlZSB0aGUgW3ByZXNzIHJlbGVhc2VdKGh0dHA6Ly93d3cucmFwaWQ3\nLmNvbS9uZXdzLWV2ZW50cy9wcmVzcy1yZWxlYXNlcy8yMDEyLzIwMTItc2Vj\nb25kLXJvdW5kLW1hZ25pZmljZW50Ny1wcm9ncmFtLmpzcCkpLgoKIVtodHRw\nOi8vd2lraS5naG9zdC11c2ItaG9uZXlwb3QuZ29vZ2xlY29kZS5jb20vZ2l0\nL1NjcmVlbnNob3QucG5nXShodHRwOi8vd2lraS5naG9zdC11c2ItaG9uZXlw\nb3QuZ29vZ2xlY29kZS5jb20vZ2l0L1NjcmVlbnNob3QucG5nKQoKIyMgSG93\nIGRvZXMgaXQgd29yaz8gIyMKCkJhc2ljYWxseSwgdGhlIGhvbmV5cG90IGVt\ndWxhdGVzIGEgVVNCIHN0b3JhZ2UgZGV2aWNlLiBJZiB5b3VyIG1hY2hpbmUg\naXMgaW5mZWN0ZWQgYnkgbWFsd2FyZSB0aGF0IHVzZXMgc3VjaCBkZXZpY2Vz\nIGZvciBwcm9wYWdhdGlvbiwgdGhlIGhvbmV5cG90IHdpbGwgdHJpY2sgaXQg\naW50byBpbmZlY3RpbmcgdGhlIGVtdWxhdGVkIGRldmljZS4gU2VlIHRoZSB3\naWtpIGZvciBkZXRhaWxzLgoKIyMgV2hhdCBkbyBJIG5lZWQgdG8gcnVuIGl0\nPyAjIwoKR2hvc3Qgc3VwcG9ydHMgV2luZG93cyBYUCAzMiBiaXQgYW5kIFdp\nbmRvd3MgNyAzMiBiaXQuIFlvdSBjYW4gZWl0aGVyIGRvd25sb2FkIGEgYmlu\nYXJ5IGRpc3RyaWJ1dGlvbiBmcm9tIHRoZSBbb2xkIHdlYnNpdGVdKGh0dHBz\nOi8vY29kZS5nb29nbGUuY29tL3AvZ2hvc3QtdXNiLWhvbmV5cG90L2Rvd25s\nb2Fkcy9saXN0KSBvciBjb21waWxlIHRoZSBjb2RlIHlvdXJzZWxmLiBJZiB5\nb3UgY2hvb3NlIHRvIGJ1aWxkIHRoZSBjb2RlLCB5b3Ugd2lsbCBuZWVkIHRo\nZSBXaW5kb3dzIERyaXZlciBLaXQuIEZvciBkZXRhaWxlZCBpbnN0cnVjdGlv\nbnMgb24gaG93IHRvIGRvIHNvLCByZWZlciB0byB0aGUgW2J1aWxkXSh3aWtp\nL0J1aWxkR3VpZGUpIGFuZCBbaW5zdGFsbF0od2lraS9JbnN0YWxsR3VpZGUp\nIGd1aWRlcyBpbiB0aGUgd2lraS4KCiMjIENyZWRpdHMgIyMKClRoZSBwcm9q\nZWN0J3MgbG9nbyB3YXMgY3JlYXRlZCBieSBNYXJrIEVpYmVzLiBUaGUgcHJv\namVjdCBpcyBzdXBwb3J0ZWQgYnkgUmFwaWQ3IGFzIGEgbWVtYmVyIG9mIHRo\nZWlyIE1hZ25pZmljZW50NyBwcm9ncmFtLgoKWyFbXShodHRwOi8vd2lraS5n\naG9zdC11c2ItaG9uZXlwb3QuZ29vZ2xlY29kZS5jb20vZ2l0L3Bvd2VyZWQt\nYnktcmFwaWQ3LnBuZyldKGh0dHBzOi8vY29tbXVuaXR5LnJhcGlkNy5jb20v\nY29tbXVuaXR5L29wZW5fc291cmNlL21hZ25pZmljZW50NykK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/honeynet/ghost-usb-honeypot/contents/README.md?ref=master","git":"https://api.github.com/repos/honeynet/ghost-usb-honeypot/git/blobs/149aa69917421aa4fe53e90332d0380d50deff78","html":"https://github.com/honeynet/ghost-usb-honeypot/blob/master/README.md"}}
+0
+

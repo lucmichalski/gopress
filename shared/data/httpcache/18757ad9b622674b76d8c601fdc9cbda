@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:45 GMT
+Etag: W/"13e330fc5bd2223d236d0a30f1922b95"
+Last-Modified: Mon, 01 May 2017 23:35:14 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:3B510:4724E:5E53B499
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 34
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a21
+{"name":"README.md","path":"README.md","sha":"3fa30cbc2fb6195225f697b740d6157e49161d64","size":1332,"url":"https://api.github.com/repos/dotcppfile/DAws/contents/README.md?ref=master","html_url":"https://github.com/dotcppfile/DAws/blob/master/README.md","git_url":"https://api.github.com/repos/dotcppfile/DAws/git/blobs/3fa30cbc2fb6195225f697b740d6157e49161d64","download_url":"https://raw.githubusercontent.com/dotcppfile/DAws/master/README.md","type":"file","content":"SGVsbG8gZXZlcnlvbmUsCgohW2FsdCB0YWddKGh0dHA6Ly9pLmltZ3VyLmNv\nbS93eEFIOWtPLmpwZykKCiMjIyBBYm91dAoKVGhlcmUncyBtdWx0aXBsZSB0\naGluZ3MgdGhhdCBtYWtlcyBEQXdzIGJldHRlciB0aGFuIGV2ZXJ5IFdlYiBT\naGVsbCBvdXQgdGhlcmU6CgoxLiBCeXBhc3NlcyBTZWN1cml0eSBTeXN0ZW1z\nKElQUywgV0FGcyxldGMpIGxpa2UgU3Vob3Npbih1c2VzIHVwIHRvIDIwIHBo\ncCBmdW5jdGlvbnMganVzdCB0byBnZXQgYSBjb21tYW5kIGV4ZWN1dGVkKS4K\nMS4gRHJvcHMgQ0dJIFNoZWxscyBhbmQgY29tbXVuaWNhdGUgd2l0aCB0aGVt\nIHRvIGJ5cGFzcyBTZWN1cml0eSBTeXN0ZW1zLgoxLiBVc2VzIHRoZSBTU0gg\nQXV0aG9yaXplZCBLZXlzIG1ldGhvZCB0byBieXBhc3MgU2VjdXJpdHkgU3lz\ndGVtcy4KMS4gVXNlcyBTaGVsbHNob2NrIGluIDIgbWV0aG9kcyB0byBieXBh\nc3MgU2VjdXJpdHkgU3lzdGVtcy4KMS4gSXMgY29tcGxldGVseSBQb3N0IEJh\nc2VkIGFuZCB1c2VzIGEgWE9SIEVuY3J5cHRpb24gYmFzZWQgb24gYSByYW5k\nb20ga2V5IHRoYXQgZ2V0cyBnZW5lcmF0ZWQgd2l0aCBldmVyeSBuZXcgc2Vz\nc2lvbiArIHByaXZhdGUgYmFzZTY0IGZ1bmN0aW9ucyB0byBieXBhc3MgU2Vj\ndXJpdHkgU3lzdGVtcy4KMS4gU3VwcG9ydHMgV2luZG93cyBhbmQgTGludXgu\nCjEuIEZpbmRzIGEgd3JpdGVhYmxlIGFuZCByZWFkYWJsZSBkaXJlY3Rvcnkg\nYW5kIG1vdmVzIHRoZXJlIGlmIGl0J3MgYSB3ZWIgZGlyZWN0b3J5OyBEQXdz\nIHdpbGwgb3V0cHV0IGV2ZXJ5dGhpbmcgaW4gdGhhdCBmb3VuZCBkaXJlY3Rv\ncnkuCjEuIERyb3BzIGEgcGhwLmluaSBhbmQgYSAuaHRhY2Nlc3MgZmlsZSB0\naGF0IGNsZWFycyBhbGwgZGlzYWJsZXJzIGluY2FzZSAic3VwaHAiIHdhcyBp\nbnN0YWxsZWQuCjEuIEhhcyBhbiBhZHZhbmNlZCBGaWxlIE1hbmFnZXIuCjEu\nIEV2ZXJ5dGhpbmcgaXMgZG9uZSBhdXRvbWF0aWNhbGx5IHNvIHRoZXJlJ3Mg\nbm90aGluZyBmb3IgdGhlIHVzZXIgdG8gd29ycnkgYWJvdXQuCjEuIE9wZW4g\nU291cmNlLgoxLiBhbmQgbXVjaCBtb3JlIChjaGVjayB0aGUgc291cmNlIGZv\nciBtb3JlIGluZm9ybWF0aW9uOyBldmVyeXRoaW5nIGlzIHdlbGwgY29tbWVu\ndGVkKQoKIyMjIENyZWRpdHM6CjEuIFtkb3RjcHBmaWxlXShodHRwczovL3R3\naXR0ZXIuY29tL2RvdGNwcGZpbGUpCjEuIEFjZXMgd2hvIGhlbHBlZCBtZSBj\nb2RlIHRoZSBvbGQgdmVyc2lvbiBvZiBEQXdzCjEuIFZlZHUgZm9yIGNoZWNr\naW5nIGFuZCByZXBvcnRpbmcgYnVncy4KCiMjIyBCbG9nOgoxLiBodHRwczov\nL2RvdGNwcGZpbGUud29yZHByZXNzLmNvbS8K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/dotcppfile/DAws/contents/README.md?ref=master","git":"https://api.github.com/repos/dotcppfile/DAws/git/blobs/3fa30cbc2fb6195225f697b740d6157e49161d64","html":"https://github.com/dotcppfile/DAws/blob/master/README.md"}}
+0
+

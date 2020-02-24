@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:22:19 GMT
+Etag: W/"6fec1b3561d22098a83b6970fc67cb06"
+Last-Modified: Sun, 26 Aug 2018 07:47:21 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:6941:7E6D:5E53B1EB
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1897
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+697
+{"name":"README.md","path":"README.md","sha":"d86cc974832af2b0194c926c7a9d5a16ac1f9006","size":689,"url":"https://api.github.com/repos/HA71/Namechk/contents/README.md?ref=master","html_url":"https://github.com/HA71/Namechk/blob/master/README.md","git_url":"https://api.github.com/repos/HA71/Namechk/git/blobs/d86cc974832af2b0194c926c7a9d5a16ac1f9006","download_url":"https://raw.githubusercontent.com/HA71/Namechk/master/README.md","type":"file","content":"IVtsb2dvXShodHRwczovL2ltZ3VyLmNvbS85VU5ySnIzLmpwZykKCiMgTmFt\nZWNoawpPc2ludCB0b29sIGJhc2VkIG9uIG5hbWVjaGsuY29tIGZvciBjaGVj\na2luZyB1c2VybmFtZXMgb24gbW9yZSB0aGFuIDEwMCB3ZWJzaXRlcywgZm9y\ndW1zIGFuZCBzb2NpYWwgbmV0d29ya3MuCgojIyBVc2U6CgotIFNlYXJjaCBh\ndmFpbGFibGUgdXNlcm5hbWU6CmBgYC4vbmFtZWNoay5zaCA8dXNlcm5hbWU+\nIC1hdWBgYAoJCi0gU2VhcmNoIGF2YWlsYWJsZSB1c2VybmFtZSBvbiBzcGVj\naWZpY3Mgd2Vic2l0ZXM6CmBgYC4vbmFtZWNoay5zaCAgPHVzZXJuYW1lPiAt\nYXUgLWNvYGBgCgkKLSBTZWFyY2ggYXZhaWxhYmxlIHVzZXJuYW1lIGxpc3Q6\nCmBgYC4vbmFtZWNoay5zaCAtbCAtYXVgYGAKCQotIFNlYXJjaCB1c2VkIHVz\nZXJuYW1lOgpgYGAuL25hbWVjaGsuc2ggPHVzZXJuYW1lPiAtZnVgYGAKCQot\nIFNlYXJjaCB1c2VkIHVzZXJuYW1lIG9uIHNwZWNpZmljcyB3ZWJzaXRlczoK\nYGBgLi9uYW1lY2hrLnNoIDx1c2VybmFtZT4gLWZ1IC1jb2BgYAoJCi0gU2Vh\ncmNoIHVzZWQgdXNlcm5hbWUgbGlzdDoKYGBgLi9uYW1lY2hrLnNoIC1sIC1m\ndWBgYAoJCiFbdGVzdF0oaHR0cHM6Ly9pbWd1ci5jb20vcGhZQ3hiWi5qcGcp\nCgojIyBUZXN0ZWQgd2VicwoKIVt3ZWJzXShodHRwczovL2kuaW1ndXIuY29t\nL001a2tNNVguanBnKQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/HA71/Namechk/contents/README.md?ref=master","git":"https://api.github.com/repos/HA71/Namechk/git/blobs/d86cc974832af2b0194c926c7a9d5a16ac1f9006","html":"https://github.com/HA71/Namechk/blob/master/README.md"}}
+0
+

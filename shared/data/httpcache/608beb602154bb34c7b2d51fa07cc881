@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:30:37 GMT
+Etag: W/"81c619e8e441a553c0fef2533ce28248"
+Last-Modified: Sat, 11 Jan 2020 17:21:23 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:2D488:362A1:5E53B3DC
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 535
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+ac2
+{"name":"README.md","path":"README.md","sha":"b67addf8da1dcb9c6dfe89023d10b8fd41002f5c","size":1483,"url":"https://api.github.com/repos/orf/xcat/contents/README.md?ref=master","html_url":"https://github.com/orf/xcat/blob/master/README.md","git_url":"https://api.github.com/repos/orf/xcat/git/blobs/b67addf8da1dcb9c6dfe89023d10b8fd41002f5c","download_url":"https://raw.githubusercontent.com/orf/xcat/master/README.md","type":"file","content":"IyBYQ2F0CgohW10oaHR0cHM6Ly90cmF2aXMtY2kuY29tL29yZi94Y2F0LnN2\nZz9icmFuY2g9bWFzdGVyKQohW10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9w\neXBpL3YveGNhdC5zdmcpCiFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL3B5\ncGkvbC94Y2F0LnN2ZykKIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vcHlw\naS9weXZlcnNpb25zL3hjYXQuc3ZnKQoKWENhdCBpcyBhIGNvbW1hbmQgbGlu\nZSB0b29sIHRvIGV4cGxvaXQgYW5kIGludmVzdGlnYXRlIGJsaW5kIFhQYXRo\nIGluamVjdGlvbiB2dWxuZXJhYmlsaXRpZXMuCgpGb3IgYSBjb21wbGV0ZSBy\nZWZlcmVuY2UgcmVhZCB0aGUgZG9jdW1lbnRhdGlvbiBoZXJlOiBodHRwczov\nL3hjYXQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0LwoKSXQgc3VwcG9ydHMg\nYW4gbGFyZ2UgbnVtYmVyIG9mIGZlYXR1cmVzOgoKLSBBdXRvLXNlbGVjdHMg\naW5qZWN0aW9ucyAocnVuIGB4Y2F0IGluamVjdGlvbnNgIGZvciBhIGxpc3Qp\nCgotIERldGVjdHMgdGhlIHZlcnNpb24gYW5kIGNhcGFiaWxpdGllcyBvZiB0\naGUgeHBhdGggcGFyc2VyIGFuZCAKICBzZWxlY3RzIHRoZSBmYXN0ZXN0IG1l\ndGhvZCBvZiByZXRyaWV2YWwKCi0gQnVpbHQgaW4gb3V0LW9mLWJvdW5kIEhU\nVFAgc2VydmVyCiAgICAtIEF1dG9tYXRlcyBYWEUgYXR0YWNrcwogICAgLSBD\nYW4gdXNlIE9PQiBIVFRQIHJlcXVlc3RzIHRvIGRyYXN0aWNhbGx5IHNwZWVk\nIHVwIHJldHJpZXZhbAoKLSBDdXN0b20gcmVxdWVzdCBoZWFkZXJzIGFuZCBi\nb2R5CgotIEJ1aWx0IGluIFJFUEwgc2hlbGwsIHN1cHBvcnRpbmc6CiAgICAt\nIFJlYWRpbmcgYXJiaXRyYXJ5IGZpbGVzCiAgICAtIFJlYWRpbmcgZW52aXJv\nbm1lbnQgdmFyaWFibGVzCiAgICAtIExpc3RpbmcgZGlyZWN0b3JpZXMKICAg\nIC0gVXBsb2FkaW5nL2Rvd25sb2FkaW5nIGZpbGVzIChzb29uIFRNKQoKLSBP\ncHRpbWl6ZWQgcmV0cmlldmFsCiAgICAtIFVzZXMgYmluYXJ5IHNlYXJjaCBv\ndmVyIHVuaWNvZGUgY29kZXBvaW50cyBpZiBhdmFpbGFibGUKICAgIC0gRmFs\nbGJhY2tzIGluY2x1ZGUgc2VhcmNoaW5nIGZvciBjb21tb24gY2hhcmFjdGVy\ncyBwcmV2aW91c2x5IHJldHJpZXZlZCBmaXJzdAogICAgLSBOb3JtYWxpemVz\nIHVuaWNvZGUgdG8gcmVkdWNlIHRoZSBzZWFyY2ggc3BhY2UKCiMjIEluc3Rh\nbGwKClJ1biBgcGlwIGluc3RhbGwgeGNhdGAKCioqUmVxdWlyZXMgUHl0aG9u\nIDMuNyoqLiBZb3UgY2FuIGVhc2lseSBpbnN0YWxsIHRoaXMgd2l0aCBbcHll\nbnZdKGh0dHBzOi8vZ2l0aHViLmNvbS9weWVudi9weWVudik6IApgcHllbnYg\naW5zdGFsbCAzLjcuMWAKCiMjIEV4YW1wbGUgYXBwbGljYXRpb24KClRoZXJl\nIGlzIGEgY29tcGxldGUgZGVtbyBhcHBsaWNhdGlvbiB5b3UgY2FuIHVzZSB0\nbyBleHBsb3JlIHRoZSBmZWF0dXJlcyBvZiBYQ2F0LiAKU2VlIHRoZSBSRUFE\nTUUgaGVyZTogaHR0cHM6Ly9naXRodWIuY29tL29yZi94Y2F0X2FwcAogCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/orf/xcat/contents/README.md?ref=master","git":"https://api.github.com/repos/orf/xcat/git/blobs/b67addf8da1dcb9c6dfe89023d10b8fd41002f5c","html":"https://github.com/orf/xcat/blob/master/README.md"}}
+0
+

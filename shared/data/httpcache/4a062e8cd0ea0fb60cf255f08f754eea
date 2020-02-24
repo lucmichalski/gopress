@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:03 GMT
+Etag: W/"727e9051f393f15fcf4044e9cd6f083d"
+Last-Modified: Sun, 09 Feb 2020 22:37:24 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:38412:4373B:5E53B46F
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 167
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d5b
+{"name":"README.md","path":"README.md","sha":"163e35d2c47acaed69ad6ba723fb17a963fb11d5","size":1932,"url":"https://api.github.com/repos/sashs/filebytes/contents/README.md?ref=master","html_url":"https://github.com/sashs/filebytes/blob/master/README.md","git_url":"https://api.github.com/repos/sashs/filebytes/git/blobs/163e35d2c47acaed69ad6ba723fb17a963fb11d5","download_url":"https://raw.githubusercontent.com/sashs/filebytes/master/README.md","type":"file","content":"RmlsZUJ5dGVzCj09PT09PT09PT09PT09PT0KCkNsYXNzZXMvVHlwZXMgdG8g\ncmVhZCBhbmQgZWRpdCB0aGUgZm9sbG93aW5nIGZpbGUgZm9ybWF0czoKLSBF\neGVjdXRhYmxlIGFuZCBMaW5raW5nIEZvcm1hdCAoRUxGKSwKLSBQb3J0YWJs\nZSBFeGVjdXRhYmxlIChQRSkgYW5kCi0gTWFjaE8KLSBPQVQgKEFuZHJvaWQg\nUnVudGltZSkKCkluc3RhbGwKLS0tLS0tLQoKSW5zdGFsbCBGaWxlQnl0ZXMK\nCiAgICAkIHB5dGhvbiBzZXR1cC5weSBpbnN0YWxsCgpPciBpbnN0YWxsIHdp\ndGggUHlQaQoKICAgICQgcGlwIGluc3RhbGwgZmlsZWJ5dGVzCgpTYW1wbGVz\nCi0tLS0tLS0KClBhcnNpbmcgRUxGIGZpbGUKYGBgcHl0aG9uCmZyb20gZmls\nZWJ5dGVzLmVsZiBpbXBvcnQgKgplbGZfZmlsZSA9IEVMRigndGVzdC1iaW5h\ncmllcy9scy14ODYnKQoKZWxmX2hlYWRlciA9IGVsZl9maWxlLmVsZkhlYWRl\ncgpzZWN0aW9ucyA9IGVsZl9maWxlLnNlY3Rpb25zCnNlZ21lbnRzID0gZWxm\nX2ZpbGUuc2VnbWVudHMgIyBlbGZfZmlsZS5wcm9ncmFtSGVhZGVycyBkb2Vz\nIHRoZSBzYW1lCmBgYAoKUGFyc2luZyBQRSBmaWxlCmBgYHB5dGhvbgpmcm9t\nIGZpbGVieXRlcy5wZSBpbXBvcnQgKgpwZV9maWxlID0gUEUoJ3Rlc3QtYmlu\nYXJpZXMvY21kLXg4Ni5leGUnKQoKaW1hZ2VfZG9zX2hlYWRlciA9IHBlX2Zp\nbGUuaW1hZ2VEb3NIZWFkZXIKaW1hZ2VfbnRfaGVhZGVycyA9IHBlX2ZpbGUu\naW1hZ2VOdEhlYWRlcnMKc2VjdGlvbnMgPSBwZV9maWxlLnNlY3Rpb25zCmRh\ndGFfZGlyZWN0b3J5ID0gcGVfZmlsZS5kYXRhRGlyZWN0b3J5CgppbXBvcnRf\nZGlyZWN0b3J5ID0gZGF0YV9kaXJlY3RvcnlbSW1hZ2VEaXJlY3RvcnlFbnRy\neS5JTVBPUlRdCmV4cG9ydF9kaXJlY3RvcnkgPSBkYXRhX2RpcmVjdG9yeVtJ\nbWFnZURpcmVjdG9yeUVudHJ5LkVYUE9SVF0KYGBgCgpQYXJzaW5nIE1hY2hP\nIGZpbGUKYGBgcHl0aG9uCmZyb20gZmlsZWJ5dGVzLm1hY2hfbyBpbXBvcnQg\nKgptYWNob19maWxlID0gTWFjaE8oJ3Rlc3QtYmluYXJpZXMvbHMtbWFjaG8t\neDg2XzY0JykKCm1hY2hfaGVhZGVyID0gbWFjaG9fZmlsZS5tYWNoSGVhZGVy\nCmxvYWRfY29tbWFuZHMgPSBtYWNob19maWxlLmxvYWRDb21tYW5kcwpgYGAK\nClBhcnNpbmcgT0FUIGZpbGUsIHJlYWQgREVYIGZpbGVzIGFuZCBzYXZlIHRo\nZW0KYGBgcHl0aG9uCmZyb20gZmlsZWJ5dGVzLm9hdCBpbXBvcnQgKgoKb2F0\nID0gT0FUKCd0ZXN0LWJpbmFyaWVzL2Jvb3Qub2F0JykKCmZvciBvZGggaW4g\nb2F0Lm9hdERleEhlYWRlcjoKICAgIG5hbWUgPSBvZGgubmFtZS5zcGxpdCgn\nLycpWy0xXQogICAgd2l0aCBvcGVuKG5hbWUsICd3YicpIGFzIGRleDoKICAg\nICAgICBkZXgud3JpdGUob2RoLmRleEJ5dGVzKQpgYGAKCkZvciBmdXJ0aGVy\nIHNhbXBsZXMgbG9vayBhdCB0aGUgc2FtcGxlIGZvbGRlci4KCkNvbnRyaWJ1\ndGlvbnMKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpJZiB5b3Ugd291bGQgbGlr\nZSBjb250cmlidXRlLCBoZXJlIHNvbWUgaWRlYXM6Ci0gSW1wbGVtZW50YXRp\nb24gb2YgcGFyc2luZyBvZiBtaXNzaW5nIExvYWRDb21tYW5kIHR5cGVzIGZv\nciBNYWNoTyBmaWxlcwotIEltcGxlbWVudGF0aW9uIG9mIHBhcnNpbmcgb2Yg\ndGhlIG1pc3Npbmcgc2VjdGlvbiB0eXBlcyBmb3IgRUxGIGZpbGVzCi0gSW1w\nbGVtZW50YXRpb24gb2YgcGFyc2luZyBvZiB0aGUgbWlzc2luZyBkYXRhIGRp\ncmVjdG9yeSBmaWVsZHMgZm9yIFBFIGZpbGVzCgpCdXQgYW55IGtpbmQgb2Yg\nY29udHJpYnV0aW9uIGlzIHdlbGNvbWUuIDopCgoKUHJvamVjdCBwYWdlICYg\nRXhhbXBsZXMKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t\nCi0gaHR0cHM6Ly9zY29kaW5nLmRlL2ZpbGVieXRlcy1pbnRyb2R1Y3Rpb24K\nLSBodHRwczovL3Njb2RpbmcuZGUvZmlsZWJ5dGVzLWVkaXQtZmlsZXMK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/sashs/filebytes/contents/README.md?ref=master","git":"https://api.github.com/repos/sashs/filebytes/git/blobs/163e35d2c47acaed69ad6ba723fb17a963fb11d5","html":"https://github.com/sashs/filebytes/blob/master/README.md"}}
+0
+

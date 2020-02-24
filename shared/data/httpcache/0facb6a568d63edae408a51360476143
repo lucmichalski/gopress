@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:14:54 GMT
+Etag: W/"209f835ea7d06a4b89feb42c0efb7b7c"
+Last-Modified: Thu, 13 Feb 2020 12:43:35 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:7AC39:92342:5E53B02D
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3205
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e94
+{"name":"README.md","path":"README.md","sha":"810c76cbe64b97106d1ee449909b19be09517a17","size":2152,"url":"https://api.github.com/repos/BishopFox/sliver/contents/README.md?ref=master","html_url":"https://github.com/BishopFox/sliver/blob/master/README.md","git_url":"https://api.github.com/repos/BishopFox/sliver/git/blobs/810c76cbe64b97106d1ee449909b19be09517a17","download_url":"https://raw.githubusercontent.com/BishopFox/sliver/master/README.md","type":"file","content":"U2xpdmVyCj09PT09PQoK4pqg77iPIF9fV2FybmluZzpfXyBTbGl2ZXIgaXMg\nY3VycmVudGx5IGluIF9fYWxwaGFfXywgeW91J3ZlIGJlZW4gd2FybmVkIDop\nIGFuZCBwbGVhc2UgY29uc2lkZXIgW2NvbnRyaWJ1dGluZ10oL0NPTlRSSUJV\nVElORy5tZCkKClNsaXZlciBpcyBhIGdlbmVyYWwgcHVycG9zZSBjcm9zcy1w\nbGF0Zm9ybSBpbXBsYW50IGZyYW1ld29yayB0aGF0IHN1cHBvcnRzIEMyIG92\nZXIgTXV0dWFsLVRMUywgSFRUUChTKSwgYW5kIEROUy4gSW1wbGFudHMgYXJl\nIGR5bmFtaWNhbGx5IGNvbXBpbGVkIHdpdGggdW5pcXVlIFguNTA5IGNlcnRp\nZmljYXRlcyBzaWduZWQgYnkgYSBwZXItaW5zdGFuY2UgY2VydGlmaWNhdGUg\nYXV0aG9yaXR5IGdlbmVyYXRlZCB3aGVuIHlvdSBmaXJzdCBydW4gdGhlIGJp\nbmFyeS4KClRoZSBzZXJ2ZXIsIGNsaWVudCwgYW5kIGltcGxhbnQgYWxsIHN1\ncHBvcnQgTWFjT1MsIFdpbmRvd3MsIGFuZCBMaW51eCAoYW5kIHBvc3NpYmx5\nIGV2ZXJ5IEdvbGFuZyBjb21waWxlciB0YXJnZXQgYnV0IHdlJ3ZlIG5vdCB0\nZXN0ZWQgdGhlbSBhbGwpLgoKIyMjIEZlYXR1cmVzCgoqIER5bmFtaWMgY29k\nZSBnZW5lcmF0aW9uCiogQ29tcGlsZS10aW1lIG9iZnVzY2F0aW9uCiogTG9j\nYWwgYW5kIHJlbW90ZSBwcm9jZXNzIGluamVjdGlvbgoqIEFudGktYW50aS1h\nbnRpLWZvcmVuc2ljcwoqIFtTZWN1cmUgQzJdKGh0dHBzOi8vZ2l0aHViLmNv\nbS9CaXNob3BGb3gvc2xpdmVyL3dpa2kvVHJhbnNwb3J0LUVuY3J5cHRpb24p\nIG92ZXIgbVRMUywgSFRUUChTKSwgYW5kIEROUwoqIFdpbmRvd3MgcHJvY2Vz\ncyBtaWdyYXRpb24KKiBXaW5kb3dzIHVzZXIgdG9rZW4gbWFuaXB1bGF0aW9u\nCiogTXVsdGlwbGF5ZXItbW9kZQoqIFByb2NlZHVyYWxseSBnZW5lcmF0ZWQg\nQzIgb3ZlciBIVFRQIF8od29yayBpbiBwcm9ncmVzcylfCiogTGV0J3MgRW5j\ncnlwdCBpbnRlZ3JhdGlvbgoqIEluLW1lbW9yeSAuTkVUIGFzc2VtYmx5IGV4\nZWN1dGlvbgoqIFtETlMgQ2FuYXJ5XShodHRwczovL2dpdGh1Yi5jb20vQmlz\naG9wRm94L3NsaXZlci93aWtpL0ROUy1DMiNkbnMtY2FuYXJpZXMpIEJsdWUg\nVGVhbSBEZXRlY3Rpb24KCiMjIyBHZXR0aW5nIFN0YXJ0ZWQKCkRvd25sb2Fk\nIHRoZSBsYXRlc3QgW3JlbGVhc2VdKGh0dHBzOi8vZ2l0aHViLmNvbS9CaXNo\nb3BGb3gvc2xpdmVyL3JlbGVhc2VzKSBhbmQgc2VlIHRoZSBTbGl2ZXIgW3dp\na2ldKGh0dHBzOi8vZ2l0aHViLmNvbS9CaXNob3BGb3gvc2xpdmVyL3dpa2kv\nR2V0dGluZy1TdGFydGVkKSBmb3IgYSBxdWljayB0dXRvcmlhbCBvbiBiYXNp\nYyBzZXR1cCBhbmQgdXNhZ2UuIFRvIGdldCB0aGUgdmVyeSBsYXRlc3QgYW5k\nIGdyZWF0ZXN0IGNvbXBpbGUgZnJvbSBzb3VyY2UuCgojIyMgQ29tcGlsZSBG\ncm9tIFNvdXJjZQoKU2VlIHRoZSBbd2lraV0oaHR0cHM6Ly9naXRodWIuY29t\nL0Jpc2hvcEZveC9zbGl2ZXIvd2lraS9Db21waWxlLUZyb20tU291cmNlKS4K\nCiMjIyBTb3VyY2UgQ29kZQoKVGhlIHNvdXJjZSBjb2RlIHJlcG8gY29udGFp\nbnMgdGhlIGZvbGxvd2luZyBkaXJlY3RvcmllczoKCiAqIGBhc3NldHMvYCAt\nIFN0YXRpYyBhc3NldHMgdGhhdCBhcmUgZW1iZWRkZWQgaW50byB0aGUgc2Vy\ndmVyIGJpbmFyeSwgZ2VuZXJhdGVkIGJ5IGBnby1hc3NldHMuc2hgCiAqIGBj\nbGllbnQvYCAtIENsaWVudCBjb2RlLCB0aGUgbWFqb3JpdHkgb2YgdGhpcyBj\nb2RlIGlzIGFsc28gdXNlZCBieSB0aGUgc2VydmVyCiAqIGBwcm90b2J1Zi9g\nIC0gUHJvdG9idWYgY29kZQogKiBgc2VydmVyL2AgLSBTZXJ2ZXItc2lkZSBj\nb2RlCiAqIGBzbGl2ZXIvYCAtIEltcGxhbnQgY29kZSwgcmVuZGVyZWQgYnkg\ndGhlIHNlcnZlciBhdCBydW50aW1lCiAqIGB1dGlsL2AgLSBVdGlsaXR5IGZ1\nbmN0aW9ucyB0aGF0IG1heSBiZSBzaGFyZWQgYnkgdGhlIHNlcnZlciBhbmQg\nY2xpZW50CgojIyMgTGljZW5zZSAtIEdQTHYzCgpTbGl2ZXIgaXMgbGljZW5z\nZWQgdW5kZXIgW0dQTHYzXShodHRwczovL3d3dy5nbnUub3JnL2xpY2Vuc2Vz\nL2dwbC0zLjAuZW4uaHRtbCksIHNvbWUgc3ViY29tcG9uZW50cyBoYXZlIHNl\ncGVyYXRlIGxpY2Vuc2VzLiBTZWUgdGhlaXIgcmVzcGVjdGl2ZSBzdWJkaXJl\nY3RvcmllcyBpbiB0aGlzIHByb2plY3QgZm9yIGRldGFpbHMuCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/BishopFox/sliver/contents/README.md?ref=master","git":"https://api.github.com/repos/BishopFox/sliver/git/blobs/810c76cbe64b97106d1ee449909b19be09517a17","html":"https://github.com/BishopFox/sliver/blob/master/README.md"}}
+0
+

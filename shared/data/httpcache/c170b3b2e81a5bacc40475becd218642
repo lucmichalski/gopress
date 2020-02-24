@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:38 GMT
+Etag: W/"739c807918d8023dcada79ec64c3af21"
+Last-Modified: Mon, 15 Jul 2019 09:54:27 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:1A5A5:1F928:5E53B2EE
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1118
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c47
+{"name":"README.md","path":"README.md","sha":"200ddfddd11a48e55320640d37c5b33a3696c6b7","size":1729,"url":"https://api.github.com/repos/bambish/ScanQLi/contents/README.md?ref=master","html_url":"https://github.com/bambish/ScanQLi/blob/master/README.md","git_url":"https://api.github.com/repos/bambish/ScanQLi/git/blobs/200ddfddd11a48e55320640d37c5b33a3696c6b7","download_url":"https://raw.githubusercontent.com/bambish/ScanQLi/master/README.md","type":"file","content":"IyBTY2FuUUxpIFshW0xpY2Vuc2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8v\nYmFkZ2UvbGljZW5zZS1HUEx2My1yZWQuc3ZnKV0oaHR0cHM6Ly9naXRodWIu\nY29tL2JhbWJpc2gvU2NhblFMaS9ibG9iL21hc3Rlci9MSUNFTlNFLm1kKSAh\nW1B5dGhvbiAyfDNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvcHl0\naG9uLTJ8My15ZWxsb3cuc3ZnKSBbIVtUd2l0dGVyXShodHRwczovL2ltZy5z\naGllbGRzLmlvL2JhZGdlL3R3aXR0ZXItQGJhbWJpc2hlZS1ibHVlLnN2Zyld\nKGh0dHBzOi8vdHdpdHRlci5jb20vYmFtYmlzaGVlKQoKIVtTY3JlZW5zaG90\nXShodHRwczovL2dpdGh1Yi5jb20vYmFtYmlzaC9TY2FuUUxpL2Jsb2IvbWFz\ndGVyLy5zY3JlZW5zaG90cy9zY2FucWxpLmpwZykKClNjYW5RTGkgaXMgYSBz\naW1wbGUgU1FMIGluamVjdGlvbiBzY2FubmVyIHdpdGggc29tZXMgYWRkaXRp\nb25hbHMgZmVhdHVyZXMuClRoaXMgdG9vbCBjYW4ndCBleHBsb2l0IHRoZSBT\nUUxpLCBpdCBqdXN0IGRldGVjdCB0aGVtLgoKX1Rlc3RlZCBvbiBEZWJpYW4g\nOV8KCiMjIyBGZWF0dXJlcwoKKiBDbGFzc2ljCiogQmxpbmQKKiBUaW1lIGJh\nc2VkCiogX0dCSyAoc29vbilfCgoqIFJlY3Vyc2l2ZSBzY2FuIChmb2xsb3cg\nYWxsIGhyZWZzIG9mIHRoZSBzY2FubmVkIHdlYiBzaXRlKQoqIENvb2tpZXMg\naW50ZWdyYXRpb24KKiBBZGp1c3RhYmxlIHdhaXQgZGVsYXkgYmV0d2VlbiBy\nZXF1ZXN0cwoqIElnbm9yZSBnaXZlbiBVUkxzCgojIyMgUHJlcmVxdWlzaXRl\ncwoKKioxLioqIEluc3RhbGwgZ2l0IHRvb2wuCgpgYGBiYXNoCmFwdCB1cGRh\ndGUKYXB0IGluc3RhbGwgZ2l0CmBgYAoKKioyLioqIENsb25lIHRoZSByZXBv\nLgoKYGBgYmFzaApnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2JhbWJp\nc2gvU2NhblFMaQpgYGAKCioqMy4qKiBJbnN0YWxsIHB5dGhvbiByZXF1aXJl\nZCBsaWJzCgpgYGBiYXNoCmFwdCBpbnN0YWxsIHB5dGhvbi1waXAKY2QgU2Nh\nblFMaQpwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CmBgYAoKRm9y\nIFB5dGhvbiAzIHBsZWFzZSBpbnN0YWxsIGBweXRob24zLXBpcGAgYW5kIHVz\nZSBgcGlwM2AuCgojIyMgVXNhZ2UKCgpgYGBiYXNoCnB5dGhvbiBzY2FucWxp\nIC11IFtVUkxdIFtPUFRJT05TXQpgYGAKCiMjIyBFeGFtcGxlcwoKU2ltcGxl\nIFVSTCBzY2FuIHdpdGggb3V0cHV0IGZpbGU6CgpgYGBiYXNoCnB5dGhvbiBz\nY2FucWxpLnB5IC11ICdodHRwOi8vMTI3LjAuMC4xL3Rlc3QvP3A9bmV3cycg\nLW8gb3V0cHV0LmxvZwpgYGAKClJlY3Vyc2l2ZSBVUkwgc2Nhbm5pbmcgd2l0\naCBjb29raWVzOgoKYGBgYmFzaApweXRob24gc2NhbnFsaS5weSAtdSAnaHR0\ncHM6Ly8xMjcuMC4wLjEvdGVzdC8nIC1yIC1jICd7IlBIUFNFU1NJRCI6IjRi\nbjd1cm84cXE2Mm9sNG82NjdiZWpicW8zIiAsICJTZXNzaW9uIjoiTXpvNllX\nTXdaR1JtT1dVMk5XUTFOMkkyWVRVMllqSTBOVE16T0RaalpEVmtZalU9In0n\nCmBgYAoKIyMjIFdhcm5pbmcKClNjYW5RTGkgd2FzIGNyZWF0ZWQgdG8gcGVy\nZm9ybSBwZW50ZXN0IG9yIG90aGVycyBsZWdhbCBzdHVmZnMgKGxpa2UgYnVn\nIGJvdW50eSkuClVzaW5nIFNjYW5RTGkgYWdhaW5zdCB3ZWIgc2l0ZSAqKndp\ndGhvdXQgYXV0aG9yaXphdGlvbioqIGlzICoqZm9yYmlkZGVuKiouIAoKSSdt\nIG5vdCByZXNwb25zaWJsZSBvZiB5b3VyIHVzYWdlIG9mIFNjYW5RTGkuCioq\nQXQgeW91ciBvd24gcmlzayoqLg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/bambish/ScanQLi/contents/README.md?ref=master","git":"https://api.github.com/repos/bambish/ScanQLi/git/blobs/200ddfddd11a48e55320640d37c5b33a3696c6b7","html":"https://github.com/bambish/ScanQLi/blob/master/README.md"}}
+0
+

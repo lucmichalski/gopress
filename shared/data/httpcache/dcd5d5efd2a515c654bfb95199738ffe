@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:40 GMT
+Etag: W/"1aa3789adeb92f5bf04c029b0fe3d1c0"
+Last-Modified: Thu, 09 May 2019 12:46:06 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:3AFF7:46C19:5E53B494
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 50
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+547
+{"name":"README.md","path":"README.md","sha":"5b5821bc3e3570131f4231574b151ffdf5aee4cb","size":424,"url":"https://api.github.com/repos/nickoala/telepot/contents/README.md?ref=master","html_url":"https://github.com/nickoala/telepot/blob/master/README.md","git_url":"https://api.github.com/repos/nickoala/telepot/git/blobs/5b5821bc3e3570131f4231574b151ffdf5aee4cb","download_url":"https://raw.githubusercontent.com/nickoala/telepot/master/README.md","type":"file","content":"IyB0ZWxlcG90IC0gUHl0aG9uIGZyYW1ld29yayBmb3IgVGVsZWdyYW0gQm90\nIEFQSQoKIyMgSSBhbSBubyBsb25nZXIgbWFpbnRhaW5pbmcgdGhpcyBsaWJy\nYXJ5LiBUaGFua3MgZm9yIGNvbnNpZGVyaW5nIHRlbGVwb3QuCgojIyMgW0lu\ndHJvZHVjdGlvbiDCu10oaHR0cDovL3RlbGVwb3QucmVhZHRoZWRvY3MuaW8v\nZW4vbGF0ZXN0LykKIyMjIFtSZWZlcmVuY2UgwrtdKGh0dHA6Ly90ZWxlcG90\nLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdC9yZWZlcmVuY2UuaHRtbCkKIyMj\nIFtFeGFtcGxlcyDCu10oaHR0cHM6Ly9naXRodWIuY29tL25pY2tvYWxhL3Rl\nbGVwb3QvdHJlZS9tYXN0ZXIvZXhhbXBsZXMpCiMjIyBbQ2hhbmdlbG9nIMK7\nXShodHRwczovL2dpdGh1Yi5jb20vbmlja29hbGEvdGVsZXBvdC9ibG9iL21h\nc3Rlci9DSEFOR0VMT0cubWQpCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/nickoala/telepot/contents/README.md?ref=master","git":"https://api.github.com/repos/nickoala/telepot/git/blobs/5b5821bc3e3570131f4231574b151ffdf5aee4cb","html":"https://github.com/nickoala/telepot/blob/master/README.md"}}
+0
+

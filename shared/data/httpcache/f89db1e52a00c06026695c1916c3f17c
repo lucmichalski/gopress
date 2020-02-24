@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:29:07 GMT
+Etag: W/"7e034957f97890f849f716355eaf7bc6"
+Last-Modified: Fri, 04 Aug 2017 22:21:39 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:26141:2D8DE:5E53B383
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 738
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+af1
+{"name":"README.markdown","path":"README.markdown","sha":"b7d6640d58eb760fb36538fcd2e87b9e98f2b36d","size":1400,"url":"https://api.github.com/repos/simp/pupmod-simp-activemq/contents/README.markdown?ref=master","html_url":"https://github.com/simp/pupmod-simp-activemq/blob/master/README.markdown","git_url":"https://api.github.com/repos/simp/pupmod-simp-activemq/git/blobs/b7d6640d58eb760fb36538fcd2e87b9e98f2b36d","download_url":"https://raw.githubusercontent.com/simp/pupmod-simp-activemq/master/README.markdown","type":"file","content":"IyBBY3RpdmVNUSAjCgpUaGlzIG1vZHVsZSBjb25maWd1cmVzIEFjdGl2ZU1R\nLiAgSXQgaXMgcHJpbWFyaWx5IGRlc2lnbmVkIHRvIHdvcmsgd2l0aApNQ29s\nbGVjdGl2ZSBhbmQgdGhlIE9yYWNsZSBKYXZhIHJ1bnRpbWUgb24gYW4gUkhF\nTCBvciBFTCB2YXJpYW50LgoKICogW0FjdGl2ZU1RXShodHRwOi8vYWN0aXZl\nbXEuYXBhY2hlLm9yZy8pCiAqIFtNQ29sbGVjdGl2ZV0oaHR0cDovL3d3dy5w\ndXBwZXRsYWJzLmNvbS9tY29sbGVjdGl2ZS9pbnRyb2R1Y3Rpb24vKQoKIyBR\ndWljayBTdGFydCAjCgpUaGUgZXhhbXBsZSBpbiB0aGUgdGVzdHMgZGlyZWN0\nb3J5IHByb3ZpZGVzIGEgZ29vZCBleGFtcGxlIG9mIGhvdyB0aGUgQWN0aXZl\nTVEKbW9kdWxlIG1heSBiZSB1c2VkLiAgSW4gYWRkaXRpb24sIHRoZSBbTUNv\nbGxlY3RpdmUKTW9kdWxlXShodHRwOi8vZm9yZ2UucHVwcGV0bGFicy5jb20v\ncHVwcGV0bGFicy9tY29sbGVjdGl2ZSkgcHJvdmlkZXMgYSBnb29kCmV4YW1w\nbGUgb2YgYSBzZXJ2aWNlIGludGVncmF0ZWQgd2l0aCB0aGlzIEFjdGl2ZU1R\nIG1vZHVsZS4KCiAgICBub2RlIGRlZmF1bHQgewogICAgICBub3RpZnkgeyAn\nYWxwaGEnOiB9CiAgICAgIC0+CiAgICAgIGNsYXNzICB7ICdqYXZhJzoKICAg\nICAgICBkaXN0cmlidXRpb24gPT4gJ2pkaycsCiAgICAgICAgdmVyc2lvbiAg\nICAgID0+ICdsYXRlc3QnLAogICAgICB9CiAgICAgIC0+CiAgICAgIGNsYXNz\nICB7ICdhY3RpdmVtcSc6IH0KICAgICAgLT4KICAgICAgbm90aWZ5IHsgJ29t\nZWdhJzogfQogICAgfQoKIyBDb250YWN0IEluZm9ybWF0aW9uICMKCiAqIEpl\nZmYgTWNDdW5lIDxqZWZmQHB1cHBldGxhYnMuY29tPgogKiBbTW9kdWxlIFNv\ndXJjZSBDb2RlXShodHRwczovL2dpdGh1Yi5jb20vcHVwcGV0bGFicy9wdXBw\nZXRsYWJzLWFjdGl2ZW1xKQoKIyBSZWxhdGVkIFdvcmsgIwoKVGhlIFtsYWI0\nMi1hY3RpdmVtcV0oaHR0cDovL2ZvcmdlLnB1cHBldGxhYnMuY29tL2xhYjQy\nL2FjdGl2ZW1xKSBtb2R1bGUKcHJvdmlkZWQgbXVjaCBvZiB0aGUgYmFzaXMg\nZm9yIHRoaXMgbW9kdWxlLgoKIyBXZWIgQ29uc29sZSAjCgpUaGUgbW9kdWxl\nIG1hbmFnZXMgdGhlIHdlYiBjb25zb2xlIGJ5IGRlZmF1bHQuICBUaGUgd2Vi\nIGNvbnNvbGUgcG9ydCBpcyB1c3VhbGx5CmxvY2F0ZWQgYXQgcG9ydCA4MTYw\nOgoKICogW2h0dHA6Ly9sb2NhbGhvc3Q6ODE2MC9hZG1pbl0oaHR0cDovL2xv\nY2FsaG9zdDo4MTYwL2FkbWluKQoKVG8gZGlzYWJsZSB0aGlzIGJlaGF2aW9y\nLCBwYXNzIGluIHdlYmNvbnNvbGUgPT4gZmFsc2UgdG8gdGhlIGNsYXNzLiAg\nZS5nLgoKICAgIG5vZGUgZGVmYXVsdCB7CiAgICAgIGNsYXNzIHsgJ2FjdGl2\nZW1xJzoKICAgICAgICB3ZWJjb25zb2xlID0+IGZhbHNlLAogICAgICB9CiAg\nICB9Cgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/simp/pupmod-simp-activemq/contents/README.markdown?ref=master","git":"https://api.github.com/repos/simp/pupmod-simp-activemq/git/blobs/b7d6640d58eb760fb36538fcd2e87b9e98f2b36d","html":"https://github.com/simp/pupmod-simp-activemq/blob/master/README.markdown"}}
+0
+

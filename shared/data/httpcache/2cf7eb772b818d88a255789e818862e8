@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:21:51 GMT
+Etag: W/"e7b27c9acfbaa763e2517d9ba59c38a0"
+Last-Modified: Sun, 26 Nov 2017 01:06:33 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:42E0:50CB:5E53B1CF
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1982
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b95
+{"name":"readme.md","path":"readme.md","sha":"88c43966c8fdff865c3ac7fb1ed5c5e7456a0ff4","size":1632,"url":"https://api.github.com/repos/orf/gping/contents/readme.md?ref=master","html_url":"https://github.com/orf/gping/blob/master/readme.md","git_url":"https://api.github.com/repos/orf/gping/git/blobs/88c43966c8fdff865c3ac7fb1ed5c5e7456a0ff4","download_url":"https://raw.githubusercontent.com/orf/gping/master/readme.md","type":"file","content":"IyBncGluZyBbIVtTbmFwIFN0YXR1c10oaHR0cHM6Ly9idWlsZC5zbmFwY3Jh\nZnQuaW8vYmFkZ2Uvb3JmL2dwaW5nLnN2ZyldKGh0dHBzOi8vYnVpbGQuc25h\ncGNyYWZ0LmlvL3VzZXIvb3JmL2dwaW5nKSAhW10oaHR0cHM6Ly9pbWcuc2hp\nZWxkcy5pby9weXBpL3YvcGluZ2dyYXBoLnN2ZykgIVtdKCAJaHR0cHM6Ly9p\nbWcuc2hpZWxkcy5pby9weXBpL3B5dmVyc2lvbnMvcGluZ2dyYXBoLnN2Zykg\nIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vcHlwaS9mb3JtYXQvcGluZ2dy\nYXBoLnN2ZykKUGluZywgYnV0IHdpdGggYSBncmFwaAoKIVtdKC9kb2MvcmVh\nZG1lX3NjcmVlbmNhc3QuZ2lmKQoKIyMgSW5zdGFsbCBhbmQgcnVuCgpJZiB5\nb3UncmUgdXNpbmcgTGludXggeW91IGNhbiBpbnN0YWxsIGdwaW5nIHVzaW5n\nIGBzbmFwYDoKCmBzdWRvIHNuYXAgaW5zdGFsbCBncGluZyAmJiBzdWRvIHNu\nYXAgY29ubmVjdCBncGluZzpuZXR3b3JrLW9ic2VydmVgCgpUaGVuIGp1c3Qg\nZXhlY3V0ZSBhcyB1c3VhbCB1c2luZyB0aGUgYGdwaW5nYCBjb21tYW5kLgoK\nIyMjIFVzaW5nIHBpcAoKQ3JlYXRlZC90ZXN0ZWQgd2l0aCBQeXRob24gMy40\nIGFuZCAyLjcuCgpgcGlwMyBpbnN0YWxsIHBpbmdncmFwaGAKClRlc3RlZCBv\nbiBXaW5kb3dzLCBVYnVudHUgYW5kIE9TIFguIEFmdGVyIGluc3RhbGxhdGlv\nbiBqdXN0IHJ1bjoKCmBncGluZyBbeW91cmhvc3RdYAoKSWYgeW91IGRvbid0\nIGdpdmUgYSBob3N0IHRoZW4gaXQgcGluZ3MgZ29vZ2xlLgoKIyMgV2h5PwpN\neSBhcGFydG1lbnRzIGludGVybmV0IGlzIGFsbCA0ZywgYW5kIHdoaWxlIGl0\nJ3Mgbm9ybWFsbHkgcHJldHR5IGZhc3QgaXQgY2FuIGJlIGEgYml0IGZsYWtl\neS4gSSBvZnRlbgpmb3VuZCBteXNlbGYgcnVubmluZyBgcGluZyAtdCBnb29n\nbGUuY29tYCBpbiBhIGNvbW1hbmQgd2luZG93IHRvIGdldCBhIHJvdWdoIGlk\nZWEgb2YgdGhlIG5ldHdvcmsgc3BlZWQsCmFuZCBJIHRob3VnaHQgYSBncmFw\naCB3b3VsZCBiZSBhIGdyZWF0IHdheSB0byB2aXN1YWxpemUgdGhlIGRhdGEu\nIEkgc3RpbGwgd2FudGVkIHRvIGp1c3QgdXNlIHRoZSBjb21tYW5kCmxpbmUg\ndGhvdWdoLCBzbyBJIGRlY2lkZWQgdG8gdHJ5IGFuZCB3cml0ZSBhIGNyb3Nz\nIHBsYXRmb3JtIG9uZSB0aGF0IEkgY291bGQgdXNlLiBBbmQgaGVyZSB3ZSBh\ncmUuCgoKIyMgQ29kZQpGb3IgYSBxdWljayBoYWNrIHRoZSBjb2RlIHN0YXJ0\nZWQgb2ZmIHJlYWxseSBuaWNlLCBidXQgYWZ0ZXIgSSBkZWNpZGVkIHByZXR0\neSBjb2xvcnMKd2VyZSBhIGdvb2QgYWRkaXRpb24gaXQgcXVpY2tseSBnb3Qg\ncmF0aGVyIGNvbXBsaWNhdGVkLiBJbnNpZGUgcGluZ2VyLnB5CmlzIGEgZnVu\nY3Rpb24gYHBsb3QoKWAsIHRoaXMgdXNlcyBhIGNhbnZhcy1saWtlIG9iamVj\ndCB0byAiZHJhdyIgdGhpbmdzIGxpa2UgbGluZXMKYW5kIGJveGVzIHRvIHRo\nZSBzY3JlZW4uIEkgZm91bmQgb24gV2luZG93cyB0aGF0IGNoYW5naW5nIHRo\nZSBjb2xvcnMgaXMgc2xvdyBhbmQKY2F1c2VkIHRoZSBzY3JlZW4gdG8gZmxp\nY2tlciwgc28gdGhlcmVzIGEgYmlnIG1lc3Mgb2YgYSBmdW5jdGlvbiBjYWxs\nZWQgYHByb2Nlc3NfY29sb3JzYAp0byB0cnkgYW5kIG9wdGltaXplIHRoYXQu\nIERvbid0IGFzay4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/orf/gping/contents/readme.md?ref=master","git":"https://api.github.com/repos/orf/gping/git/blobs/88c43966c8fdff865c3ac7fb1ed5c5e7456a0ff4","html":"https://github.com/orf/gping/blob/master/readme.md"}}
+0
+

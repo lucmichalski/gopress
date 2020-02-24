@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:08:58 GMT
+Etag: W/"524402b5cd6944898dab4ba864259aa6"
+Last-Modified: Wed, 30 Oct 2013 21:25:50 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:4F64C:5F039:5E53AECA
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4251
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+85c
+{"name":"README","path":"README","sha":"6a3e9380b7180b37b95214ec4df920b31770845f","size":1007,"url":"https://api.github.com/repos/oblique/wificurse/contents/README?ref=master","html_url":"https://github.com/oblique/wificurse/blob/master/README","git_url":"https://api.github.com/repos/oblique/wificurse/git/blobs/6a3e9380b7180b37b95214ec4df920b31770845f","download_url":"https://raw.githubusercontent.com/oblique/wificurse/master/README","type":"file","content":"VGhpcyBwcm9ncmFtIGxpc3RlbnMgZm9yIGJlYWNvbnMgc2VudCBmcm9tIHdp\ncmVsZXNzIGFjY2VzcyBwb2ludHMKaW4gdGhlIHJhbmdlIG9mIHlvdXIgd2ly\nZWxlc3Mgc3RhdGlvbi4gT25jZSByZWNlaXZlZCB0aGUgcHJvZ3JhbQpleHRy\nYWN0cyB0aGUgQlNTSUQgb2YgdGhlIEFQIGFuZCB0cmFuc21pdHMgZGVhdXRo\nZW50aWNhdGlvbiBwYWNrZXRzCnVzaW5nIHRoZSBicm9hZGNhc3QgTUFDIGFk\nZHJlc3MuIFRoaXMgcmVzdWx0cyB0byB0aGUgZGlzY29ubmVjdGlvbgpvZiBh\nbGwgY2xpZW50cyBjb25uZWN0ZWQgdG8gdGhlIEFQIGF0IHRoZSB0aW1lIG9m\nIHRoZSBhdHRhY2suIFRoaXMKaXMgZXNzZW5jaWFsbHkgYSBXaUZpIERvUyBh\ndHRhY2sgdG9vbCBjcmVhdGVkIGZvciBlZHVjYXRpb25hbApwdXJwb3NlcyBv\nbmx5LiBJdCB3b3JrcyBvbmx5IGluIExpbnV4IGFuZCByZXF1aXJlcyB3aXJl\nbGVzcyBjYXJkCmRyaXZlcnMgY2FwYWJsZSBvZiBpbmplY3RpbmcgcGFja2V0\ncyBpbiB3aXJlbGVzcyBuZXR3b3Jrcy4KCkhvdyB0byB1c2UgaXQ6IEp1c3Qg\ncnVuIGl0IGFzIHJvb3QgYW5kIHB1dCBhcyBmaXJzdCBhcmd1bWVudCB0aGUK\nY2FyZCBpbnRlcmZhY2UuIEl0IHdpbGwgYXV0b21hdGljYWxseSBwdXQgeW91\nciBpbnRlcmZhY2UgaW4gbW9uaXRvcgptb2RlIGFuZCBpdCB3aWxsIGxpc3Rl\nbiBhdCBjaGFubmVsIHJhbmdlIDEtMTQuIElmIHRoZXJlIGlzIG5vIEFQIGlu\nIHRoZQpjaGFubmVsLCBpdCB3aWxsIGNoYW5nZSBjaGFubmVsIGV2ZXJ5IDEg\nc2Vjb25kLCBvciBlbHNlIGl0IHdpbGwgc3RhcnQKdGhlIGF0dGFjayB3aGlj\naCBpdCB0YWtlcyBhcHByb3hpbWF0ZWx5IDMwIHNlY29uZHMuIEFmdGVyIHRo\nYXQgaXQgd2lsbApjaGFuZ2UgY2hhbm5lbC4KCgpjb21waWxlOgogICAgbWFr\nZQoKaW5zdGFsbDoKICAgIG1ha2UgUFJFRklYPS91c3IgaW5zdGFsbAoKQVJN\nIGNyb3NzLWNvbXBpbGU6CiAgICBtYWtlIENST1NTX0NPTVBJTEU9YXJtLW5v\nbmUtbGludXgtZ251ZWFiaS0=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/oblique/wificurse/contents/README?ref=master","git":"https://api.github.com/repos/oblique/wificurse/git/blobs/6a3e9380b7180b37b95214ec4df920b31770845f","html":"https://github.com/oblique/wificurse/blob/master/README"}}
+0
+

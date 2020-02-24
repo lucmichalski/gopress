@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:20:57 GMT
+Etag: W/"0cb143118fe760337ef3ee2b1b883860"
+Last-Modified: Mon, 21 May 2018 18:32:57 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:C05FF:E6C46:5E53B199
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2147
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a5b
+{"name":"README.md","path":"README.md","sha":"61a71e8e3418773808de05610b5032ee0349203e","size":1353,"url":"https://api.github.com/repos/mazen160/struts-pwn/contents/README.md?ref=master","html_url":"https://github.com/mazen160/struts-pwn/blob/master/README.md","git_url":"https://api.github.com/repos/mazen160/struts-pwn/git/blobs/61a71e8e3418773808de05610b5032ee0349203e","download_url":"https://raw.githubusercontent.com/mazen160/struts-pwn/master/README.md","type":"file","content":"KnN0cnV0cy1wd24qCj09PT09PT09PT09PQoKIyMjIEFuIGV4cGxvaXQgZm9y\nIEFwYWNoZSBTdHJ1dHMgQ1ZFLTIwMTctNTYzOCAjIyMKCgojICoqVXNhZ2Uq\nKiAjCgojIyBUZXN0aW5nIGEgc2luZ2xlIFVSTC4gIyMKYHB5dGhvbiBzdHJ1\ndHMtcHduLnB5IC0tdXJsICdodHRwOi8vZXhhbXBsZS5jb20vc3RydXRzMi1z\naG93Y2FzZS9pbmRleC5hY3Rpb24nIC1jICdpZCdgCgojIyBUZXN0aW5nIGEg\nbGlzdCBvZiBVUkxzLiAjIwpgcHl0aG9uIHN0cnV0cy1wd24ucHkgLS1saXN0\nICd1cmxzLnR4dCcgLWMgJ2lkJ2AKCiMjIENoZWNraW5nIGlmIHRoZSB2dWxu\nZXJhYmlsaXR5IGV4aXN0cyBhZ2FpbnN0IGEgc2luZ2xlIFVSTC4gIyMKYHB5\ndGhvbiBzdHJ1dHMtcHduLnB5IC0tY2hlY2sgLS11cmwgJ2h0dHA6Ly9leGFt\ncGxlLmNvbS9zdHJ1dHMyLXNob3djYXNlL2luZGV4LmFjdGlvbidgCgojIyBD\naGVja2luZyBpZiB0aGUgdnVsbmVyYWJpbGl0eSBleGlzdHMgYWdhaW5zdCBh\nIGxpc3Qgb2YgVVJMcy4gIyMKYHB5dGhvbiBzdHJ1dHMtcHduLnB5IC0tY2hl\nY2sgLS1saXN0ICd1cmxzLnR4dCdgCgoKIyAqKlJlcXVpcmVtZW50cyoqICMK\nKiBQeXRob24yIG9yIFB5dGhvbjMKKiByZXF1ZXN0cwoKCiMgKipMZWdhbCBE\naXNjbGFpbWVyKiogIwpUaGlzIHByb2plY3QgaXMgbWFkZSBmb3IgZWR1Y2F0\naW9uYWwgYW5kIGV0aGljYWwgdGVzdGluZyBwdXJwb3NlcyBvbmx5LiBVc2Fn\nZSBvZiBzdHJ1dHMtcHduIGZvciBhdHRhY2tpbmcgdGFyZ2V0cyB3aXRob3V0\nIHByaW9yIG11dHVhbCBjb25zZW50IGlzIGlsbGVnYWwuIEl0IGlzIHRoZSBl\nbmQgdXNlcidzIHJlc3BvbnNpYmlsaXR5IHRvIG9iZXkgYWxsIGFwcGxpY2Fi\nbGUgbG9jYWwsIHN0YXRlIGFuZCBmZWRlcmFsIGxhd3MuIERldmVsb3BlcnMg\nYXNzdW1lIG5vIGxpYWJpbGl0eSBhbmQgYXJlIG5vdCByZXNwb25zaWJsZSBm\nb3IgYW55IG1pc3VzZSBvciBkYW1hZ2UgY2F1c2VkIGJ5IHRoaXMgcHJvZ3Jh\nbS4KCgojICoqTGljZW5zZSoqICMKVGhlIHByb2plY3QgaXMgbGljZW5zZWQg\ndW5kZXIgTUlUIExpY2Vuc2UuCgoKIyAqKkF1dGhvcioqICMKKk1hemluIEFo\nbWVkKgoqIFdlYnNpdGU6IFtodHRwczovL21hemluYWhtZWQubmV0XShodHRw\nczovL21hemluYWhtZWQubmV0KQoqIEVtYWlsOiAqbWF6aW4gQVQgbWF6aW5h\naG1lZCBET1QgbmV0KgoqIFR3aXR0ZXI6IFtodHRwczovL3R3aXR0ZXIuY29t\nL21hemVuMTYwXShodHRwczovL3R3aXR0ZXIuY29tL21hemVuMTYwKQoqIExp\nbmtlZGluOiBbaHR0cDovL2xpbmtlZGluLmNvbS9pbi9pbmZvc2VjbWF6aW5h\naG1lZF0oaHR0cDovL2xpbmtlZGluLmNvbS9pbi9pbmZvc2VjbWF6aW5haG1l\nZCkK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/mazen160/struts-pwn/contents/README.md?ref=master","git":"https://api.github.com/repos/mazen160/struts-pwn/git/blobs/61a71e8e3418773808de05610b5032ee0349203e","html":"https://github.com/mazen160/struts-pwn/blob/master/README.md"}}
+0
+

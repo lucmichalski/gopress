@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:53 GMT
+Etag: W/"28853d3557b227ead26dafd4648c0e8e"
+Last-Modified: Thu, 29 Aug 2019 14:16:09 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:6C482:811D2:5E53AFB5
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3574
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+8a5
+{"name":"README.md","path":"README.md","sha":"d516e6d94f100820821e665e5776e8ed19b58abd","size":1024,"url":"https://api.github.com/repos/ajkhoury/UEFI-Bootkit/contents/README.md?ref=master","html_url":"https://github.com/ajkhoury/UEFI-Bootkit/blob/master/README.md","git_url":"https://api.github.com/repos/ajkhoury/UEFI-Bootkit/git/blobs/d516e6d94f100820821e665e5776e8ed19b58abd","download_url":"https://raw.githubusercontent.com/ajkhoury/UEFI-Bootkit/master/README.md","type":"file","content":"IyBVRUZJLUJvb3RraXQKCkEgc21hbGwgYm9vdGtpdCBkZXNpZ25lZCB0byB1\nc2UgemVybyBhc3NlbWJseS4gTWFrZSBzdXJlIHRvIGNvbXBpbGUgdGhlIGRy\naXZlciBhcyBhbiBFRkkgUnVudGltZSBkcml2ZXIgKEVGSV9SVU5USU1FX0RS\nSVZFUikgb3IgZWxzZSB0aGUgYm9vdGtpdCB3aWxsIGJlIGZyZWVkIG9uY2Ug\nd2lubG9hZC5lZmkgY2FsbHMgRXhpdEJvb3RTZXJ2aWNlcyEKClRoYW5rcyB0\nbyBbZHJlYW1ib290XShodHRwczovL2dpdGh1Yi5jb20vcXVhcmtzbGFiL2Ry\nZWFtYm9vdCksIGFuZCBbVmlzdWFsVUVGSV0oaHR0cHM6Ly9naXRodWIuY29t\nL2lvbmVzY3UwMDcvVmlzdWFsVWVmaSkKCgojIyBMaWNlbnNlCkNvcHlyaWdo\ndCAoQykgMjAxNi0yMDE5IEFpZGFuIEtob3VyeSAoYWpraG91cnkpLCBRdWFy\na3NsYWIKClRoaXMgcHJvZ3JhbSBpcyBmcmVlIHNvZnR3YXJlOiB5b3UgY2Fu\nIHJlZGlzdHJpYnV0ZSBpdCBhbmQvb3IgbW9kaWZ5Cml0IHVuZGVyIHRoZSB0\nZXJtcyBvZiB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgYXMgcHVi\nbGlzaGVkIGJ5CnRoZSBGcmVlIFNvZnR3YXJlIEZvdW5kYXRpb24sIGVpdGhl\nciB2ZXJzaW9uIDMgb2YgdGhlIExpY2Vuc2UsIG9yCihhdCB5b3VyIG9wdGlv\nbikgYW55IGxhdGVyIHZlcnNpb24uCgpUaGlzIHByb2dyYW0gaXMgZGlzdHJp\nYnV0ZWQgaW4gdGhlIGhvcGUgdGhhdCBpdCB3aWxsIGJlIHVzZWZ1bCwKYnV0\nIFdJVEhPVVQgQU5ZIFdBUlJBTlRZOyB3aXRob3V0IGV2ZW4gdGhlIGltcGxp\nZWQgd2FycmFudHkgb2YKTUVSQ0hBTlRBQklMSVRZIG9yIEZJVE5FU1MgRk9S\nIEEgUEFSVElDVUxBUiBQVVJQT1NFLiAgU2VlIHRoZQpHTlUgR2VuZXJhbCBQ\ndWJsaWMgTGljZW5zZSBmb3IgbW9yZSBkZXRhaWxzLgoKWW91IHNob3VsZCBo\nYXZlIHJlY2VpdmVkIGEgY29weSBvZiB0aGUgR05VIEdlbmVyYWwgUHVibGlj\nIExpY2Vuc2UKYWxvbmcgd2l0aCB0aGlzIHByb2dyYW0uICBJZiBub3QsIHNl\nZSA8aHR0cDovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/ajkhoury/UEFI-Bootkit/contents/README.md?ref=master","git":"https://api.github.com/repos/ajkhoury/UEFI-Bootkit/git/blobs/d516e6d94f100820821e665e5776e8ed19b58abd","html":"https://github.com/ajkhoury/UEFI-Bootkit/blob/master/README.md"}}
+0
+

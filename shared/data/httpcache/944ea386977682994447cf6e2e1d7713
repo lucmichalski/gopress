@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:54 GMT
+Etag: W/"b1cb8b387248eedae8c6069747d1a129"
+Last-Modified: Sat, 22 Feb 2020 02:12:11 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:56276:67022:5E53AF02
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4070
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+6b2
+{"name":"README.md","path":"README.md","sha":"ab9e6c521d6b9e3d76679497456714096e196702","size":601,"url":"https://api.github.com/repos/MatthewDemaske/ThreatHuntingStuff/contents/README.md?ref=master","html_url":"https://github.com/MatthewDemaske/ThreatHuntingStuff/blob/master/README.md","git_url":"https://api.github.com/repos/MatthewDemaske/ThreatHuntingStuff/git/blobs/ab9e6c521d6b9e3d76679497456714096e196702","download_url":"https://raw.githubusercontent.com/MatthewDemaske/ThreatHuntingStuff/master/README.md","type":"file","content":"IyBUaHJlYXRIdW50aW5nU3R1ZmYKCkxvdHMgb2Ygc3R1ZmYgY29taW5nIHNv\nb24uIE5lZWQgdG8gc3RhcnQgZHVtcGluZyBteSBmYXZvcml0ZSBTcGx1bmsg\ncXVlcmllcy4gQ29tcGFueSBpcyBjdXJyZW50bHkgc3dpdGNoaW5nIHdlYmhv\nc3RzLCBzbyBwYXN0IGJsb2cgbWF0ZXJpYWwgaXMgdW5hdmFpbGFibGUgYXRt\nLiBJIGRpZCB1cGxvYWQgYSBsb2NhbCBIVE1MIGNvcHkgb2YgdGhlIG5ldHNo\nZWxsIGhlbHBlciBETEwgcGVyc2lzdGVuY2UvbG9hZGluZyB0ZWNobmlxdWUg\nZHVlIHRvIGl0IG1ha2luZyBNaXRyZSdzIEFUVCZDSyBtYXRyaXggdGhpcyBt\nb250aC4gVGhlIGxpbmsgb24gdGhlIE1JVFJFIHdpa2kgaXMgYnJva2VuLiAK\nCmh0dHBzOi8vYXR0YWNrLm1pdHJlLm9yZy93aWtpL1RlY2huaXF1ZS9UMTEy\nOAoKTGluayB0byBIVE1MIHZpZXcKCmh0dHBzOi8vaHRtbHByZXZpZXcuZ2l0\naHViLmlvLz9odHRwczovL2dpdGh1Yi5jb20vTWF0dGhld0RlbWFza2UvYmxv\nZ2JhY2t1cC9ibG9iL21hc3Rlci9uZXRzaGVsbC5odG1sCgo0LzgvMTcgU2ln\nbWEgcmVwbyBjcmVhdGVkCgpSZWZlcmVuY2U6IGh0dHBzOi8vZ2l0aHViLmNv\nbS9OZW8yM3gwL3NpZ21hCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/MatthewDemaske/ThreatHuntingStuff/contents/README.md?ref=master","git":"https://api.github.com/repos/MatthewDemaske/ThreatHuntingStuff/git/blobs/ab9e6c521d6b9e3d76679497456714096e196702","html":"https://github.com/MatthewDemaske/ThreatHuntingStuff/blob/master/README.md"}}
+0
+

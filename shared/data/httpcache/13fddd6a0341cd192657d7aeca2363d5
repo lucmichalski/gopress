@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:44 GMT
+Etag: W/"07c2a268de965104de0e63fc689f1489"
+Last-Modified: Fri, 07 Feb 2020 09:09:31 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:965D4:B2C46:5E53B114
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2518
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+673
+{"name":"README","path":"README","sha":"478c2fa552f7d7d0398f567f80602533394e10c3","size":624,"url":"https://api.github.com/repos/plougher/squashfs-tools/contents/README?ref=master","html_url":"https://github.com/plougher/squashfs-tools/blob/master/README","git_url":"https://api.github.com/repos/plougher/squashfs-tools/git/blobs/478c2fa552f7d7d0398f567f80602533394e10c3","download_url":"https://raw.githubusercontent.com/plougher/squashfs-tools/master/README","type":"file","content":"R2l0SHViCgpUaGlzIGlzIG5vdyB0aGUgbWFpbiBkZXZlbG9wbWVudCByZXBv\nc2l0b3J5IGZvciBTcXVhc2hmcy1Ub29scy4KClRoZXJlIGFyZSBvbGRlciBy\nZXBvc2l0b3JpZXMgb24gU291cmNlZm9yZ2UgYW5kIGtlcm5lbC5vcmcuICBU\naGVzZQphcmUgY3VycmVudGx5IG91dCBvZiBkYXRlLCBidXQgc2hvdWxkIGJl\nIHVwZGF0ZWQgaW4gdGhlIG5lYXIgZnV0dXJlLgoKVGhlIGtlcm5lbCBkaXJl\nY3RvcmllcyBhcmUgb2Jzb2xldGUsIGFsbCBrZXJuZWwgY29kZSBpcyBub3cg\naW4KbWFpbmxpbmUgYXQgd3d3Lmtlcm5lbC5vcmcuCgprZXJuZWwtMi40OiBJ\nZiB5b3Ugc3RpbGwgbmVlZCBTcXVhc2hmcyBzdXBwb3J0IGluIHRoZSAyLjQg\na2VybmVsCnRoZW4gdXNlIHRoZSBzcXVhc2hmcyAzLjItcjIgcmVsZWFzZS4g\nIFRoaXMgaXMgdGhlIGxhc3QgcmVsZWFzZQp0aGF0IGhhcyBhIE1rc3F1YXNo\nZnMgd2hpY2ggZ2VuZXJhdGVzIGZpbGVzeXN0ZW1zIG1vdW50YWJsZSB3aXRo\nClNxdWFzaGZzIHBhdGNoZWQgMi40IGtlcm5lbHMuICBUaGlzIHJlbGVhc2Ug\naGFzIHBhdGNoZXMgZm9yIDIuNAprZXJuZWxzIChidXQgdGhleSBoYXZlIG5v\ndCBiZWVuIHVwZGF0ZWQgc2luY2UgdGhlIDMuMSByZWxlYXNlKS4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/plougher/squashfs-tools/contents/README?ref=master","git":"https://api.github.com/repos/plougher/squashfs-tools/git/blobs/478c2fa552f7d7d0398f567f80602533394e10c3","html":"https://github.com/plougher/squashfs-tools/blob/master/README"}}
+0
+

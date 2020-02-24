@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:24:08 GMT
+Etag: W/"904d91ce44db7cf605e88836cc8e74bf"
+Last-Modified: Sat, 21 Sep 2013 12:43:06 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:F13D:12043:5E53B258
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1568
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+84e
+{"name":"README.md","path":"README.md","sha":"4747f2a89417665004550f31afc772d36f868b39","size":984,"url":"https://api.github.com/repos/rjw57/hdcp-genkey/contents/README.md?ref=master","html_url":"https://github.com/rjw57/hdcp-genkey/blob/master/README.md","git_url":"https://api.github.com/repos/rjw57/hdcp-genkey/git/blobs/4747f2a89417665004550f31afc772d36f868b39","download_url":"https://raw.githubusercontent.com/rjw57/hdcp-genkey/master/README.md","type":"file","content":"IyBIRENQIEtleSBHZW5lcmF0aW9uIEV4YW1wbGUKClRoaXMgc2NyaXB0IGlt\ncGxlbWVudHMgYSBzaW1wbGUgdmVyc2lvbiBvZiB0aGUgSERDUCBrZXkgZ2Vu\nZXJhdGlvbiBhbGdvcml0aG0gaW4KUHl0aG9uIHVzaW5nIHRoZSBsZWFrZWQg\nSERDUCBtYXN0ZXIga2V5ICh3aGljaCBpcyBsb2NhdGVkIGluIG1hc3Rlci1r\nZXkudHh0KS4KCmBgYApVc2FnZTogZ2VuZXJhdGVfa2V5LnB5IFtvcHRpb25z\nXQoKT3B0aW9uczoKICAtaCwgLS1oZWxwICAgICAgICAgICAgc2hvdyB0aGlz\nIGhlbHAgbWVzc2FnZSBhbmQgZXhpdAogIC1tIEZJTEUsIC0tbWFzdGVyPUZJ\nTEUKICAgICAgICAgICAgICAgICAgICAgICAgbG9hZCBtYXN0ZXIga2V5IGZy\nb20gRklMRQogIC1rLCAtLXNpbmsgICAgICAgICAgICBnZW5lcmF0ZSBhIHNp\nbmsga2V5IHJhdGhlciB0aGFuIGEgc291cmNlIGtleQogIC0ta3N2PUtTViAg\nICAgICAgICAgICB1c2UgYSBzcGVjaWZpYyBLU1YgZXhwcmVzc2VkIGluIGhl\neGFkZWNpbWFsCiAgLWosIC0tanNvbiAgICAgICAgICAgIG91dHB1dCBrZXkg\nYW5kIEtTViBhcyBKU09OCiAgLXQsIC0tdGVzdCAgICAgICAgICAgIGdlbmVy\nYXRlIHNvdXJjZSBhbmQgc2luayBrZXlzIGFuZCB0ZXN0IHRoZXkgd29yawpg\nYGAKCkV4YW1wbGVzOgoKYGBgYmFzaAojIEdlbmVyYXRlIGEgc2luayBrZXkg\nd2l0aCBLU1YgMHg1NGYwYWYzOWE4IGFuZCBvdXRwdXQgdGhlIHJlc3VsdCBp\nbiBKU09OCi4vZ2VuZXJhdGVfa2V5LnB5IC1rIC0ta3N2IDU0ZjBhZjM5YTgg\nLWoKCiMgR2VuZXJhdGUgYSBzb3VyY2Uga2V5IHdpdGggYSByYW5kb20gS1NW\nIGFuZCBvdXRwdXQgdGhlIHJlc3VsdCBpbiBhIAojIGh1bWFuLXJlYWRhYmxl\nIGZvcm0KLi9nZW5lcmF0ZV9rZXkucHkKCiMgUnVuIGEgc2VsZi10ZXN0IHRv\nIG1ha2Ugc3VyZSB0aGUgc291cmNlIGEgc2luayBrZXkgZ2VuZXJhdGlvbiBp\ncyBjb25zaXN0ZW50Ci4vZ2VuZXJhdGVfa2V5LnB5IC10CmBgYAoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/rjw57/hdcp-genkey/contents/README.md?ref=master","git":"https://api.github.com/repos/rjw57/hdcp-genkey/git/blobs/4747f2a89417665004550f31afc772d36f868b39","html":"https://github.com/rjw57/hdcp-genkey/blob/master/README.md"}}
+0
+

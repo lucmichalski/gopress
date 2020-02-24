@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:32:50 GMT
+Etag: W/"a35844b96405251e38aea86baf2b1579"
+Last-Modified: Fri, 24 Nov 2017 15:44:41 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:37539:424EF:5E53B461
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 212
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+8cf
+{"name":"README.MD","path":"README.MD","sha":"0b57cb76bf9aca9d418036584f1543f0f71d68c9","size":1086,"url":"https://api.github.com/repos/aserper/DDEtect/contents/README.MD?ref=master","html_url":"https://github.com/aserper/DDEtect/blob/master/README.MD","git_url":"https://api.github.com/repos/aserper/DDEtect/git/blobs/0b57cb76bf9aca9d418036584f1543f0f71d68c9","download_url":"https://raw.githubusercontent.com/aserper/DDEtect/master/README.MD","type":"file","content":"IyBEREV0ZWN0CldyaXR0ZW4gYnkgQW1pdCBTZXJwZXIsIFtAMHhBbWl0XSho\ndHRwOi8vdHdpdHRlci5jb20vMHhBbWl0KQpEREV0ZWN0b3IgaXMgYSBzaW1w\nbGUgRERFIG9iamVjdCBkZXRlY3RvciB3cml0dGVuIGluIHB5dGhvbgoKICAt\nIEN1cnJlbnRseSBzdXBwb3J0cyBvbmx5IHdvcmQgRE9DWCBhbmQgbGVnYWN5\nIERPQyBmaWxlcwogIC0gUHJpbnRzIHRoZSBjb250ZW50cyBvZiB0aGUgRERF\nIHBheWxvYWRzIChOb3RlOiBJbiBzb21lIGNhc2VzIERERXRlY3Qgd29uJ3Qg\ncHJpbnQgdGhlIGVudGlyZSBEREUgcGF5bG9hZC4gSSdtIHdvcmtpbmcgb24g\nd3JpdGluZyBhIGJldHRlciBtYXRjaGluZyBhbGdvcml0aG0pCiAgLSBNb3Jl\nIGZlYXR1cmVzIGNvbWluZyBzb29uLi4uCgojIyMgTm90ZXMKVGhpcyB3YXMg\nZG9uZSBxdWljay1uLWRpcnR5LiBJJ20gc3VyZSB0aGF0IHRoZXJlIGlzIGEg\nYmV0dGVyIGFuZCBtb3JlIGVsZWdhbnQgd2F5IG9mIGRvaW5nIGV2ZXJ5dGhp\nbmcgaW4gaGVyZSBidXQgSSB3YXNuJ3QgZ2l2aW5nIGl0IGEgbG90IG9mIHRo\nb3VnaHQuCkNvbnN0cnVjdGl2ZSBmZWVkYmFjayBpcyBhbHdheXMgd2VsY29t\nZSwgdHdpdHRlciBpcyB0aGUgYmVzdCB3YXkgb2YgY29udGFjdGluZyBtZS4g\nVGhpcyBpcyBhIHdvcmsgaW4gcHJvZ3Jlc3MuLi4KCiMjIyBSdW5uaW5nIERE\nRXRlY3RvcgoKRXhlY3V0ZSB0aGUgcHl0aG9uIGZpbGUgYW5kIHN1cHBseSBh\nIHBhdGggdG8gYSBkb2N4IGZpbGUgYXMgYW4gYXJndW1lbnQuIFVzZSB0aGUg\nLWQgYXJndW1lbnQgZm9yIGEgcmVndWxhciBkb2MgZmlsZSBvciAteCBmb3Ig\nYSBkb2N4IGZpbGU6CiFbYWx0IHRleHRdKGh0dHBzOi8vZ2l0aHViLmNvbS9h\nc2VycGVyL0RERXRlY3QvYmxvYi9tYXN0ZXIvZGRldGVjdC5qcGc/cmF3PXRy\ndWUpCkRERXRlY3RvciByZXF1aXJlcyB0aGUgZm9sbG93aW5nIHB5dGhvbiBt\nb2R1bGVzOgotIHppcGZpbGUKLSB4bWx0b2RpY3QKLSBuZXN0ZWRfbG9va3Vw\nCi0gcmUKLSBhcmdwYXJzZQoKCgojIyMgVG9kb3MKLSBGb3JtYXQgYXV0b2Rl\ndGVjdGlvbgotIFN1cHBvcnQgb3RoZXIgb2ZmaWNlIGZvcm1hdHMgKGllLiBl\neGNlbCkK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/aserper/DDEtect/contents/README.MD?ref=master","git":"https://api.github.com/repos/aserper/DDEtect/git/blobs/0b57cb76bf9aca9d418036584f1543f0f71d68c9","html":"https://github.com/aserper/DDEtect/blob/master/README.MD"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:08:05 GMT
+Etag: W/"3bfcaf07b7b2adfb54098177812fe5d6"
+Last-Modified: Wed, 10 Oct 2018 12:10:46 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:55CF6:67804:5E53AE95
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4422
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+898
+{"name":"README.md","path":"README.md","sha":"bbc32894e29cbd8b9db7c6f4dc946666993e6bda","size":1032,"url":"https://api.github.com/repos/samhaxr/XXRF-Shots/contents/README.md?ref=master","html_url":"https://github.com/samhaxr/XXRF-Shots/blob/master/README.md","git_url":"https://api.github.com/repos/samhaxr/XXRF-Shots/git/blobs/bbc32894e29cbd8b9db7c6f4dc946666993e6bda","download_url":"https://raw.githubusercontent.com/samhaxr/XXRF-Shots/master/README.md","type":"file","content":"IyBXaGF0IGlzIFNTUkYgdnVsbmVyYWJpbGl0eT8KU2VydmVyIFNpZGUgUmVx\ndWVzdCBGb3JnZXJ5IChTU1JGKSBpcyBhIHR5cGUgb2YgdnVsbmVyYWJpbGl0\neSBjbGFzcyB3aGVyZSBhdHRhY2tlciBzZW5kcyBjcmFmdGVkIHJlcXVlc3Qg\nZnJvbSBhIHZ1bG5lcmFibGUgd2ViIGFwcGxpY2F0aW9uLCBpbmNsdWRpbmcg\ndGhlIHVuYXV0aG9yaXNlZCBhY2Nlc3MgdG8gdGhlIGludGVybmFsIHJlc291\ncmNlcyBiZWhpbmQgdGhlIGZpcmV3YWxsIHdoaWNoIGFyZSBpbmFjY2Vzc2li\nbGUgZGlyZWN0bHkgZnJvbSB0aGUgZXh0ZXJuYWwgbmV0d29yay4KCiMgSW5z\ndGFsbGF0aW9uIApnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2FyaXlh\nL3BoYW50b21qcy5naXQKCmNkIHBoYW50b21qcwoKY2htb2QgK3ggYnVpbGQu\ncHkKCi4vYnVpbGQucHkKCiMgVXNhZ2UKCi4veHhyZi5zaAoKRW50ZXIgdGhl\nIHVybCB3aXRoIHZ1bG5lcmFibGUgcGFyYW1ldGVyIGFuZCBoaXQgcmV0dXJu\nIGtleS4gVGhlIHNjcmlwdCBpcyBkZXNpZ25lZCB0byBwZXJmb3JtIHR3byBk\naWZmZXJlbnQgdGFza3MuIEF0IGZpcnN0IGl0IHdpbGwgaW5qZWN0IHRoZSBw\nYXlsb2FkIG5leHQgdG8gdGhlIHZ1bG5lcmFibGUgcGFyYW1ldGVyIGFuZCBw\ncm9jZXNzIHRoZSByZXF1ZXN0IHRvIGFub3RoZXIgcHl0aG9uIHNjcmlwdCB3\ncml0dGVuIGJ5IEBtYWFhYXouIFRoZSBweXRob24gc2NyaXB0IHJlcXVpcmVz\nIHBoYW50b21KUyB0byBwZXJmb3JtIHNjcmVlbnNob3QgZnVuY3Rpb24uIEl0\nIHVzZXMgdGhlIGxpc3Qgb2YgaW5qZWN0ZWQgcGF5bG9hZCBhbmQgc2NyZWVu\nc2hvdHMgdGhlbSBhbmQgcGxhY2VzIHRoZW0gaW4gYSBzY3JlZW5zaG90IGRp\ncmVjdG9yeS4KCkV4YW1wbGU6IGh0dHBzOi8vd3d3LmV4YW1wbGUuY29tL2lu\nZGV4LnBocD91cmw9CgojIFlvdXR1YmUKClshW1hYUkYgc2hvdHNdKGh0dHBz\nOi8vaW1nLnlvdXR1YmUuY29tL3ZpL3o5Y3Q0T29SUV9NLzAuanBnKV0oaHR0\ncHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj16OWN0NE9vUlFfTSkK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/samhaxr/XXRF-Shots/contents/README.md?ref=master","git":"https://api.github.com/repos/samhaxr/XXRF-Shots/git/blobs/bbc32894e29cbd8b9db7c6f4dc946666993e6bda","html":"https://github.com/samhaxr/XXRF-Shots/blob/master/README.md"}}
+0
+

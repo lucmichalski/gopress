@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:22:36 GMT
+Etag: W/"71eeb851ab6a751c507214e5827f6447"
+Last-Modified: Mon, 01 Oct 2018 20:06:53 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:80A8:9A00:5E53B1FC
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1849
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+f4b
+{"name":"README.md","path":"README.md","sha":"f7a16835fc7cd6c22e4a289a192c3c2a7359c96e","size":2290,"url":"https://api.github.com/repos/UnaPibaGeek/CBM/contents/README.md?ref=master","html_url":"https://github.com/UnaPibaGeek/CBM/blob/master/README.md","git_url":"https://api.github.com/repos/UnaPibaGeek/CBM/git/blobs/f7a16835fc7cd6c22e4a289a192c3c2a7359c96e","download_url":"https://raw.githubusercontent.com/UnaPibaGeek/CBM/master/README.md","type":"file","content":"IyBDYXIgQmFja2Rvb3IgTWFrZXIKClRoZSBDYXIgQmFja2Rvb3IgTWFrZXIg\naXMgYSBzb2Z0d2FyZSBmb3IgbWFraW5nIGF0dGFjayB0ZW1wbGF0ZXMgYW5k\nIGxvYWQgdGhlbSBpbnRvIFtUaGUgQmljaG9dKGh0dHBzOi8vZ2l0aHViLmNv\nbS9VbmFQaWJhR2Vlay90aGViaWNobykuICAKQmVmb3JlIHN0YXJ0aW5nLCBw\nbGVhc2UgcmVhZCBob3cgdG8gW0dldCBUaGUgQmljaG8gaGFyZHdhcmVdKGh0\ndHBzOi8vZ2l0aHViLmNvbS9VbmFQaWJhR2Vlay90aGViaWNoby93aWtpL0dl\ndHRpbmctVGhlLUJpY2hvLWhhcmR3YXJlKS4KCiMjIFNjcmVuc2hvdAoKPHAg\nYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vd3d3LnNlbWVj\nYXlvdW5leHBsb2l0LmNvbS9DQk0tVEhFQklDSE8vY2JtLXNjcmVlbnNob3Qu\ncG5nIiAvPgo8L3A+CgojIyBJbnN0YWxsIGFuZCBVc2FnZQpUaGlzIHByb2pl\nY3QgaGFzIGl0cyBbd2lraV0oaHR0cHM6Ly9naXRodWIuY29tL1VuYVBpYmFH\nZWVrL0NCTS93aWtpKSB3aGVyZSB5b3Ugd2lsbCBmaW5kIHRoZSBmb2xsb3dp\nbmcgdXNlZnVsIGRvY3VtZW50YXRpb246IAoKKiBbKipJbnN0YWxsYXRpb24q\nKl0oaHR0cHM6Ly9naXRodWIuY29tL1VuYVBpYmFHZWVrL0NCTS93aWtpL0lu\nc3RhbGxhdGlvbikgIAogICogW0NvbXBpbGluZyBmcm9tIHNvdXJjZSBjb2Rl\nXShodHRwczovL2dpdGh1Yi5jb20vVW5hUGliYUdlZWsvQ0JNL3dpa2kvQ29t\ncGlsaW5nLWZyb20tc291cmNlLWNvZGUpICAKICAqIFtSdW5uaW5nIG9uIExp\nbnV4XShodHRwczovL2dpdGh1Yi5jb20vVW5hUGliYUdlZWsvQ0JNL3dpa2kv\nUnVubmluZy1vbi1MaW51eCkgIAogICogW1J1bm5pbmcgb24gV2luZG93c10o\naHR0cHM6Ly9naXRodWIuY29tL1VuYVBpYmFHZWVrL0NCTS93aWtpL1J1bm5p\nbmctb24tV2luZG93cykgIAoqIFsqKkNvbm5lY3QgdG8gVGhlIEJpY2hvKipd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9VbmFQaWJhR2Vlay9DQk0vd2lraS9Db25u\nZWN0LXRvLVRoZS1CaWNobykgIAoqIFsqKkJhc2ljIFNldHVwKipdKGh0dHBz\nOi8vZ2l0aHViLmNvbS9VbmFQaWJhR2Vlay9DQk0vd2lraS9CYXNpYy1TZXR1\ncCkgIAogICogW1NldHVwIHRoZSBDQU4gZnJhbWVzXShodHRwczovL2dpdGh1\nYi5jb20vVW5hUGliYUdlZWsvQ0JNL3dpa2kvU2V0dXAtdGhlLUNBTi1mcmFt\nZXMpICAKICAqIFtTYXZlIGFuIGF0dGFjayB0ZW1wbGF0ZV0oaHR0cHM6Ly9n\naXRodWIuY29tL1VuYVBpYmFHZWVrL0NCTS93aWtpL1NhdmUtYW4tYXR0YWNr\nLXRlbXBsYXRlKSAgCiAgKiBbUmVzdG9yZSBhbiBhdHRhY2sgdGVtcGxhdGVd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9VbmFQaWJhR2Vlay9DQk0vd2lraS9SZXN0\nb3JlLWFuLWF0dGFjay10ZW1wbGF0ZSkgIAoqIFsqKkFkdmFuY2VkIFNldHVw\nKipdKGh0dHBzOi8vZ2l0aHViLmNvbS9VbmFQaWJhR2Vlay9DQk0vd2lraS9B\nZHZhbmNlZC1TZXR1cCkgIAogICogW1RlbC1OdW1iZXIgZmlsdGVyXShodHRw\nczovL2dpdGh1Yi5jb20vVW5hUGliYUdlZWsvQ0JNL3dpa2kvVGVsLU51bWJl\nci1maWx0ZXIpICAKICAqIFtTdG9wIGNvbW1hbmRdKGh0dHBzOi8vZ2l0aHVi\nLmNvbS9VbmFQaWJhR2Vlay9DQk0vd2lraS9TdG9wLWNvbW1hbmQpICAKKiBb\nKipBZHZhbmNlZCBGZWF0dXJlcyoqXShodHRwczovL2dpdGh1Yi5jb20vVW5h\nUGliYUdlZWsvQ0JNL3dpa2kvQWR2YW5jZWQtRmVhdHVyZXMpICAKICAqIFtL\naWxsIEVDVV0oaHR0cHM6Ly9naXRodWIuY29tL1VuYVBpYmFHZWVrL0NCTS93\naWtpL0tpbGwtRUNVKSAgCiAgKiBbRnJhbWVdKGh0dHBzOi8vZ2l0aHViLmNv\nbS9VbmFQaWJhR2Vlay9DQk0vd2lraS9GcmFtZSkgIAogICogW0dQU10oaHR0\ncHM6Ly9naXRodWIuY29tL1VuYVBpYmFHZWVrL0NCTS93aWtpL0dQUykgIAoq\nIFsqKldyaXRlIFRoZSBCaWNobyBtZW1vcnkqKl0oaHR0cHM6Ly9naXRodWIu\nY29tL1VuYVBpYmFHZWVrL0NCTS93aWtpL1dyaXRlLVRoZS1CaWNoby1tZW1v\ncnkpICAKKiBbKipDaGVjayBmb3IgdXBkYXRlcyoqXShodHRwczovL2dpdGh1\nYi5jb20vVW5hUGliYUdlZWsvQ0JNL3dpa2kvQ2hlY2stZm9yLXVwZGF0ZXMp\nICAKCiMjIERpc2NsYWltZXIKKldlIGFyZSBub3QgcmVzcG9uc2libGUgZm9y\nIGJhZCB1c2VzLioKCiMjIEF1dGhvcnMKKiAqU2hlaWxhIEEuIEJlcnRhIC0g\nWyhAVW5hUGliYUdlZWspXShodHRwczovL3d3dy50d2l0dGVyLmNvbS9VbmFQ\naWJhR2VlaykuKiAgCiogKkNsYXVkaW8gQ2FyYWNjaW9sbyAtIFsoQGhvbGVz\nZWMpXShodHRwczovL3d3dy50d2l0dGVyLmNvbS9ob2xlc2VjKS4qCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/UnaPibaGeek/CBM/contents/README.md?ref=master","git":"https://api.github.com/repos/UnaPibaGeek/CBM/git/blobs/f7a16835fc7cd6c22e4a289a192c3c2a7359c96e","html":"https://github.com/UnaPibaGeek/CBM/blob/master/README.md"}}
+0
+

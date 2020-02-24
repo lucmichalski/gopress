@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:15:13 GMT
+Etag: W/"787705d0e0cb22694fe7874497a2106b"
+Last-Modified: Fri, 09 Mar 2018 12:19:41 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:7D121:94FB5:5E53B040
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3158
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+824
+{"name":"README.md","path":"README.md","sha":"5e3e6124b8022bc180123dd8b135660619d0d99c","size":961,"url":"https://api.github.com/repos/hc0d3r/sudohulk/contents/README.md?ref=master","html_url":"https://github.com/hc0d3r/sudohulk/blob/master/README.md","git_url":"https://api.github.com/repos/hc0d3r/sudohulk/git/blobs/5e3e6124b8022bc180123dd8b135660619d0d99c","download_url":"https://raw.githubusercontent.com/hc0d3r/sudohulk/master/README.md","type":"file","content":"IyBTdWRvaHVsawoKVGhpcyB0b29sIGNoYW5nZSBzdWRvIGNvbW1hbmQsIGhv\nb2tpbmcgdGhlIGV4ZWN2ZSBzeXNjYWxsIHVzaW5nIHB0cmFjZSwgdGVzdGVk\nIHVuZGVyIGJhc2ggYW5kIHpzaAoKIyMgc3VwcG9ydGVkIGFyY2hpdGVjdHVy\nZXM6CgotIFt4XSB4ODZfNjQKLSBbeF0geDg2Ci0gW3hdIGFybQoKIyMgSG93\nIHVzZToKCmBgYAokIG1ha2UKY2MgLVdhbGwgLVdleHRyYSAtTzIgLWMgLW8g\nYmluL3NoX3JlbW90ZWRhdGEubyBzcmMvc2hfcmVtb3RlZGF0YS5jCmNjIC1X\nYWxsIC1XZXh0cmEgLU8yIC1jIC1vIGJpbi9zaF9zdHJpbmcubyBzcmMvc2hf\nc3RyaW5nLmMKY2MgLVdhbGwgLVdleHRyYSAtTzIgLWMgLW8gYmluL3N1ZG9o\ndWxrLm8gc3JjL3N1ZG9odWxrLmMKY2MgLVdhbGwgLVdleHRyYSAtTzIgLW8g\nc3Vkb2h1bGsgYmluL3NoX3JlbW90ZWRhdGEubyBiaW4vc2hfc3RyaW5nLm8g\nYmluL3N1ZG9odWxrLm8KJCAuL3N1ZG9odWxrIApzdWRvaHVsayBbLXFka10g\nUElEIENPTU1BTkQgW0FSR1NdCgpPcHRpb25zOgogICAtcSBxdWl0IHdoZW4g\nY2hhbmdlIGEgY29tbWFuZAogICAtZCBydW4gaW4gYmFja2dyb3VuZAogICAt\nayBrZWVwIG9yaWdpbmFsIGNvbW1hbmQgbGluZSAoYXBwZW5kaW5nIHRvIG5l\ndykKYGBgCiMjIE5PVEVTOgoKUElEID0gYmFzaCBvciB6c2ggcGlkCgpUbyBh\ndHRhY2ggdGhlIGN1cnJlbnQgc2Vzc2lvbiB1c2UgLWQgb3B0aW9uLCBleGFt\ncGxlOgoKYGBgCiQgLi9zdWRvaHVsayAtcWQgJCQgaWQKcnVubmluZyBpbiBi\nYWNrZ3JvdW5kLCBwaWQ6MjA4OTkKJCBzdWRvIGxzIC1sYWgKW3N1ZG9dIHNl\nbmhhIHBhcmEgbW14bTogCnVpZD0wKHJvb3QpIGdpZD0wKHJvb3QpIGdydXBv\ncz0wKHJvb3QpCmBgYAoKIyMgRGVtbwpbIVthc2NpaWNhc3RdKGh0dHBzOi8v\nYXNjaWluZW1hLm9yZy9hLzE1OTYyNy5wbmcpXShodHRwczovL2FzY2lpbmVt\nYS5vcmcvYS8xNTk2MjcpCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/hc0d3r/sudohulk/contents/README.md?ref=master","git":"https://api.github.com/repos/hc0d3r/sudohulk/git/blobs/5e3e6124b8022bc180123dd8b135660619d0d99c","html":"https://github.com/hc0d3r/sudohulk/blob/master/README.md"}}
+0
+

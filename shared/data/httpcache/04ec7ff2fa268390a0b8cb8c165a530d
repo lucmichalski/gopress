@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:42 GMT
+Etag: W/"a3f38c031ff9d282e0905c5375388275"
+Last-Modified: Sat, 10 Feb 2018 17:01:26 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:9616C:B271C:5E53B111
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2525
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+84b
+{"name":"README.md","path":"README.md","sha":"7263239461266e3a9c7ee7120539d5aaa46d6115","size":934,"url":"https://api.github.com/repos/azizaltuntas/Pymap-Scanner/contents/README.md?ref=master","html_url":"https://github.com/azizaltuntas/Pymap-Scanner/blob/master/README.md","git_url":"https://api.github.com/repos/azizaltuntas/Pymap-Scanner/git/blobs/7263239461266e3a9c7ee7120539d5aaa46d6115","download_url":"https://raw.githubusercontent.com/azizaltuntas/Pymap-Scanner/master/README.md","type":"file","content":"IyBQeW1hcC1TY2FubmVyCgohW058U29saWRdKGh0dHBzOi8vY2Ftby5naXRo\ndWJ1c2VyY29udGVudC5jb20vMzUyNDg4YzBjYmJhMGU4ZjZkYTExYWUwNzYx\nNDQ0ZGQwYzkzNDg5Yy82ODc0NzQ3MDczM2EyZjJmNjk2ZDY3MmU3MzY4Njk2\nNTZjNjQ3MzJlNjk2ZjJmNjI2MTY0Njc2NTJmNzA3OTc0Njg2ZjZlMmQzMjJl\nMzcyZDYyNmM3NTY1MmU3Mzc2NjcKKSAhW058U29saWRdKGh0dHBzOi8vY2Ft\nby5naXRodWJ1c2VyY29udGVudC5jb20vMjE0NDdmNmU0MWFlYWYwNjE1MjU2\nY2MyMDViM2ViNTFlMjBmNTI1NS82ODc0NzQ3MDczM2EyZjJmNjk2ZDY3MmU3\nMzY4Njk2NTZjNjQ3MzJlNjk2ZjJmNjI2MTY0Njc2NTJmNTM3NTcwNzA2Zjcy\nNzQ2NTY0MjUzMjMwNGY1MzJkNGM2OTZlNzU3ODJkNjc3MjY1NjU2ZTJlNzM3\nNjY3CikgIVtOfFNvbGlkXShodHRwczovL2NhbW8uZ2l0aHVidXNlcmNvbnRl\nbnQuY29tLzNiNjUzOWFjNjM2MzVkY2RkNTU3OTE3MzgwM2U1NjBhYWRiMGMw\nOTQvNjg3NDc0NzA3MzNhMmYyZjYyNjE2NDY3NjU3MzJlNjY3MjYxNzA3MzZm\nNjY3NDJlNjM2ZjZkMmY2ZjczMmY2ZDY5NzQyZjZkNjk3NDJlNzA2ZTY3M2Y3\nNjNkMzEzMDMzKQoKIyMjIEZlYXR1cmVzCmBgYHNoCjEtQmFzaWMgR3VpCjIt\nU3BlZWQgU2NhbgozLUN1c3RvbSBTZXJ2aWNlcwo0LVVzZXIgQ29udHJvbAo1\nLUVycm9yIENvbnRyb2wKNi1Vc2VmdWwgcGFyYW1ldGVycwoKQW5kIE1vcmUu\nCgpgYGAKCiMjIyBJbnN0YWxsYXRpb24gTW9kdWxlcwpgYGBzaAokIFB5cXQ0\nCiQgTm1hcApgYGAKCiMjIyBSZXF1aXJlbWVudHMoVGhpcmQpCmBgYHNoClsr\nXXhzbHRwcm9jCmBgYAoKIyMjICtTQ1JFRU5TSE9UCgohW058U29saWRdKGh0\ndHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9heml6YWx0dW50YXMv\nUHltYXAtU2Nhbm5lci9tYXN0ZXIvaW1nL2F0LnBuZykKCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/azizaltuntas/Pymap-Scanner/contents/README.md?ref=master","git":"https://api.github.com/repos/azizaltuntas/Pymap-Scanner/git/blobs/7263239461266e3a9c7ee7120539d5aaa46d6115","html":"https://github.com/azizaltuntas/Pymap-Scanner/blob/master/README.md"}}
+0
+

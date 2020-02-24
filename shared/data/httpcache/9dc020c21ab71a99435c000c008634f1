@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:05:14 GMT
+Etag: "28f0627c93281062b6ff88f3e802e6ce"
+Last-Modified: Thu, 27 Jun 2013 22:40:28 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 304 Not Modified
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-From-Cache: 1
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:3EBB9:4BCB0:5E53ADE9
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4805
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+6c9
+{"name":"README","path":"README","sha":"fd3ac233f764fbfd012c8aa8b67c0a4231efd558","size":696,"url":"https://api.github.com/repos/rshipp/slipm-honeypot/contents/README?ref=master","html_url":"https://github.com/rshipp/slipm-honeypot/blob/master/README","git_url":"https://api.github.com/repos/rshipp/slipm-honeypot/git/blobs/fd3ac233f764fbfd012c8aa8b67c0a4231efd558","download_url":"https://raw.githubusercontent.com/rshipp/slipm-honeypot/master/README","type":"file","content":"VGhpcyBpcyBhIHNpbXBsZSBsb3ctaW50ZXJhY3Rpb24gcG9ydCBtb25pdG9y\naW5nIGhvbmV5cG90LCBkZXNpZ25lZApwcmltYXJpbHkgZm9yIHJlc2VhcmNo\nIGFuZCBkZXRlY3Rpb24gcHVycG9zZXMuIEl0IHVzZXMgbmV0Y2F0IGFzIGEK\ncG9ydCBsaXN0ZW5lciwgdHNoYXJrIHRvIGF0dGVtcHQgdG8gY2FwdHVyZSBh\ndHRhY2sgdHJhZmZpYywgYW5kIChieQpkZWZhdWx0KSBub3RpZnktc2VuZCB0\nbyBhbGVydCB0aGUgdXNlciB3aGVuIGEgcG9zc2libGUgYXR0YWNrIGlzCmRl\ndGVjdGVkLiBUaGUgaG9uZXlwb3QgaXRzZWxmIGlzIHdyaXR0ZW4gaW4gYmFz\naCwgYW5kIGFsbG93cyBmb3IgZWFzeQpleHRlbnNpb24gb2YgZW11bGF0ZWQg\nc2VydmljZXMgd2l0aCBhZGRpdGlvbmFsIGJhc2ggc2NyaXB0cy4gSW4gb3Jk\nZXIKdG8gaW5jcmVhc2Ugc2VjdXJpdHksIHRoZSBzY3JpcHQgc2hvdWxkIE5P\nVCBiZSBydW4gYXMgcm9vdCwgb3Igd2l0aAphbnkgZWxldmF0ZWQgcHJpdmVs\nYWdlcy4gQWxsIGl0IG5lZWRzIGlzIHRoZSBhYmlsaXR5IHRvIHJ1biB0aGUK\ncmVxdWlyZWQgcHJvZ3JhbXMsIHJlYWQgcGVybWlzc2lvbnMgb24gaXRzIHBs\ndWdpbnMgYW5kCmNvbmZpZ3VyYXRpb24sIGFuZCB3cml0ZSBwZXJtaXNzaW9u\ncyBpbiB3aGF0ZXZlciBkaXJlY3RvcnkgeW91IApjaG9vc2UgdG8gc2F2ZSB0\naGUgbG9ncyBhbmQgaW4gL3RtcC4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/rshipp/slipm-honeypot/contents/README?ref=master","git":"https://api.github.com/repos/rshipp/slipm-honeypot/git/blobs/fd3ac233f764fbfd012c8aa8b67c0a4231efd558","html":"https://github.com/rshipp/slipm-honeypot/blob/master/README"}}
+0
+

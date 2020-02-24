@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:21:42 GMT
+Etag: W/"c6e1f4ad811127c93f7b1aed0892a071"
+Last-Modified: Tue, 13 Aug 2019 12:02:43 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:3775:4312:5E53B1C6
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2010
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d58
+{"name":"README.rst","path":"README.rst","sha":"ab3ce6ffaf5aed319b3793d4cc2f7cbb89311594","size":1913,"url":"https://api.github.com/repos/pyserial/pyserial/contents/README.rst?ref=master","html_url":"https://github.com/pyserial/pyserial/blob/master/README.rst","git_url":"https://api.github.com/repos/pyserial/pyserial/git/blobs/ab3ce6ffaf5aed319b3793d4cc2f7cbb89311594","download_url":"https://raw.githubusercontent.com/pyserial/pyserial/master/README.rst","type":"file","content":"PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiBweVNlcmlhbCAg\nfGJ1aWxkLXN0YXR1c3wgfGRvY3N8Cj09PT09PT09PT09PT09PT09PT09PT09\nPT09PT09PT09PQoKT3ZlcnZpZXcKPT09PT09PT0KVGhpcyBtb2R1bGUgZW5j\nYXBzdWxhdGVzIHRoZSBhY2Nlc3MgZm9yIHRoZSBzZXJpYWwgcG9ydC4gSXQg\ncHJvdmlkZXMgYmFja2VuZHMKZm9yIFB5dGhvbl8gcnVubmluZyBvbiBXaW5k\nb3dzLCBPU1gsIExpbnV4LCBCU0QgKHBvc3NpYmx5IGFueSBQT1NJWCBjb21w\nbGlhbnQKc3lzdGVtKSBhbmQgSXJvblB5dGhvbi4gVGhlIG1vZHVsZSBuYW1l\nZCAic2VyaWFsIiBhdXRvbWF0aWNhbGx5IHNlbGVjdHMgdGhlCmFwcHJvcHJp\nYXRlIGJhY2tlbmQuCgotIFByb2plY3QgSG9tZXBhZ2U6IGh0dHBzOi8vZ2l0\naHViLmNvbS9weXNlcmlhbC9weXNlcmlhbAotIERvd25sb2FkIFBhZ2U6IGh0\ndHBzOi8vcHlwaS5weXRob24ub3JnL3B5cGkvcHlzZXJpYWwKCkJTRCBsaWNl\nbnNlLCAoQykgMjAwMS0yMDE3IENocmlzIExpZWNodGkgPGNsaWVjaHRpQGdt\neC5uZXQ+CgoKRG9jdW1lbnRhdGlvbgo9PT09PT09PT09PT09CkZvciBBUEkg\nZG9jdW1lbnRhdGlvbiwgdXNhZ2UgYW5kIGV4YW1wbGVzIHNlZSBmaWxlcyBp\nbiB0aGUgImRvY3VtZW50YXRpb24iCmRpcmVjdG9yeS4gIFRoZSAiLnJzdCIg\nZmlsZXMgY2FuIGJlIHJlYWQgaW4gYW55IHRleHQgZWRpdG9yIG9yIGJlaW5n\nIGNvbnZlcnRlZCB0bwpIVE1MIG9yIFBERiB1c2luZyBTcGhpbnhfLiBBbiBI\nVE1MIHZlcnNpb24gaXMgb25saW5lIGF0Cmh0dHBzOi8vcHl0aG9uaG9zdGVk\nLm9yZy9weXNlcmlhbC8KCkV4YW1wbGVzCj09PT09PT09CkV4YW1wbGVzIGFu\nZCB1bml0IHRlc3RzIGFyZSBpbiB0aGUgZGlyZWN0b3J5IGV4YW1wbGVzXy4K\nCgpJbnN0YWxsYXRpb24KPT09PT09PT09PT09CmBgcGlwIGluc3RhbGwgcHlz\nZXJpYWxgYCBzaG91bGQgd29yayBmb3IgbW9zdCB1c2Vycy4KCkRldGFpbGVk\nIGluZm9ybWF0aW9uIGNhbiBiZSBmb3VuZCBpbiBgZG9jdW1lbnRhdGlvbi9w\neXNlcmlhbC5yc3RgXy4KClRoZSB1c3VhbCBzZXR1cC5weSBmb3IgUHl0aG9u\nXyBsaWJyYXJpZXMgaXMgdXNlZCBmb3IgdGhlIHNvdXJjZSBkaXN0cmlidXRp\nb24uCldpbmRvd3MgaW5zdGFsbGVycyBhcmUgYWxzbyBhdmFpbGFibGUgKHNl\nZSBkb3dubG9hZCBsaW5rIGFib3ZlKS4KCm9yCgpUbyBpbnN0YWxsIHRoaXMg\ncGFja2FnZSB3aXRoIGNvbmRhIHJ1bjogICAKCmBgY29uZGEgaW5zdGFsbCAt\nYyBjb25kYS1mb3JnZSBweXNlcmlhbGBgICAgCgpjb25kYSBidWlsZHMgYXJl\nIGF2YWlsYWJsZSBmb3IgbGludXgsIG1hYyBhbmQgd2luZG93cy4KCi4uIF9g\nZG9jdW1lbnRhdGlvbi9weXNlcmlhbC5yc3RgOiBodHRwczovL2dpdGh1Yi5j\nb20vcHlzZXJpYWwvcHlzZXJpYWwvYmxvYi9tYXN0ZXIvZG9jdW1lbnRhdGlv\nbi9weXNlcmlhbC5yc3QjaW5zdGFsbGF0aW9uCi4uIF9leGFtcGxlczogaHR0\ncHM6Ly9naXRodWIuY29tL3B5c2VyaWFsL3B5c2VyaWFsL2Jsb2IvbWFzdGVy\nL2V4YW1wbGVzCi4uIF9QeXRob246IGh0dHA6Ly9weXRob24ub3JnLwouLiBf\nU3BoaW54OiBodHRwOi8vc3BoaW54LWRvYy5vcmcvCi4uIHxidWlsZC1zdGF0\ndXN8IGltYWdlOjogaHR0cHM6Ly90cmF2aXMtY2kub3JnL3B5c2VyaWFsL3B5\nc2VyaWFsLnN2Zz9icmFuY2g9bWFzdGVyCiAgIDp0YXJnZXQ6IGh0dHBzOi8v\ndHJhdmlzLWNpLm9yZy9weXNlcmlhbC9weXNlcmlhbAogICA6YWx0OiBCdWls\nZCBzdGF0dXMKLi4gfGRvY3N8IGltYWdlOjogaHR0cHM6Ly9yZWFkdGhlZG9j\ncy5vcmcvcHJvamVjdHMvcHlzZXJpYWwvYmFkZ2UvP3ZlcnNpb249bGF0ZXN0\nCiAgIDp0YXJnZXQ6IGh0dHA6Ly9weXNlcmlhbC5yZWFkdGhlZG9jcy5pby8K\nICAgOmFsdDogRG9jdW1lbnRhdGlvbgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/pyserial/pyserial/contents/README.rst?ref=master","git":"https://api.github.com/repos/pyserial/pyserial/git/blobs/ab3ce6ffaf5aed319b3793d4cc2f7cbb89311594","html":"https://github.com/pyserial/pyserial/blob/master/README.rst"}}
+0
+

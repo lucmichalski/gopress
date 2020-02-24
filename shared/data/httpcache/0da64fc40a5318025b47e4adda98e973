@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:05:27 GMT
+Etag: W/"c188a0003955b49f755b82d2ec874e67"
+Last-Modified: Thu, 20 Feb 2020 11:13:36 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:407DB:4DE78:5E53ADF7
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4791
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+ec9
+{"name":"README.md","path":"README.md","sha":"c2ede09f3393d912521a7ade49cc2333e30d2296","size":2166,"url":"https://api.github.com/repos/warner/magic-wormhole/contents/README.md?ref=master","html_url":"https://github.com/warner/magic-wormhole/blob/master/README.md","git_url":"https://api.github.com/repos/warner/magic-wormhole/git/blobs/c2ede09f3393d912521a7ade49cc2333e30d2296","download_url":"https://raw.githubusercontent.com/warner/magic-wormhole/master/README.md","type":"file","content":"IyBNYWdpYyBXb3JtaG9sZQpbIVtQeVBJXShodHRwOi8vaW1nLnNoaWVsZHMu\naW8vcHlwaS92L21hZ2ljLXdvcm1ob2xlLnN2ZyldKGh0dHBzOi8vcHlwaS5w\neXRob24ub3JnL3B5cGkvbWFnaWMtd29ybWhvbGUpClshW0J1aWxkIFN0YXR1\nc10oaHR0cHM6Ly90cmF2aXMtY2kub3JnL3dhcm5lci9tYWdpYy13b3JtaG9s\nZS5zdmc/YnJhbmNoPW1hc3RlcildKGh0dHBzOi8vdHJhdmlzLWNpLm9yZy93\nYXJuZXIvbWFnaWMtd29ybWhvbGUpClshW1dpbmRvd3MgQnVpbGQgU3RhdHVz\nXShodHRwczovL2NpLmFwcHZleW9yLmNvbS9hcGkvcHJvamVjdHMvc3RhdHVz\nL21mbm41cnN5Zm5ycTU3NmEvYnJhbmNoL21hc3Rlcj9zdmc9dHJ1ZSldKGh0\ndHBzOi8vY2kuYXBwdmV5b3IuY29tL3Byb2plY3Qvd2FybmVyL21hZ2ljLXdv\ncm1ob2xlKQpbIVtjb2RlY292LmlvXShodHRwczovL2NvZGVjb3YuaW8vZ2l0\naHViL3dhcm5lci9tYWdpYy13b3JtaG9sZS9jb3ZlcmFnZS5zdmc/YnJhbmNo\nPW1hc3RlcildKGh0dHBzOi8vY29kZWNvdi5pby9naXRodWIvd2FybmVyL21h\nZ2ljLXdvcm1ob2xlP2JyYW5jaD1tYXN0ZXIpClshW0RvY3NdKGh0dHBzOi8v\ncmVhZHRoZWRvY3Mub3JnL3Byb2plY3RzL21hZ2ljLXdvcm1ob2xlL2JhZGdl\nLz92ZXJzaW9uPWxhdGVzdCldKGh0dHBzOi8vbWFnaWMtd29ybWhvbGUucmVh\nZHRoZWRvY3MuaW8pCgpHZXQgdGhpbmdzIGZyb20gb25lIGNvbXB1dGVyIHRv\nIGFub3RoZXIsIHNhZmVseS4KClRoaXMgcGFja2FnZSBwcm92aWRlcyBhIGxp\nYnJhcnkgYW5kIGEgY29tbWFuZC1saW5lIHRvb2wgbmFtZWQgYHdvcm1ob2xl\nYCwKd2hpY2ggbWFrZXMgaXQgcG9zc2libGUgdG8gZ2V0IGFyYml0cmFyeS1z\naXplZCBmaWxlcyBhbmQgZGlyZWN0b3JpZXMKKG9yIHNob3J0IHBpZWNlcyBv\nZiB0ZXh0KSBmcm9tIG9uZSBjb21wdXRlciB0byBhbm90aGVyLiBUaGUgdHdv\nIGVuZHBvaW50cyBhcmUKaWRlbnRpZmllZCBieSB1c2luZyBpZGVudGljYWwg\nIndvcm1ob2xlIGNvZGVzIjogaW4gZ2VuZXJhbCwgdGhlIHNlbmRpbmcKbWFj\naGluZSBnZW5lcmF0ZXMgYW5kIGRpc3BsYXlzIHRoZSBjb2RlLCB3aGljaCBt\ndXN0IHRoZW4gYmUgdHlwZWQgaW50byB0aGUKcmVjZWl2aW5nIG1hY2hpbmUu\nCgpUaGUgY29kZXMgYXJlIHNob3J0IGFuZCBodW1hbi1wcm9ub3VuY2VhYmxl\nLCB1c2luZyBhIHBob25ldGljYWxseS1kaXN0aW5jdAp3b3JkbGlzdC4gVGhl\nIHJlY2VpdmluZyBzaWRlIG9mZmVycyB0YWItY29tcGxldGlvbiBvbiB0aGUg\nY29kZXdvcmRzLCBzbwp1c3VhbGx5IG9ubHkgYSBmZXcgY2hhcmFjdGVycyBt\ndXN0IGJlIHR5cGVkLiBXb3JtaG9sZSBjb2RlcyBhcmUgc2luZ2xlLXVzZQph\nbmQgZG8gbm90IG5lZWQgdG8gYmUgbWVtb3JpemVkLgoKKiBQeUNvbiAyMDE2\nIHByZXNlbnRhdGlvbjogW1NsaWRlc10oaHR0cDovL3d3dy5sb3RoYXIuY29t\nL353YXJuZXIvTWFnaWNXb3JtaG9sZS1QeUNvbjIwMTYucGRmKSwgW1ZpZGVv\nXShodHRwczovL3lvdXR1LmJlL29GclRxUXcwXzNjKQoKRm9yIGNvbXBsZXRl\nIGRvY3VtZW50YXRpb24sIHBsZWFzZSBzZWUgaHR0cHM6Ly9tYWdpYy13b3Jt\naG9sZS5yZWFkdGhlZG9jcy5pbwpvciB0aGUgZG9jcy8gc3ViZGlyZWN0b3J5\nLgoKIyMgTGljZW5zZSwgQ29tcGF0aWJpbGl0eQoKVGhpcyBsaWJyYXJ5IGlz\nIHJlbGVhc2VkIHVuZGVyIHRoZSBNSVQgbGljZW5zZSwgc2VlIExJQ0VOU0Ug\nZm9yIGRldGFpbHMuCgpUaGlzIGxpYnJhcnkgaXMgY29tcGF0aWJsZSB3aXRo\nIHB5dGhvbjIuNywgMy41LCAzLjYsIGFuZCAzLjcuCgojIyBQYWNrYWdpbmcs\nIEluc3RhbGxhdGlvbgoKTWFnaWMgV29ybWhvbGUgcGFja2FnZXMgYXJlIGlu\nY2x1ZGVkIGluIG1hbnkgb3BlcmF0aW5nIHN5c3RlbXMuCgpbIVtQYWNrYWdp\nbmcgc3RhdHVzXShodHRwczovL3JlcG9sb2d5Lm9yZy9iYWRnZS92ZXJ0aWNh\nbC1hbGxyZXBvcy9tYWdpYy13b3JtaG9sZS5zdmcpXShodHRwczovL3JlcG9s\nb2d5Lm9yZy9wcm9qZWN0L21hZ2ljLXdvcm1ob2xlL3ZlcnNpb25zKQoKVG8g\naW5zdGFsbCBpdCB3aXRob3V0IGFuIE9TIHBhY2thZ2UsIGZvbGxvdyB0aGUg\nW0luc3RhbGxhdGlvbiBkb2NzXShodHRwczovL21hZ2ljLXdvcm1ob2xlLnJl\nYWR0aGVkb2NzLmlvL2VuL2xhdGVzdC93ZWxjb21lLmh0bWwjaW5zdGFsbGF0\naW9uKS4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/warner/magic-wormhole/contents/README.md?ref=master","git":"https://api.github.com/repos/warner/magic-wormhole/git/blobs/c2ede09f3393d912521a7ade49cc2333e30d2296","html":"https://github.com/warner/magic-wormhole/blob/master/README.md"}}
+0
+

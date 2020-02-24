@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:08:45 GMT
+Etag: W/"b75827d3e876ac1b794bda213216c016"
+Last-Modified: Mon, 18 Mar 2019 11:22:24 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:4DEC8:5D436:5E53AEBC
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4292
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c84
+{"name":"README.md","path":"README.md","sha":"efa46f04734901fee6dc4032abaf63925b66aacb","size":1740,"url":"https://api.github.com/repos/chriswmorris/Metaforge/contents/README.md?ref=master","html_url":"https://github.com/chriswmorris/Metaforge/blob/master/README.md","git_url":"https://api.github.com/repos/chriswmorris/Metaforge/git/blobs/efa46f04734901fee6dc4032abaf63925b66aacb","download_url":"https://raw.githubusercontent.com/chriswmorris/Metaforge/master/README.md","type":"file","content":"IyBNZXRhZm9yZ2UgIwoKPGltZyBzcmM9Imh0dHBzOi8vcmF3LmdpdGh1YnVz\nZXJjb250ZW50LmNvbS9jaHJpc3dtb3JyaXMvTWV0YWZvcmdlL21hc3Rlci9U\nZW1wbGF0ZV9EYXRhL2ltZy9sb2dvLnBuZyIgd2lkdGg9IjI1MCBoZWlnaHQ9\nMzAwIiB0aXRsZT0iTWV0YWZvcmdlIExvZ28iPgoKCioiQW4gT1NJTlQgdG9v\nbCB0aGF0IGFuYWx5emVzIG1ldGFkYXRhIGFuZCBjcmVhdGVzIGR5bmFtaWMg\ncmVwb3J0cyIqCjxicj48YnI+Cmh0dHBzOi8vY2hyaXN3bW9ycmlzLmdpdGh1\nYi5pby9NZXRhZm9yZ2UvCgoqKlNlbmlvciBEZXNpZ24gUHJvamVjdCAyMDE5\nIC0gQnkgQ2hyaXMgTW9ycmlzIGFuZCBDb2xsaW4gTW9ja2JlZSoqCgpBIFB5\ndGhvbjMgQXBwbGljYXRpb24gZm9yIFVuaXgtYmFzZWQgT3BlcmF0aW5nIFN5\nc3RlbXMKCioqTm90ZTogTWV0YWZvcmdlIHJlcXVpcmVzIGF0IGxlYXN0IHB5\ndGhvbiB2ZXJzaW9uIDMuNSB0byB3b3JrISoqCgo8YnI+CgoqKlN1cHBvcnRl\nZCBGaWxldHlwZXMqKiAKCmRsbCB8IGRvY3ggfCBkb2MgIHwKZXhlIHwgZ2lm\nICB8IGh0bWwgfApqcGVnfCBta3YgIHwgbXAzICB8Cm1wNCB8IG9kcCAgfCBv\nZHMgIHwKb2R0IHwgcGRmICB8IHBuZyAgfCAKcHB0eHwgcHB0ICB8IHN2ZyAg\nfAp0b3JyZW50IHx3YXYgfCB4bHN4IHwKeGxzICB8emlwIHwKCjxicj4KCiMj\nIFNldHVwICMjIAoKIyMjIEluc3RhbGwgZXhpZnRvb2wgIyMjCgoKKipEZWJp\nYW4tYmFzZWQqKgoKPGNvZGU+YXB0IGluc3RhbGwgbGliaW1hZ2UtZXhpZnRv\nb2wtcGVybDwvY29kZT4KCioqUkhFTC1iYXNlZCoqCgo8Y29kZT55dW0gaW5z\ndGFsbCBwZXJsLUltYWdlLUV4aWZUb29sPC9jb2RlPgoKKipBcmNoIExpbnV4\nKioKCjxjb2RlPnBhY21hbiAtUyBwZXJsLWltYWdlLWV4aWZ0b29sPC9jb2Rl\nPgoKKipNYWMgT1NYKioKCjxjb2RlPmJyZXcgaW5zdGFsbCBleGlmdG9vbCA8\nL2NvZGU+CgoKIyMjIEluc3RhbGwgZGVwZW5kZW5jaWVzICMjIwoKPGNvZGU+\nIHBpcDMgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0IDwvY29kZT4KCjxo\ncj4KCgoKIyMgUnVubmluZyBNZXRhZm9yZ2UgIyMKCjEpIFBsYWNlIHRoZSBm\naWxlcyB5b3Ugd2lzaCB0byBhbmFseXplIGluIHRoZSAqKi9tZWRpYSoqIGRp\ncmVjdG9yeQoKMikgUnVuIG1ldGFmb3JnZS5weQoKPGNvZGU+IHB5dGhvbjMg\nbWV0YWZvcmdlLnB5IDwvY29kZT4KCgo8YnI+CgoKCgpXaGVuIE1ldGFmb3Jn\nZSBpcyBmaW5pc2hlZCBydW5uaW5nLCBjaGVjayB0aGUgVXNlcl9Qcm9qZWN0\ncyBmb2xkZXIgYW5kIGxvb2sgZm9yIHRoZSBuYW1lIG9mIHRoZSBwcm9qZWN0\nIHlvdSBlbnRlcmVkLiBDbGljayBvbiB0aGUgaW5kZXguaHRtbCBmaWxlIHRv\nIHZpZXcgeW91ciBnZW5lcmF0ZWQgcmVwb3J0LgoKCjxpbWcgc3JjPSJodHRw\nczovL2dpdGh1Yi5jb20vY2hyaXN3bW9ycmlzL01ldGFmb3JnZS9ibG9iL21h\nc3Rlci9kb2NzL2ltYWdlcy9zY3JlZW5zaG90LnBuZyI+CgoKKipUaGFua3Mg\ndG8uLi4qKgoKCkV4aWZ0b29sOiBodHRwczovL3d3dy5zbm8ucGh5LnF1ZWVu\nc3UuY2EvfnBoaWwvZXhpZnRvb2wvCgpwcm9ncmVzczogaHR0cHM6Ly9weXBp\nLm9yZy9wcm9qZWN0L3Byb2dyZXNzLwoKZG9taW5hdGU6IGh0dHBzOi8vcHlw\naS5vcmcvcHJvamVjdC9kb21pbmF0ZS8KCmNvbG9yYW1hOiBodHRwczovL3B5\ncGkub3JnL3Byb2plY3QvY29sb3JhbWEvCgpweWV4aWZpbmZvOiBodHRwczov\nL3B5cGkub3JnL3Byb2plY3QvcHlleGlmaW5mby8K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/chriswmorris/Metaforge/contents/README.md?ref=master","git":"https://api.github.com/repos/chriswmorris/Metaforge/git/blobs/efa46f04734901fee6dc4032abaf63925b66aacb","html":"https://github.com/chriswmorris/Metaforge/blob/master/README.md"}}
+0
+

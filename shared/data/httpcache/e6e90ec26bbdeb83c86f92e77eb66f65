@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:37 GMT
+Etag: W/"a21b37c2552e2c39c13407051330fa02"
+Last-Modified: Sun, 23 Feb 2020 14:01:57 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: repo
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.scarlet-witch-preview; format=json, github.mercy-preview; format=json, github.baptiste-preview; format=json
+X-Github-Request-Id: D039:17643:3ABE1:46729:5E53B490
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 63
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.scarlet-witch-preview+json, application/vnd.github.mercy-preview+json, application/vnd.github.baptiste-preview+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+135a
+{"id":35679086,"node_id":"MDEwOlJlcG9zaXRvcnkzNTY3OTA4Ng==","name":"SPF","full_name":"tatanus/SPF","private":false,"owner":{"login":"tatanus","id":194860,"node_id":"MDQ6VXNlcjE5NDg2MA==","avatar_url":"https://avatars2.githubusercontent.com/u/194860?v=4","gravatar_id":"","url":"https://api.github.com/users/tatanus","html_url":"https://github.com/tatanus","followers_url":"https://api.github.com/users/tatanus/followers","following_url":"https://api.github.com/users/tatanus/following{/other_user}","gists_url":"https://api.github.com/users/tatanus/gists{/gist_id}","starred_url":"https://api.github.com/users/tatanus/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/tatanus/subscriptions","organizations_url":"https://api.github.com/users/tatanus/orgs","repos_url":"https://api.github.com/users/tatanus/repos","events_url":"https://api.github.com/users/tatanus/events{/privacy}","received_events_url":"https://api.github.com/users/tatanus/received_events","type":"User","site_admin":false},"html_url":"https://github.com/tatanus/SPF","description":"SpeedPhishing Framework","fork":false,"url":"https://api.github.com/repos/tatanus/SPF","forks_url":"https://api.github.com/repos/tatanus/SPF/forks","keys_url":"https://api.github.com/repos/tatanus/SPF/keys{/key_id}","collaborators_url":"https://api.github.com/repos/tatanus/SPF/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/tatanus/SPF/teams","hooks_url":"https://api.github.com/repos/tatanus/SPF/hooks","issue_events_url":"https://api.github.com/repos/tatanus/SPF/issues/events{/number}","events_url":"https://api.github.com/repos/tatanus/SPF/events","assignees_url":"https://api.github.com/repos/tatanus/SPF/assignees{/user}","branches_url":"https://api.github.com/repos/tatanus/SPF/branches{/branch}","tags_url":"https://api.github.com/repos/tatanus/SPF/tags","blobs_url":"https://api.github.com/repos/tatanus/SPF/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/tatanus/SPF/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/tatanus/SPF/git/refs{/sha}","trees_url":"https://api.github.com/repos/tatanus/SPF/git/trees{/sha}","statuses_url":"https://api.github.com/repos/tatanus/SPF/statuses/{sha}","languages_url":"https://api.github.com/repos/tatanus/SPF/languages","stargazers_url":"https://api.github.com/repos/tatanus/SPF/stargazers","contributors_url":"https://api.github.com/repos/tatanus/SPF/contributors","subscribers_url":"https://api.github.com/repos/tatanus/SPF/subscribers","subscription_url":"https://api.github.com/repos/tatanus/SPF/subscription","commits_url":"https://api.github.com/repos/tatanus/SPF/commits{/sha}","git_commits_url":"https://api.github.com/repos/tatanus/SPF/git/commits{/sha}","comments_url":"https://api.github.com/repos/tatanus/SPF/comments{/number}","issue_comment_url":"https://api.github.com/repos/tatanus/SPF/issues/comments{/number}","contents_url":"https://api.github.com/repos/tatanus/SPF/contents/{+path}","compare_url":"https://api.github.com/repos/tatanus/SPF/compare/{base}...{head}","merges_url":"https://api.github.com/repos/tatanus/SPF/merges","archive_url":"https://api.github.com/repos/tatanus/SPF/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/tatanus/SPF/downloads","issues_url":"https://api.github.com/repos/tatanus/SPF/issues{/number}","pulls_url":"https://api.github.com/repos/tatanus/SPF/pulls{/number}","milestones_url":"https://api.github.com/repos/tatanus/SPF/milestones{/number}","notifications_url":"https://api.github.com/repos/tatanus/SPF/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/tatanus/SPF/labels{/name}","releases_url":"https://api.github.com/repos/tatanus/SPF/releases{/id}","deployments_url":"https://api.github.com/repos/tatanus/SPF/deployments","created_at":"2015-05-15T14:40:22Z","updated_at":"2020-02-23T14:01:57Z","pushed_at":"2019-08-08T01:56:44Z","git_url":"git://github.com/tatanus/SPF.git","ssh_url":"git@github.com:tatanus/SPF.git","clone_url":"https://github.com/tatanus/SPF.git","svn_url":"https://github.com/tatanus/SPF","homepage":null,"size":574,"stargazers_count":360,"watchers_count":360,"language":"Python","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":114,"mirror_url":null,"archived":false,"disabled":false,"open_issues_count":17,"license":{"key":"bsd-3-clause","name":"BSD 3-Clause \"New\" or \"Revised\" License","spdx_id":"BSD-3-Clause","url":"https://api.github.com/licenses/bsd-3-clause","node_id":"MDc6TGljZW5zZTU="},"topics":[],"is_template":false,"forks":114,"open_issues":17,"watchers":360,"default_branch":"master","permissions":{"admin":false,"push":false,"pull":true},"code_of_conduct":{"key":"none","name":"None","html_url":null,"url":"https://api.github.com/repos/tatanus/SPF/community/code_of_conduct"},"temp_clone_token":"","template_repository":null,"network_count":114,"subscribers_count":39}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:25:32 GMT
+Etag: W/"b34290fcb08565a3a494fe5387bee507"
+Last-Modified: Mon, 24 Feb 2020 02:16:44 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: repo
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.scarlet-witch-preview; format=json, github.mercy-preview; format=json, github.baptiste-preview; format=json
+X-Github-Request-Id: D039:17643:15102:19403:5E53B2AB
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1320
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.scarlet-witch-preview+json, application/vnd.github.mercy-preview+json, application/vnd.github.baptiste-preview+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+13c0
+{"id":66913302,"node_id":"MDEwOlJlcG9zaXRvcnk2NjkxMzMwMg==","name":"httpstat","full_name":"reorx/httpstat","private":false,"owner":{"login":"reorx","id":405972,"node_id":"MDQ6VXNlcjQwNTk3Mg==","avatar_url":"https://avatars2.githubusercontent.com/u/405972?v=4","gravatar_id":"","url":"https://api.github.com/users/reorx","html_url":"https://github.com/reorx","followers_url":"https://api.github.com/users/reorx/followers","following_url":"https://api.github.com/users/reorx/following{/other_user}","gists_url":"https://api.github.com/users/reorx/gists{/gist_id}","starred_url":"https://api.github.com/users/reorx/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/reorx/subscriptions","organizations_url":"https://api.github.com/users/reorx/orgs","repos_url":"https://api.github.com/users/reorx/repos","events_url":"https://api.github.com/users/reorx/events{/privacy}","received_events_url":"https://api.github.com/users/reorx/received_events","type":"User","site_admin":false},"html_url":"https://github.com/reorx/httpstat","description":"curl statistics made simple","fork":false,"url":"https://api.github.com/repos/reorx/httpstat","forks_url":"https://api.github.com/repos/reorx/httpstat/forks","keys_url":"https://api.github.com/repos/reorx/httpstat/keys{/key_id}","collaborators_url":"https://api.github.com/repos/reorx/httpstat/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/reorx/httpstat/teams","hooks_url":"https://api.github.com/repos/reorx/httpstat/hooks","issue_events_url":"https://api.github.com/repos/reorx/httpstat/issues/events{/number}","events_url":"https://api.github.com/repos/reorx/httpstat/events","assignees_url":"https://api.github.com/repos/reorx/httpstat/assignees{/user}","branches_url":"https://api.github.com/repos/reorx/httpstat/branches{/branch}","tags_url":"https://api.github.com/repos/reorx/httpstat/tags","blobs_url":"https://api.github.com/repos/reorx/httpstat/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/reorx/httpstat/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/reorx/httpstat/git/refs{/sha}","trees_url":"https://api.github.com/repos/reorx/httpstat/git/trees{/sha}","statuses_url":"https://api.github.com/repos/reorx/httpstat/statuses/{sha}","languages_url":"https://api.github.com/repos/reorx/httpstat/languages","stargazers_url":"https://api.github.com/repos/reorx/httpstat/stargazers","contributors_url":"https://api.github.com/repos/reorx/httpstat/contributors","subscribers_url":"https://api.github.com/repos/reorx/httpstat/subscribers","subscription_url":"https://api.github.com/repos/reorx/httpstat/subscription","commits_url":"https://api.github.com/repos/reorx/httpstat/commits{/sha}","git_commits_url":"https://api.github.com/repos/reorx/httpstat/git/commits{/sha}","comments_url":"https://api.github.com/repos/reorx/httpstat/comments{/number}","issue_comment_url":"https://api.github.com/repos/reorx/httpstat/issues/comments{/number}","contents_url":"https://api.github.com/repos/reorx/httpstat/contents/{+path}","compare_url":"https://api.github.com/repos/reorx/httpstat/compare/{base}...{head}","merges_url":"https://api.github.com/repos/reorx/httpstat/merges","archive_url":"https://api.github.com/repos/reorx/httpstat/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/reorx/httpstat/downloads","issues_url":"https://api.github.com/repos/reorx/httpstat/issues{/number}","pulls_url":"https://api.github.com/repos/reorx/httpstat/pulls{/number}","milestones_url":"https://api.github.com/repos/reorx/httpstat/milestones{/number}","notifications_url":"https://api.github.com/repos/reorx/httpstat/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/reorx/httpstat/labels{/name}","releases_url":"https://api.github.com/repos/reorx/httpstat/releases{/id}","deployments_url":"https://api.github.com/repos/reorx/httpstat/deployments","created_at":"2016-08-30T06:30:59Z","updated_at":"2020-02-24T02:16:44Z","pushed_at":"2017-09-10T23:15:13Z","git_url":"git://github.com/reorx/httpstat.git","ssh_url":"git@github.com:reorx/httpstat.git","clone_url":"https://github.com/reorx/httpstat.git","svn_url":"https://github.com/reorx/httpstat","homepage":"","size":326,"stargazers_count":4026,"watchers_count":4026,"language":"Python","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":268,"mirror_url":null,"archived":false,"disabled":false,"open_issues_count":7,"license":{"key":"mit","name":"MIT License","spdx_id":"MIT","url":"https://api.github.com/licenses/mit","node_id":"MDc6TGljZW5zZTEz"},"topics":["cli","curl","http","python","visualization"],"is_template":false,"forks":268,"open_issues":7,"watchers":4026,"default_branch":"master","permissions":{"admin":false,"push":false,"pull":true},"code_of_conduct":{"key":"none","name":"None","html_url":null,"url":"https://api.github.com/repos/reorx/httpstat/community/code_of_conduct"},"temp_clone_token":"","template_repository":null,"network_count":268,"subscribers_count":122}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:17:19 GMT
+Etag: W/"97dd9bdae9fbbd43b01c7c50bd26789e"
+Last-Modified: Tue, 31 Dec 2019 17:30:45 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:A2D6B:C3791:5E53B0BF
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2790
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b0a
+{"name":"README.md","path":"README.md","sha":"3fd5edf51bcec528f884df7711bdec0e2ebb8d6d","size":1453,"url":"https://api.github.com/repos/simp/pupmod-simp-postfix/contents/README.md?ref=master","html_url":"https://github.com/simp/pupmod-simp-postfix/blob/master/README.md","git_url":"https://api.github.com/repos/simp/pupmod-simp-postfix/git/blobs/3fd5edf51bcec528f884df7711bdec0e2ebb8d6d","download_url":"https://raw.githubusercontent.com/simp/pupmod-simp-postfix/master/README.md","type":"file","content":"WyFbTGljZW5zZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby86bGljZW5zZS1h\ncGFjaGUtYmx1ZS5zdmcpXShodHRwOi8vd3d3LmFwYWNoZS5vcmcvbGljZW5z\nZXMvTElDRU5TRS0yLjAuaHRtbCkKWyFbQ0lJIEJlc3QgUHJhY3RpY2VzXSho\ndHRwczovL2Jlc3RwcmFjdGljZXMuY29yZWluZnJhc3RydWN0dXJlLm9yZy9w\ncm9qZWN0cy83My9iYWRnZSldKGh0dHBzOi8vYmVzdHByYWN0aWNlcy5jb3Jl\naW5mcmFzdHJ1Y3R1cmUub3JnL3Byb2plY3RzLzczKQpbIVtQdXBwZXQgRm9y\nZ2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vcHVwcGV0Zm9yZ2Uvdi9zaW1w\nL3Bvc3RmaXguc3ZnKV0oaHR0cHM6Ly9mb3JnZS5wdXBwZXRsYWJzLmNvbS9z\naW1wL3Bvc3RmaXgpClshW1B1cHBldCBGb3JnZSBEb3dubG9hZHNdKGh0dHBz\nOi8vaW1nLnNoaWVsZHMuaW8vcHVwcGV0Zm9yZ2UvZHQvc2ltcC9wb3N0Zml4\nLnN2ZyldKGh0dHBzOi8vZm9yZ2UucHVwcGV0bGFicy5jb20vc2ltcC9wb3N0\nZml4KQpbIVtCdWlsZCBTdGF0dXNdKGh0dHBzOi8vdHJhdmlzLWNpLm9yZy9z\naW1wL3B1cG1vZC1zaW1wLXBvc3RmaXguc3ZnKV0oaHR0cHM6Ly90cmF2aXMt\nY2kub3JnL3NpbXAvcHVwbW9kLXNpbXAtcG9zdGZpeCkKCiMjIFRoaXMgaXMg\nYSBTSU1QIG1vZHVsZQoKVGhpcyBtb2R1bGUgaXMgYSBjb21wb25lbnQgb2Yg\ndGhlIFtTeXN0ZW0gSW50ZWdyaXR5IE1hbmFnZW1lbnQgUGxhdGZvcm1dKGh0\ndHBzOi8vc2ltcC1wcm9qZWN0LmNvbSksCmEgY29tcGxpYW5jZS1tYW5hZ2Vt\nZW50IGZyYW1ld29yayBidWlsdCBvbiBQdXBwZXQuCgpJZiB5b3UgZmluZCBh\nbnkgaXNzdWVzLCB0aGV5IGNhbiBiZSBzdWJtaXR0ZWQgdG8gb3VyIFtKSVJB\nXShodHRwczovL3NpbXAtcHJvamVjdC5hdGxhc3NpYW4ubmV0LykuCgpQbGVh\nc2UgcmVhZCBvdXIgW0NvbnRyaWJ1dGlvbiBHdWlkZV0oaHR0cHM6Ly9zaW1w\nLnJlYWR0aGVkb2NzLmlvL2VuL3N0YWJsZS9jb250cmlidXRvcnNfZ3VpZGUv\naW5kZXguaHRtbCkuCgojIyBNb2R1bGUgRGVzY3JpcHRpb24KClRoaXMgbW9k\ndWxlIHByb3ZpZGVzIGZvciB0aGUgY29uZmlndXJhdGlvbiBvZiB0aGUgW3Bv\nc3RmaXhdKGh0dHA6Ly93d3cucG9zdGZpeC5vcmcvKSBtYWlsIHNlcnZlci4K\nCiMjIFJlZmVyZW5jZQoKUGxlc2FlIHNlZSBbUkVGRVJFTkNFLm1kXSguL1JF\nRkVSRU5DRS5tZCkgZm9yIGEgZnVsbCByZWZlcmVuY2UuCgojIERldmVsb3Bt\nZW50CgpQbGVhc2UgcmVhZCBvdXIgW0NvbnRyaWJ1dGlvbiBHdWlkZV0oaHR0\ncHM6Ly9zaW1wLnJlYWR0aGVkb2NzLmlvL2VuL3N0YWJsZS9jb250cmlidXRv\ncnNfZ3VpZGUvaW5kZXguaHRtbCkuCgpWaXNpdCB0aGUgW3Byb2plY3QgaG9t\nZXBhZ2VdKGh0dHBzOi8vc2ltcC1wcm9qZWN0LmNvbSkgYW5kIGxvb2sgYXQg\nb3VyIGlzc3VlcyBvbgpbSklSQV0oaHR0cHM6Ly9zaW1wLXByb2plY3QuYXRs\nYXNzaWFuLm5ldCkuCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/simp/pupmod-simp-postfix/contents/README.md?ref=master","git":"https://api.github.com/repos/simp/pupmod-simp-postfix/git/blobs/3fd5edf51bcec528f884df7711bdec0e2ebb8d6d","html":"https://github.com/simp/pupmod-simp-postfix/blob/master/README.md"}}
+0
+

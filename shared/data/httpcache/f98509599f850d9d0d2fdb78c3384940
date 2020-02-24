@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:14:58 GMT
+Etag: W/"b71f73c2ab5af6e663db9617a5eff276"
+Last-Modified: Wed, 19 Feb 2020 21:34:29 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:8F985:AC655:5E53B031
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3193
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+7d8
+{"name":"README.md","path":"README.md","sha":"c052e4cd532d2d37705549a6296383950a1d9923","size":917,"url":"https://api.github.com/repos/jbevain/cecil/contents/README.md?ref=master","html_url":"https://github.com/jbevain/cecil/blob/master/README.md","git_url":"https://api.github.com/repos/jbevain/cecil/git/blobs/c052e4cd532d2d37705549a6296383950a1d9923","download_url":"https://raw.githubusercontent.com/jbevain/cecil/master/README.md","type":"file","content":"Q2VjaWwKPT09PT0KCk1vbm8uQ2VjaWwgaXMgYSBsaWJyYXJ5IHRvIGdlbmVy\nYXRlIGFuZCBpbnNwZWN0IHByb2dyYW1zIGFuZCBsaWJyYXJpZXMgaW4gdGhl\nIEVDTUEgQ0lMIGZvcm0uCgpUbyBwdXQgaXQgc2ltcGx5LCB5b3UgY2FuIHVz\nZSBDZWNpbCB0bzoKCiogQW5hbHl6ZSAuTkVUIGJpbmFyaWVzIHVzaW5nIGEg\nc2ltcGxlIGFuZCBwb3dlcmZ1bCBvYmplY3QgbW9kZWwsIHdpdGhvdXQgaGF2\naW5nIHRvIGxvYWQgYXNzZW1ibGllcyB0byB1c2UgUmVmbGVjdGlvbi4KKiBN\nb2RpZnkgLk5FVCBiaW5hcmllcywgYWRkIG5ldyBtZXRhZGF0YSBzdHJ1Y3R1\ncmVzIGFuZCBhbHRlciB0aGUgSUwgY29kZS4KCkNlY2lsIGhhcyBiZWVuIGFy\nb3VuZCBzaW5jZSAyMDA0IGFuZCBpcyBbd2lkZWx5IHVzZWRdKGh0dHBzOi8v\nZ2l0aHViLmNvbS9qYmV2YWluL2NlY2lsL3dpa2kvVXNlcnMpIGluIHRoZSAu\nTkVUIGNvbW11bml0eS4gSWYgeW91J3JlIHVzaW5nIENlY2lsLCBvciBkZXBl\nbmQgb24gYSBmcmFtZXdvcmssIHByb2plY3QsIG9yIHByb2R1Y3QgdXNpbmcg\naXQsIHBsZWFzZSBjb25zaWRlciBbc3BvbnNvcmluZyBDZWNpbF0oaHR0cHM6\nLy9naXRodWIuY29tL3Nwb25zb3JzL2piZXZhaW4vKS4KClJlYWQgYWJvdXQg\ndGhlIENlY2lsIGRldmVsb3BtZW50IG9uIHRoZSBbZGV2ZWxvcG1lbnQgbG9n\nXShodHRwOi8vY2VjaWwucGUpLgoKVG8gZGlzY3VzcyBDZWNpbCwgdGhlIGJl\nc3QgcGxhY2UgaXMgdGhlIFttb25vLWNlY2lsXShodHRwczovL2dyb3Vwcy5n\nb29nbGUuY29tL2dyb3VwL21vbm8tY2VjaWwpIEdvb2dsZSBHcm91cC4KCkNl\nY2lsIGlzIGEgcHJvamVjdCB1bmRlciB0aGUgYmVuZXZvbGVudCB1bWJyZWxs\nYSBvZiB0aGUgWy5ORVQgRm91bmRhdGlvbl0oaHR0cDovL3d3dy5kb3RuZXRm\nb3VuZGF0aW9uLm9yZy8pLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/jbevain/cecil/contents/README.md?ref=master","git":"https://api.github.com/repos/jbevain/cecil/git/blobs/c052e4cd532d2d37705549a6296383950a1d9923","html":"https://github.com/jbevain/cecil/blob/master/README.md"}}
+0
+

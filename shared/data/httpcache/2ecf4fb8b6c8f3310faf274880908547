@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:06:26 GMT
+Etag: "e6f7415803ddfbe411adcb6effbfab34"
+Last-Modified: Thu, 20 Feb 2020 19:39:58 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 304 Not Modified
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: repo
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-From-Cache: 1
+X-Github-Media-Type: github.scarlet-witch-preview; format=json, github.mercy-preview; format=json, github.baptiste-preview; format=json
+X-Github-Request-Id: FFE6:981E:3DB1D:4A002:5E53AE31
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4716
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.scarlet-witch-preview+json, application/vnd.github.mercy-preview+json, application/vnd.github.baptiste-preview+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+1429
+{"id":13526596,"node_id":"MDEwOlJlcG9zaXRvcnkxMzUyNjU5Ng==","name":"rdpy","full_name":"citronneur/rdpy","private":false,"owner":{"login":"citronneur","id":5627503,"node_id":"MDQ6VXNlcjU2Mjc1MDM=","avatar_url":"https://avatars2.githubusercontent.com/u/5627503?v=4","gravatar_id":"","url":"https://api.github.com/users/citronneur","html_url":"https://github.com/citronneur","followers_url":"https://api.github.com/users/citronneur/followers","following_url":"https://api.github.com/users/citronneur/following{/other_user}","gists_url":"https://api.github.com/users/citronneur/gists{/gist_id}","starred_url":"https://api.github.com/users/citronneur/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/citronneur/subscriptions","organizations_url":"https://api.github.com/users/citronneur/orgs","repos_url":"https://api.github.com/users/citronneur/repos","events_url":"https://api.github.com/users/citronneur/events{/privacy}","received_events_url":"https://api.github.com/users/citronneur/received_events","type":"User","site_admin":false},"html_url":"https://github.com/citronneur/rdpy","description":"Remote Desktop Protocol in Twisted Python","fork":false,"url":"https://api.github.com/repos/citronneur/rdpy","forks_url":"https://api.github.com/repos/citronneur/rdpy/forks","keys_url":"https://api.github.com/repos/citronneur/rdpy/keys{/key_id}","collaborators_url":"https://api.github.com/repos/citronneur/rdpy/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/citronneur/rdpy/teams","hooks_url":"https://api.github.com/repos/citronneur/rdpy/hooks","issue_events_url":"https://api.github.com/repos/citronneur/rdpy/issues/events{/number}","events_url":"https://api.github.com/repos/citronneur/rdpy/events","assignees_url":"https://api.github.com/repos/citronneur/rdpy/assignees{/user}","branches_url":"https://api.github.com/repos/citronneur/rdpy/branches{/branch}","tags_url":"https://api.github.com/repos/citronneur/rdpy/tags","blobs_url":"https://api.github.com/repos/citronneur/rdpy/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/citronneur/rdpy/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/citronneur/rdpy/git/refs{/sha}","trees_url":"https://api.github.com/repos/citronneur/rdpy/git/trees{/sha}","statuses_url":"https://api.github.com/repos/citronneur/rdpy/statuses/{sha}","languages_url":"https://api.github.com/repos/citronneur/rdpy/languages","stargazers_url":"https://api.github.com/repos/citronneur/rdpy/stargazers","contributors_url":"https://api.github.com/repos/citronneur/rdpy/contributors","subscribers_url":"https://api.github.com/repos/citronneur/rdpy/subscribers","subscription_url":"https://api.github.com/repos/citronneur/rdpy/subscription","commits_url":"https://api.github.com/repos/citronneur/rdpy/commits{/sha}","git_commits_url":"https://api.github.com/repos/citronneur/rdpy/git/commits{/sha}","comments_url":"https://api.github.com/repos/citronneur/rdpy/comments{/number}","issue_comment_url":"https://api.github.com/repos/citronneur/rdpy/issues/comments{/number}","contents_url":"https://api.github.com/repos/citronneur/rdpy/contents/{+path}","compare_url":"https://api.github.com/repos/citronneur/rdpy/compare/{base}...{head}","merges_url":"https://api.github.com/repos/citronneur/rdpy/merges","archive_url":"https://api.github.com/repos/citronneur/rdpy/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/citronneur/rdpy/downloads","issues_url":"https://api.github.com/repos/citronneur/rdpy/issues{/number}","pulls_url":"https://api.github.com/repos/citronneur/rdpy/pulls{/number}","milestones_url":"https://api.github.com/repos/citronneur/rdpy/milestones{/number}","notifications_url":"https://api.github.com/repos/citronneur/rdpy/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/citronneur/rdpy/labels{/name}","releases_url":"https://api.github.com/repos/citronneur/rdpy/releases{/id}","deployments_url":"https://api.github.com/repos/citronneur/rdpy/deployments","created_at":"2013-10-12T18:23:10Z","updated_at":"2020-02-20T19:39:58Z","pushed_at":"2019-12-28T08:18:17Z","git_url":"git://github.com/citronneur/rdpy.git","ssh_url":"git@github.com:citronneur/rdpy.git","clone_url":"https://github.com/citronneur/rdpy.git","svn_url":"https://github.com/citronneur/rdpy","homepage":"","size":904,"stargazers_count":1204,"watchers_count":1204,"language":"Python","has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"forks_count":289,"mirror_url":null,"archived":false,"disabled":false,"open_issues_count":60,"license":{"key":"gpl-3.0","name":"GNU General Public License v3.0","spdx_id":"GPL-3.0","url":"https://api.github.com/licenses/gpl-3.0","node_id":"MDc6TGljZW5zZTk="},"topics":[],"is_template":false,"forks":289,"open_issues":60,"watchers":1204,"default_branch":"master","permissions":{"admin":false,"push":false,"pull":true},"code_of_conduct":{"key":"none","name":"None","html_url":null,"url":"https://api.github.com/repos/citronneur/rdpy/community/code_of_conduct"},"temp_clone_token":"","template_repository":null,"network_count":289,"subscribers_count":90}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:22 GMT
+Etag: W/"648506778ab6a3ca58cf36926a6ca5c0"
+Last-Modified: Wed, 31 Jan 2018 14:45:34 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:52488:6270D:5E53AEE2
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4182
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+bbe
+{"name":"README.md","path":"README.md","sha":"10ab080addb4b63f9362214f89242aa83eb74c9b","size":1595,"url":"https://api.github.com/repos/leoloobeek/LAPSToolkit/contents/README.md?ref=master","html_url":"https://github.com/leoloobeek/LAPSToolkit/blob/master/README.md","git_url":"https://api.github.com/repos/leoloobeek/LAPSToolkit/git/blobs/10ab080addb4b63f9362214f89242aa83eb74c9b","download_url":"https://raw.githubusercontent.com/leoloobeek/LAPSToolkit/master/README.md","type":"file","content":"IyBMQVBTVG9vbGtpdApGdW5jdGlvbnMgd3JpdHRlbiBpbiBQb3dlclNoZWxs\nIHRoYXQgbGV2ZXJhZ2UgUG93ZXJWaWV3IHRvIGF1ZGl0IGFuZCBhdHRhY2sg\nQWN0aXZlIERpcmVjdG9yeSBlbnZpcm9ubWVudHMgdGhhdCBoYXZlIGRlcGxv\neWVkIE1pY3Jvc29mdCdzIExvY2FsIEFkbWluaXN0cmF0b3IgUGFzc3dvcmQg\nU29sdXRpb24gKExBUFMpLiBJdCBpbmNsdWRlcyBmaW5kaW5nIGdyb3VwcyBz\ncGVjaWZpY2FsbHkgZGVsZWdhdGVkIGJ5IHN5c2FkbWlucywgZmluZGluZyB1\nc2VycyB3aXRoICJBbGwgRXh0ZW5kZWQgUmlnaHRzIiB0aGF0IGNhbiB2aWV3\nIHBhc3N3b3JkcywgYW5kIHZpZXdpbmcgYWxsIGNvbXB1dGVycyB3aXRoIExB\nUFMgZW5hYmxlZC4KClBsZWFzZSBzdWJtaXQgaXNzdWVzIG9yIGNvbW1lbnRz\nIGZvciBhbnkgcHJvYmxlbXMgb3IgcGVyZm9ybWFuY2UgaW1wcm92ZW1lbnRz\nLiBUaGlzIHByb2plY3Qgd2FzIGNyZWF0ZWQgd2l0aCBjb2RlIGZyb20gYW4g\nb2xkZXIgdmVyc2lvbiBvZiBQb3dlclZpZXcuCgpGb3IgbW9yZSBpbmZvcm1h\ndGlvbiBvbiBob3cgTEFQUyB3b3JrcyBzZWUgaHR0cHM6Ly9hZHNlY3VyaXR5\nLm9yZy8/cD0xNzkwLgoKIyMjIyBHZXQtTEFQU0NvbXB1dGVyczoKRGlzcGxh\neXMgYWxsIGNvbXB1dGVycyB3aXRoIExBUFMgZW5hYmxlZCwgcGFzc3dvcmQg\nZXhwcmlhdGlvbiwgYW5kIHBhc3N3b3JkIGlmIHVzZXIgaGFzIGFjY2Vzcwoj\nIyMjIEZpbmQtTEFQU0RlbGVnYXRlZEdyb3VwczoKU2VhcmNoZXMgdGhyb3Vn\naCBhbGwgT1VzIHRvIHNlZSB3aGljaCBBRCBncm91cHMgY2FuIHJlYWQgdGhl\nIG1zLU1jcy1BZG1Qd2QgYXR0cmlidXRlCiMjIyMgRmluZC1BZG1Qd2RFeHRl\nbmRlZFJpZ2h0cwpQYXJzZXMgdGhyb3VnaCBFeHRlbmRlZFJpZ2h0cyBmb3Ig\nZWFjaCBBRCBjb21wdXRlciB3aXRoIExBUFMgZW5hYmxlZCBhbmQgbG9va3Mg\nZm9yIHdoaWNoIGdyb3VwIGhhcyByZWFkIGFjY2VzcyBhbmQgaWYgYW55IHVz\nZXIgaGFzICJBbGwgRXh0ZW5kZWQgUmlnaHRzIi4gU3lzYWRtaW5zIG1heSBu\nb3QgYmUgYXdhcmUgdGhlIHVzZXJzIHdpdGggQWxsIEV4dGVuZGVkIFJpZ2h0\ncyBjYW4gdmlldyBwYXNzd29yZHMgYW5kIG1heSBiZSBsZXNzIHByb3RlY3Rl\nZCB0aGFuIHRoZSB1c2VycyBpbiB0aGUgZGVsZWdhdGVkIGdyb3Vwcy4gQW4g\nZXhhbXBsZSBpcyB0aGUgdXNlciB3aGljaCBhZGRzIGEgY29tcHV0ZXIgdG8g\ndGhlIGRvbWFpbiBhdXRvbWF0aWNhbGx5IHJlY2VpdmVzIHRoZSAiQWxsIEV4\ndGVuZGVkIFJpZ2h0cyIgcGVybWlzc2lvbi4gU2luY2UgdGhpcyBmdW5jdGlv\nbiB3aWxsIHBhcnNlIEFDTHMgZm9yIGVhY2ggQUQgY29tcHV0ZXIsIHRoaXMg\nY2FuIHRha2UgdmVyeSBsb25nIHdpdGggYSBsYXJnZXIgZG9tYWluLgoKU3Bl\nY2lhbCB0aGFua3MgdG8gU2VhbiBNZXRjYWxmIChAcHlyb3RlazMpLCBXaWxs\nIFNjaHJvZWRlciAoQGhhcm1qMHkpLCBLYXJsIEZvc2FhZW4gKEBrZm9zYWFl\nbiksIE1hdHQgR3JhZWJlciAoQG1hdHRpZmVzdGF0aW9uKSBmb3IgcmVzZWFy\nY2ggYW5kIGNvZGUgd2l0aCBMQVBTLCBBRCBwZXJtaXNzaW9ucywgYW5kIG9m\nZmVuc2l2ZSBQb3dlclNoZWxsLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/leoloobeek/LAPSToolkit/contents/README.md?ref=master","git":"https://api.github.com/repos/leoloobeek/LAPSToolkit/git/blobs/10ab080addb4b63f9362214f89242aa83eb74c9b","html":"https://github.com/leoloobeek/LAPSToolkit/blob/master/README.md"}}
+0
+

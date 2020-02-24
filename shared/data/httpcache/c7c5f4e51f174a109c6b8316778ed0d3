@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:14:11 GMT
+Etag: W/"7f40812111c117c9756af9ca5dee6faf"
+Last-Modified: Thu, 07 May 2015 10:00:02 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:75B41:8C40F:5E53B003
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3325
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+ecf
+{"name":"README.md","path":"README.md","sha":"0b1d061b6c564b38a59c61c182d06bdf6a44f272","size":2202,"url":"https://api.github.com/repos/Smaash/hostscan/contents/README.md?ref=master","html_url":"https://github.com/Smaash/hostscan/blob/master/README.md","git_url":"https://api.github.com/repos/Smaash/hostscan/git/blobs/0b1d061b6c564b38a59c61c182d06bdf6a44f272","download_url":"https://raw.githubusercontent.com/Smaash/hostscan/master/README.md","type":"file","content":"aG9zdHNjYW4gMC4yCj09PT09PT09PT09PQoKSG9zdHNjYW4gaXMgYSBwaHAg\ndG9vbCB3aGljaCBhbGxvd3MgeW91IHRvIHNjYW4gc3BlY2lmaWMgcmFuZ2Ug\nb2YgaG9zdHMsIG1vc3RseSBmb3IgaW5mb3JtYXRpb24gZ2F0aGVyaW5nCmFu\nZCB0ZXN0aW5nIGZvciB3ZWFrIHBhc3N3b3Jkcy4gSSBndWVzcyBpdCdzIGEg\ncGVudGVzdCB0b29sLCBpJ2QgY3JlYXRlZCBpdCB0byBhdXRvbWF0ZSBzb21l\nIHRlc3RzIHRoYXQgaQpvZnRlbiBkby4gU2luY2UgaXQncyBQSFAsIGl0IHdv\ncmtzIHF1aXRlIHNsb3dseSBjb21wYXJlZCB0byBjbGllbnQtc2lkZSBzb2Z0\nLgoKSG93IGl0IHdvcmtzPwogLSBZb3UgbmVlZCB0byBwcm92aWRlIHJhbmdl\nIG9mIGlwJ3MgKGUuZy4gMTI3LjAuMC4xIC0gMTI3LjAuMC4xMCk7IHByb2dy\nYW0gd2lsbCBwZXJmb3JtIG9wZXJhdGlvbnMgb24KIGVhY2ggYWRkcmVzcyBz\nZXBhcmF0ZWx5LCBiYXNpbmcgb24gc2VsZWN0ZWQgb3B0aW9ucywgdGhlbiBp\ndCB3aWxsIHByaW50IG91dCB0aGUgcmVzcG9uc2UuCiAtIEJ5IGRlZmF1bHQs\nIHByb2dyYW0gd2lsbCBvbmx5IGNoZWNrIG9wZW4gcG9ydHMsIHByaW50IGh0\ndHAgcmVzcG9uc2UgaGVhZGVycywgdGVzdCBmb3IgSFRUUCBtZXRob2RzIGFu\nZAogY2hlY2sgRlRQIGZvciBhbm9ueW1vdXMgbG9naW4uCiAtIElmICdTU0gv\nSU1BUC9EQidzJyBhcmUgY2hlY2tlZCwgcHJvZ3JhbSB3aWxsIHRyeSB0byBi\ncnV0ZWZvcmNlIFNTSCxJTUFQLE15U1FMLFBvc3RncmVTUUwgJiBNc1NRTCB1\nc2luZyBhcnJheSBvZgogcGFzc3dvcmRzIGFuZCB1c2VycyBkZWZpbmVkIG9u\nIHRoZSBiZWdnaW5pbmcgb2Ygc2NyaXB0LiBOb3RpY2UsIHRoYXQgaXQgd2ls\nbCB0cnkgdG8gbG9naW4gYXMgdXNlciB3aXRoIGdyYW5kIHBlcm1pc3Npb25z\nCiAoZS5nLiByb290LCBwb3N0Z3JlcyksIGFsdGhvdWdoIHlvdSdyZSBhYmxl\nIHRvIGVkaXQgaXQuCiAtIElmICdGVFAgVXNlcicgaXMgc2V0LCBwcm9ncmFt\nIHdpbGwgYWxzbyB0cnkgdG8gYnJ1dGVmb3JjZSBGVFAgd2l0aCBzcGVjaWZp\nYyB1c2VyIHVzaW5nIG1lbnRpb25lZCBwYXNzd29yZHMgYXJyYXkuCiBCeSBk\nZWZhdWx0IGl0J3Mgbm90LCBhbmQgaXQgd2lsbCBvbmx5IHRlc3QgZm9yIGFu\nb255bW91cyBsb2dpbi4KIC0gSWYgJ0RlZXAgU2NhbicgaXMgc2V0LCBwcm9n\ncmFtIHdpbGwgcGVyZm9ybSBhbGwgYWZvcmVtZW50aW9uZWQgb3BlcmF0aW9u\ncy4gRnVydGhlciwgaXQgd2lsbCB1c2Ugbm1hcCAgd2l0aCBzcGVjaWZpYyAK\nIHBhcmFtZXRlcnMgeW91J3JlIGFibGUgdG8gZWRpdCwgYWxzbywgdGhlIHRy\nYWNlcm91dGUgc2NhbiB3aWxsIGJlIHBlcmZvcm1lZCBhbmQgZGlzcGxheWVk\nIC0ganVzdCBsaWtlIG5tYXAuIERlZXAgU2NhbgogYWxzbyBnYXRoZXIgc29t\nZSB1c2VmdWwgaW5mb3JtYXRpb25zIGFib3V0IGEgd2Vic2l0ZSAoaWYgaXQn\ncyBydW5uaW5nKSwgc3VjaCBhcyBpbnRlcmVzdGluZyBmaWxlcy9mb2xkZXJz\nIGFuZCB3d3cgdGl0bGUuCiAtID91cmw9d2Vic2l0ZS5jb20gZm9yIHF1aWNr\nIElQIGFkZHJlc3Mgb2Ygc3BlY2lmaWMgd2Vic2l0ZS4KCiAuLi5zbyAtIHdo\nYXQgaXQgZG9lcyBpdCBkbz8gTm1hcCwgdHJhY2Vyb3V0ZSwgcG9ydCBzY2Fu\nLCBmdHAgYW5vbnltb3VzIGxvZ2luLCBmdHAvc3NoL2ltYXAvbXlzcWwvcGdz\ncWwvbXNzcWwgYnJ1dGVmb3JjZSwgaHR0cCAod2Vic2l0ZSkgaW5mbyBnYXRo\nZXJpbmcsIAogCiBDcmF3bGVyIGFjY2VwdHMgYXMgYSBwYXJhbWV0ZXIgYXJy\nYXkgb2YgZmlsZXMgYW5kIGZvbGRlcnMgdGhhdCB5b3UgY2FuIG1hbnVhbGx5\nIGVkaXQsIGp1c3QgbGlrZSBvdGhlcnMgb3B0aW9ucy4KIApTb21lIHNjcmVl\nbnM6CiAtIGh0dHA6Ly9pLmltZ3VyLmNvbS91dzNxaGFaLnBuZwogLSBodHRw\nOi8vaS5pbWd1ci5jb20vSktnekowVC5wbmcKIC0gaHR0cDovL2kuaW1ndXIu\nY29tL1VwbjI1SVAucG5nCiAtIGh0dHA6Ly9pLmltZ3VyLmNvbS9uaHRTVzdM\nLnBuZwogClJlcXVpcmVtZW50cyAocGhwNSk6CiAtIHBocDUtbXlzcWwgLSBm\nb3IgbXlzcWwgY29ubmVjdGlvbnMKIC0gcGhwNS1wZ3NxbCAtIGZvciBwb3N0\nZ3Jlc3FsIGNvbm5lY3Rpb25zCiAtIGxpYnNzaDItcGhwIC0gZm9yIHNzaCBj\nb25uZWN0aW9ucwogLSBwaHA1LXN5YmFzZSAtIGZvciBtc3NxbCBjb25uZWN0\naW9ucwogLSBwaHA1LWltYXAgLSBmb3IgaW1hcCBjb25uZWN0aW9ucwoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Smaash/hostscan/contents/README.md?ref=master","git":"https://api.github.com/repos/Smaash/hostscan/git/blobs/0b1d061b6c564b38a59c61c182d06bdf6a44f272","html":"https://github.com/Smaash/hostscan/blob/master/README.md"}}
+0
+

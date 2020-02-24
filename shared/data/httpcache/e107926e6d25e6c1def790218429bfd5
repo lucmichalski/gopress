@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:14:25 GMT
+Etag: W/"95750370f7c8d28aedda67b70fafceb6"
+Last-Modified: Mon, 17 Dec 2018 15:55:50 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:8B743:A7666:5E53B011
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3285
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c8b
+{"name":"readme.md","path":"readme.md","sha":"852cac5e6bb0fc5b0871ffba9f3978e06a3b62c3","size":1790,"url":"https://api.github.com/repos/r3vn/badKarma/contents/readme.md?ref=master","html_url":"https://github.com/r3vn/badKarma/blob/master/readme.md","git_url":"https://api.github.com/repos/r3vn/badKarma/git/blobs/852cac5e6bb0fc5b0871ffba9f3978e06a3b62c3","download_url":"https://raw.githubusercontent.com/r3vn/badKarma/master/readme.md","type":"file","content":"PHAgYWxpZ249ImNlbnRlciI+Cgk8aW1nIHNyYz0iaHR0cHM6Ly91c2VyLWlt\nYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vNjM1NzkwLzQ3NDk5ODg2LTgy\nYTNjYjgwLWQ4NjEtMTFlOC04MTg2LTZmMDkwZWIyNDcxZi5wbmciPgoJPHAg\nYWxpZ249ImNlbnRlciI+CgkJPGEgaHJlZj0iaHR0cHM6Ly93d3cucHl0aG9u\nLm9yZy8iPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdl\nL3B5dGhvbi0zLWdyZWVuLnN2ZyI+PC9hPgoJCTxhIGhyZWY9Imh0dHBzOi8v\nZ2l0aHViLmNvbS9yM3ZuL2JhZEthcm1hL2Jsb2IvbWFzdGVyL2xpY2Vuc2Uu\nbWQiPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL2xp\nY2Vuc2UtR1BMdjMtcmVkLnN2ZyI+PC9hPgoJCTxhIGhyZWY9Imh0dHBzOi8v\nYmFka2FybWEueGZpbHRyYXRlZC5jb20vIj48aW1nIHNyYz0iaHR0cHM6Ly9p\nbWcuc2hpZWxkcy5pby9iYWRnZS93ZWItc2l0ZS1ub25lLnN2ZyI+PC9hPgoJ\nCTxhIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vcjN2bm4iPjxpbWcgc3Jj\nPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3R3aXR0ZXItQHIzdm5u\nLWJsdWUuc3ZnIj48L2E+Cgk8L3A+CjwvcD4KCioqYmFkS2FybWEqKiBpcyBh\nbiBvcGVuIHNvdXJjZSBHVUkgYmFzZWQgbmV0d29yayByZWNvbm5haXNzYW5j\nZSB0b29sa2l0IHdoaWNoIGFpbXMgdG8gYXNzaXN0IHBlbmV0cmF0aW9uIHRl\nc3RlcnMgZHVyaW5nIG5ldHdvcmsgaW5mcmFzdHJ1Y3R1cmUgYXNzZXNzbWVu\ndHMuCgojIyBTY3JlZW5zaG90cyAoIG5vdCB1cGRhdGVkICkgCjxwIGFsaWdu\nPSJjZW50ZXIiPgoJPGltZyB3aWR0aD0iNzIwIiBzcmM9Imh0dHBzOi8vdXNl\nci1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzYzNTc5MC80NTAwMjA5\nOS03MTYxZGY4MC1hZmQzLTExZTgtODEzMS1hNGRmZDgwOTA1NjIuZ2lmIj4K\nPC9wPgoKIyMgU2V0dXAgCmluc3RhbGwgS2FsaSBsaW51eCBkZXBlbmRlY2ll\nczoKYGBgYmFzaAojIGFwdCBpbnN0YWxsIHB5dGhvbjMtcGlwIHB5dGhvbjMt\nZ2kgcGhhbnRvbWpzIG1pdG1wcm94eSBmZm1wZWcgZ2lyMS4yLWd0ay12bmMt\nMi4wIFwKZ2lyMS4yLWd0a3NvdXJjZS0zLjAgZ2lyMS4yLXZ0ZS0yLjkxIGdp\ncjEuMi1vc21ncHNtYXAtMS4wIGdpcjEuMi13ZWJraXQyLTQuMCAKYGBgCmNs\nb25lIHRoZSByZXBvc2l0b3J5OgpgYGBiYXNoCiQgZ2l0IGNsb25lIGh0dHBz\nOi8vZ2l0aHViLmNvbS9yM3ZuL2JhZEthcm1hLmdpdApgYGAKaW5zdGFsbCBw\neXRob24gZGVwZW5kZWNpZXM6CmBgYGJhc2gKIyBjZCBiYWRLYXJtYQojIHBp\ncDMgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CmBgYAoKIyMgUnVuIAoK\nYGBgYmFzaAokIGNobW9kICt4IGJhZGthcm1hLnB5CiQgLi9iYWRrYXJtYS5w\neQpgYGAKCiMjIERvY3VtZW50YXRpb24KCkRvY3VtZW50YXRpb24gY2FuIGJl\nIGZvdW5kIGluIHRoaXMgIVt3aWtpXShodHRwczovL2dpdGh1Yi5jb20vcjN2\nbi9iYWRLYXJtYS93aWtpKS4KCiMjIERvbmF0ZSAKCklmIGJhZEthcm1hIGhl\nbHBlZCB5b3UgZHVyaW5nIGEgcGVuZXRyYXRpb24gdGVzdGluZyBlbmdhZ2Vt\nZW50LCBwbGVhc2UgY29uc2lkZXIgbWFraW5nIGEgZG9uYXRpb24gdmlhIFtQ\nYXlQYWxdKGh0dHBzOi8vd3d3LnBheXBhbC5jb20vY2dpLWJpbi93ZWJzY3I/\nY21kPV9zLXhjbGljayZob3N0ZWRfYnV0dG9uX2lkPVNLNlhRMkJLSFlHSDYm\nbGM9ZW5fWEMpLiBCaXRjb2lucyBhcmUgYWNjZXB0ZWQgYXMgd2VsbCwgYXQg\nMUR2dmIzVEdIUlF3ZkxvVVQ4clZUUG1IcWdWakFKUmNzbS4=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/r3vn/badKarma/contents/readme.md?ref=master","git":"https://api.github.com/repos/r3vn/badKarma/git/blobs/852cac5e6bb0fc5b0871ffba9f3978e06a3b62c3","html":"https://github.com/r3vn/badKarma/blob/master/readme.md"}}
+0
+

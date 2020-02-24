@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:28 GMT
+Etag: W/"e26726ed0f69ed5064b5e17fbe88a163"
+Last-Modified: Fri, 20 Sep 2019 17:23:57 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:1985C:1E976:5E53B2E3
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1147
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+88d
+{"name":"README.md","path":"README.md","sha":"af14e95ea9d2ffdab65355dda3e0fa32667b459b","size":1058,"url":"https://api.github.com/repos/h0nus/QRGen/contents/README.md?ref=master","html_url":"https://github.com/h0nus/QRGen/blob/master/README.md","git_url":"https://api.github.com/repos/h0nus/QRGen/git/blobs/af14e95ea9d2ffdab65355dda3e0fa32667b459b","download_url":"https://raw.githubusercontent.com/h0nus/QRGen/master/README.md","type":"file","content":"IyBRUkdlbiAhW2ltZ10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS92\nZXJzaW9uLXYwLjEtb3JhbmdlLnN2Zz9zdHlsZT1mb3ItdGhlLWJhZGdlKSAh\nW2ltZ10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9weXRob24tdjMu\nNistZ3JlZW4uc3ZnP3N0eWxlPWZvci10aGUtYmFkZ2UpCgpJJ3ZlIHdyb3Rl\nIHRoaXMgbGl0dGxlIHNjcmlwdCB0byBnZW5lcmF0ZSBnZW5lcmljIE1hbGZv\ncm1lZCBRUkNvZGVzLgpUaGVzZSBxcmNvZGVzIGFyZSB1c2VmdWwgaWYgeW91\nIHdhbnQgdG8gdGVzdCBzb21lIFFSQ29kZSBzY2FubmVyJ3MgcGFyc2VyIG9y\nIGhvdyB0aGUgYXBwbGljYXRpb24gaGFuZGxlIFFSQ29kZSBkYXRhLjxicj4K\nRG93biBzaWRlIG9mIHRoaXMgdG9vbDogeW91IG5lZWQgdG8gbWFudWFsbHkg\nc2NhbiBjb2RlcyB3aXRoIGNhbWVyYSA6KAoKIyMjIFByb29mCiFbXShkZW1v\nLmdpZikKCiMjIyBJbnN0YWxsYXRpb24KV2hhdCB0byB5b3UgbmVlZDoKLSBw\neXRob24zCi0gcXJjb2RlCi0gUGlsbG93Ci0gYXJncGFyc2UKCiMjIyMjIFN0\nZXBzCjEgYGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vaDBudXMvUVJH\nZW5gPGJyPgoyIGBjZCBRUkdlbmA8YnI+CjMgYHBpcDMgaW5zdGFsbCAtciBy\nZXF1aXJlbWVudHMudHh0YCBPUiBgcHl0aG9uMyAtbSBwaXAgaW5zdGFsbCAt\nciByZXF1aXJlbWVudHMudHh0YDxicj4KNCBgcHl0aG9uMyBxcmdlbi5weWA8\nYnI+CjUgKipFbmpveSBhdHRhY2tpbmcgUVJDb2RlcyA6UCoqPGJyPgoKIyMj\nIFBlcnNvbmFsaXphdGlvbgoKWW91IGNhbiBjaGFuZ2UgdGhlIGRlZmF1bHQg\nd29yZGxpc3RzIHRvIHdoYXQgeW91IHdhbnQgYnkgcGFzc2luZyAtdy8tLXdv\ncmRsaXN0IDopCk9yZGVyIG9mIGRlZmF1bHQgd29yZGxpc3RzIGdyb3VwOgot\nIFNRTCBJbmplY3Rpb24KLSBYU1MKLSBDb21tYW5kIEluamVjdGlvbgotIEZv\ncm1hdCBTdHJpbmcKLSBYWEUKLSBTdHJpbmcgRnV6emluZwotIFNTSSBJbmpl\nY3Rpb24KLSBMRkkvRGlyZWN0b3J5IFRyYXZlcnNhbAotIGN1c3RvbSBwYXNz\nZWQgd2l0aCAtdy8tLXdvcmRsaXN0Cgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/h0nus/QRGen/contents/README.md?ref=master","git":"https://api.github.com/repos/h0nus/QRGen/git/blobs/af14e95ea9d2ffdab65355dda3e0fa32667b459b","html":"https://github.com/h0nus/QRGen/blob/master/README.md"}}
+0
+

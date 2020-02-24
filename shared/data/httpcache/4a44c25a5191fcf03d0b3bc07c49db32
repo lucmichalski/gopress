@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:27:00 GMT
+Etag: W/"9f812ec935a315bd6657e2cbcf4d6491"
+Last-Modified: Wed, 29 Jan 2020 07:04:21 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:1BEC0:21769:5E53B304
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1063
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e95
+{"name":"README.md","path":"README.md","sha":"fd1e19490d98a29607dd3f6ffdd815db2c003726","size":2109,"url":"https://api.github.com/repos/proget-hq/phpstan-phpspec/contents/README.md?ref=master","html_url":"https://github.com/proget-hq/phpstan-phpspec/blob/master/README.md","git_url":"https://api.github.com/repos/proget-hq/phpstan-phpspec/git/blobs/fd1e19490d98a29607dd3f6ffdd815db2c003726","download_url":"https://raw.githubusercontent.com/proget-hq/phpstan-phpspec/master/README.md","type":"file","content":"IyBQaHBTcGVjIGV4dGVuc2lvbiBmb3IgUEhQU3RhbgoKWyFbTWluaW11bSBQ\nSFAgVmVyc2lvbl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9waHAt\nJTNFJTNEJTIwNy4xLTg4OTJCRi5zdmcpXShodHRwczovL3BocC5uZXQvKQpb\nIVtMYXRlc3QgU3RhYmxlIFZlcnNpb25dKGh0dHBzOi8vaW1nLnNoaWVsZHMu\naW8vcGFja2FnaXN0L3YvcHJvZ2V0LWhxL3BocHN0YW4tcGhwc3BlYy5zdmcp\nXShodHRwczovL3BhY2thZ2lzdC5vcmcvcGFja2FnZXMvcHJvZ2V0LWhxL3Bo\ncHN0YW4tcGhwc3BlYykKWyFbQnVpbGQgU3RhdHVzXShodHRwczovL3RyYXZp\ncy1jaS5vcmcvcHJvZ2V0LWhxL3BocHN0YW4tcGhwc3BlYy5zdmc/YnJhbmNo\nPW1hc3RlcildKGh0dHBzOi8vdHJhdmlzLWNpLm9yZy9wcm9nZXQtaHEvcGhw\nc3Rhbi1waHBzcGVjKQpbIVtUb3RhbCBEb3dubG9hZHNdKGh0dHBzOi8vcG9z\nZXIucHVneC5vcmcvcHJvZ2V0LWhxL3BocHN0YW4tcGhwc3BlYy9kb3dubG9h\nZHMuc3ZnKV0oaHR0cHM6Ly9wYWNrYWdpc3Qub3JnL3BhY2thZ2VzL3Byb2dl\ndC1ocS9waHBzdGFuLXBocHNwZWMpClshW0xpY2Vuc2VdKGh0dHBzOi8vcG9z\nZXIucHVneC5vcmcvcHJvZ2V0LWhxL3BocHN0YW4tcGhwc3BlYy9saWNlbnNl\nLnN2ZyldKGh0dHBzOi8vcGFja2FnaXN0Lm9yZy9wYWNrYWdlcy9wcm9nZXQt\naHEvcGhwc3Rhbi1waHBzcGVjKQoKIyMgV2hhdCBkb2VzIGl0IGRvPwoKKiBD\ndXJyZW50bHkgY29tcGF0aWJsZSB3aXRoIG9yaWdpbmFsIHNwZWNzIGZyb20g\nYFBocFNwZWNgIGl0c2VsZgoqIENoZWNrIGlmIGN1c3RvbSBtYXRjaGVyIGV4\naXN0IGluIGdpdmVuIHNwZWMgY2xhc3MKICAqIHN1cHBvcnQgZm90IGBnZXRN\nYXRjaGVyc2AgbWV0aG9kIAoqIFByb3ZpZGVzIGNvcnJlY3QgcmV0dXJuIHR5\ncGUgZm9yIGBDb2xsYWJvcmF0b3JgIGluIHNwZWMgbWV0aG9kcwogICogYHdp\nbGwqYCBtZXRob2RzCiAgKiBzdXBwb3J0IGZvciBhcnJheSByZXR1cm4gdHlw\nZSAoY2hlY2sgaWYgYXJyYXkgaXRlbSBoYXMgY29ycmVjdCB0eXBlKQoqIEFs\nbG93IHRvIHVzZXIgYFByb3BlaGN5YCBhcyBgQ29sbGFib3JhdG9yYCBhcmd1\nbWVudHMKICAqIGBBcmd1bWVudDo6Y2V0ZXJhKClgLCBgQXJndW1lbnQ6OmFu\neSgpYAoqIFByb3ZpZGVzIGNvcnJlY3QgYXR0cmlidXRlcyBmb3IgYENvbGxh\nYm9yYXRvcmAKKiBQcm92aWRlcyBjb3JyZWN0IG1ldGhvZHMgZm9yIGBPYmpl\nY3RCZWhhdmlvcmA6CiAgKiBgc2hvdWxkKmAgbWV0aG9kcwogICogYGR1cmlu\nZypgIG1ldGhvZHMKICAqIGBiZUNvbnN0cnVjdGVkV2l0aGAsIGBiZUNvbnN0\ncnVjdGVkVGhyb3VnaGAsIGBiZUFuSW5zdGFuY2VPZmAKICAqIHNlYXJjaCBv\ncmlnaW5hbCBzcGVjIGNsYXNzIChzdWJqZWN0KSBhbmQgY2hlY2sgaWYgbWV0\naG9kcyBleGlzdHMKKiBQcm92aWRlcyBjb3JyZWN0IGF0dHJpYnV0ZXMgZm9y\nIGBPYmplY3RCZWhhdmlvcmA6CiAgKiBwdWJsaWMgYXR0cmlidXRlcwogICog\nc3RhdGljIHByb3BlcnRpZXMgKHdpdGggYCR0aGlzLT5DT05TVEFOVF9OQU1F\nYCkKKiBQcm92aWRlcyBjb3JyZWN0IGNsYXNzIGZvciBgZ2V0V3JhcHBlZE9i\namVjdGAgbWV0aG9kCiogU3VwcG9ydCBgT2JqZWN0U3RhdGUgTWF0Y2hlcmAg\nYW5kIGNoZWNrIGlmIGFwcHJvcHJpYXRlIG1ldGhvZHMgZXhpc3RzCgoKIyMg\nQ29tcGF0aWJpbGl0eQoKfCBQSFBTdGFuIHZlcnNpb24gfCBQaHBTcGVjIGV4\ndGVuc2lvbiB2ZXJzaW9uIHwKfCAtLS0tLS0tLS0tLS0tLS0gfCAtLS0tLS0t\nLS0tLS0tLS0tLS0tLS0tIHwKfCAwLjExLjYgICAgICAgICAgfCAwLjIueCAg\nICAgICAgICAgICAgICAgIHwKfCAwLjEwLjcgICAgICAgICAgfCAwLjEueCAg\nICAgICAgICAgICAgICAgIHwKCgojIyBJbnN0YWxsYXRpb24KCmBgYHNoCmNv\nbXBvc2VyIHJlcXVpcmUgLS1kZXYgcHJvZ2V0LWhxL3BocHN0YW4tcGhwc3Bl\nYwpgYGAKCiMjIENvbmZpZ3VyYXRpb24KClB1dCB0aGlzIGludG8geW91ciBg\ncGhwc3Rhbi5uZW9uYCBjb25maWc6CgpgYGBuZW9uCmluY2x1ZGVzOgoJLSB2\nZW5kb3IvcHJvZ2V0LWhxL3BocHN0YW4tcGhwc3BlYy9leHRlbnNpb24ubmVv\nbgpwYXJhbWV0ZXJzOgogICAgc3BlY0RpcjogJ3NwZWMvJwpgYGAK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/proget-hq/phpstan-phpspec/contents/README.md?ref=master","git":"https://api.github.com/repos/proget-hq/phpstan-phpspec/git/blobs/fd1e19490d98a29607dd3f6ffdd815db2c003726","html":"https://github.com/proget-hq/phpstan-phpspec/blob/master/README.md"}}
+0
+

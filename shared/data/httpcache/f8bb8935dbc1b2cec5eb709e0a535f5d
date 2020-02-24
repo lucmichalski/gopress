@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:05:05 GMT
+Etag: W/"f5fda2499c9f730cfe779cfcf895785e"
+Last-Modified: Tue, 04 Feb 2014 21:27:55 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:33F77:3E851:5E53ADE1
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4822
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+5eb
+{"name":"README.md","path":"README.md","sha":"3ec70d29bd6851855d7167a555cf386906bc2dad","size":494,"url":"https://api.github.com/repos/andresriancho/nimbostratus/contents/README.md?ref=master","html_url":"https://github.com/andresriancho/nimbostratus/blob/master/README.md","git_url":"https://api.github.com/repos/andresriancho/nimbostratus/git/blobs/3ec70d29bd6851855d7167a555cf386906bc2dad","download_url":"https://raw.githubusercontent.com/andresriancho/nimbostratus/master/README.md","type":"file","content":"TmltYm9zdHJhdHVzCj09PT09PT09PT09PQoKVG9vbHMgZm9yIGZpbmdlcnBy\naW50aW5nIGFuZCBleHBsb2l0aW5nIEFtYXpvbiBjbG91ZCBpbmZyYXN0cnVj\ndHVyZXMuIFRoZXNlIHRvb2xzIGFyZSBhIFBvQwp3aGljaCBJIGRldmVsb3Bl\nZCBmb3IgbXkgIlBpdm90aW5nIGluIEFtYXpvbiBjbG91ZHMiIHRhbGssIGRl\ndmVsb3BlZCB1c2luZyB0aGUgZ3JlYXQgCltib3RvXShodHRwczovL2dpdGh1\nYi5jb20vYm90by9ib3RvKSBsaWJyYXJ5IGZvciBhY2Nlc3NpbmcgQW1hem9u\nJ3MgQVBJLgoKRm9yIG1vcmUgaW5mb3JtYXRpb24gdmlzaXQgW3RoZSBwcm9q\nZWN0IHBhZ2VdKGh0dHA6Ly9hbmRyZXNyaWFuY2hvLmdpdGh1Yi5pby9uaW1i\nb3N0cmF0dXMvKQoKRmVlbCBmcmVlIHRvIHJlcG9ydCBidWdzLCBmb3JrIGFu\nZCBzZW5kIHB1bGwtcmVxdWVzdHMuIFlvdSBjYW4gYWxzbyBkcm9wIG1lIGEg\nbGluZSBhdApbQHczYWZdKGh0dHBzOi8vdHdpdHRlci5jb20vdzNhZikuCgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/andresriancho/nimbostratus/contents/README.md?ref=master","git":"https://api.github.com/repos/andresriancho/nimbostratus/git/blobs/3ec70d29bd6851855d7167a555cf386906bc2dad","html":"https://github.com/andresriancho/nimbostratus/blob/master/README.md"}}
+0
+

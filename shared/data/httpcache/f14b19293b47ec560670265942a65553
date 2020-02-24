@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:22 GMT
+Etag: W/"c594cdb5fe04585759154807b42e1ab7"
+Last-Modified: Thu, 16 Jan 2020 18:53:25 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:AB59D:CD9E0:5E53B0FD
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2589
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+4ad
+{"name":"README.md","path":"README.md","sha":"c6ad384253ab1ba9a837f96b0dc9b7771fcffcb1","size":314,"url":"https://api.github.com/repos/atmoner/Ustealer/contents/README.md?ref=master","html_url":"https://github.com/atmoner/Ustealer/blob/master/README.md","git_url":"https://api.github.com/repos/atmoner/Ustealer/git/blobs/c6ad384253ab1ba9a837f96b0dc9b7771fcffcb1","download_url":"https://raw.githubusercontent.com/atmoner/Ustealer/master/README.md","type":"file","content":"IyBVc3RlYWxlcgpVYnVudHUgc3RlYWxlciwgc3RlYWwgdWJ1bnR1IGluZm9y\nbWF0aW9uIGluIGxvY2FsIHBjIChuaWNlIHdpdGggdXNiIGtleSkKCiMjIFJl\ncXVpcmUKLSBHKysgIApgc3VkbyBhcHQtZ2V0IGluc3RhbGwgZysrYAoKLSBs\naWJzcWxpdGUzICAKYHN1ZG8gYXB0LWdldCBpbnN0YWxsIGxpYnNxbGl0ZTMt\nZGV2YAojIyBDb21waWxhdGlvbgpHbyBpbiBgVXN0ZWFsZXIvYCBmb2xkZXIg\nYW5kIHJ1biBtYWtlZmlsZSAgCmBtYWtlYAoKIyMgVXNlCmAuL3VzdGVhbGVy\nYAoKCiFbTG9nb10oaHR0cDovL2kuaW1ndXIuY29tL1ZqaGo1dUUucG5nKQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/atmoner/Ustealer/contents/README.md?ref=master","git":"https://api.github.com/repos/atmoner/Ustealer/git/blobs/c6ad384253ab1ba9a837f96b0dc9b7771fcffcb1","html":"https://github.com/atmoner/Ustealer/blob/master/README.md"}}
+0
+

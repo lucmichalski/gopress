@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:19:57 GMT
+Etag: W/"29736b7e0fde8033a2ee38ce37fc5531"
+Last-Modified: Tue, 30 Oct 2018 04:26:49 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:9EA91:BC9CE:5E53B15C
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2323
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b15
+{"name":"README.md","path":"README.md","sha":"e1815d0ede72a4f1c77130c7878a25b1dd2886b5","size":1509,"url":"https://api.github.com/repos/WeebSec/weebdns/contents/README.md?ref=master","html_url":"https://github.com/WeebSec/weebdns/blob/master/README.md","git_url":"https://api.github.com/repos/WeebSec/weebdns/git/blobs/e1815d0ede72a4f1c77130c7878a25b1dd2886b5","download_url":"https://raw.githubusercontent.com/WeebSec/weebdns/master/README.md","type":"file","content":"IyBXZWViRE5TCgoqRE5TIEVudW1lcmF0aW9uIFRvb2wgd2l0aCBBc3luY2hy\nb25pY2l0eSoKCiFbV2VlQl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRn\nZS9XZWViRE5TLXYxLjAtdmlvbGV0LnN2Zz9sb25nQ2FjaGU9dHJ1ZSZzdHls\nZT1mb3ItdGhlLWJhZGdlKSAhW1BZVEhPTjMuNl0oaHR0cHM6Ly9pbWcuc2hp\nZWxkcy5pby9iYWRnZS9QeXRob24tMy42LWdyZWVuLnN2Zz9sb25nQ2FjaGU9\ndHJ1ZSZzdHlsZT1mb3ItdGhlLWJhZGdlKQoKKipEbyB5b3UgbGlrZSBDNFJS\nMDc1PyoqCgoqKk9OTFkgRE9XTkxPQUQgSVQgSEVSRSwgRE8gTk9UIFRSVVNU\nIE9USEVSIFBMQUNFUy4qKgoKClRoaXMgaXMgdGhlIG9mZmljaWFsIGFuZCBv\nbmx5IHJlcG9zaXRvcnkgb2YgdGhlIFdlZWJETlMgcHJvamVjdC4KCldyaXR0\nZW4gYnk6IEZ1enp5UmFiYml0IC0gVHdpdHRlcjogW0ByYWJiaXRfZnV6enld\nKGh0dHBzOi8vdHdpdHRlci5jb20vcmFiYml0X2Z1enp5KSwgR2l0SHViOiBb\nQEZ1enp5UmFiYml0XShodHRwczovL2dpdGh1Yi5jb20vRnV6enlSYWJiaXQp\nCgpESVNDTEFJTUVSOiBUaGlzIGlzIG9ubHkgZm9yIHRlc3RpbmcgcHVycG9z\nZXMgYW5kIGNhbiBvbmx5IGJlIHVzZWQgd2hlcmUgc3RyaWN0IGNvbnNlbnQg\naGFzIGJlZW4gZ2l2ZW4uIERvIG5vdCB1c2UgdGhpcyBmb3IgaWxsZWdhbCBw\ndXJwb3NlcywgcGVyaW9kLgoKUGxlYXNlIHJlYWQgdGhlIExJQ0VOU0UgZm9y\nIHRoZSBsaWNlbnNpbmcgb2YgV2VlYkROUy4gCgoKIyBGZWF0dXJlcwoKKipX\nZWViRE5TIGlzIGFuICdBc3luY2hyb25vdXMnIEROUyBFbnVtZXJhdGlvbiBU\nb29sIG1hZGUgd2l0aCBQeXRob24zIHdoaWNoIG1ha2VzIGl0IG11Y2ggZmFz\ndGVyIHRoYW4gbm9ybWFsIFRvb2xzLioqCgoKIyMgUFJFUkVRVUlTSVRFUwoq\nIFB5dGhvbiAzLnggCiogcGlwMwoqIGdpdAoKIyMjIyMgUFlUSE9OIDMgUFJF\nUkVRVUlTSVRFUwoqIGFpb2h0dHAKKiBhc3luY2lvCiogYWlvZG5zCgojIElu\nc3RhbGxhdGlvbgojIyBSZXNvbHZlIGRlcGVuZGVuY2llcwoqVWJ1bnR1L0Rl\nYmlhbiBTeXN0ZW0qCmBgYAokIHN1ZG8gYXB0LWdldCBpbnN0YWxsIGdpdCBw\neXRob24zIHB5dGhvbjMtcGlwIC15CmBgYAoKIyMgR2V0dGluZyBhbmQgUnVu\nbmluZyBXZWViRE5TCmBgYHNoCiQgZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHVi\nLmNvbS9XZWViU2VjL3dlZWJkbnMuZ2l0CiQgY2Qgd2VlYmRucwokIHN1ZG8g\ncGlwMyBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQKJCBweXRob24zIHdl\nZWJkbnMucHkKYGBgCgoKIyBTQ1JFRU5TSE9UCiFbU1NdKGh0dHBzOi8vcmF3\nLmdpdGh1YnVzZXJjb250ZW50LmNvbS9XZWViU2VjL3dlZWJkbnMvbWFzdGVy\nL3NjcmVlbnNob3RzL3dlZWJkbnMuanBnKQoKCiMjIEJ1Z3MgYW5kIGVuaGFu\nY2VtZW50cwoKRm9yIGJ1ZyByZXBvcnRzIG9yIGVuaGFuY2VtZW50cywgcGxl\nYXNlIG9wZW4gYW4gW2lzc3VlXShodHRwczovL2dpdGh1Yi5jb20vd2VlYnNl\nYy93ZWViZG5zL2lzc3VlcykgaGVyZS4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/WeebSec/weebdns/contents/README.md?ref=master","git":"https://api.github.com/repos/WeebSec/weebdns/git/blobs/e1815d0ede72a4f1c77130c7878a25b1dd2886b5","html":"https://github.com/WeebSec/weebdns/blob/master/README.md"}}
+0
+

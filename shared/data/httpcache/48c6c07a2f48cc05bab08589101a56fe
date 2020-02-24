@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:14:39 GMT
+Etag: W/"720ecea1e34a8ea343e0cbcb34da75a4"
+Last-Modified: Tue, 04 Feb 2020 08:36:59 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:79048:90244:5E53B01E
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3243
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e56
+{"name":"README.md","path":"README.md","sha":"635ce5437be8c9a6abeb4222d9a40d0f12607bf1","size":2109,"url":"https://api.github.com/repos/ElevenPaths/FOCA/contents/README.md?ref=master","html_url":"https://github.com/ElevenPaths/FOCA/blob/master/README.md","git_url":"https://api.github.com/repos/ElevenPaths/FOCA/git/blobs/635ce5437be8c9a6abeb4222d9a40d0f12607bf1","download_url":"https://raw.githubusercontent.com/ElevenPaths/FOCA/master/README.md","type":"file","content":"CjxwIGFsaWduPSJsZWZ0Ij4KPGltZyBzcmM9Ii4vZG9jL0ZPQ0FfV2hpdGUu\nanBnIi8+CjwvcD4KCiMgRk9DQSAoRmluZ2VycHJpbnRpbmcgT3JnYW5pemF0\naW9ucyB3aXRoIENvbGxlY3RlZCBBcmNoaXZlcykKCioqRk9DQSAgaXMgYSB0\nb29sIHVzZWQgbWFpbmx5IHRvIGZpbmQgbWV0YWRhdGEgYW5kIGhpZGRlbiBp\nbmZvcm1hdGlvbiBpbiB0aGUgZG9jdW1lbnRzIGl0IHNjYW5zKiouIFRoZXNl\nIGRvY3VtZW50cyBtYXkgYmUgb24gd2ViIHBhZ2VzLCBhbmQgY2FuIGJlIGRv\nd25sb2FkZWQgYW5kIGFuYWx5c2VkIHdpdGggRk9DQS4KCkl0IGlzIGNhcGFi\nbGUgb2YgYW5hbHlzaW5nIGEgd2lkZSB2YXJpZXR5IG9mIGRvY3VtZW50cywg\nd2l0aCB0aGUgbW9zdCBjb21tb24gYmVpbmcgKipNaWNyb3NvZnQgT2ZmaWNl\nKiosICoqT3BlbiBPZmZpY2UqKiwgb3IgKipQREYqKiBmaWxlcywgYWx0aG91\nZ2ggaXQgYWxzbyBhbmFseXNlcyBBZG9iZSBJbkRlc2lnbiBvciBTVkcgZmls\nZXMsIGZvciBpbnN0YW5jZS4KClRoZXNlIGRvY3VtZW50cyBhcmUgc2VhcmNo\nZWQgZm9yIHVzaW5nIHRocmVlIHBvc3NpYmxlIHNlYXJjaCBlbmdpbmVzOiAq\nKkdvb2dsZSoqLCAqKkJpbmcqKiwgYW5kICoqRHVja0R1Y2tHbyoqLiBUaGUg\nc3VtIG9mIHRoZSByZXN1bHRzIGZyb20gdGhlIHRocmVlIGVuZ2luZXMgYW1v\ndW50cyB0byBhIGxvdCBvZiBkb2N1bWVudHMuIEl0IGlzIGFsc28gcG9zc2li\nbGUgdG8gYWRkIGxvY2FsIGZpbGVzIHRvIGV4dHJhY3QgdGhlIEVYSUYgaW5m\nb3JtYXRpb24gZnJvbSBncmFwaGljIGZpbGVzLCBhbmQgYSBjb21wbGV0ZSBh\nbmFseXNpcyBvZiB0aGUgaW5mb3JtYXRpb24gZGlzY292ZXJlZCB0aHJvdWdo\nIHRoZSBVUkwgaXMgY29uZHVjdGVkIGV2ZW4gYmVmb3JlIGRvd25sb2FkaW5n\nIHRoZSBmaWxlLgoKIyMg8J+PrSBSZWxlYXNlcyAKCkNoZWNrIFtoZXJlXSho\ndHRwczovL2dpdGh1Yi5jb20vRWxldmVuUGF0aHMvRk9DQS9yZWxlYXNlcykg\nb3VyIGxhdGVzdCByZWxlYXNlcy4gCgojIyDinJTvuI8gUmVxdWlzaXRlcwoK\nVG8gcnVuIHRoZSBzb2x1dGlvbiBsb2NhbGx5IHRoZSBzeXN0ZW0gd2lsbCBu\nZWVkOgoKKiAqKk1pY3Jvc29mdCBXaW5kb3dzKiogKDY0IGJpdHMpLiBWZXJz\naW9ucyA3LCA4LCA4LjEgYW5kIDEwLgoqICoqTWljcm9zb2Z0IC5ORVQgRnJh\nbWV3b3JrIDQuNy4xKiouCiogTWljcm9zb2Z0ICoqVmlzdWFsIEMrKyAyMDEw\nIHg2NCoqIG9yIGdyZWF0ZXIuCiogQW4gaW5zdGFuY2Ugb2YgKipTUUwgU2Vy\ndmVyKiogMjAxNCBvciBncmVhdGVyLgoKIyMjIyDwn5OdTm90ZXMKCiogV2hl\nbiBzdGFydGluZyB0aGUgYXBwIHRoZSBzeXN0ZW0gd2lsbCBjaGVjayBpZiB0\naGVyZSBpcyBhICoqU1FMIFNlcnZlcioqIGluc3RhbmNlIGF2YWlsYWJsZS4g\nSWYgbm9uZSBpcyBmb3VuZCwgdGhlIHN5c3RlbSB3aWxsIHByb21wdCBhIHdp\nbmRvdyBmb3IgaW50cm9kdWNpbmcgYSBjb25uZWN0aW9uIHN0cmluZy4gIAoK\nIyMg8J+TnCBMaWNlbmNlCgpbR05VIEdFTkVSQUwgUFVCTElDIExJQ0VOQ0Vd\nKGh0dHBzOi8vd3d3LmdudS5vcmcvbGljZW5zZXMvZ3BsLTMuMC5lbi5odG1s\nKQoKIyMg8J+UiiBTdGF5IHR1bmVkCgpHZXQgdGhlIG5ld3MgYWJvdXQgb3Vy\nIGxhdGVzdCBkb2luZ3MgYW5kIHNlbmQgdXMgYSBtZXNzYWdlLiBXZSDwn5Kb\nIGhlYXJpbmcgZnJvbSB5b3UuIAoKKiBbPGltZyBzcmM9Ii4vZG9jL1R3aXR0\nZXJfU29jaWFsX0ljb25fQ2lyY2xlX0NvbG9yLnN2ZyIgd2lkdGg9IjMwIiBo\nZWlnaHQ9IjI0Ii8+XShodHRwczovL3R3aXR0ZXIuY29tL0ZlYXJfdGhlX0Zv\nY2EpICBodHRwczovL3R3aXR0ZXIuY29tL0ZlYXJfdGhlX0ZvY2EKCgojIyDi\nmJUgRnVydGhlciByZWFkaW5nIAoKKiBodHRwczovL3d3dy5lbGV2ZW5wYXRo\ncy5jb20vbGFic3Rvb2xzL2ZvY2EvaW5kZXguaHRtbAoqIFtFU10gaHR0cHM6\nLy8weHdvcmQuY29tL2VzL2xpYnJvcy81OS1wZW50ZXN0aW5nLWNvbi1mb2Nh\nLmh0bWwKKiBbRVNdIGh0dHBzOi8vZXMud2lraXBlZGlhLm9yZy93aWtpL0ZP\nQ0FfVG9vbAoqIFtFU10gaHR0cHM6Ly9lbXByZXNhcy5ibG9ndGhpbmtiaWcu\nY29tL2NvbW8tYW5hbGl6YXItZG9jdW1lbnRvcy1jb24tZm9jYS8K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/ElevenPaths/FOCA/contents/README.md?ref=master","git":"https://api.github.com/repos/ElevenPaths/FOCA/git/blobs/635ce5437be8c9a6abeb4222d9a40d0f12607bf1","html":"https://github.com/ElevenPaths/FOCA/blob/master/README.md"}}
+0
+

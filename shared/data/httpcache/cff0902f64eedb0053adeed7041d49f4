@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:11:11 GMT
+Etag: W/"595da1ac312bb57fa7d26863841dfa03"
+Last-Modified: Tue, 18 Mar 2014 15:51:14 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:701F3:86D27:5E53AF4F
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3850
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d94
+{"name":"README.md","path":"README.md","sha":"9d0bc3c7d3633c9d77ce1a72b1f4a2cf2dcad74f","size":1917,"url":"https://api.github.com/repos/riverloopsec/beekeeperwids/contents/README.md?ref=master","html_url":"https://github.com/riverloopsec/beekeeperwids/blob/master/README.md","git_url":"https://api.github.com/repos/riverloopsec/beekeeperwids/git/blobs/9d0bc3c7d3633c9d77ce1a72b1f4a2cf2dcad74f","download_url":"https://raw.githubusercontent.com/riverloopsec/beekeeperwids/master/README.md","type":"file","content":"SW50cm9kdWN0aW9uCi0tLS0tLS0tLS0tLS0tCgpiZWVrZWVwZXJ3aWRzIGlz\nIGEgV2lyZWxlc3MgSW50cnVzaW9uIERldGVjdGlvbiBTeXN0ZW0gKFdJRFMp\nIGZvcgpJRUVFIDgwMi4xNS40IChhbmQgY2FuIGJlIGV4dGVuZGVkIGZvciB1\ncHBlciBsYXllcnMgc3VjaCBhcyBaaWdCZWUsIDZsb1dQQU4sIGV0YykuCgpJ\ndCB3YXMgZGV2ZWxvcGVkIGJ5IFJpdmVyIExvb3AgU2VjdXJpdHksIExMQyBh\nbmQgcmVsZWFzZWQgYXQgVHJvb3BlcnMxNC4KUml2ZXIgTG9vcCBTZWN1cml0\neSAocml2ZXJsb29wc2VjdXJpdHkuY29tKSBzcGVjYWlsaXplcyBpbiBzZWN1\ncml0eSBhc3NzZXNtZW50cyBpbmNsdWRpbmcKbG93LWxldmVsIGVtYmVlZGVk\nIHN5c3RlbXMsIGN1c3RvbSBoYXJkd2FyZSwgYW5kIHNwZWNhaWxpemVkIHJh\nZGlvIHByb3RvY29scy4KCkNvbnRyaWJ1dGlvbnMgYW5kIHN1Z2dlc3Rpb25z\nIGFyZSB3ZWxjb21lIQoKVGhpcyBpcyBjdXJyZW50bHkgYSBiZXRhIHJlbGVh\nc2UsIGRldmVsb3BlZCB0byBzaG93IHRoZSBmZWFzaWJpbGl0eQpvZiBpbnRy\ndXNpb24gZGV0ZWN0aW9uIHRlY2huaXF1ZXMgdG8gODAyLjE1LjQuIFdlIGFp\nbSB0byBjb250aW51ZSB0bwphZGQgZGV0ZWN0aW9uIG1vZHVsZXMgdG8gdGhp\ncywgYW5kIHdlIGFzayBmb3IgdGhlIGNvbnRyaWJ1dGlvbnMgb2YKb3RoZXIg\ncmVzZWFyY2hlcnMgaW4gY29udHJpYnV0aW5nIGFkZGl0aW9ucyBib3RoIHRv\nIHRoZSBkZXRlY3Rpb24KbW9kdWxlcywgYW5kIHRvIHRoZSBjb3JlIGFyY2hp\ndGVjdHVyZSBhcyBkZXNpcmVkLgoKCkluc3RhbGwKLS0tLS0tLS0tLS0tLS0K\nUnVuIGBzdWRvIHB5dGhvbiBzZXR1cC5weSBpbnN0YWxsYCAob3IgYG1ha2Ug\naW5zdGFsbGApLgoKTm90ZSB0aGF0IHRoaXMgY3VycmVudGx5IGFzc3VtZXMg\nYSBMaW5peCBzeXN0ZW0gd2hlcmUgaXQgY2FuIHBsYWNlIHRoZSBjb25maWcg\nZmlsZXMgaW50bwovb3B0L2tid2lkcy8uIElmIHRoaXMgaXMgbm90IHRoZSBj\nYXNlLCB5b3UgbWF5IG5lZWQgdG8gZWRpdCBzZXR1cC5weSB0byBpbnN0YWxs\nIHRoZW0KZWxzZXdoZXJlIChvciBtb3ZlIHRoZW0geW91cnNlbGYpLiBJZiB0\naGV5IGFyZSBub3QgaW5zdGFsbGVkIHRvIHRoZSBkZWZhdWx0IGxvY2F0aW9u\nLApzZXQgS0JXSURTXF9DT05GSUdcX1BBVEggdG8gcG9pbnQgdG8gdGhlIGZv\nbGRlciB0aGV5IGFyZSBpbnN0bGxlZCBpbi4KCgpDb25maWd1cmF0aW9uCi0t\nLS0tLS0tLS0tLS0tCgpJbnN0YWxsIHRoZSBzb2Z0d2FyZSBvbiB5b3VyIGRy\nb25lLiBUaGVuIGV4ZWN1dGUgJ3piZHJvbmUgLXJ1bicuCgpJbnN0YWxsIHRo\nZSBzb2Z0d2FyZSBvbiB5b3VyIFdJRFMgYmFja2VuZCAoaWYgZGlmZmVyZW50\nIHRoYW4gdGhlIGRyb25lIGNvbXB1dGVyKS4KVGhlbiBleGVjdXRlICd6Yndp\nZHMgLXJ1bicuCgpMb2dzIHdpbGwgYmUgd3JpdHRlbiB0byB0aGUgbG9nZ2lu\nZyBkaXJlY3RvcnksIHdoaWNoIGlzIGRlZmluZWQgYnkgdGhlIEtCV0lEU19M\nT0dfUEFUSCAKZW52aXJvbWVudCB2YXJpYWJsZSwgaWYgc2V0LCBhbmQgb3Ro\nZXJ3aXNlIGRlZmF1bHRzIHRvIHRoZSB0ZW1wIGRpcmVjdG9yeSBvZiB5b3Vy\nIHN5c3RlbS4gClRoZSBsb2dzIGFyZSBuYW1lZCBmb3IgdGhlIHN5c3RlbSBj\nb21wb25lbnQgd2hpY2ggaXMgcHJvZHVjaW5nIHRoZW0uCgpPcmdhbml6YXRp\nb24KLS0tLS0tLS0tLS0tCgpUaGlzIHNvZnR3YXJlIHVzZXMgdGhlIEtpbGxl\nckJlZSBmcmFtZXdvcmsgYW5kIHRoZSA4MDIuMTUuNCAoZG90MTVkNCkKbGF5\nZXIgb2YgU2NhcHkgKGF2YWlsYWJsZSBpbiB0aGUgc2NhcHktY29tIHJlcG9z\naXRvcnkpLgoKTGljZW5zZQotLS0tLS0tLS0tLS0KCkNvcHlyaWdodCAyMDE0\nIFJpdmVyIExvb3AgU2VjdXJpdHksIExMQy4KSXQgaXMgcmVsZWFzZWQgdW5k\nZXIgR1BMdjIgcGVyIExJQ0VOU0UudHh0LgoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/riverloopsec/beekeeperwids/contents/README.md?ref=master","git":"https://api.github.com/repos/riverloopsec/beekeeperwids/git/blobs/9d0bc3c7d3633c9d77ce1a72b1f4a2cf2dcad74f","html":"https://github.com/riverloopsec/beekeeperwids/blob/master/README.md"}}
+0
+

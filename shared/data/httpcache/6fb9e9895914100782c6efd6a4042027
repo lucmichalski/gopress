@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:32:42 GMT
+Etag: W/"cbf5dfde5e95cddd5fa83647b980e902"
+Last-Modified: Thu, 17 Jan 2019 19:22:45 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:36D75:41B71:5E53B45A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 234
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+df6
+{"name":"README.md","path":"README.md","sha":"9bfc9c096c0ac3aa52a017eb4641320a4083554b","size":1947,"url":"https://api.github.com/repos/aker-gateway/aker-freeipa-playbook/contents/README.md?ref=master","html_url":"https://github.com/aker-gateway/aker-freeipa-playbook/blob/master/README.md","git_url":"https://api.github.com/repos/aker-gateway/aker-freeipa-playbook/git/blobs/9bfc9c096c0ac3aa52a017eb4641320a4083554b","download_url":"https://raw.githubusercontent.com/aker-gateway/aker-freeipa-playbook/master/README.md","type":"file","content":"IyBha2VyLWZyZWVpcGEtcGxheWJvb2sKCiogVGhpcyBwbGF5Ym9vayBoZWxw\ncyB5b3UgaW5zdGFsbCBBa2VyIGFuZCBpdHMgZGVwZW5kZW5jaWVzIDoKICAq\nIFB5dGhvbiBtb2R1bGVzCiAgKiBGcmVlSVBBCiAgKiBFbGFzdGljc2VhcmNo\nCiAgKiBLaWJhbmEKICAqIEZpbGViZWF0CiAgKiBMb2dzdGFzaAogIAogIENs\nb25lIHRoaXMgcmVwbyB0byB5b3VyIGFuc2libGUgbWFzdGVyIG1hY2hpbmUg\nYW5kIGRlY2xhcmUgeW91ciBob3N0cyBpbiBgaG9zdHNgIGZpbGUKICAgYGBg\nCiAgW2ZyZWVpcGFfbWFzdGVyc10gIyBGcmVlSVBBIHNlcnZlciAoT3B0aW9u\nYWwpCiAgbWFzdGVyMS5pcGEuZXhhbXBsZSAKCiAgW2ZyZWVpcGFfY2xpZW50\nc10gIyBGcmVlSVBBIENsaWVudHMKICBha2VyLmlwYS5leGFtcGxlCiAgd2Vi\nMS5pcGEuZXhhbXBsZQogIHdlYjIuaXBhLmV4YW1wbGUKICBkYjEuaXBhLmV4\nYW1wbGUKICBkYjIuaXBhLmV4YW1wbGUKCgogIFtha2VyX3NlcnZlcnNdICMg\nQWtlciBzZXJ2ZXIKICBha2VyLmlwYS5leGFtcGxlCgogIFtkYl9zZXJ2ZXJz\nXSAjIE9wdGlvbmFsIGZvciB0aGUgc2FtcGxlIGRlbW8gZW52aXJvbm1lbnQg\nCiAgZGIxLmlwYS5leGFtcGxlCiAgZGIyLmlwYS5leGFtcGxlCgogIFtlbGtf\nc2VydmVyc10gIyBFbGFzdGljc2VhcmNoIHNlcnZlcgogIGVsYXN0aWNzZWFy\nY2guaXBhLmV4YW1wbGUKICBgYGAKICAKICBOb3cgdG8gc3RhcnQgdGhlIGlu\nc3RhbGwgeW91IGhhdmUgc2V2ZXJhbCBvcHRpb25zIDoKICAKICogKippbnN0\nYWxsX2ZyZWVpcGEqKiAoZGVmYXVsdCB0cnVlKSAsIHRoaXMgd2lsbCBpbnN0\nYWxsIGFuZCBjb25maWd1cmUgRnJlZUlQQSBzZXJ2ZXIgYW5kIGNsaWVudHMg\nLgogCiAqICoqaW5zdGFsbF9lbGFzdGljc2VhcmNoKiogKGRlZmF1bHQgdHJ1\nZSkgLCB0byBpbnN0YWxsIGFuZCBjb25maWd1cmUgdGhlIHdob2xlIEVMSyBz\ndGFjayAuCiAKICogKipha2VyX2lkcCoqIChkZWZhdWx0IElQQSksIHRoaXMg\ndG8gZGV0ZXJtaW5lIHRoZSBJZGVudGl0cnkgcHJvdmlkZXIgbWVjYWhuaXNt\nIHVzZWQgYnkgQWtlciAsIG9wdGlvbnMgYXJlIElQQSBmb3IgRnJlZUlQQSBv\nciBKc29uIGZvIGEgbG9jYWwgYC9ldGMvaG9zdHMuanNvbmAgZmlsZSAuCiAK\nICogKipha2VyX2xvYWRfc2FtcGxlX2VudioqIChkZWZhdWx0IFRydWUpLCB3\naGV0aGVyIHRvIHNldHVwIGEgc2FtcGxlIGRtZW8gZW52aXJvbm1lbnQgd2l0\naCBhIGNvdXBsZSBvZiB0ZXN0IHVzZXJzIG9yIG5vdCAsIHRoaXMgYXBwbGll\ncyBvbiBib3RoIElQQSBhbmQgSnNvbiBvcHRpbnMgLgogCiAqICoqYWtlcl9h\nZG1pbl91c2VyKiogKGRlZmF1bHQgdmFncmFudCksIHRoZSBPUyB1c2VyIG9u\nIGFrZXIgc2VydmVyIHRoYXQgQWtlciB3b250IGJlIGZvcmNlZCBvbiwgdGhp\ncyB1c2VyIHRvIGJlIHVzZWQgZm9yIGFkbWluIHRhc2tzIG9uIGFrZXIgc2Vy\ndmVyIC4KIAogKiAqKmRucyoqIChkZWZhdWx0IDE5Mi4xNjguMTIyLjEpLCB0\naGlzIGlzIHRoZSBkbnMgcmVzb2x2ZXIgaW4geW91ciBlbnZpcm9ubWVudCAs\nIGl0IHdpbGwgYmUgaW5jb3Jwb3JhdGVkIHdpdGggRnJlZUlQQQogCiAKIExl\ndHMgc2VlIGEgY291cGxlIG9mIGluc3RhbGxhdGFpb24gZXhhbXBsZXM6CiAK\nICogYGFuc2libGUtcGxheWJvb2sgYWtlci1mcmVlaXBhLnltbGAKICAgKiBV\nc2UgYWxsIGFib3ZlIGRlZmF1bHRzIAogKiBgYW5zaWJsZS1wbGF5Ym9vayAt\nZSAiaW5zdGFsbF9mcmVlaXBhPUZhbHNlIGFrZXJfaWRwPUpzb24iIGFrZXIt\nZnJlZWlwYS55bWxgCiAgICogSW5zdGFsbCB1c2luZyBKc29uIGluc3RlYWQK\nICogYGFuc2libGUtcGxheWJvb2sgLWUgImluc3RhbGxfZnJlZWlwYT1GYWxz\nZSBpbnN0YWxsX2VsYXN0aWNzZWFyY2g9RmFsc2UgYWtlcl9pZHA9SnNvbiIg\nYWtlci1mcmVlaXBhLnltbGAKICAgKiBJbnN0YWxsIEpzb24gYW5kIHNraXAg\nRUxLIHN0YWNrIC4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/aker-gateway/aker-freeipa-playbook/contents/README.md?ref=master","git":"https://api.github.com/repos/aker-gateway/aker-freeipa-playbook/git/blobs/9bfc9c096c0ac3aa52a017eb4641320a4083554b","html":"https://github.com/aker-gateway/aker-freeipa-playbook/blob/master/README.md"}}
+0
+

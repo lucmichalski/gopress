@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:12 GMT
+Etag: W/"42c5d10cb39a02d80b7d6cb31b74f5cb"
+Last-Modified: Wed, 30 Aug 2017 14:57:51 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:78EB5:9141F:5E53AF8C
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3672
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+56a
+{"name":"README.md","path":"README.md","sha":"4beca58900c93427ee083c9fdfc8a1df33dcaf67","size":426,"url":"https://api.github.com/repos/evait-security/weeman/contents/README.md?ref=master","html_url":"https://github.com/evait-security/weeman/blob/master/README.md","git_url":"https://api.github.com/repos/evait-security/weeman/git/blobs/4beca58900c93427ee083c9fdfc8a1df33dcaf67","download_url":"https://raw.githubusercontent.com/evait-security/weeman/master/README.md","type":"file","content":"IyBXZWVtYW4gLSBodHRwIHNlcnZlciBmb3IgcGhpc2hpbmcKClRoaXMgaXMg\nYSBjb3B5IG9mIHRoZSBvcmlnaW5hbCBodHRwczovL2dpdGh1Yi5jb20vSHlw\nc3VydXMvd2VlbWFuIHJlcG9zaXRvcnkgYmVjYXVzZSB0aGUgY29tcGxldGUg\nYWNjb3VudCB3YXMgcmVtb3ZlZC4gQWxsIGNyZWRpdHMgZ29lcyB0byBIeXBz\ndXJ1cyBhbmQgdGhlIGNvbnN0cmlidXRlcnMgb2YgdGhpcyBwcm9qZWN0LgoK\nSFRUUCBzZXJ2ZXIgZm9yIHBoaXNoaW5nIGluIHB5dGhvbi4KVmVyc2lvbiAx\nLjcuMSBpcyB0aGUgbGFzdCBhbmQgbGF0ZXN0IHZlcnNpb24gZm9yIHdlZW1h\nbi4KCiMgUmVxdWlyZW1lbnRzCgoqIFB5dGhvbiAyLjcKCiMgUGxhdGZvcm1z\nCgoqIExpbnV4CiogTWFjCgojIENvcHlpbmcKClNlZSAnTElDRU5TRScgYW5k\nIGxpYi9iczQvQ09QWUlORy50eHQK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/evait-security/weeman/contents/README.md?ref=master","git":"https://api.github.com/repos/evait-security/weeman/git/blobs/4beca58900c93427ee083c9fdfc8a1df33dcaf67","html":"https://github.com/evait-security/weeman/blob/master/README.md"}}
+0
+

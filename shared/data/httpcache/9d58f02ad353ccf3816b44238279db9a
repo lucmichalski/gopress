@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:08 GMT
+Etag: W/"f0cf36272588f59af1fdccd6e089ddd1"
+Last-Modified: Wed, 26 Mar 2014 20:21:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:17FC8:1CC3D:5E53B2D0
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1213
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+932
+{"name":"README","path":"README","sha":"c7ef24b5c9e81b18ee5734e3426aedc2274258dc","size":1040,"url":"https://api.github.com/repos/OpenSecurityResearch/CustomPassiveScanner/contents/README?ref=master","html_url":"https://github.com/OpenSecurityResearch/CustomPassiveScanner/blob/master/README","git_url":"https://api.github.com/repos/OpenSecurityResearch/CustomPassiveScanner/git/blobs/c7ef24b5c9e81b18ee5734e3426aedc2274258dc","download_url":"https://raw.githubusercontent.com/OpenSecurityResearch/CustomPassiveScanner/master/README","type":"file","content":"Q3VzdG9tUGFzc2l2ZVNjYW5uZXIKQnkgQ2hyaXMgQnVzaCBvZiBGb3VuZHN0\nb25lCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKVGhp\ncyBpcyBhIEJ1cnAgZXh0ZW5zaW9uIHRoYXQgaW1wbG1lbnRzIGEgY3VzdG9t\nIApzY2FubmVyIHRvIHByb3ZpZGUgdHdvIHBhc3NpdmUgc2NhbiBjaGVja3M6\nCgogICAgMS4gUmVmbGVjdGlvbiBDaGVja3Mg4oCTIFVzaW5nIHRoZSB2YWx1\nZXMgb2YgdGhlIHBhcmFtZXRlcnMgCiAgICBpbiB0aGUgYmFzZSByZXF1ZXN0\nIHRoYXQgaXMgYmVpbmcgcGFzc2l2ZWx5IHNjYW5uZWQsIAogICAgdGhpcyBj\naGVjayBzZWFyY2hlcyB0aGUgY29ycmVzcG9uZGluZyByZXNwb25zZSBmb3Ig\ndGhvc2UgCiAgICBzYW1lIHZhbHVlcywgcHJvdmlkaW5nIGEgY2FuZGlkYXRl\nIHBvaW50IGZvciBmdXJ0aGVyIAogICAgdGVzdGluZyBmb3IgcmVmbGVjdGVk\nIFhTUyB2dWxuZXJhYmlsaXRpZXMuCgogICAgMi4gUmVndWxhciBFeHByZXNz\naW9uIE1hdGNoIOKAkyBDYW4gYmUgdXNlZCB0byBleGFtaW5lIHRoZSBiYXNl\nIAogICAgcmVzcG9uc2Ugb2YgYSBwYXNzaXZlIHNjYW4gcmVxdWVzdCwgbG9v\na2luZyBmb3IgYW55IHN0cmluZyAKICAgIHRoYXQgbWF0Y2hlcyBhIHBhcnRp\nY3VsYXIgcmVndWxhciBleHByZXNzaW9uLiAgSW4gdGhlIGNvbnRleHQgCiAg\nICBvZiB0aGlzIGV4YW1wbGUgZXh0ZW5zaW9uLCB0aGlzIGNoZWNrIGlzIHVz\nZWQgdG8gZG8gYSBjdXN0b21pemVkIAogICAgc2VhcmNoIG9mIGFwcGxpY2F0\naW9uIHJlc3BvbnNlcyB1c2luZyBhIHJlZ3VsYXIgZXhwcmVzc2lvbiAKICAg\nIGRlc2lnbmVkIHRvIG1hdGNoIHBvdGVudGlhbGx5IHNlbnNpdGl2ZSBwZXJz\nb25hbGx5IGlkZW50aWZpYWJsZSAKICAgIGluZm9ybWF0aW9uIChQSUkpIHVu\naXF1ZSB0byBhIHNwZWNpZmljLCBub24tVVMsIGNvdW50cnkuCgpUaGlzIHdh\ncyBjcmVhdGVkIGFzIGEgc3VwcGxlbWVudGFsIGZpbGUgdG8gYSBibG9nIHBv\nc3Qgb246CiAgICBodHRwOi8vYmxvZy5vcGVuc2VjdXJpdHlyZXNlYXJjaC5j\nb20KCgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/OpenSecurityResearch/CustomPassiveScanner/contents/README?ref=master","git":"https://api.github.com/repos/OpenSecurityResearch/CustomPassiveScanner/git/blobs/c7ef24b5c9e81b18ee5734e3426aedc2274258dc","html":"https://github.com/OpenSecurityResearch/CustomPassiveScanner/blob/master/README"}}
+0
+

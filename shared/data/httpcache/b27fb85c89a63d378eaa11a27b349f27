@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:27 GMT
+Etag: W/"48b4435dda0ef0a5af7c3c06e90bfcae"
+Last-Modified: Tue, 28 Jan 2020 21:59:30 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:19820:1E934:5E53B2E3
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1148
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+5ff
+{"name":"README.md","path":"README.md","sha":"08c4f50f94142783c660f4bb28217f9c302c96ea","size":540,"url":"https://api.github.com/repos/zerobyte-id/SEcraper/contents/README.md?ref=master","html_url":"https://github.com/zerobyte-id/SEcraper/blob/master/README.md","git_url":"https://api.github.com/repos/zerobyte-id/SEcraper/git/blobs/08c4f50f94142783c660f4bb28217f9c302c96ea","download_url":"https://raw.githubusercontent.com/zerobyte-id/SEcraper/master/README.md","type":"file","content":"IyBTRWNyYXBlcgpTZWFyY2ggZW5naW5lIHNjcmFwZXIgdG9vbCB3aXRoIEJB\nU0ggc2NyaXB0LgoKIVtTRWNyYXBlciBzaG93IGNhc2VdKGh0dHBzOi8vcmF3\nLmdpdGh1YnVzZXJjb250ZW50LmNvbS96ZXJvYnl0ZS1pZC9TRWNyYXBlci9t\nYXN0ZXIvc2VjcmFwZXItc2hvd2Nhc2UucG5nKQoKIyMgRGVwZW5kZW5jeQot\nIGN1cmwgKGNsaSkKCiMjIEF2YWlsYWJsZSBzZWFyY2ggZW5naW5lCi0gQXNr\nLmNvbQotIFNlYXJjaC55YWhvby5jb20KLSBCaW5nLmNvbQoKIyMgSW5zdGFs\nbGF0aW9uCmBgYApnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL3plcm9i\neXRlLWlkL1NFY3JhcGVyLmdpdApjZCBTRWNyYXBlci8KYGBgCgojIyBSdW4K\nYGBgCmJhc2ggc2VjcmFwZXIuYmFzaCAiUVVFUlkiCmBgYAoKLS0tLS0tLS0t\nLS0tLS0tLS0tLS0tLS0tLQoKVGhhbmsgeW91IDopCgpJZiB5b3Ugd2FudCB0\nbyBidXkgdXMgYSBjb2ZmZWUgW2J1eW1lYWNvZmZlZS5jb20vemVyb2J5dGVp\nZF0oaHR0cHM6Ly93d3cuYnV5bWVhY29mZmVlLmNvbS96ZXJvYnl0ZWlkKS4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/zerobyte-id/SEcraper/contents/README.md?ref=master","git":"https://api.github.com/repos/zerobyte-id/SEcraper/git/blobs/08c4f50f94142783c660f4bb28217f9c302c96ea","html":"https://github.com/zerobyte-id/SEcraper/blob/master/README.md"}}
+0
+

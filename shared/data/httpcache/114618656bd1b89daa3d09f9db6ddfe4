@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:11 GMT
+Etag: W/"4195164474a2cafbae7a108aa90773fe"
+Last-Modified: Tue, 28 Aug 2018 18:38:23 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:1834A:1D071:5E53B2D3
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1202
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+839
+{"name":"README.md","path":"README.md","sha":"330ea3f744dcc8a02847b8be39d8616ea56aebaf","size":932,"url":"https://api.github.com/repos/s1kr10s/Apache-Struts-v3/contents/README.md?ref=master","html_url":"https://github.com/s1kr10s/Apache-Struts-v3/blob/master/README.md","git_url":"https://api.github.com/repos/s1kr10s/Apache-Struts-v3/git/blobs/330ea3f744dcc8a02847b8be39d8616ea56aebaf","download_url":"https://raw.githubusercontent.com/s1kr10s/Apache-Struts-v3/master/README.md","type":"file","content":"IyBBcGFjaGUtU3RydXRzLXYzCgpTY3JpcHQgY29udGllbmUgbGEgZnVzacOz\nbiBkZSAzIHZ1bG5lcmFiaWxpZGFkZXMgZGUgdGlwbyBSQ0Ugc29icmUgQXBh\nY2hlU3RydXRzLCBhZGVtw6FzIHRpZW5lIGxhIGNhcGFjaWRhZCBkZSBjcmVh\nciBzaGVsbCBzZXJ2aWRvci4KPGJyPgoKIyMgU0hFTEwKKipwaHAqKiBgRnVu\nY2lvbiBUZXJtaW5hZGEgOilgPGJyPgoqKmpzcCoqIGBGdW5jaW9uIGVuIGRl\nc2Fycm9sbG8uYDxicj4KPGJyPgoKIyMgQ1ZFIEFERAoqKkNWRS0yMDEzLTIy\nNTEqKiAgYCdhY3Rpb246JywgJ3JlZGlyZWN0OicgYW5kICdyZWRpcmVjdEFj\ndGlvbidgPGJyPgoqKkNWRS0yMDE3LTU2MzgqKiAgYENvbnRlbnQtVHlwZWA8\nYnI+CioqQ1ZFLTIwMTgtMTE3NzYqKiBgJ3JlZGlyZWN0OicgYW5kICdyZWRp\ncmVjdEFjdGlvbidgPGJyPgo8YnI+Cgo8cCBhbGlnbj0iY2VudGVyIj4KICA8\naW1nIHNyYz0iaHR0cHM6Ly9naXRodWIuY29tL3Mxa3IxMHMvQXBhY2hlLVN0\ncnV0cy12My9ibG9iL21hc3Rlci9zY3JlZW4ucG5nIiB3aWR0aD0iNjAwIiBh\nbHQ9ImFjY2Vzc2liaWxpdHkgdGV4dCI+CjwvcD4KPGJyPgoKIyMgVXBsb2Fk\nIFNoZWxsCkVzdGEgZnVuY2lvbmFsaWRhZCBlcyBlZmVjdGl2YSBjdWFuZG8g\nZWwgc2Vydmlkb3Igbm8gdGllbmUgY29uZXhpb24gYSBpbnRlcm5ldCBkZSB0\nYWwgbWFuZXJhIHF1ZSBubyBwb2RlbW9zIHN1YmlyIHVuIGFyY2hpdm8geSBs\nYSBtZWpvciBvcGNpb24gc2VyaWEgY3JlYXIgdW4gYXJjaGl2byB5YSBlc3Rh\nbmRvIGRlbnRyby4KPGJyPgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNy\nYz0iaHR0cHM6Ly9naXRodWIuY29tL3Mxa3IxMHMvQXBhY2hlLVN0cnV0cy12\nMy9ibG9iL21hc3Rlci9zaGVsbC5qcGciIHdpZHRoPSI1NTAiIGFsdD0iYWNj\nZXNzaWJpbGl0eSB0ZXh0Ij4KPC9wPgoKVGhhbmtzLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/s1kr10s/Apache-Struts-v3/contents/README.md?ref=master","git":"https://api.github.com/repos/s1kr10s/Apache-Struts-v3/git/blobs/330ea3f744dcc8a02847b8be39d8616ea56aebaf","html":"https://github.com/s1kr10s/Apache-Struts-v3/blob/master/README.md"}}
+0
+

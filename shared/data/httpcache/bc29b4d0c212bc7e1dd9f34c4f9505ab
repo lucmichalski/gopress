@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:11:11 GMT
+Etag: W/"71a8c7cdcacb0674f47952fe150c03ab"
+Last-Modified: Mon, 24 Feb 2020 04:08:14 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:7009F:86BAC:5E53AF4E
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3851
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+866
+{"name":"README.md","path":"README.md","sha":"373f74e24eefe6b110b05ee98f5e41c204b7f09d","size":1005,"url":"https://api.github.com/repos/openwrt/packages/contents/README.md?ref=master","html_url":"https://github.com/openwrt/packages/blob/master/README.md","git_url":"https://api.github.com/repos/openwrt/packages/git/blobs/373f74e24eefe6b110b05ee98f5e41c204b7f09d","download_url":"https://raw.githubusercontent.com/openwrt/packages/master/README.md","type":"file","content":"IyBPcGVuV3J0IHBhY2thZ2VzIGZlZWQKCiMjIERlc2NyaXB0aW9uCgpUaGlz\nIGlzIHRoZSBPcGVuV3J0ICJwYWNrYWdlcyItZmVlZCBjb250YWluaW5nIGNv\nbW11bml0eS1tYWludGFpbmVkIGJ1aWxkIHNjcmlwdHMsIG9wdGlvbnMgYW5k\nIHBhdGNoZXMgZm9yIGFwcGxpY2F0aW9ucywgbW9kdWxlcyBhbmQgbGlicmFy\naWVzIHVzZWQgd2l0aGluIE9wZW5XcnQuCgpJbnN0YWxsYXRpb24gb2YgcHJl\nLWJ1aWx0IHBhY2thZ2VzIGlzIGhhbmRsZWQgZGlyZWN0bHkgYnkgdGhlICoq\nb3BrZyoqIHV0aWxpdHkgd2l0aGluIHlvdXIgcnVubmluZyBPcGVuV3J0IHN5\nc3RlbSBvciBieSB1c2luZyB0aGUgW09wZW5XcnQgU0RLXShodHRwczovL29w\nZW53cnQub3JnL2RvY3MvZ3VpZGUtZGV2ZWxvcGVyL29idGFpbi5maXJtd2Fy\nZS5zZGspIG9uIGEgYnVpbGQgc3lzdGVtLgoKIyMgVXNhZ2UKClRoaXMgcmVw\nb3NpdG9yeSBpcyBpbnRlbmRlZCB0byBiZSBsYXllcmVkIG9uLXRvcCBvZiBh\nbiBPcGVuV3J0IGJ1aWxkcm9vdC4gSWYgeW91IGRvIG5vdCBoYXZlIGFuIE9w\nZW5XcnQgYnVpbGRyb290IGluc3RhbGxlZCwgc2VlIHRoZSBkb2N1bWVudGF0\naW9uIGF0OiBbT3BlbldydCBCdWlsZHJvb3Qg4oCTIEluc3RhbGxhdGlvbl0o\naHR0cHM6Ly9vcGVud3J0Lm9yZy9kb2NzL2d1aWRlLWRldmVsb3Blci9idWls\nZC1zeXN0ZW0vaW5zdGFsbC1idWlsZHN5c3RlbSkgb24gdGhlIE9wZW5XcnQg\nc3VwcG9ydCBzaXRlLgoKVGhpcyBmZWVkIGlzIGVuYWJsZWQgYnkgZGVmYXVs\ndC4gVG8gaW5zdGFsbCBhbGwgaXRzIHBhY2thZ2UgZGVmaW5pdGlvbnMsIHJ1\nbjoKYGBgCi4vc2NyaXB0cy9mZWVkcyB1cGRhdGUgcGFja2FnZXMKLi9zY3Jp\ncHRzL2ZlZWRzIGluc3RhbGwgLWEgLXAgcGFja2FnZXMKYGBgCgojIyBMaWNl\nbnNlCgpTZWUgW0xJQ0VOU0VdKExJQ0VOU0UpIGZpbGUuCiAKIyMgUGFja2Fn\nZSBHdWlkZWxpbmVzCgpTZWUgW0NPTlRSSUJVVElORy5tZF0oQ09OVFJJQlVU\nSU5HLm1kKSBmaWxlLgoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/openwrt/packages/contents/README.md?ref=master","git":"https://api.github.com/repos/openwrt/packages/git/blobs/373f74e24eefe6b110b05ee98f5e41c204b7f09d","html":"https://github.com/openwrt/packages/blob/master/README.md"}}
+0
+

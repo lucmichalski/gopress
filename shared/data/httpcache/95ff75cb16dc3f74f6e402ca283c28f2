@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:06:53 GMT
+Etag: W/"ac6473f02c54c462bb5ee9d1b2dd89df"
+Last-Modified: Sat, 09 Mar 2019 01:37:33 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:4C209:5BDCD:5E53AE4C
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4647
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b64
+{"name":"README.md","path":"README.md","sha":"4ce61fccd5c74f5f5d89c9c66664c4b22846012f","size":1549,"url":"https://api.github.com/repos/HatBashBR/HatCloud/contents/README.md?ref=master","html_url":"https://github.com/HatBashBR/HatCloud/blob/master/README.md","git_url":"https://api.github.com/repos/HatBashBR/HatCloud/git/blobs/4ce61fccd5c74f5f5d89c9c66664c4b22846012f","download_url":"https://raw.githubusercontent.com/HatBashBR/HatCloud/master/README.md","type":"file","content":"IyBIYXRDbG91ZCAtIGRpc2NvbnRpbnVlZAoKSGF0Q2xvdWQgYnVpbGQgaW4g\nUnVieS4gSXQgbWFrZXMgYnlwYXNzIGluIENsb3VkRmxhcmUgZm9yIGRpc2Nv\ndmVyIHJlYWwgSVAuClRoaXMgY2FuIGJlIHVzZWZ1bCBpZiB5b3UgbmVlZCB0\nZXN0IHlvdXIgc2VydmVyIGFuZCB3ZWJzaXRlLiBUZXN0aW5nIHlvdXIgcHJv\ndGVjdGlvbiBhZ2FpbnN0IERkb3MgKERlbmlhbCBvZiBTZXJ2aWNlKSBvciBE\nb3MuCkNsb3VkRmxhcmUgaXMgc2VydmljZXMgYW5kIGRpc3RyaWJ1dGVkIGRv\nbWFpbiBuYW1lIHNlcnZlciBzZXJ2aWNlcywgc2l0dGluZyBiZXR3ZWVuIHRo\nZSB2aXNpdG9yIGFuZCB0aGUgQ2xvdWRmbGFyZSB1c2VyJ3MgaG9zdGluZyBw\ncm92aWRlciwgYWN0aW5nIGFzIGEgcmV2ZXJzZSBwcm94eSBmb3Igd2Vic2l0\nZXMuIApZb3VyIG5ldHdvcmsgcHJvdGVjdHMsIHNwZWVkcyB1cCBhbmQgaW1w\ncm92ZXMgYXZhaWxhYmlsaXR5IGZvciBhIHdlYnNpdGUgb3IgdGhlIG1vYmls\nZSBhcHBsaWNhdGlvbiB3aXRoIGEgRE5TIGNoYW5nZS4gCgpWZXJzaW9uOiAx\nLjAKCjxlbT5Vc2U6PC9lbT4KPHN0cm9uZz5ydWJ5IGhhdGNsb3VkLnJiIC1o\nIG9yIC0taGVscCA8L3N0cm9uZz48YnIgLz4KPHN0cm9uZz5ydWJ5IGhhdGNs\nb3VkLnJiIC1iIHlvdXIgc2l0ZSA8L3N0cm9uZz4gPGJyIC8+Cm9yPGJyIC8+\nCjxzdHJvbmc+cnVieSBoYXRjbG91ZC5yYiAtLWJ5cCB5b3VyIHNpdGUgPC9z\ndHJvbmc+PGJyIC8+CgoKCkhhdENsb3VkLCB1bSBzaW1wbGVzIHNjcmlwdCBj\ncmlhZG8gZW0gUnVieSBwYXJhIHJlYWxpemFyIHVtIGJ5cGFzcyBubyBDbG91\nZEZsYXJlLCBkZXNjb2JyaW5kbyBzZXUgZW5kZXJlw6dvIGRlIElQIHJlYWwu\nIApJc3RvIHBvZGUgc2VyIMO6dGlsIHBhcmEgdm9jw6ogdGVzdGFyIG8gc2V1\nIHNlcnZpZG9yIGUgc2V1IHNpdGUuIFRlc3RhbmRvIHN1YSBwcm90ZcOnw6Nv\nIGNvbnRyYSBEZG9zIG91IERvcyAobmVnYcOnw6NvIGRlIHNlcnZpw6dvKSAu\nCgpDbG91ZEZsYXJlIGZvcm5lY2UgdW1hIHJlZGUgZGUgZW50cmVnYSBkZSBj\nb250ZcO6ZG8gZSBzZXJ2acOnb3MgZGlzdHJpYnXDrWRvcyBkZSBETlMsIHNl\nbmRvIG8gaW50ZXJtZWRpw6FyaW8gZW50cmUgbyB2aXNpdGFudGUgZSBvIApw\ncm92ZWRvciBkZSBob3NwZWRhZ2VtIGRvIHVzdcOhcmlvIGRhIENsb3VkZmxh\ncmUsIGF0dWFuZG8gY29tbyB1bSBwcm94eSByZXZlcnNvIHBhcmEgd2Vic2l0\nZS4gQSBzdWEgcmVkZSBwcm90ZWdlLCBhY2VsZXJhIGUgbWVsaG9yYSBhIApk\naXNwb25pYmlsaWRhZGUgZGUgdW0gd2Vic2l0ZSBvdSBhcGxpY2HDp8OjbyBt\nw7N2ZWwgY29tIHVtYSBtdWRhbsOnYSBubyBETlMuIAoKVmVyc8OjbzogMS4w\nCgo8ZW0+VXNvOiA8L2VtPgo8c3Ryb25nPnJ1YnkgaGF0Y2xvdWQucmIgLWIg\nc2V1IHNpdGUgPC9zdHJvbmc+PGJyIC8+Cm91PGJyIC8+CjxzdHJvbmc+cnVi\neSBoYXRjbG91ZC5yYiAtLWJ5cCBzZXUgc2l0ZTwvc3Ryb25nPjxiciAvPgoK\nI1NjcmVlbnNob3QKPGltZyBzcmM9Imh0dHBzOi8vaS5pbWd1ci5jb20vaUIy\nZTBBVS5wbmciPiA8YnIgLz4KCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/HatBashBR/HatCloud/contents/README.md?ref=master","git":"https://api.github.com/repos/HatBashBR/HatCloud/git/blobs/4ce61fccd5c74f5f5d89c9c66664c4b22846012f","html":"https://github.com/HatBashBR/HatCloud/blob/master/README.md"}}
+0
+

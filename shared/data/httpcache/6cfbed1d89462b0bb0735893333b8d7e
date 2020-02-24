@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:21:25 GMT
+Etag: W/"32782c139799b1f2ac7ac5a894ff6fcb"
+Last-Modified: Thu, 16 Jun 2016 09:55:11 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:22D3:2A22:5E53B1B5
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2064
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+893
+{"name":"README.md","path":"README.md","sha":"4f81188aa481e8585f466502a64b6aedfe79b9d7","size":1021,"url":"https://api.github.com/repos/shiva-spampot/shiva/contents/README.md?ref=master","html_url":"https://github.com/shiva-spampot/shiva/blob/master/README.md","git_url":"https://api.github.com/repos/shiva-spampot/shiva/git/blobs/4f81188aa481e8585f466502a64b6aedfe79b9d7","download_url":"https://raw.githubusercontent.com/shiva-spampot/shiva/master/README.md","type":"file","content":"QWJvdXQgU0hJVkENCi0tLS0tLS0tLS0tDQpTSElWQTogU3BhbSBIb25leXBv\ndCB3aXRoIEludGVsbGlnZW50IFZpcnR1YWwgQW5hbHl6ZXIsIGlzIGFuIG9w\nZW4gYnV0IGNvbnRyb2xsZWQgcmVsYXkgU3BhbSBIb25leXBvdCAoU3BhbVBv\ndCksIGJ1aWx0IG9uIHRvcCBvZiBMYW1zb24gUHl0aG9uIGZyYW1ld29yaywg\nd2l0aCBjYXBhYmlsaXR5IG9mIGNvbGxlY3RpbmcgYW5kIGFuYWx5emluZyBh\nbGwgc3BhbSB0aHJvd24gYXQgaXQuIEFuYWx5c2lzIG9mIGRhdGEgY2FwdHVy\nZWQgY2FuIGJlIHVzZWQgdG8gZ2V0IGluZm9ybWF0aW9uIG9mIHBoaXNoaW5n\nIGF0dGFja3MsIHNjYW1taW5nIGNhbXBhaWducywgbWFsd2FyZSBjYW1wYWln\nbnMsIHNwYW0gYm90bmV0cywgZXRjLiBTSElWQSBpcyB3cml0dGVuIGluIFB5\ndGhvbiBhbmQgY3VycmVudGx5IHVzZXMgTXlTUUwgYXMgaXRzIGJhY2stZW5k\nLg0KU0hJVkEgaXMgcmVsZWFzZWQgdW5kZXIgR05VIEdQTCB2My4NCg0KDQpE\nb2N1bWVudGF0aW9uDQotLS0tLS0tLS0tLS0tDQpVc2VyIG1hbnVhbCBjYW4g\nYmUgZm91bmQgaW4gdGhlICJkb2NzIiBmb2xkZXIuIFRoZSBtYW51YWwgaXMg\nZGl2aWRlZCBpbnRvIHZhcmlvdXMgc2VjdGlvbnMNCiogSW50cm9kdWN0aW9u\nDQoqIFNldHRpbmcgVXAgU0hJVkENCiogQ29uZmlndXJhdGlvbg0KKiBSdW5u\naW5nIFNISVZBDQoqIEdlbmVyYWwgUHJvYmxlbXMgYW5kIFByZWNhdXRpb25z\nDQoqIEZBUXMNCiogUmVmZXJlbmNlcw0KDQpBdXRob3JzJyBhbmQgbGljZW5z\nZSBpbmZvcm1hdGlvbiBjYW4gYWxzbyBiZSBmb3VuZCBpbiB0aGUgc2FtZSBm\nb2xkZXIuDQoNCg0KTWFpbGluZyBMaXN0DQotLS0tLS0tLS0tLS0NClN1YnNj\ncmliZSB0byBTSElWQSBtYWlsaW5nIGxpc3QgLSBodHRwczovL3B1YmxpYy5o\nb25leW5ldC5vcmcvbWFpbG1hbi9saXN0aW5mby9zaGl2YS4NCk1haWwgeW91\nciBxdWVyaWVzIGFuZCBzdWdnZXN0aW9ucyB0byB0aGUgbWFpbGluZyBsaXN0\nIGF0IHNoaXZhQHB1YmxpYy5ob25leW5ldC5vcmcNCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/shiva-spampot/shiva/contents/README.md?ref=master","git":"https://api.github.com/repos/shiva-spampot/shiva/git/blobs/4f81188aa481e8585f466502a64b6aedfe79b9d7","html":"https://github.com/shiva-spampot/shiva/blob/master/README.md"}}
+0
+

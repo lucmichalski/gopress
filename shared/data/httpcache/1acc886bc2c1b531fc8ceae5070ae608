@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:17:10 GMT
+Etag: W/"1965ddc7ce140165a4bd1b34b89885af"
+Last-Modified: Sat, 20 Jul 2019 15:40:06 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:8AF5D:A56B5:5E53B0B6
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2815
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+eef
+{"name":"README.md","path":"README.md","sha":"71928b28135f5dfb1e71dac5245f8c4000f6bea6","size":2204,"url":"https://api.github.com/repos/sepehrdaddev/Xerxes/contents/README.md?ref=master","html_url":"https://github.com/sepehrdaddev/Xerxes/blob/master/README.md","git_url":"https://api.github.com/repos/sepehrdaddev/Xerxes/git/blobs/71928b28135f5dfb1e71dac5245f8c4000f6bea6","download_url":"https://raw.githubusercontent.com/sepehrdaddev/Xerxes/master/README.md","type":"file","content":"PGltZyBhbGlnbj0ibGVmdCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHNy\nYz0iaW1nL1hlcnhlc1RoZUdyZWF0LmpwZyI+CgojIFhlcnhlcwoKWyFbQnVp\nbGQgU3RhdHVzXShodHRwczovL3RyYXZpcy1jaS5vcmcvc2VwZWhyZGFkZGV2\nL1hlcnhlcy5zdmc/YnJhbmNoPW1hc3RlcildKGh0dHBzOi8vdHJhdmlzLWNp\nLm9yZy9zZXBlaHJkYWRkZXYvWGVyeGVzKQpbIVtMaWNlbnNlOiBHUEwgdjNd\nKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGljZW5zZS1HUEwlMjB2\nMy1ibHVlLnN2ZyldKGh0dHBzOi8vd3d3LmdudS5vcmcvbGljZW5zZXMvZ3Bs\nLTMuMCkKWyFbU1NMOiBMaWJyZVNTTCB2Mi45LjFdKGh0dHBzOi8vaW1nLnNo\naWVsZHMuaW8vYmFkZ2UvU1NMLUxpYnJlU1NMJTIwdjIuOS4xLWdyZWVuLnN2\nZyldKGh0dHBzOi8vd3d3LmxpYnJlc3NsLm9yZy8pClshW1BsYXRmb3JtOiBM\naW51eF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QbGF0Zm9ybS1M\naW51eC1ibHVlLnN2ZyldKGh0dHBzOi8vd3d3LmxpbnV4Lm9yZy8pClshW1Zl\ncnNpb246IDIuMGJldGFdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2Uv\nVmVyc2lvbi0yLjBiZXRhLWJsdWUuc3ZnKV0oaHR0cHM6Ly9naXRodWIuY29t\nL3NlcGVocmRhZGRldi9YZXJ4ZXMuZ2l0KQoKRG9zIHRvb2wgd2l0aCBtdWx0\naXBsZSB2ZWN0b3JzIGF2YWlsYWJsZSBmb3Igc3RyZXNzIHRlc3RpbmcgaW50\nZXJuZXQgc2VydmljZXMuCgojIyBVc2FnZQoKYGBgCiQgLi9YZXJ4ZXMgLUgK\nICAtLT09WyBYZXJ4ZXMgZW5oYW5jZWQgYnkgU2VwZWhyZGFkIFNoIF09PS0t\nCgogIGJpbi9YZXJ4ZXMge09QVElPTlN9CgogICAgWGVyeGVzIGRvcyB0b29s\nIGVuaGFuY2VkCgogIE9QVElPTlM6CgogICAgICAtSCwgLS1oZWxwICAgICAg\nICAgICAgICAgICAgICAgICAgZGlzcGxheSB0aGlzIGhlbHAgbWVudQogICAg\nICAtViwgLS12ZXJzaW9uICAgICAgICAgICAgICAgICAgICAgZGlzcGxheSB2\nZXJzaW9uCiAgICAgIC0tdmVjcyAgICAgICAgICAgICAgICAgICAgICAgICAg\nICBkaXNwbGF5IGF2YWlsYWJsZSB2ZWN0b3JzCiAgICAgIC1oW3Job3N0XSwg\nLS1yaG9zdD1bcmhvc3RdICAgICAgICByZW1vdGUgaG9zdCBhZGRyZXNzIFtk\nZWZhdWx0IDEyNy4wLjAuMV0KICAgICAgLXBbcnBvcnRdLCAtLXJwb3J0PVty\ncG9ydF0gICAgICAgIHJlbW90ZSBob3N0IHBvcnQgW2RlZmF1bHQgODBdCiAg\nICAgIC1iW2JjYXN0XSwgLS1iY2FzdD1bYmNhc3RdICAgICAgICBicm9hZGNh\nc3QgYWRkcmVzcyBbZGVmYXVsdCAxMjcuMC4wLjFdCiAgICAgIC12W3ZlY3Rv\ncl0sIC0tdmVjPVt2ZWN0b3JdICAgICAgICBhdHRhY2sgdmVjdG9yIFtkZWZh\ndWx0IDBdCiAgICAgIC1kW2RlbGF5XSwgLS1kbHk9W2RlbGF5XSAgICAgICAg\nICBhdHRhY2sgZGVsYXkgW2RlZmF1bHQgMSBuc10KICAgICAgLXRbdGhyZWFk\nc10sIC0tdHJkcz1bdGhyZWFkc10gICAgIG51bWJlciBvZiB0aHJlYWRzIFtk\nZWZhdWx0IDEwXQogICAgICAtY1tjb25uZWN0aW9uc10sCiAgICAgIC0tY29u\nbj1bY29ubmVjdGlvbnNdICAgICAgICAgICAgICBudW1iZXIgb2YgY29ubmVj\ndGlvbnMgW2RlZmF1bHQgMjVdCiAgICAgIC0tdGxzICAgICAgICAgICAgICAg\nICAgICAgICAgICAgICBlbmFibGUgdGxzCiAgICAgIC0tcmFuZC1saG9zdCAg\nICAgICAgICAgICAgICAgICAgICBlbmFibGUgbG9jYWwgaG9zdCByYW5kb21p\nemF0aW9uCiAgICAgIC0tcmFuZC1scG9ydCAgICAgICAgICAgICAgICAgICAg\nICBlbmFibGUgbG9jYWwgcG9ydCByYW5kb21pemF0aW9uCiAgICAgIC0tZGFl\nbW9uaXplICAgICAgICAgICAgICAgICAgICAgICBkYWVtb25pemUKYGBgCgoj\nIyBMaWNlbnNlCgpUaGlzIHNvZnR3YXJlIGlzIGRpc3RyaWJ1dGVkIHVuZGVy\nIHRoZSBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZSB2ZXJzaW9uIDMgKEdQ\nTHYzKQoKIyMgTEVHQUwgTk9USUNFCgpUSElTIFNPRlRXQVJFIElTIFBST1ZJ\nREVEIEZPUiBFRFVDQVRJT05BTCBVU0UgT05MWSEgSUYgWU9VIEVOR0FHRSBJ\nTiBBTlkgSUxMRUdBTCBBQ1RJVklUWSBUSEUgQVVUSE9SIERPRVMgTk9UIFRB\nS0UgQU5ZIFJFU1BPTlNJQklMSVRZIEZPUiBJVC4gQlkgVVNJTkcgVEhJUyBT\nT0ZUV0FSRSBZT1UgQUdSRUUgV0lUSCBUSEVTRSBURVJNUy4KCiMjIEdldCBJ\nbnZvbHZlZAoKKipQbGVhc2UsIHNlbmQgdXMgcHVsbCByZXF1ZXN0cyEqKgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/sepehrdaddev/Xerxes/contents/README.md?ref=master","git":"https://api.github.com/repos/sepehrdaddev/Xerxes/git/blobs/71928b28135f5dfb1e71dac5245f8c4000f6bea6","html":"https://github.com/sepehrdaddev/Xerxes/blob/master/README.md"}}
+0
+

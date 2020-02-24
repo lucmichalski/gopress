@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:21 GMT
+Etag: W/"200c539ae1c22df29b7555dcf79ff1b9"
+Last-Modified: Sun, 10 Nov 2019 20:01:31 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:60441:73FA7:5E53AEE0
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4188
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e8b
+{"name":"readme.md","path":"readme.md","sha":"71178fb5a7fb115fd5cd2e23e315d10b548debff","size":2142,"url":"https://api.github.com/repos/dzzie/SysAnalyzer/contents/readme.md?ref=master","html_url":"https://github.com/dzzie/SysAnalyzer/blob/master/readme.md","git_url":"https://api.github.com/repos/dzzie/SysAnalyzer/git/blobs/71178fb5a7fb115fd5cd2e23e315d10b548debff","download_url":"https://raw.githubusercontent.com/dzzie/SysAnalyzer/master/readme.md","type":"file","content":"DQohW3NjcmVlbnNob3RdKGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50\nLmNvbS9kenppZS9TeXNBbmFseXplci9tYXN0ZXIvY2htX3NyYy9pbWcvbWFp\nbl91aV9zY3JlZW5zLmdpZikNCg0KPHByZT4NCg0KQ29weXJpZ2h0IChDKSAy\nMDA1IGlEZWZlbnNlLCBhIFZlcmlzaWduIENvbXBhbnkgDQpBdXRob3I6IERh\ndmlkIFppbW1lciAgZHp6aWVAeWFob28uY29tIA0KDQpWaWRlb3M6DQotLS0t\nLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tDQp1cGRhdGVzOiAgICAgICAg\nICBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTR0d1I4eHRWV1Br\nDQphcGlMb2dnZXI6ICAgICAgICBodHRwczovL3d3dy55b3V0dWJlLmNvbS93\nYXRjaD92PVNxZEdqaWhoRG9VDQpvcmlnaW5hbCB0cmFpbmVyOiBodHRwczov\nL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PU9QWHdLQ2hkTzRjDQotLS0tLS0t\nLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tDQoNCkluc3RhbGxlcjogIGh0dHA6\nLy9zYW5kc3ByaXRlLmNvbS90b29scy5waHA/aWQ9MTMNCkhlbHAgRmlsZTog\nIGh0dHA6Ly9zYW5kc3ByaXRlLmNvbS9pRGVmL1N5c0FuYWx5emVyLw0KDQpT\neXNBbmFseXplciBpcyBhbiBhcHBsaWNhdGlvbiB0aGF0IHdhcyBkZXNpZ25l\nZCB0byBnaXZlIG1hbGNvZGUgYW5hbHlzdHMgYW4gDQphdXRvbWF0ZWQgdG9v\nbCB0byBxdWlja2x5IGNvbGxlY3QsIGNvbXBhcmUsIGFuZCByZXBvcnQgb24g\ndGhlIGFjdGlvbnMgYSANCmJpbmFyeSB0b29rIHdoaWxlIHJ1bm5pbmcgb24g\ndGhlIHN5c3RlbS4gDQoNClRoZSBtYWluIGNvbXBvbmVudHMgb2YgU3lzQW5h\nbHl6ZXIgd29yayBvZmYgb2YgY29tcGFyaW5nIHNuYXBzaG90cyBvZiB0aGUg\nDQpzeXN0ZW0gb3ZlciBhIHVzZXIgc3BlY2lmaWVkIHRpbWUgaW50ZXJ2YWwu\nIFRoZSByZWFzb24gYSBzbmFwc2hvdCBtZWNoYW5pc20gDQp3YXMgdXNlZCBj\nb21wYXJlZCB0byBhIGxpdmUgbG9nZ2luZyBpbXBsZW1lbnRhdGlvbiBpcyB0\nbyByZWR1Y2UgdGhlIGFtb3VudCANCm9mIGRhdGEgdGhhdCBhbmFseXN0cyBt\ndXN0IHdhZGUgdGhyb3VnaCB3aGVuIGNvbmR1Y3RpbmcgdGhlaXIgYW5hbHlz\naXMuIEJ5IA0KdXNpbmcgYSBzbmFwc2hvdCBzeXN0ZW0sIHdlIGNhbiBlZmZl\nY3RpdmVseSBwcmVzZW50IHZpZXdlcnMgd2l0aCBvbmx5IHRoZSANCnBlcnNp\nc3RlbnQgY2hhbmdlcyBmb3VuZCBvbiB0aGUgc3lzdGVtIHNpbmNlIHRoZSBh\ncHBsaWNhdGlvbiB3YXMgZmlyc3QgcnVuLiANCg0KV2hpbGUgdGhpcyBtZWNo\nYW5pc20gZG9lcyBoZWxwIHRvIGVsaW1pbmF0ZSBhbGxvdCBvZiB0aGUgcG9z\nc2libGUgbm9pc2UgDQpjYXVzZWQgYnkgb3RoZXIgYXBwbGljYXRpb25zLCBv\nciBpbmNvbnNlcXVlbnRpYWwgcnVudGltZSBudWFuY2VzLCBpdCBhbHNvIA0K\nb3BlbnMgdXAgdGhlIHBvc3NpYmlsaXR5IGZvciBtaXNzaW5nIGtleSBkYXRh\nLiBCZWNhdXNlIG9mIHRoaXMgU3lzQW5hbHl6ZXIgDQphbHNvIGdpdmVzIHRo\nZSBhbmFseXN0IHRoZSBvcHRpb24gdG8gaW5jbHVkZSBzZXZlcmFsIGZvcm1z\nIG9mIGxpdmUgbG9nZ2luZyANCmludG8gdGhlIGFuYWx5c2lzIHByb2NlZHVy\nZS4gDQoNCk5vdGU6IFN5c0FuYWx5emVyIGlzIG5vdCBhIHNhbmRib3hpbmcg\ndXRpbGl0eS4gVGFyZ2V0IGV4ZWN1dGFibGVzIGFyZSBydW4gDQppbiBhIGZ1\nbGx5IGxpdmUgdGVzdCBvbiB0aGUgc3lzdGVtLiBJZiB5b3UgYXJlIHRlc3Rp\nbmcgbWFsaWNpb3VzIGNvZGUsIHlvdSANCm11c3QgcmVhbGl6ZSB5b3Ugd2ls\nbCBiZSBpbmZlY3RpbmcgeW91ciB0ZXN0IHN5c3RlbS4gDQoNClN5c0FuYWx5\nemVyJ3MgaXMgZGVzaWduZWQgdG8gdGFrZSBzbmFwc2hvdHMgb2YgdGhlIGZv\nbGxvd2luZyBzeXN0ZW0gDQphdHRyaWJ1dGVzOiANCg0KKiBSdW5uaW5nIHBy\nb2Nlc3NlcyANCiogT3BlbiBwb3J0cyBhbmQgYXNzb2NpYXRlZCBwcm9jZXNz\nIA0KKiBEbGxzIGxvYWRlZCBpbnRvIGV4cGxvcmVyLmV4ZSBhbmQgSW50ZXJu\nZXQgRXhwbG9yZXIgDQoqIFN5c3RlbSBEcml2ZXJzIGxvYWRlZCBpbnRvIHRo\nZSBrZXJuZWwgDQoqIFNuYXBzaG90cyBvZiBjZXJ0YWluIHJlZ2lzdHJ5IGtl\neXMgDQoNCkZvciBtb3JlIGluZm9ybWF0aW9uIHNlZSB0aGUgY2htIGhlbHAg\nZmlsZSBvciB2aWRlb3MuDQoNCjwvcHJlPg0K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/dzzie/SysAnalyzer/contents/readme.md?ref=master","git":"https://api.github.com/repos/dzzie/SysAnalyzer/git/blobs/71178fb5a7fb115fd5cd2e23e315d10b548debff","html":"https://github.com/dzzie/SysAnalyzer/blob/master/readme.md"}}
+0
+

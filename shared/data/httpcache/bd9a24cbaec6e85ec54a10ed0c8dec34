@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:06 GMT
+Etag: W/"53dffa7daec906012fa02055f8beea39"
+Last-Modified: Sat, 14 Sep 2019 12:49:24 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:5E1D9:716D6:5E53AED1
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4231
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+5eb
+{"name":"README.md","path":"README.md","sha":"a9da5a7410a77e72e69eb60b544ba54f340eb094","size":494,"url":"https://api.github.com/repos/matterpreter/DefenderCheck/contents/README.md?ref=master","html_url":"https://github.com/matterpreter/DefenderCheck/blob/master/README.md","git_url":"https://api.github.com/repos/matterpreter/DefenderCheck/git/blobs/a9da5a7410a77e72e69eb60b544ba54f340eb094","download_url":"https://raw.githubusercontent.com/matterpreter/DefenderCheck/master/README.md","type":"file","content":"IyBEZWZlbmRlckNoZWNrClF1aWNrIHRvb2wgdG8gaGVscCBtYWtlIGV2YXNp\nb24gd29yayBhIGxpdHRsZSBiaXQgZWFzaWVyLgoKVGFrZXMgYSBiaW5hcnkg\nYXMgaW5wdXQgYW5kIHNwbGl0cyBpdCB1bnRpbCBpdCBwaW5wb2ludHMgdGhh\ndCBleGFjdCBieXRlIHRoYXQgTWljcm9zb2Z0IERlZmVuZGVyIHdpbGwgZmxh\nZyBvbiwgYW5kIHRoZW4gcHJpbnRzIHRob3NlIG9mZmVuZGluZyBieXRlcyB0\nbyB0aGUgc2NyZWVuLiBUaGlzIGNhbiBiZSBoZWxwZnVsIHdoZW4gdHJ5aW5n\nIHRvIGlkZW50aWZ5IHRoZSBzcGVjaWZpYyBiYWQgcGllY2VzIG9mIGNvZGUg\naW4geW91ciB0b29sL3BheWxvYWQuCgohW10oL2RlbW8uZ2lmKQoKKipOb3Rl\nOioqIERlZmVuZGVyIG11c3QgYmUgZW5hYmxlZCBvbiB5b3VyIHN5c3RlbSwg\nYnV0IHRoZSByZWFsdGltZSBwcm90ZWN0aW9uIGFuZCBhdXRvbWF0aWMgc2Ft\ncGxlIHN1Ym1pc3Npb24gZmVhdHVyZXMgc2hvdWxkIGJlIGRpc2FibGVkLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/matterpreter/DefenderCheck/contents/README.md?ref=master","git":"https://api.github.com/repos/matterpreter/DefenderCheck/git/blobs/a9da5a7410a77e72e69eb60b544ba54f340eb094","html":"https://github.com/matterpreter/DefenderCheck/blob/master/README.md"}}
+0
+

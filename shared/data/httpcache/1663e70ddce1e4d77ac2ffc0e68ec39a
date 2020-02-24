@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:51 GMT
+Etag: W/"4b26535e27ee9f1e3eff6835a0d20a43"
+Last-Modified: Fri, 14 Jun 2019 22:36:24 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:6C0F7:80D98:5E53AFB3
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3580
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+74e
+{"name":"README.md","path":"README.md","sha":"b12805f00e1730230da8490c010ae951fb9126aa","size":584,"url":"https://api.github.com/repos/s1egesystems/GhostSquadHackers-Javascript-Encrypter-Encoder/contents/README.md?ref=master","html_url":"https://github.com/s1egesystems/GhostSquadHackers-Javascript-Encrypter-Encoder/blob/master/README.md","git_url":"https://api.github.com/repos/s1egesystems/GhostSquadHackers-Javascript-Encrypter-Encoder/git/blobs/b12805f00e1730230da8490c010ae951fb9126aa","download_url":"https://raw.githubusercontent.com/s1egesystems/GhostSquadHackers-Javascript-Encrypter-Encoder/master/README.md","type":"file","content":"CiMgR2hvc3RTcXVhZEhhY2tlcnMtSmF2YXNjcmlwdC1FbmNyeXB0ZXItRW5j\nb2RlcgpFbmNyeXB0L0VuY29kZSB5b3VyIEphdmFzY3JpcHQgcGF5bG9hZHMv\nY29kZS4gKFdpbmRvd3MgU2NyaXB0aW5nKQoKIVtHU0hKRV0oaHR0cHM6Ly91\nc2VyLWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vNTEyMzgwMDEvNTkz\nMjQ1NDgtZGZmNDZjMDAtOGNjZS0xMWU5LTgxNTEtMTU2MmJkZmU1YjgyLlBO\nRykKClRoaXMgdG9vbCBpcyBtZWFudCB0byBlbmNvZGUgYW5kIGVuY3J5cHQg\neW91ciBqYXZhc2NyaXB0IGNvZGUuCgojIEZlYXR1cmVzIAotIE51bWJlciBD\nYWxjdWxhdGluZwotIEFTQ0lJIGNvZGVzCi0gQ2Flc2VyLUVuY3J5cHRpb24K\nLSBIZXggRW5jb2RpbmcKLSBPY3RhbCBlbmNvZGluZwotIEJpbmFyeSBFbmNy\neXB0Ci0gUmFuZG9tIE9jdGFsIFF1b3RlcwotIEFkZCB0cmFzaCB0byBjb2Rl\nCi0gVXJsIEVuY29kZQoKIyBjdXJyZW50IEV4dHJhczoKLSBjcmVhdGUgQmFk\nYnVubnkgSlMtaW5mZWN0b3IKLSBjdXN0b21pemUgSlMgRG93bmxvYWRlciAo\ncGF5bG9hZCBkcm9wcGVyKQoKKGMpIENvZGVkIGJ5IE5lY3Jvbm9taWtvbgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/s1egesystems/GhostSquadHackers-Javascript-Encrypter-Encoder/contents/README.md?ref=master","git":"https://api.github.com/repos/s1egesystems/GhostSquadHackers-Javascript-Encrypter-Encoder/git/blobs/b12805f00e1730230da8490c010ae951fb9126aa","html":"https://github.com/s1egesystems/GhostSquadHackers-Javascript-Encrypter-Encoder/blob/master/README.md"}}
+0
+

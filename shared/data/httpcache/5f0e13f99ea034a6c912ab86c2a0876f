@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:31:23 GMT
+Etag: W/"dc5ee3d1a4721ca9d6c2dc800235b9da"
+Last-Modified: Wed, 18 May 2016 19:25:54 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:30DB8:3A7C9:5E53B40B
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 454
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+3dc
+{"name":"README.md","path":"README.md","sha":"f5db3a0ab498130512440b4c6d541433f8fdec8e","size":146,"url":"https://api.github.com/repos/zombiesam/googlesub/contents/README.md?ref=master","html_url":"https://github.com/zombiesam/googlesub/blob/master/README.md","git_url":"https://api.github.com/repos/zombiesam/googlesub/git/blobs/f5db3a0ab498130512440b4c6d541433f8fdec8e","download_url":"https://raw.githubusercontent.com/zombiesam/googlesub/master/README.md","type":"file","content":"ClNjcmFwZSBnb29nbGUgdG8gaHVudCBzdWJkb21haW4gZm9yIGEgdXNlciBz\ncGVjaWZpZWQgdGFyZ2V0LgpSZXBldGl0aXZlIHVzYWdlIG1pZ2h0IGdpdmUg\ndGhlIHNjcmlwdCBjYXB0Y2hhIGFuZCB3aWxsIHRodXMgZ2V0IGxlc3MvemVy\nbyByZXN1bHRzLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/zombiesam/googlesub/contents/README.md?ref=master","git":"https://api.github.com/repos/zombiesam/googlesub/git/blobs/f5db3a0ab498130512440b4c6d541433f8fdec8e","html":"https://github.com/zombiesam/googlesub/blob/master/README.md"}}
+0
+

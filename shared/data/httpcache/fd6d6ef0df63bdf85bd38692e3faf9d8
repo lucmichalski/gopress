@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:21:03 GMT
+Etag: W/"03b6dbf8b0db2cc0419b7781182f3e6d"
+Last-Modified: Thu, 26 Apr 2018 19:36:40 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:0450:05D3:5E53B19F
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2132
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b04
+{"name":"README.md","path":"README.md","sha":"eea394bbeabd666c22d5be193b337ac1fe17dc29","size":1489,"url":"https://api.github.com/repos/matiasb/unpy2exe/contents/README.md?ref=master","html_url":"https://github.com/matiasb/unpy2exe/blob/master/README.md","git_url":"https://api.github.com/repos/matiasb/unpy2exe/git/blobs/eea394bbeabd666c22d5be193b337ac1fe17dc29","download_url":"https://raw.githubusercontent.com/matiasb/unpy2exe/master/README.md","type":"file","content":"dW5weTJleGUKPT09PT09PT0KCmBgYAp1c2FnZTogdW5weTJleGUgWy1oXSBb\nLW8gT1VUUFVUX0RJUl0gWy1wIFBZVEhPTl9WRVJTSU9OXSBmaWxlbmFtZQoK\nRXh0cmFjdCBweWMgZmlsZXMgZnJvbSBweTJleGUgZXhlY3V0YWJsZS4KCnBv\nc2l0aW9uYWwgYXJndW1lbnRzOgogIGZpbGVuYW1lICAgICAgICAgICAgICBU\naGUgcHkyZXhlIGV4ZWN1dGFibGUKCm9wdGlvbmFsIGFyZ3VtZW50czoKICAt\naCwgLS1oZWxwICAgICAgICAgICAgc2hvdyB0aGlzIGhlbHAgbWVzc2FnZSBh\nbmQgZXhpdAogIC1vIE9VVFBVVF9ESVIsIC0tb3V0cHV0LWRpciBPVVRQVVRf\nRElSCiAgICAgICAgICAgICAgICAgICAgICAgIE91dHB1dCBkaXJlY3RvcnkK\nICAtcCBQWVRIT05fVkVSU0lPTiwgLS1weXRob24tdmVyc2lvbiBQWVRIT05f\nVkVSU0lPTgogICAgICAgICAgICAgICAgICAgICAgICBQeXRob24gdmVyc2lv\nbiBmb3IgcHljCiAgLXYsIC0tdmVyYm9zZSAgICAgICAgIFZlcmJvc2Ugb3V0\ncHV0CmBgYAoKWW91IGNhbiBpbnN0YWxsIGl0IGZyb20gUHlQSToKCmBgYAok\nIHBpcCBpbnN0YWxsIHVucHkyZXhlCmBgYAoKSW5zdGFsbCBmcm9tIHNvdXJj\nZQotLS0tLS0tLS0tLS0tLS0tLS0tCgpEZXBlbmRlbmNpZXM6CiAtIHBlZmls\nZQogLSBzaXgKIC0gYXJncGFyc2UgKFB5dGhvbiA8IDIuNykKCllvdSBjYW4g\naW5zdGFsbCBkZXBlbmRlbmNpZXMgdGhyb3VnaCBgcGlwIGluc3RhbGwgLXIg\ncmVxdWlyZW1lbnRzLnR4dGAKCgpOb3RlcwotLS0tLQoKRm9yIC5leGUgZmls\nZXMgZ2VuZXJhdGVkIHdpdGggUHl0aG9uIDIueCwgeW91IHdpbGwgbmVlZCB0\nbyBydW4gdW5weTJleGUgd2l0aApQeXRob24gMi54OyBzaW1pbGFybHksIGZv\nciBQeXRob24gMy54IC5leGUgZmlsZXMsIHlvdSB3aWxsIG5lZWQgdG8gcnVu\nIHVucHkyZXhlCndpdGggUHl0aG9uIDMueC4gTm90ZSB0aGUgc2FtZSB1bnB5\nMmV4ZSBzb3VyY2UgY29kZSB3b3JrcyBmb3IgYm90aCwgYnV0IHlvdQp3aWxs\nIG5lZWQgdG8gaW5zdGFsbCB0aGUgZGVwZW5kZW5jaWVzIGFjY29yZGluZ2x5\nLgoKT24gdGhlIG90aGVyIGhhbmQsIHRvIGJlIGFibGUgdG8gcnVuIHRoZSBl\neHRyYWN0ZWQgLnB5YyBmaWxlLCB5b3Ugd2lsbCBuZWVkIHRoZQpzYW1lIFB5\ndGhvbiB2ZXJzaW9uIHVzZWQgdG8gZ2VuZXJhdGUgdGhlIC5leGUsIG9yIGF0\nIGxlYXN0IHRoZSBzYW1lIG1ham9yCnZlcnNpb24gKGFsdGhvdWdoIGl0IGlz\nIGhpZ2hseSBwcm9iYWJsZSB5b3UgY291bGQgc3RpbGwgZ2V0IHNvbWUgaXNz\ndWVzIG9yCmNyYXNoZXMgaWYgdGhlIHZlcnNpb24gZG9lc24ndCBtYXRjaCB0\naGUgb3JpZ2luYWwgYnl0ZWNvZGUpLgoKClRPRE86CiAtIEV4dHJhY3QgYXJj\naGl2ZWQgZmlsZXMgKGZyb20gemlwL2Zyb20gZXhlKQoKU2VlIGFsc286CiAt\nIGh0dHA6Ly9weTJleGUuc3ZuLnNvdXJjZWZvcmdlLm5ldC92aWV3dmMvcHky\nZXhlL3RydW5rL3B5MmV4ZS9weTJleGUvYnVpbGRfZXhlLnB5P3ZpZXc9bWFy\na3VwCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/matiasb/unpy2exe/contents/README.md?ref=master","git":"https://api.github.com/repos/matiasb/unpy2exe/git/blobs/eea394bbeabd666c22d5be193b337ac1fe17dc29","html":"https://github.com/matiasb/unpy2exe/blob/master/README.md"}}
+0
+

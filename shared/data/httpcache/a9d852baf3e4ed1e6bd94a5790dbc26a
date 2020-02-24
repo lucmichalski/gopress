@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:16:32 GMT
+Etag: W/"eb8712105a4f4545206b34255df68a63"
+Last-Modified: Sun, 14 Jul 2019 15:30:34 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:8679D:A0188:5E53B090
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2918
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a4b
+{"name":"README.md","path":"README.md","sha":"305a0e451c94000366dafad785d8a8cefa273c0e","size":1310,"url":"https://api.github.com/repos/rampageX/firmware-mod-kit/contents/README.md?ref=master","html_url":"https://github.com/rampageX/firmware-mod-kit/blob/master/README.md","git_url":"https://api.github.com/repos/rampageX/firmware-mod-kit/git/blobs/305a0e451c94000366dafad785d8a8cefa273c0e","download_url":"https://raw.githubusercontent.com/rampageX/firmware-mod-kit/master/README.md","type":"file","content":"IyBmaXJtd2FyZS1tb2Qta2l0CkF1dG9tYXRpY2FsbHkgZXhwb3J0ZWQgZnJv\nbSBjb2RlLmdvb2dsZS5jb20vcC9maXJtd2FyZS1tb2Qta2l0CgpGaXJtd2Fy\nZSBNb2RpZmljYXRpb24gS2l0CgpUaGlzIGtpdCBpcyBhIGNvbGxlY3Rpb24g\nb2Ygc2NyaXB0cyBhbmQgdXRpbGl0aWVzIHRvIGV4dHJhY3QgYW5kIHJlYnVp\nbGQgbGludXggYmFzZWQgZmlybXdhcmUgaW1hZ2VzLgoKICAgIEV4dHJhY3Qg\nYSBmaXJtd2FyZSBpbWFnZSBpbnRvIGl0cyBjb21wb25lbnQgcGFydHMKICAg\nIFVzZXIgbWFrZXMgZGVzaXJlZCBtb2RpZmljYXRpb24gdG8gdGhlIGZpcm13\nYXJlJ3MgZmlsZSBzeXN0ZW0gb3Igd2ViIFVJICh3ZWJpZikKICAgIFJlYnVp\nbGQgZmlybXdhcmUKICAgIEZsYXNoIG1vZGlmaWVkIGZpcm13YXJlIG9udG8g\nZGV2aWNlIGFuZCBicmljayBpdCAoaGEpIAoKV0FSTklORzogWW91IGFyZSBn\nb2luZyB0byBicmljayB5b3VyIGRldmljZSBieSB1c2luZyB0aGlzIGtpdCAo\nbWF5YmUgbm90LCBidXQgYmV0dGVyIHRvIHNheSB5b3Ugd2lsbCkuIEJyaWNr\nIG1lYW5zIHRvIGVmZmVjdGl2ZWx5IHR1cm4gaW50byBhIG5vbi1mdW5jdGlv\nbmFsICdicmljaycuIFJlY292ZXJ5IGlzIHNvbWV0aW1lcyBwb3NzaWJsZSB3\naXRob3V0IGhhcmR3YXJlIG1vZGlmaWNhdGlvbnMuIFNvbWV0aW1lcyBpdCBy\nZXF1aXJlcyBoYXJkd2FyZSBtb2RzIChlLmcuIHNlcmlhbCBvciBKVEFHIGhl\nYWRlcnMgc29sZGVyZWQgb250byB0aGUgUENCKS4gU29tZXRpbWVzIGl0IGp1\nc3QgaXNuJ3QgZmVhc2libGUsIG9yIHdvdWxkIGNvc3QgbW9yZSBpbiB0b3Rh\nbCByZWNvdmVyeSBjb3N0IHRoYW4gdGhlIHVuaXQgaXMgd29ydGguCgpEbyBO\nT1QgdXNlIHRoaXMga2l0IGlmIHlvdSBhcmUgbm90IHByZXBhcmVkIHRvIGhh\ndmUgeW91ciByb3V0ZXIgYnJpY2tlZCEKCkVVTEE6IEJ5IGRvd25sb2FkaW5n\nIG9yIHVzaW5nIHRoaXMga2l0LCB5b3UgYWdyZWUgdG8gYWNjZXB0IGxpYWJp\nbGl0eSBmb3IgY29uc2VxdWVuY2VzIG9mIHVzZSBvciBtaXN1c2Ugb2YgdGhl\nIEZpcm13YXJlIE1vZCBLaXQuIFRoZXNlIGluY2x1ZGUgdGhlIGJyaWNraW5n\nIG9mIHlvdXIgZGV2aWNlLiBUaGUgYXV0aG9ycyBvZiB0aGlzIGtpdCBoYXZl\nIGR1bHkgd2FybmVkIHlvdS4gVGhpcyBraXQgaXMgb25seSBmb3IgZW1iZWRk\nZWQgc3lzdGVtcyBzb2Z0d2FyZSBlbmdpbmVlcnMuCgpQbGVhc2Ugc2VlIHRo\nZSBXaWtpIERvY3VtZW50YXRpb24gaGVyZTogaHR0cHM6Ly9jb2RlLmdvb2ds\nZS5jb20vcC9maXJtd2FyZS1tb2Qta2l0L3dpa2kvRG9jdW1lbnRhdGlvbj90\nbT02IAo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/rampageX/firmware-mod-kit/contents/README.md?ref=master","git":"https://api.github.com/repos/rampageX/firmware-mod-kit/git/blobs/305a0e451c94000366dafad785d8a8cefa273c0e","html":"https://github.com/rampageX/firmware-mod-kit/blob/master/README.md"}}
+0
+

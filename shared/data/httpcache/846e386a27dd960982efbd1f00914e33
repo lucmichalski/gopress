@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:25:24 GMT
+Etag: W/"378c4ea2704a0a01f32b603fd4009a4c"
+Last-Modified: Tue, 11 Oct 2016 01:04:09 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:14751:18880:5E53B2A3
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1341
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+604
+{"name":"readme.txt","path":"readme.txt","sha":"7d36d7897b99fdbc851eea4de24c53943ebcf4ae","size":556,"url":"https://api.github.com/repos/nccgroup/chuckle/contents/readme.txt?ref=master","html_url":"https://github.com/nccgroup/chuckle/blob/master/readme.txt","git_url":"https://api.github.com/repos/nccgroup/chuckle/git/blobs/7d36d7897b99fdbc851eea4de24c53943ebcf4ae","download_url":"https://raw.githubusercontent.com/nccgroup/chuckle/master/readme.txt","type":"file","content":"Q2h1Y2tsZSAtIEFuIGF1dG9tYXRlZCBTTUIgUmVsYXkgU2NyaXB0LgoKQ2h1\nY2tsZSByZXF1aXJlcyBhIGZldyB0b29scyB0byB3b3JrOgoKU01CUmVsYXlY\nLnB5ClZlaWwgKGxhdGVzdCB2ZXJzaW9uIGZyb20gZ2l0KQpSZXNwb25kZXIg\nKENodWNrbGUgd2lsbCBkZXRlY3Qgd2hpY2ggdmVyc2lvbiB5b3UgYXJlIHVz\naW5nLikKTm1hcApOYnRzY2FuICh1bml4d2l6KQpNU0Zjb25zb2xlCgpVc3Vh\nZ2Ugc2hvdWxkIGJlIGZhaXJseSBzaW1wbGUsIHJ1biBhcyByb290IG9yIHVz\nZSBzdWRvOgoKc3VkbyAuL2NodWNrbGUuc2gKCldhaXQgYSB3aGlsZSBvciBj\nb2F4IGEgcHJpdmlsZWdlZCB1c2VyIGludG8gYXV0aGVudGljYXRpbmcgYWdh\naW5zdCB5b3UgYW5kIHlvdSBzaG91bGQgZW5kIHVwIHdpdGggYSBzaGVsbCBv\nbiB5b3VyIHRhcmdldCBtYWNoaW5lLiAKQmUgY2FyZWZ1bCB3aGVuIHJ1bm5p\nbmcgdGhpcyBhbmQgbmV2ZXIgcnVuIG9uIGEgbmV0d29yayB5b3UgYXJlIG5v\ndCBwZXJtaXR0ZWQgdG8gZG8gc28uCgpUaGFua3MgdG8gdGhlZ3VseSBmb3Ig\naGlzIGFkZGl0aW9ucy4gCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/nccgroup/chuckle/contents/readme.txt?ref=master","git":"https://api.github.com/repos/nccgroup/chuckle/git/blobs/7d36d7897b99fdbc851eea4de24c53943ebcf4ae","html":"https://github.com/nccgroup/chuckle/blob/master/readme.txt"}}
+0
+

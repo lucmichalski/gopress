@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:20:49 GMT
+Etag: W/"dfa0936df016c43dc3d6abf1a0d9d442"
+Last-Modified: Mon, 12 Sep 2016 02:12:22 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:BF3D5:E5674:5E53B190
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2174
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+c62
+{"name":"README.md","path":"README.md","sha":"4cfef6a4b557bf96d769421dfff3d626a1e3ac96","size":1695,"url":"https://api.github.com/repos/ztgrace/sticky_keys_hunter/contents/README.md?ref=master","html_url":"https://github.com/ztgrace/sticky_keys_hunter/blob/master/README.md","git_url":"https://api.github.com/repos/ztgrace/sticky_keys_hunter/git/blobs/4cfef6a4b557bf96d769421dfff3d626a1e3ac96","download_url":"https://raw.githubusercontent.com/ztgrace/sticky_keys_hunter/master/README.md","type":"file","content":"IyBTdGlja3kgS2V5cyBIdW50ZXIKClRoaXMgUE9DIGJhc2ggc2NyaXB0IHRl\nc3RzIGZvciBzdGlja3kga2V5cyBhbmQgdXRpbG1hbiAgYmFja2Rvb3JzLiBU\naGUgc2NyaXB0IHdpbGwgY29ubmVjdCB0byBhbiBSRFAgc2VydmVyLCBzZW5k\nIGJvdGggdGhlIHN0aWNreSBrZXlzIGFuZCB1dGlsbWFuIHRyaWdnZXJzIGFu\nZCBzY3JlZW5zaG90IHRoZSByZXN1bHQuCgpUaGlzIHNjcmlwdCB3YXMgd3Jp\ndHRlbiB0byBwcm92ZSBhIHRoZW9yeSBJIGhhZCBhYm91dCBkZXRlY3Rpbmcg\ndGhlc2UgYmFja2Rvb3JzIGluIGEgYmxhY2tib3ggZmFzaGlvbiwgYW5kIGhh\nc24ndCBiZWVuIHVwZGF0ZWQgc2luY2UgSSB3cm90ZSBteSBibG9nIHBvc3Qs\nIFtIdW50aW5nIFN0aWNreSBLZXlzIEJhY2tkb29yc10oaHR0cDovL3phY2hn\ncmFjZS5jb20vMjAxNS8wMy8yMy9odW50aW5nLXN0aWNreS1rZXlzLWJhY2tk\nb29ycy5odG1sKS4gSG93ZXZlciwKW0BEZW5uaXNNYWxkXShodHRwczovL3R3\naXR0ZXIuY29tL0Rlbm5pc01hbGQpIGFuZCBbQG5vdG1lZGljXShodHRwczov\nL3R3aXR0ZXIuY29tL25vdG1lZGljKSBmdXJ0aGVyZWQgdGhpcyByZXNlYXJj\naCBhbmQgcmVsZWFzZWQgdGhlIFtTdGlja3kgS2V5cyBTbGF5ZXJdKGh0dHBz\nOi8vZ2l0aHViLmNvbS9saW51ei9TdGlja3ktS2V5cy1TbGF5ZXIpIHRvb2wg\nYXQgdGhlaXIgREVGIENPTiAyNCBwcmVzZW50YXRpb24sIFtTdGlja3kgS2V5\ncyBUbyBUaGUgS2luZ2RvbV0oaHR0cDovL3d3dy5zbGlkZXNoYXJlLm5ldC9E\nZW5uaXNNYWxkb25hZG81L3N0aWNreS1rZXlzLXRvLXRoZS1raW5nZG9tKS4g\nQ2hlY2sgb3V0IHRoZWlyIHRvb2wgYXMgaXQgaGFzIG1hbnkgaW1wcm92ZW1l\nbnRzIG92ZXIgdGhpcyBQT0Mgc2NyaXB0LgoKIyMgSG93IGRvZXMgaXQgd29y\naz8KCjEuIENvbm5lY3RzIHRvIFJEUCB1c2luZyByZGVza3RvcAoyLiBTZW5k\ncyBzaGlmdCA1IHRpbWVzIHVzaW5nIHhkb3Rvb2wgdG8gdHJpZ2dlciBzZXRo\nYy5leGUgYmFja2Rvb3JzCjMuIFNlbmRzIFdpbmRvd3MrdSB1c2luZyB4ZG90\nb29sIHRvIHRyaWdnZXIgdXRpbG1hbi5leGUgYmFja2Rvb3JzCjMuIFRha2Vz\nIHNjcmVlbnNob3QKNC4gS2lsbHMgUkRQIGNvbm5lY3Rpb24KCiMjIFByZXJl\ncXVpc2l0ZXMKCjEuIExpbnV4IGhvc3QgcnVubmluZyBhbiBYIHNlcnZlcgoy\nLiBUaGUgZm9sbG93aW5nIHBhY2thZ2VzOiB4ZG90b29sIGltYWdlbWFnaWNr\nIHJkZXNrdG9wIGJjCiAgICAzLiBEZWJpYW4vVWJ1bnR1L0thbGkgaW5zdGFs\nbDogYGFwdC1nZXQgaW5zdGFsbCB4ZG90b29sIGltYWdlbWFnaWNrIHJkZXNr\ndG9wIGJjYAozLiBTY3JlZW4gY2Fubm90IGJlIGxvY2tlZCBkdXJpbmcgdGhp\ncyBwcm9jZXNzIG9yIGFsbCBvZiB0aGUgc2NyZWVuc2hvdHMgd2lsbCB0dXJu\nIG91dCBibGFjawoKIyMgVXNhZ2UKClNjYW4gYSBzaW5nbGUgaG9zdDogYC4v\nc3RpY2t5S2V5c0h1bnRlci5zaCAxOTIuMTY4LjEuMTBgCgpTY2FuIE11bHRp\ncGxlIGhvc3RzOiBgZm9yIGkgaW4gJChjYXQgbGlzdC50eHQpOyBkbyAuL3N0\naWNreUtleXNIdW50ZXIuc2ggIiR7aX0iOyBkb25lYAoKIyMgVE9ETwoKMS4g\nQXV0b21hdGljYWxseSBhbmFseXplIHNjcmVlbnNob3RzIHdpdGggT0NSIG9y\nIGltYWdlIHByb2Nlc3NpbmcgdG8gaWRlbnRpZnkgYmFja2Rvb3JzLgoyLiBT\ncGVlZCB1cC9tdWx0aXRocmVhZCB0aGUgdG9vbC4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/ztgrace/sticky_keys_hunter/contents/README.md?ref=master","git":"https://api.github.com/repos/ztgrace/sticky_keys_hunter/git/blobs/4cfef6a4b557bf96d769421dfff3d626a1e3ac96","html":"https://github.com/ztgrace/sticky_keys_hunter/blob/master/README.md"}}
+0
+

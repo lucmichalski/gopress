@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:15:39 GMT
+Etag: W/"a7820c7e9f0462bdf2f90cfa9cb86635"
+Last-Modified: Mon, 25 Aug 2014 07:09:51 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:95551:B34B6:5E53B05B
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3076
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b9e
+{"name":"README.md","path":"README.md","sha":"0746fc24892fa0bdd072a2d7746c7adb60b45546","size":1622,"url":"https://api.github.com/repos/mycert/ESPot/contents/README.md?ref=master","html_url":"https://github.com/mycert/ESPot/blob/master/README.md","git_url":"https://api.github.com/repos/mycert/ESPot/git/blobs/0746fc24892fa0bdd072a2d7746c7adb60b45546","download_url":"https://raw.githubusercontent.com/mycert/ESPot/master/README.md","type":"file","content":"RVNQb3QgLSBFbGFzdGljU2VhcmNoIEhvbmV5cG90Cj09PT09PT09PT09PT09\nPT09PT09PT09PT09PT09PQpBbiBFbGFzdGljc2VhcmNoIGhvbmV5cG90IHdy\naXR0ZW4gaW4gTm9kZUpTLCB0byBjYXB0dXJlIGV2ZXJ5IGF0dGVtcHRzIHRv\nIGV4cGxvaXQgW0NWRS0yMDE0LTMxMjBdLgoKUHJlcmVxdWlzaXRlCj09PT09\nPT09PT09PQoqIE5vZGVKUyAtIHYwLjEwLngKKiBOb2RlSlMgUGFja2FnZSBN\nYW5hZ2VyIC0gbnBtIHYxLjQueAoKSW5zdGFsbAo9PT09PT09PQpEb3dubG9h\nZCBhbmQgZXh0cmFjdCB0byAvb3B0L2VzcG90LCB0aGVuIHJ1biBmb2xsb3d3\naW5nIGNvbW1hbmQ6CgogICAgJCBjZCAvb3B0L2VzcG90CiAgICAkIG5wbSBp\nbnN0YWxsCiAgICAkIG12IGNvbmZpZy5qcy1zYW1wbGUgY29uZmlnLmpzCkNv\nbmZpZ3VyZSBjb25maWcuanMgCgogICAgbW9kdWxlLmV4cG9ydHMgPSB7CiAg\nICAgICAgZGVmYXVsdF9yZXNwb25zZTogJ2RlZmF1bHQnLCAvLyBkZWZhdWx0\nID0gMS4xLjEsIGF2YWlsYWJsZSA9IDAuOTAuMCwgMC45MC41LCAxLjEuMSwg\nMS4yLjEsIDEuMi4yLCAxLjMuMQogICAgICAgIGxvZ2dpbmc6IHsKICAgICAg\nICAgICAgc3FsaXRlOiB7CiAgICAgICAgICAgICAgICBlbmFibGU6IHRydWUs\nCiAgICAgICAgICAgICAgICBkYnBhdGg6IF9fZGlybmFtZSArICIvbG9ncy9h\ndHRhY2suZGIiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGh0dHBfcHVz\naDogewogICAgICAgICAgICAgICAgZW5hYmxlOiBmYWxzZSwKICAgICAgICAg\nICAgICAgIHVybDogImh0dHA6Ly9sb2NhbGhvc3QvcGF0aC9wYXRoP3F1ZXJ5\nPXN0cmluZyIKICAgICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgdHo6\nICdHTVQrOCcgLy8gVGltZXpvbmUKICAgIH07CgoKTWlzYwo9PT09CiMjIyBI\nVFRQIFB1c2ggIyMjCgpFU1BvdCB3aWxsIHNlbmQgcG9zdCByZXF1ZXN0IHdp\ndGggZm9sbG93aW5nIGpzb24gZGF0YSB0byBwcm92aWRlZCB1cmwgaW4gY29u\nZmlnLmpzCiAgICAKICAgIHsKICAgICAgICBwYXlsb2FkOiA8cGF5bG9hZD4s\nCiAgICAgICAgcGF5bG9hZF9rZXk6IDxwYXlsb2FkIGtleT4sCiAgICAgICAg\naXA6IDxpcCBhZGRyZXNzPiwKICAgICAgICB0aW1lc3RhbXA6IDx1bml4IHRp\nbWVzdGFtcD4sCiAgICAgICAgcmF3X3JlcXVlc3Q6IDxyYXcgdXJsIHJlcXVl\nc3Q+CiAgICB9CgojIyMgUnVuIGFzIGRlYW1vbiAjIyMKSWYgeW91IHdvdWxk\nIGxpa2UgdG8gcnVuIEVTUG90IGFzIGRlYW1vbiwgeW91IHdpbGwgbmVlZCBb\nZm9yZXZlcl0KCiAgICAkIG5wbSBpbnN0YWxsIC1nIGZvcmV2ZXIKICAgICQg\nZm9yZXZlciBzdGFydCBhcHAuanMKCkxpY2Vuc2UKPT09PT09PT0KU291cmNl\nIGNvZGUgb2YgRVNQb3QgaXMgcmVsZWFzZWQgdW5kZXIgdGhlIFtHZW5lcmFs\nIFB1YmxpYyBMaWNlbnNlIHZlcnNpb24gM10uCgpbQ1ZFLTIwMTQtMzEyMF06\naHR0cDovL2N2ZS5taXRyZS5vcmcvY2dpLWJpbi9jdmVuYW1lLmNnaT9uYW1l\nPUNWRS0yMDE0LTMxMjAKW0dlbmVyYWwgUHVibGljIExpY2Vuc2UgdmVyc2lv\nbiAzXTpodHRwOi8vd3d3LmdudS5vcmcvbGljZW5zZXMvZ3BsLTMuMC5odG1s\nCltmb3JldmVyXTpodHRwczovL2dpdGh1Yi5jb20vbm9kZWppdHN1L2ZvcmV2\nZXI=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/mycert/ESPot/contents/README.md?ref=master","git":"https://api.github.com/repos/mycert/ESPot/git/blobs/0746fc24892fa0bdd072a2d7746c7adb60b45546","html":"https://github.com/mycert/ESPot/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:24:10 GMT
+Etag: W/"3aa7af99584f91f5cea7a70587df191a"
+Last-Modified: Sun, 14 Oct 2012 19:17:04 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:F34C:122C0:5E53B259
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1563
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+37b
+{"name":"README","path":"README","sha":"1f951bc90adcfd5a87457abad28acc1e9471f41a","size":101,"url":"https://api.github.com/repos/schmalle/MysqlPot/contents/README?ref=master","html_url":"https://github.com/schmalle/MysqlPot/blob/master/README","git_url":"https://api.github.com/repos/schmalle/MysqlPot/git/blobs/1f951bc90adcfd5a87457abad28acc1e9471f41a","download_url":"https://raw.githubusercontent.com/schmalle/MysqlPot/master/README","type":"file","content":"TXlTUUwgaG9uZXlwb3QKCsKpIDIwMTIgYnkgTWFya3VzICJmbGFrZSIgU2No\nbWFsbAoKRGV2ZWxvcG1lbnQgZG9uZSB3aXRoIE1vbm9kZXZlbG9wIGFuZCBN\nb25vIG9uIE1BQwo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/schmalle/MysqlPot/contents/README?ref=master","git":"https://api.github.com/repos/schmalle/MysqlPot/git/blobs/1f951bc90adcfd5a87457abad28acc1e9471f41a","html":"https://github.com/schmalle/MysqlPot/blob/master/README"}}
+0
+

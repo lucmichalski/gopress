@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:27:26 GMT
+Etag: W/"d5ac52c45a0cdbea06c01c7e71f3be94"
+Last-Modified: Sat, 02 Nov 2019 10:39:07 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:1E171:240B5:5E53B31E
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1000
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+86c
+{"name":"README.md","path":"README.md","sha":"98fff65166ed2d4cd0296bcb5b9a1c9a78d16579","size":974,"url":"https://api.github.com/repos/SecurityRAT/SecurityRAT/contents/README.md?ref=master","html_url":"https://github.com/SecurityRAT/SecurityRAT/blob/master/README.md","git_url":"https://api.github.com/repos/SecurityRAT/SecurityRAT/git/blobs/98fff65166ed2d4cd0296bcb5b9a1c9a78d16579","download_url":"https://raw.githubusercontent.com/SecurityRAT/SecurityRAT/master/README.md","type":"file","content":"IyBXaGF0IGlzIHRoaXMKCioqT1dBU1AgU2VjdXJpdHkgUkFUKiogKFJlcXVp\ncmVtZW50IEF1dG9tYXRpb24gVG9vbCkgaXMgYSB0b29sIHN1cHBvc2VkIHRv\nIGFzc2lzdCB3aXRoIHRoZSBwcm9ibGVtIG9mIGFkZHJlc3Npbmcgc2VjdXJp\ndHkgcmVxdWlyZW1lbnRzIGR1cmluZyBhcHBsaWNhdGlvbiBkZXZlbG9wbWVu\ndC4gVGhlIHR5cGljYWwgdXNlIGNhc2UgaXM6CgotIHNwZWNpZnkgcGFyYW1l\ndGVycyBvZiB0aGUgc29mdHdhcmUgYXJ0aWZhY3QgeW91J3JlIGRldmVsb3Bp\nbmcKLSBiYXNlZCBvbiB0aGlzIGluZm9ybWF0aW9uLCBsaXN0IG9mIGNvbW1v\nbiBzZWN1cml0eSByZXF1aXJlbWVudHMgaXMgZ2VuZXJhdGVkCi0gZ28gdGhy\nb3VnaCB0aGUgbGlzdCBvZiB0aGUgcmVxdWlyZW1lbnRzIGFuZCBjaG9vc2Ug\naG93IHlvdSB3YW50IHRvIGhhbmRsZSB0aGUgcmVxdWlyZW1lbnRzCi0gcGVy\nc2lzdCB0aGUgc3RhdGUgaW4gYSBKSVJBIHRpY2tldCAodGhlIHN0YXRlIGdl\ndHMgYXR0YWNoZWQgYXMgYSBZQU1MIGZpbGUpCi0gY3JlYXRlIEpJUkEgdGlj\na2V0cyBmb3IgcGFydGljdWxhciByZXF1aXJlbWVudHMgaW4gYSBiYXRjaCBt\nb2RlIGluIGRldmVsb3BlciBxdWV1ZXMKLSBpbXBvcnQgdGhlIG1haW4gSklS\nQSB0aWNrZXQgaW50byB0aGUgdG9vbCBhbnl0aW1lIGluIG9yZGVyIHRvIHNl\nZSBwcm9ncmVzcyBvZiB0aGUgcGFydGljdWxhciB0aWNrZXRzCgojIyBEb2N1\nbWVudGF0aW9uCgpQbGVhc2UgZ28gdG8gaHR0cHM6Ly9zZWN1cml0eXJhdC5n\naXRodWIuaW8KCiMjIE9XQVNQIFdlYnNpdGUKCmh0dHBzOi8vd3d3Lm93YXNw\nLm9yZy9pbmRleC5waHAvT1dBU1BfU2VjdXJpdHlSQVRfUHJvamVjdAoKIyMg\nTGljZW5zZQoKVGhpcyBwcm9qZWN0IGlzIGRpc3RyaWJ1dGVkIHVuZGVyIHRo\nZSBBcGFjaGUgbGljZW5zZSwgVmVyc2lvbiAyLjA6IGh0dHA6Ly93d3cuYXBh\nY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/SecurityRAT/SecurityRAT/contents/README.md?ref=master","git":"https://api.github.com/repos/SecurityRAT/SecurityRAT/git/blobs/98fff65166ed2d4cd0296bcb5b9a1c9a78d16579","html":"https://github.com/SecurityRAT/SecurityRAT/blob/master/README.md"}}
+0
+

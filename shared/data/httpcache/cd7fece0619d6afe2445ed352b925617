@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:20:36 GMT
+Etag: W/"b80289591f61656ae9884eb84cca2c62"
+Last-Modified: Tue, 15 Aug 2017 14:45:09 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:A31B7:C1E9D:5E53B183
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2219
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+84b
+{"name":"README.md","path":"README.md","sha":"23f575a098d08ead112e4117f7d7d006c9bd0517","size":966,"url":"https://api.github.com/repos/spencerdodd/pysploit/contents/README.md?ref=master","html_url":"https://github.com/spencerdodd/pysploit/blob/master/README.md","git_url":"https://api.github.com/repos/spencerdodd/pysploit/git/blobs/23f575a098d08ead112e4117f7d7d006c9bd0517","download_url":"https://raw.githubusercontent.com/spencerdodd/pysploit/master/README.md","type":"file","content":"IyBweXNwbG9pdAoKVGhpcyBpcyBhIG1ldGFzcGxvaXQtbGlrZSBmcmFtZXdv\ncmsgZm9yIHN5c3RlbSBleHBsb2l0YXRpb24gYW5kIHBlbmV0cmF0aW9uIAp0\nZXN0aW5nIHdyaXR0ZW4gaW4gcHl0aG9uLiBJdCBpcyBhIHdvcmsgaW4gcHJv\nZ3Jlc3MgYW5kIGlzIGFuIGVkdWNhdGlvbmFsIApleGVyY2lzZSBmb3IgbWUg\nc28gSSBsZWFybiBob3cgdGhpbmdzIGFjdHVhbGx5IHdvcmsgYW5kIHN0b3Ag\nYmVpbmcgc3VjaCBhIHNraWQuCgojIyMgRXhhbXBsZSBvZiBleHBsb2l0YXRp\nb24gb2YgdGhlIHNoZWxsc2hvY2sgdnVsbmVyYWJpbGl0eSAoQ1ZFLTIwMTQt\nNjA3MSkKCiFbc2hlbGxzaG9ja2VkXShodHRwczovL2dpdGh1Yi5jb20vc3Bl\nbmNlcmRvZGQvcHlzcGxvaXQvYmxvYi9tYXN0ZXIvaW1ncy9leGFtcGxlLWNh\ndGNoLnBuZyAiY2F0Y2ggaW1nIikKCkFzIGVhc3kgYXMgdGhhdCEKCiMjIyA9\nLT0tPS09IFRvIERvID0tPS09LT0KCi0gW3hdIEJ1aWxkIG5ldHdvcmsgbW9k\ndWxlIGZvciB0aGUgZnJhbWV3b3JrIHRvIGhhbmRsZSBzaGVsbHMgaW5zaWRl\nIHB5c3Bsb2l0CgotIFsgXSBDcmVhdGUgc29tZSBwYXlsb2FkcyAvIHBheWxv\nYWQgZXhlY3V0aW9uIGZyYW1ld29ya3MgKGJhc2VkIG9mZiBvZiBuZXR3b3Jr\nIG1vZHVsZSBpbnRlcmFjdGlvbnMpCgotIFsgXSBBdXRvbWF0ZWQgcHJpdmls\nZWdlIGVzY2FsYXRpb24gZnJhbWV3b3JrIGJhc2VkIG9uIHN5c3RlbSBwcm9m\naWxpbmcvZW51bWVyYXRpb24KCi0gWyBdIENyZWF0ZSBtYWNoaW5lIHByb2Zp\nbGVzIHRoYXQgbG9nIGFuZCByZW1lbWJlciBzdWNjZXNzZnVsIGV4cGxvaXQg\nY2hhaW5zIHRoYXQgbGVhZCB0byBlaXRoZXIgdXNlciBvciBzeXN0ZW0KY29t\ncHJvbWlzZS4gU2hvdWxkIGhhdmUgdGhlIGFiaWxpdHkgdG8gJ29uZS1zaG90\nJyByZS1yb290IGEgbG9nZ2VkIG1hY2hpbmUgcHJvZmlsZSBieSBleGVjdXRp\nbmcgYSBzaW5nbGUgZnVuY3Rpb24u\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/spencerdodd/pysploit/contents/README.md?ref=master","git":"https://api.github.com/repos/spencerdodd/pysploit/git/blobs/23f575a098d08ead112e4117f7d7d006c9bd0517","html":"https://github.com/spencerdodd/pysploit/blob/master/README.md"}}
+0
+

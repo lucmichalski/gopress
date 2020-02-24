@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:30:23 GMT
+Etag: W/"760c1cc429070f38e6ef5d764b2c45ef"
+Last-Modified: Wed, 24 Sep 2014 16:15:51 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:2C222:34CA5:5E53B3CE
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 551
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+dfb
+{"name":"README.md","path":"README.md","sha":"c3b3efb05d930bcab39bafef9bf78ba40eec4359","size":2057,"url":"https://api.github.com/repos/carmaa/nacker/contents/README.md?ref=master","html_url":"https://github.com/carmaa/nacker/blob/master/README.md","git_url":"https://api.github.com/repos/carmaa/nacker/git/blobs/c3b3efb05d930bcab39bafef9bf78ba40eec4359","download_url":"https://raw.githubusercontent.com/carmaa/nacker/master/README.md","type":"file","content":"TmFja2VyCj09PT09PQoKTmFja2VyIGlzIGEgdG9vbCB0byBieXBhc3MgODAy\nLjF4IE5ldHdvcmsgQWNjZXNzIENvbnRyb2wgKE5BQykgb24gYSB3aXJlZCBM\nQU4uIE5hY2tlciB3aWxsIGhlbHAgeW91IGxvY2F0ZSBhbnkgbm9uLTgwMi4x\neCBjb25maWd1cmFibGUgaG9zdHMgb24geW91ciBzdWJuZXQsIGFuZCBzcG9v\nZiB0aGVpciBNQUMgYWRkcmVzcyBzbyB0aGF0IHlvdSBhcHBlYXIgYXV0aGVu\ndGljYXRlZCB0byB0aGUgc3dpdGNoLgoKVGhlIG5hbWUgIk5hY2tlciIgaXMg\nYSBkZXJpdmVkIGZyb20gdGhlIHdvcmQgImtub2NrZXIiIGFuZCBOQUM7IGNv\naW5jaWRlbnRhbGx5IGNvbWJpbmluZyB0aGVtIGVxdWFscyB0aGUgc2xhbmcg\nZm9yIFtJcmlzaCBneXBzeV1bMV0uIEQneWEgbGlrZSBkYWdzPwoKSW1wb3J0\nYW50IG5vdGUKLS0tLS0tLS0tLS0tLS0KVGhpcyB0b29sIGlzIGN1cnJlbnRs\neSBpbiBhIG5vbi13b3JraW5nIHN0YXRlLgoKSW50cm9kdWN0aW9uCi0tLS0t\nLS0tLS0tLQoKSW5jcmVhc2luZ2x5IG9mdGVuIGR1cmluZyBpbnRlcm5hbCBw\nZW50ZXN0cyBpbiBtb2Rlcm4gZW52aXJvbm1lbnRzLCB5b3Ugd2lsbCBmaW5k\nIHRoYXQgeW91J2xsIG5vdCBiZSBhYmxlIHRvIGp1c3QgcGx1ZyBpbnRvIHRo\nZSBuZWFyZXN0IEV0aGVybmV0IHBvcnQgdG8gZ2V0IGFjY2VzcyB0byB0aGUg\nZW50ZXJwcmlzZSBuZXR3b3JrLiBNb3N0IG9mIHRoZSB0aW1lcyB0aGlzIGlz\nIGJlY2F1c2UgdGhlIG5ldHdvcmsgaXMgcHJvdGVjdGVkIGJ5IHNvbWUgc29y\ndCBvZiBOZXR3b3JrIEFjY2VzcyBDb250cm9sIChOQUMpIGZ1bmN0aW9uYWxp\ndHksIHdpY2ggZXNzZW50aWFsbHkgZm9yY2VzIGhvc3RzIG9uIHRoZSBuZXR3\nb3JrIHRvIGF1dGhlbnRpY2F0ZSB0byB0aGUgc3dpdGNoLCBvZnRlbiB1c2lu\nZyB0aGUgODAyLjF4IHByb3RvY29sIHdpdGggYSBiYWNrZW5kIGF1dGhlbnRp\nY2F0aW9uIHNlcnZlciwgdHlwaWNhbGx5IFJBRElVUy4KClRoZXJlIGFyZSBz\nZXZlcmFsIHdheXMgdG8gY2lyY3VtdmVudCB0aGlzIHByb2JsZW0sIGZvciBl\neGFtcGxlIGJ5IHVzaW5nIGFuIFB3bmllIFBsdWcgb3IgTWFydmluLgoKSG93\nZXZlciwgdGhlcmUgYXJlIG9mdGVuIGZhciBlYXNpZXIgd2F5cyB0byBieXBh\nc3MgTkFDLiBBcyBhbnlvbmUgdGhhdCBoYXMgYmVlbiB3b3JraW5nIGluIElU\nIGNhbiB0ZWxsIHlvdTsgZXZlbiBpbiBicmFuZCBuZXcgZW52aXJvbm1lbnRz\nIHRoZXJlIHdpbGwgYmUgbGVnYWN5IGhvc3RzIG9uIHRoZSBuZXR3b3JrICh0\naGluayBwcmludGVycywgdmlkZW8gY29uZmVyZW5jaW5nIGdlYXIsIG1vbml0\nb3JpbmcgYm94ZXMsIGV0Yy4pIHRoYXQgZG9lc24ndCBzdXBwb3J0IDgwMi4x\neC4gVGhlIHN0YW5kYXJkIHdheSBJVCBzb2x2ZXMgdGhpcywgaXMgdG8gY3Jl\nYXRlIGFuIGV4Y2VwdGlvbiBmb3Igc2FpZCBob3N0cy4KClNvIGlmIHdlIGNh\nbiBmaWd1cmUgb3V0IHdoaWNoIGhvc3RzIHRoYXQgYXJlIGV4ZW1wdCBhdXRo\nZW50aWNhdGlvbiBhbmQgbWltaWMgdGhlbSBvbiB0aGUgbmV0d29yaywgd2Un\nbGwgYmUgZXhlbXB0IGFzIHdlbGwuIFN3ZWV0IQoKTmFja2VyIGF1dG9tYXRl\ncyB0aGUgcHJvY2VkdXJlIG9mIGZpbmRpbmcgZXhlbXB0IGhvc3RzIG9uIHRo\nZSBsb2NhbCBMQU4sIGFuZCBtaW1pY2luZyB0aGVtLiBJdCBpcyBhIHZlcnkg\nc2ltcGxlIGFuZCBkdW1iIHRvb2wsIGJ1dCBpdCBoYXMgdGhlIGFkdmFudGFn\nZSBvZiBub3QgcmVxdWlyaW5nIHBsdWdnaW5nIGluIGRlZGljYXRlZCBoYXJk\nd2FyZSBiZXR3ZWVuIGFuIGF1dGhlbnRpY2F0ZWQgaG9zdCBhbmQgdGhlIHN3\naXRjaCwgd2hpY2ggYm90aCBQd25pZSBQbHVnIGFuZCBNYXJ2aW4gcmVxdWly\nZXMgeW91IHRvIGRvLiBKdXN0IHBsdWcgaW4sIHJ1biBOYWNrZXIsIGFuZCB3\naXRoIGEgbGl0dGxlIGJpdCBvZiBsdWNrIHlvdSdsbCBiZSBhdXRoZW50aWNh\ndGVkIG9uIHRoZSBuZXR3b3JrIGFuZCBhYmxlIHRvIGVuam95IG5ldHdvcmsg\nYWNjZXNzIGFzIHVzdWFsLgoKWzFdOiBodHRwOi8vd3d3LnVyYmFuZGljdGlv\nbmFyeS5jb20vZGVmaW5lLnBocD90ZXJtPW5hY2tlcgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/carmaa/nacker/contents/README.md?ref=master","git":"https://api.github.com/repos/carmaa/nacker/git/blobs/c3b3efb05d930bcab39bafef9bf78ba40eec4359","html":"https://github.com/carmaa/nacker/blob/master/README.md"}}
+0
+

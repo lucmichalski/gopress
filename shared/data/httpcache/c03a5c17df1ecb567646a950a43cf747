@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:31 GMT
+Etag: W/"3f5ad27c55af8436366091a57b42c843"
+Last-Modified: Mon, 24 Feb 2020 02:20:05 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:53524:63A94:5E53AEEA
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4152
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+fbf
+{"name":"README.md","path":"README.md","sha":"1a61b9484a3d7624de0ef1b94cc705ad67712700","size":2374,"url":"https://api.github.com/repos/aquynh/capstone/contents/README.md?ref=master","html_url":"https://github.com/aquynh/capstone/blob/master/README.md","git_url":"https://api.github.com/repos/aquynh/capstone/git/blobs/1a61b9484a3d7624de0ef1b94cc705ad67712700","download_url":"https://raw.githubusercontent.com/aquynh/capstone/master/README.md","type":"file","content":"Q2Fwc3RvbmUgRW5naW5lCj09PT09PT09PT09PT09PQoKWyFbQnVpbGQgU3Rh\ndHVzXShodHRwczovL3RyYXZpcy1jaS5vcmcvYXF1eW5oL2NhcHN0b25lLnN2\nZz9icmFuY2g9bWFzdGVyKV0oaHR0cHM6Ly90cmF2aXMtY2kub3JnL2FxdXlu\naC9jYXBzdG9uZSkKWyFbQnVpbGQgc3RhdHVzXShodHRwczovL2NpLmFwcHZl\neW9yLmNvbS9hcGkvcHJvamVjdHMvc3RhdHVzL2E0d3Zibjg5d3UzcGluYXMv\nYnJhbmNoL21hc3Rlcj9zdmc9dHJ1ZSldKGh0dHBzOi8vY2kuYXBwdmV5b3Iu\nY29tL3Byb2plY3QvYXF1eW5oL2NhcHN0b25lL2JyYW5jaC9tYXN0ZXIpClsh\nW3B5cGkgcGFja2FnZV0oaHR0cHM6Ly9iYWRnZS5mdXJ5LmlvL3B5L2NhcHN0\nb25lLnN2ZyldKGh0dHBzOi8vcHlwaS5weXRob24ub3JnL3B5cGkvY2Fwc3Rv\nbmUpClshW3B5cGkgZG93bmxvYWRzXShodHRwczovL3BlcHkudGVjaC9iYWRn\nZS9jYXBzdG9uZSldKGh0dHBzOi8vcGVweS50ZWNoL3Byb2plY3QvY2Fwc3Rv\nbmUpCgpDYXBzdG9uZSBpcyBhIGRpc2Fzc2VtYmx5IGZyYW1ld29yayB3aXRo\nIHRoZSB0YXJnZXQgb2YgYmVjb21pbmcgdGhlIHVsdGltYXRlCmRpc2FzbSBl\nbmdpbmUgZm9yIGJpbmFyeSBhbmFseXNpcyBhbmQgcmV2ZXJzaW5nIGluIHRo\nZSBzZWN1cml0eSBjb21tdW5pdHkuCgpDcmVhdGVkIGJ5IE5ndXllbiBBbmgg\nUXV5bmgsIHRoZW4gZGV2ZWxvcGVkIGFuZCBtYWludGFpbmVkIGJ5IGEgc21h\nbGwgY29tbXVuaXR5LApDYXBzdG9uZSBvZmZlcnMgc29tZSB1bnBhcmFsbGVs\nZWQgZmVhdHVyZXM6CgotIFN1cHBvcnQgbXVsdGlwbGUgaGFyZHdhcmUgYXJj\naGl0ZWN0dXJlczogQVJNLCBBUk02NCAoQVJNdjgpLCBFdGhlcmV1bSBWTSwg\nTTY4SywKICBNaXBzLCBNT1M2NVhYLCBQUEMsIFNwYXJjLCBTeXN0ZW1aLCBU\nTVMzMjBDNjRYLCBNNjgwWCwgWENvcmUgYW5kIFg4NiAoaW5jbHVkaW5nIFg4\nNl82NCkuCgotIEhhdmluZyBjbGVhbi9zaW1wbGUvbGlnaHR3ZWlnaHQvaW50\ndWl0aXZlIGFyY2hpdGVjdHVyZS1uZXV0cmFsIEFQSS4KCi0gUHJvdmlkZSBk\nZXRhaWxzIG9uIGRpc2Fzc2VtYmxlZCBpbnN0cnVjdGlvbiAoY2FsbGVkIOKA\nnGRlY29tcG9zZXLigJ0gYnkgb3RoZXJzKS4KCi0gUHJvdmlkZSBzZW1hbnRp\nY3Mgb2YgdGhlIGRpc2Fzc2VtYmxlZCBpbnN0cnVjdGlvbiwgc3VjaCBhcyBs\naXN0IG9mIGltcGxpY2l0CiAgcmVnaXN0ZXJzIHJlYWQgJiB3cml0dGVuLgoK\nLSBJbXBsZW1lbnRlZCBpbiBwdXJlIEMgbGFuZ3VhZ2UsIHdpdGggbGlnaHR3\nZWlnaHQgYmluZGluZ3MgZm9yIEQsIENsb2p1cmUsIEYjLAogIENvbW1vbiBM\naXNwLCBWaXN1YWwgQmFzaWMsIFBIUCwgUG93ZXJTaGVsbCwgRW1hY3MsIEhh\nc2tlbGwsIFBlcmwsIFB5dGhvbiwKICBSdWJ5LCBDIywgTm9kZUpTLCBKYXZh\nLCBHTywgQysrLCBPQ2FtbCwgTHVhLCBSdXN0LCBEZWxwaGksIEZyZWUgUGFz\nY2FsICYgVmFsYQogIChyZWFkeSBlaXRoZXIgaW4gbWFpbiBjb2RlLCBvciBw\ncm92aWRlZCBleHRlcm5hbGx5IGJ5IHRoZSBjb21tdW5pdHkpLgoKLSBOYXRp\ndmUgc3VwcG9ydCBmb3IgYWxsIHBvcHVsYXIgcGxhdGZvcm1zOiBXaW5kb3dz\nLCBNYWMgT1NYLCBpT1MsIEFuZHJvaWQsCiAgTGludXgsIFwqQlNELCBTb2xh\ncmlzLCBldGMuCgotIFRocmVhZC1zYWZlIGJ5IGRlc2lnbi4KCi0gU3BlY2lh\nbCBzdXBwb3J0IGZvciBlbWJlZGRpbmcgaW50byBmaXJtd2FyZSBvciBPUyBr\nZXJuZWwuCgotIEhpZ2ggcGVyZm9ybWFuY2UgJiBzdWl0YWJsZSBmb3IgbWFs\nd2FyZSBhbmFseXNpcyAoY2FwYWJsZSBvZiBoYW5kbGluZyB2YXJpb3VzCiAg\nWDg2IG1hbHdhcmUgdHJpY2tzKS4KCi0gRGlzdHJpYnV0ZWQgdW5kZXIgdGhl\nIG9wZW4gc291cmNlIEJTRCBsaWNlbnNlLgoKRnVydGhlciBpbmZvcm1hdGlv\nbiBpcyBhdmFpbGFibGUgYXQgaHR0cDovL3d3dy5jYXBzdG9uZS1lbmdpbmUu\nb3JnCgoKQ29tcGlsZQotLS0tLS0tCgpTZWUgQ09NUElMRS5UWFQgZmlsZSBm\nb3IgaG93IHRvIGNvbXBpbGUgYW5kIGluc3RhbGwgQ2Fwc3RvbmUuCgoKRG9j\ndW1lbnRhdGlvbgotLS0tLS0tLS0tLS0tCgpTZWUgZG9jcy9SRUFETUUgZm9y\nIGhvdyB0byBjdXN0b21pemUgJiBwcm9ncmFtIHlvdXIgb3duIHRvb2xzIHdp\ndGggQ2Fwc3RvbmUuCgoKSGFjawotLS0tCgpTZWUgSEFDSy5UWFQgZmlsZSBm\nb3IgdGhlIHN0cnVjdHVyZSBvZiB0aGUgc291cmNlIGNvZGUuCgoKTGljZW5z\nZQotLS0tLS0tCgpUaGlzIHByb2plY3QgaXMgcmVsZWFzZWQgdW5kZXIgdGhl\nIEJTRCBsaWNlbnNlLiBJZiB5b3UgcmVkaXN0cmlidXRlIHRoZSBiaW5hcnkK\nb3Igc291cmNlIGNvZGUgb2YgQ2Fwc3RvbmUsIHBsZWFzZSBhdHRhY2ggZmls\nZSBMSUNFTlNFLlRYVCB3aXRoIHlvdXIgcHJvZHVjdHMuCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/aquynh/capstone/contents/README.md?ref=master","git":"https://api.github.com/repos/aquynh/capstone/git/blobs/1a61b9484a3d7624de0ef1b94cc705ad67712700","html":"https://github.com/aquynh/capstone/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:22:42 GMT
+Etag: W/"2de4629811d10966ed1136668ed1e433"
+Last-Modified: Tue, 27 Oct 2015 00:04:57 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:87E3:A290:5E53B202
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1830
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b1d
+{"name":"README.md","path":"README.md","sha":"d42ded8050ff6371fb0ff4a133815364a090da30","size":1484,"url":"https://api.github.com/repos/crackinglandia/pype32/contents/README.md?ref=master","html_url":"https://github.com/crackinglandia/pype32/blob/master/README.md","git_url":"https://api.github.com/repos/crackinglandia/pype32/git/blobs/d42ded8050ff6371fb0ff4a133815364a090da30","download_url":"https://raw.githubusercontent.com/crackinglandia/pype32/master/README.md","type":"file","content":"V2hhdCdzIHB5cGUzMj8gPGltZyBzcmM9Imh0dHA6Ly9nb28uZ2wvanJmN2o4\nIiBhbGlnbj0icmlnaHQiIGhlaWdodD0iMTUwIiBzdHlsZT0ibWF4LXdpZHRo\nOiA3MHB4Ij4KPT09PT09CgpZZXQgYW5vdGhlciBQeXRob24gbGlicmFyeSB0\nbyByZWFkIGFuZCB3cml0ZSBbUEUvUEUrXShodHRwOi8vZXMud2lraXBlZGlh\nLm9yZy93aWtpL1BvcnRhYmxlX0V4ZWN1dGFibGUpIGZpbGVzLgoKSW5zdGFs\nbGF0aW9uCj09PT09PQoKVXNpbmcgKipwaXAqKjoganVzdCB0eXBlICoqcGlw\nIGluc3RhbGwgLS1wcmUgcHlwZTMyKioKCkRvd25sb2FkCj09PT09PQoKWW91\nIGNhbiBkb3dubG9hZCB0aGUgY3VycmVudCByZWxlYXNlIGZyb20gaHR0cHM6\nLy9naXRodWIuY29tL2NyYWNraW5nbGFuZGlhL3B5cGUzMi9yZWxlYXNlcwoK\nClVzYWdlCj09PT09PQoKYGBgcHl0aG9uCj4+PiBpbXBvcnQgcHlwZTMyCj4+\nPiBwID0gcHlwZTMyLlBFKHIiQzpcV2luZG93c1xub3RlcGFkLmV4ZSIpCj4+\nPiBwLnNlY3Rpb25IZWFkZXJzCls8cHlwZTMyLlNlY3Rpb25IZWFkZXIgb2Jq\nZWN0IGF0IDB4MDFBODAyRjA+LCA8cHlwZTMyLlNlY3Rpb25IZWFkZXIgb2Jq\nZWN0IGF0IDB4MDFBODA1RjA+LCA8cHlwZTMyLlNlY3Rpb25IZWFkZXIgb2Jq\nZWN0IGF0IDB4MDFBODAzQjA+LCA8cHlwZTMyLlNlY3Rpb25IZWFkZXIgb2Jq\nZWN0IGF0IDB4MDFBODA3MzA+XQo+Pj4gbGVuKHAuc2VjdGlvbkhlYWRlcnMp\nCjQKPj4+IGxlbihwLnNlY3Rpb25zKQo0Cj4+PiBwLmFkZFNlY3Rpb24oIlx4\nOTBceDkwXHg5MCIsIG5hbWU9Im5ld3NlYyIpCj4+PiBsZW4ocC5zZWN0aW9u\nSGVhZGVycykKNQo+Pj4gbGVuKHAuc2VjdGlvbnMpCjUKPj4+IHAuc2VjdGlv\nbkhlYWRlcnNbNF0ubmFtZS52YWx1ZQonbmV3c2VjJwo+Pj4gcC5zZWN0aW9u\nc1s0XQonXHg5MFx4OTBceDkwXHhjY1x4Y2NceGNjXHhjY1x4Y2NceGNjXHhj\nY1x4Y2NceGNjXHhjY1x4Y2NceGNjXHhjY1x4Y2NceGNjXHhjY1x4Y2NceGNj\nXHhjY1x4Y2NceGNjXHhjYwpgYGAKCkxpY2Vuc2UKPT09PT09CgoqKnB5cGUz\nMioqIGlzIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBbQlNEIDMtQ2xhdXNlXSho\ndHRwOi8vb3BlbnNvdXJjZS5vcmcvbGljZW5zZXMvQlNELTMtQ2xhdXNlKSBM\naWNlbnNlLgoKRG9jdW1lbnRhdGlvbgo9PT09PT0KCllvdSBjYW4gZmluZCB0\naGUgKipQcm9ncmFtbWluZyBSZWZlcmVuY2UqKiBkb2N1bWVudGF0aW9uIGdl\nbmVyYXRlZCB3aXRoIFtlcHlkb2NdKGh0dHA6Ly9lcHlkb2Muc291cmNlZm9y\nZ2UubmV0LykgZm9yICoqcHlwZTMyKiogdW5kZXIgdGhlIFtkb2NdKGRvYy9p\nbmRleC5odG1sKSBmb2xkZXIuCgpQcm9qZWN0cyB1c2luZyBweXBlMzIKPT09\nPT09CgogKiBodHRwOi8vbWFsd2FyZWNvbmZpZy5jb20vIGJ5ICoqS2V2aW4g\nQnJlZW4qKgogIApDaGFuZ2Vsb2cKPT09PT09CgpTZWUgaHR0cHM6Ly9naXRo\ndWIuY29tL2NyYWNraW5nbGFuZGlhL3B5cGUzMi93aWtpL0NoYW5nZWxvZwo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/crackinglandia/pype32/contents/README.md?ref=master","git":"https://api.github.com/repos/crackinglandia/pype32/git/blobs/d42ded8050ff6371fb0ff4a133815364a090da30","html":"https://github.com/crackinglandia/pype32/blob/master/README.md"}}
+0
+

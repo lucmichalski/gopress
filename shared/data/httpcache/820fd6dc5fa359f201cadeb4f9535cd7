@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:30:14 GMT
+Etag: W/"ece727ca4b99839de20f7e9b7f64f41a"
+Last-Modified: Sun, 04 Feb 2018 04:44:33 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:2B70A:33F2F:5E53B3C5
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 567
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d39
+{"name":"README.md","path":"README.md","sha":"de1e60639d61fd7297e7b7fa43a68cb7f174f338","size":1866,"url":"https://api.github.com/repos/h43z/dns-cache-eviction/contents/README.md?ref=master","html_url":"https://github.com/h43z/dns-cache-eviction/blob/master/README.md","git_url":"https://api.github.com/repos/h43z/dns-cache-eviction/git/blobs/de1e60639d61fd7297e7b7fa43a68cb7f174f338","download_url":"https://raw.githubusercontent.com/h43z/dns-cache-eviction/master/README.md","type":"file","content":"SW4gb3JkZXIgdG8gcGVyZm9ybSBhIGZhc3QgYW5kIHN1Y2Nlc3NmdWwgW0RO\nUyByZWJpbmRpbmcgYXR0YWNrXShodHRwczovL2dpdGh1Yi5jb20vaDQzei9k\nbnMtcmViaW5kaW5nLXRvb2wpCnRoZSBicm93c2VyIGhhcyB0byBleGVjdXRl\nIGEgbmV3IEROUyBxdWVyeSBmb3IgdGhlIHNhbWUgZG9tYWluIGF0IGxlYXN0\nIHR3aWNlCmFuZCBkbyB0aGF0IGluIHRoZSBzaG9ydGVzdCBwb3NzaWJsZSB0\naW1lLgoKVGhlIHdlYnNpdGUgcHJvdmlkZWQgaW4gdGhpcyByZXBvIG1ha2Vz\nIGl0IGVhc3kgdG8gaW52ZXN0aWdhdGUgaG93IGxvbmcgYSBicm93c2VyCmhh\ncyBETlMgZW50cnkgY2FjaGVkIGFuZCBpcyB1c2luZyBpdCBhbmQgYWZ0ZXIg\naG93IGxvbmcgb3IgdW5kZXIgd2hhdApjb25kaXRpb24gaXQgZG9lcyBhIG5l\ndyBETlMgQSBxdWVyeS4KCkl0IG1ha2VzIHVzZSBvZiBteSBbRE5TIHJlYmlu\nZGluZyBhdHRhY2sgdG9vbF0oaHR0cHM6Ly9naXRodWIuY29tL2g0M3ovZG5z\nLXJlYmluZGluZy10b29sKQp3aGljaCBwcm92aWRlcyBhIGRvbWFpbiB0aGF0\nIHJlc29sdmVzIHRvIDIgZGlmZmVyZW50IElQIGFkZHJlc3NlcyAoZmlyc3Qg\naXAxIGFuZAphZnRlciAzIHNlY29uZHMgYWxsIG5ldyBxdWVyaWVzIHJlc29s\ndmVzIHRvIElQMikgYW5kIGVuZCByZXNwb25kcyB3aXRoIGFiaXRyYXJ5IGph\ndmFzY3JpcHQgaW5jbHVkZWQuCgpJUDIgKDQ1LjU1LjQ1LjIyMykgdXNlcyBu\nZ2lueCBkZWZhdWx0X3NlcnZlciBhbmQgcmVwb25kcyB3aXRoIGp1c3QgYSBz\ndHJpbmcuCgpUaGUgaW5qZWN0ZWQgY29kZSB0cmllcyBpbiBhIHNldEludGVy\ndmFsIGxvb3AgdG8gZXhlY3V0ZSBhIHJlcXVlc3QgYWdhaW5zdCB0aGUKcmVi\naW5kIGRvbWFpbiB3aGljaCBob3BlZnVsbHkgYXMgZmFzdCBhcyBwb3NzaWJs\nZSByZXNvbHZlZCB0byBJUDIuClRoZSBtb21lbnQgaXQgZG9lcyBzbyB0aGUg\nc2NyaXB0IHN0b3BzIGFuZCByZXBvcnRzIHN0YXRzIGxpa2UKaG93IGxvbmcg\naXQgdG9vayBhbmQgaG93IG1hbnkgcmVxdWVzdHMgd2hlcmUgZG9uZSBiYWNr\nIHRvIHRoZSBwYXJlbnQgcGFnZS4KClRoZSBwYXJlbnQgcGFnZSBhbGxvd3Mg\ndG8gc2V0IHR3byBwYXJhbWV0ZXJzLiBUaGUgYHdhaXRUaW1lYCB0byB1c2Ug\naW4gdGhlCnNldEludGVydmFsIGFuZCB0aGUgYGlmcmFtZUNvdW50YCB3aGlj\naCBjb250cm9scyBob3cgbWFueSBpZnJhbWVzIGFyZSBjcmVhdGVkCndpdGgg\ndW5pcXVlIGRvbWFpbnMgdGhhdCB0cnkgdG8gZXhlY3V0ZSB0aGUgYXR0YWNr\nIHNpbXVsdGFuZW91c2x5LgoKYGBgamF2YXNjcmlwdAp2YXIgY291bnRlciA9\nIDAKdmFyIHN0YXJ0ID0gRGF0ZS5ub3coKQoKdmFyIGludGVydmFsID0gc2V0\nSW50ZXJ2YWwoZnVuY3Rpb24oKXsKICB2YXIgeGhyID0gbmV3IFhNTEh0dHBS\nZXF1ZXN0KCkKICB4aHIub3BlbignR0VUJywgJyR7cmViaW5kfScsIGZhbHNl\nKQogIHhoci5zZW5kKCkKCiAgY291bnRlcisrCgogIGlmKHhoci5zdGF0dXMg\nPT0gMjAwICYmIHhoci5yZXNwb25zZVRleHQuaW5kZXhPZignZG5zcmViaW5k\nd29ya2VkIScpID49IDApewogICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCkK\nCiAgICB3aW5kb3cucGFyZW50LnBvc3RNZXNzYWdlKHsKICAgICAgd2FpdFRp\nbWU6ICR7d2FpdFRpbWV9LAogICAgICBkdXJhdGlvbjogKERhdGUubm93KCkg\nLSBzdGFydCkvMTAwMCwKICAgICAgcmVxdWVzdHM6IGNvdW50ZXIKICAgIH0s\nICIqIikKCiAgICByZXR1cm4KICB9Cgp9LCAke3dhaXRUaW1lfSkKCmBgYAoK\nSSBwdXQgc29tZSB0ZXN0cyBJIGhhdmUgcnVuIGludG8gW3Rlc3RzLnR4dF0o\naHR0cHM6Ly9naXRodWIuY29tL2g0M3ovZG5zLWNhY2hlLWV2aWN0aW9uL2Js\nb2IvbWFzdGVyL3Rlc3RzLnR4dCkK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/h43z/dns-cache-eviction/contents/README.md?ref=master","git":"https://api.github.com/repos/h43z/dns-cache-eviction/git/blobs/de1e60639d61fd7297e7b7fa43a68cb7f174f338","html":"https://github.com/h43z/dns-cache-eviction/blob/master/README.md"}}
+0
+

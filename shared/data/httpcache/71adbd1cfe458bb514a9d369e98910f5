@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:11:26 GMT
+Etag: W/"49d1df6bf2d3a0c750fab2b5ff8dfa0b"
+Last-Modified: Sun, 14 Oct 2018 12:02:06 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:61E70:74DA6:5E53AF5E
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3807
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+458
+{"name":"README.md","path":"README.md","sha":"a03449f67f07b16dd858bad988945f66306d6169","size":237,"url":"https://api.github.com/repos/lpefferkorn/ipdecap/contents/README.md?ref=master","html_url":"https://github.com/lpefferkorn/ipdecap/blob/master/README.md","git_url":"https://api.github.com/repos/lpefferkorn/ipdecap/git/blobs/a03449f67f07b16dd858bad988945f66306d6169","download_url":"https://raw.githubusercontent.com/lpefferkorn/ipdecap/master/README.md","type":"file","content":"aXBkZWNhcAo9PT09PT09CgpEZWNhcHN1bGF0ZSB0cmFmZmljIGVuY2Fwc3Vs\nYXRlZCB3aXRoaW4gR1JFLCBJUElQLCA2aW40IGFuZCBFU1AgKGlwc2VjKSBw\ncm90b2NvbHMsIGZyb20gYSBwY2FwIGZpbGUuCkNhbiBhbHNvIHJlbW92ZSBJ\nRUVFIDgwMi4xUSAodmlydHVhbCBsYW4gLSB2bGFuKSBoZWFkZXIuCgpEb2N1\nbWVudGF0aW9uIGF2YWlsYWJsZSBhdCBodHRwOi8vbG9pY3BlZmZlcmtvcm4u\nbmV0L2lwZGVjYXAK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/lpefferkorn/ipdecap/contents/README.md?ref=master","git":"https://api.github.com/repos/lpefferkorn/ipdecap/git/blobs/a03449f67f07b16dd858bad988945f66306d6169","html":"https://github.com/lpefferkorn/ipdecap/blob/master/README.md"}}
+0
+

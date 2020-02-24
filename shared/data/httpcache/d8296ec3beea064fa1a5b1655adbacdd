@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:34 GMT
+Etag: W/"214f94b90854b862c432d678b301ac57"
+Last-Modified: Thu, 05 Jul 2012 18:48:33 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:953DB:B1727:5E53B10A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2547
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+cc2
+{"name":"README.md","path":"README.md","sha":"536d925eda8402a02ead0d20e32a126548217366","size":1764,"url":"https://api.github.com/repos/jeffers102/KeystoreCracker/contents/README.md?ref=master","html_url":"https://github.com/jeffers102/KeystoreCracker/blob/master/README.md","git_url":"https://api.github.com/repos/jeffers102/KeystoreCracker/git/blobs/536d925eda8402a02ead0d20e32a126548217366","download_url":"https://raw.githubusercontent.com/jeffers102/KeystoreCracker/master/README.md","type":"file","content":"S2V5c3RvcmVDcmFja2VyCj09PT09PT09PT09PT09PQoKSGVscHMgcmV0cmll\ndmUgZm9yZ290dGVuIGtleXN0b3JlIHBhc3N3b3JkcyB1c2luZyB5b3VyIGNv\nbW1vbmx5IHVzZWQgc2VnbWVudHMuCgpGb3IgaW5zdGFuY2UsIHdoYXQgaWYg\neW91IHJlbWVtYmVyIHRoYXQgeW91ciBwYXNzd29yZCB3YXMgInRlc3QtcGFz\nc3dvcmQiIG9yICJ0ZTVULVBAU1NXT1JEIgpvciAiVGVzdHBhc3N3MHJkIiBv\nciBzb21ldGhpbmcgY2xvc2UgdG8gdGhhdD8gIEl0IHdvdWxkIGJlIGhvcnJp\nYmx5IGluZWZmZWN0aXZlIHRvIHRyeSBtb3JlCnRoYW4gYSBoYW5kZnVsIG9m\nIHZhcmlhbnRzLCBib3RoIGluIHR5cGluZyBpbiB0aGUgcG9zc2libGUgcGFz\nc3dvcmRzIGFuZCByZW1lbWJlcmluZyB3aGljaAp5b3UgaGF2ZSB0cmllZCBh\nbHJlYWR5LiAgRW50ZXIgS2V5c3RvcmVDcmFja2VyIQoKS2V5c3RvcmVDcmFj\na2VyIGlzIE5PVCBhIGJydXRlIGZvcmNlIHRvb2wgdGhhdCB3aWxsIGhlbHAg\neW91IGNyYWNrIHNvbWVvbmUgZWxzZSdzIGtleXN0b3JlLCBidXQKcmF0aGVy\nIGEgd2F5IHRvIGhlbHAgWU9VIHJlY292ZXIgYSBmb3Jnb3R0ZW4gcGFzc3dv\ncmQgd2hlbiB5b3UgYXJlIGEgYml0IGZ1enp5IG9uIGEgZmV3CmNoYXJhY3Rl\ncnMuCgpVc2FnZToKTGV0J3Mgc2F5IHRoYXQgeW91IHNvbWV0aW1lcyBzd2Fw\nIHRoZSBudW1iZXIgemVybyBhbmQgdGhlIGxldHRlciBPIGFuZCBzb21ldGlt\nZXMgdXNlCmNhcHMgYW5kIHNvbWV0aW1lcyBhIGh5cGhlbiB0byBzZXBhcmF0\nZSB3b3Jkcy4gIEluIHRoaXMgY2FzZSwgbGV0J3MgYXNzdW1lIHRoYXQgeW91\nciBwYXNzd29yZAppcyBzb21lIGZvcm0gb2YgImZvb2JhciIuICBZb3UgcmVt\nZW1iZXIgdGhhdCB0aGUgImJhciIgc2VjdGlvbiBpcyB0eXBlZCBqdXN0IGxp\na2UgdGhhdCwgYnV0CmNhbid0IHJlbWVtYmVyIHRoZSBvdGhlciBjYXNlcy4g\nIFRvIGZpbmQgdGhlIHNvbHV0aW9uLCBzaW1wbHkgY3JlYXRlIGEgZmlsZSB3\naXRoIHRoZSBzZWdtZW50cyBpbgpvcmRlci4gIEZvciBvcHRpb25hbCBzZWdt\nZW50cywgcHJlZmFjZSB0aGUgbGluZSB3aXRoIGEgYmxhbmsgc3BhY2UuICBG\nb3IgaW5zdGFuY2UsIGluIHRoZSBzY2VuYXJpbwphYm92ZSwgeW91ciBmaWxl\nIHdvdWxkIGxpa2UgdGhpczoKCmYsIEYKbywgTywgMApvLCBPLCAwCiAtCmJh\ncgoKTm90aWNlIHRoYXQgdGhlIGxpbmUgd2l0aCB0aGUgaHlwZW4sIGhhcyBh\nIGJsYW5rIHNwYWNlLCBzbyB0aGF0IHNlZ21lbnQgaXMgb3B0aW9uYWwuICBU\naGlzIHdvdWxkIHRyeQphbGwgY29tYmluYXRpb25zLCBzdWNoIGFzOgoKZm9v\nLWJhciwgRjBPYmFyLCBGMDAtYmFyLCBldGMKCk5vdyB0aGF0IHRoZSBmaWxl\nIGlzIHNldHVwLCB5b3UganVzdCBuZWVkIHRvIGV4ZWN1dGUgdGhlIHByb2dy\nYW0gdXNpbmcgZWl0aGVyIHRoZSBjbGFzcyBvciB0aGUgSkFSCih0aGlzIGFz\nc3VtZXMgdGhhdCB5b3VyIGtleXN0b3JlIGFuZCBzZWdtZW50IGZpbGUgYXJl\nIGluIHRoZSBjdXJyZW50IGRpcmVjdG9yeSk6CgpqYXZhIGNvbS5nb2xkZW5o\nYWxvZGVzaWduLnRvb2xzLktleXN0b3JlQ3JhY2tlci5LZXlzdG9yZUNyYWNr\nZXIgLWsgdGVzdF9rZXlzdG9yZS5wcGsgLXMgc2FtcGxlX3NlZ21lbnRzLnR4\ndApqYXZhIC1jbGFzc3BhdGggYmluL0tleXN0b3JlQ3JhY2tlci5qYXIgY29t\nLmdvbGRlbmhhbG9kZXNpZ24udG9vbHMuS2V5c3RvcmVDcmFja2VyLktleXN0\nb3JlQ3JhY2tlciAtayB0ZXN0X2tleXN0b3JlLnBwayAtcyBzYW1wbGVfc2Vn\nbWVudHMudHh0\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/jeffers102/KeystoreCracker/contents/README.md?ref=master","git":"https://api.github.com/repos/jeffers102/KeystoreCracker/git/blobs/536d925eda8402a02ead0d20e32a126548217366","html":"https://github.com/jeffers102/KeystoreCracker/blob/master/README.md"}}
+0
+

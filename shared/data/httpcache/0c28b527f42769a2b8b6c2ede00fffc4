@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:13:07 GMT
+Etag: W/"e358980448b07370be8f93fe3e77634f"
+Last-Modified: Fri, 07 Oct 2016 17:58:49 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:6DF53:831B5:5E53AFC2
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3530
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+5c4
+{"name":"README.md","path":"README.md","sha":"1b97bca6692de5a42dc5bc822cc3c97d2bd96ad8","size":491,"url":"https://api.github.com/repos/talhasch/php-httpstat/contents/README.md?ref=master","html_url":"https://github.com/talhasch/php-httpstat/blob/master/README.md","git_url":"https://api.github.com/repos/talhasch/php-httpstat/git/blobs/1b97bca6692de5a42dc5bc822cc3c97d2bd96ad8","download_url":"https://raw.githubusercontent.com/talhasch/php-httpstat/master/README.md","type":"file","content":"IyBwaHAtaHR0cHN0YXQKClBIUCBpbXBsZW1lbnRhdGlvbiBvZiByZW9yeCdz\nIFtodHRwc3RhdF0oaHR0cHM6Ly9naXRodWIuY29tL3Jlb3J4L2h0dHBzdGF0\nKQoKIyMgSW5zdGFsbGF0aW9uCgpDbG9uZSByZXBvLCBjb3B5IGh0dHBzdGF0\nLnBocCB0byBvbmUgb2YgeW91ciAkUEFUSCBkaXJlY3RvcmllcyBhbmQgbWFr\nZSBleGVjdXRhYmxlLgoKYGBgCiQgZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHVi\nLmNvbS90YWxoYXNjaC9waHAtaHR0cHN0YXQKJCBjZCBwaHAtaHR0cHN0YXQK\nJCBjcCBodHRwc3RhdC5waHAgL3Vzci9sb2NhbC9iaW4vaHR0cHN0YXQKJCBj\naG1vZCAreCAvdXNyL2xvY2FsL2Jpbi9odHRwc3RhdApgYGAKClJ1bgoKYGBg\nCiQgaHR0cHN0YXQgaHR0cDovL3d3dy5nb29nbGUuY29tCmBgYAoKPGltZyBz\ncmM9Imh0dHBzOi8vZ2l0aHViLmNvbS90YWxoYXNjaC9waHAtaHR0cHN0YXQv\nYmxvYi9tYXN0ZXIvc2NyZWVuc2hvdC5wbmciIHdpZHRoPSIxMDAlIj4=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/talhasch/php-httpstat/contents/README.md?ref=master","git":"https://api.github.com/repos/talhasch/php-httpstat/git/blobs/1b97bca6692de5a42dc5bc822cc3c97d2bd96ad8","html":"https://github.com/talhasch/php-httpstat/blob/master/README.md"}}
+0
+

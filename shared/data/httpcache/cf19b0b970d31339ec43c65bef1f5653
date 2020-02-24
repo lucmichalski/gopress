@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:15 GMT
+Etag: W/"2f1e1ed4d29dad6a8b727b5d47951d6b"
+Last-Modified: Mon, 17 Feb 2020 13:46:47 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:187A7:1D5AD:5E53B2D6
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1191
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+ae5
+{"name":"README.md","path":"README.md","sha":"3dc3478af6556a3543354a7c7175d134c8894b12","size":1443,"url":"https://api.github.com/repos/viper-framework/viper/contents/README.md?ref=master","html_url":"https://github.com/viper-framework/viper/blob/master/README.md","git_url":"https://api.github.com/repos/viper-framework/viper/git/blobs/3dc3478af6556a3543354a7c7175d134c8894b12","download_url":"https://raw.githubusercontent.com/viper-framework/viper/master/README.md","type":"file","content":"IVtWaXBlcl0oaHR0cHM6Ly92aXBlci5saS9lbi9sYXRlc3QvX2ltYWdlcy92\naXBlci5wbmcpCgpWaXBlciBpcyBhIGJpbmFyeSBhbmFseXNpcyBhbmQgbWFu\nYWdlbWVudCBmcmFtZXdvcmsuIEl0cyBmdW5kYW1lbnRhbCBvYmplY3RpdmUg\naXMgdG8gcHJvdmlkZSBhIHNvbHV0aW9uIHRvIGVhc2lseSBvcmdhbml6ZSB5\nb3VyIGNvbGxlY3Rpb24gb2YgbWFsd2FyZSBhbmQgZXhwbG9pdCBzYW1wbGVz\nIGFzIHdlbGwgYXMgeW91ciBjb2xsZWN0aW9uIG9mIHNjcmlwdHMgeW91IGNy\nZWF0ZWQgb3IgZm91bmQgb3ZlciB0aGUgdGltZSB0byBmYWNpbGl0YXRlIHlv\ndXIgZGFpbHkgcmVzZWFyY2guCgojIyMgR2V0IHN0YXJ0ZWQhCgpgYGBiYXNo\nCiQgcGlwMyBpbnN0YWxsIHZpcGVyLWZyYW1ld29yawokIHZpcGVyCmBgYAoK\nRm9yIG1vcmUgaW5mb3JtYXRpb24gYW5kIGluc3RydWN0aW9ucyBvbiBob3cg\ndG8gaW5zdGFsbCBpdCB2aXNpdCBbdmlwZXIubGldKGh0dHA6Ly92aXBlci5s\naS8pCgo8aHIgLz4KClshW0J1aWxkIFN0YXR1c10oaHR0cHM6Ly9hcGkudHJh\ndmlzLWNpLm9yZy92aXBlci1mcmFtZXdvcmsvdmlwZXIucG5nP2JyYW5jaD1t\nYXN0ZXIpXShodHRwczovL3RyYXZpcy1jaS5vcmcvdmlwZXItZnJhbWV3b3Jr\nL3ZpcGVyKQpbIVtEb2N1bWVudGF0aW9uIFN0YXR1c10oaHR0cHM6Ly9yZWFk\ndGhlZG9jcy5vcmcvcHJvamVjdHMvdmlwZXItZnJhbWV3b3JrL2JhZGdlLz92\nZXJzaW9uPWxhdGVzdCldKGh0dHA6Ly92aXBlci1mcmFtZXdvcmsucmVhZHRo\nZWRvY3MuaW8vZW4vbGF0ZXN0Lz9iYWRnZT1sYXRlc3QpClshW2NvZGVjb3Zd\nKGh0dHBzOi8vY29kZWNvdi5pby9naC92aXBlci1mcmFtZXdvcmsvdmlwZXIv\nYnJhbmNoL21hc3Rlci9ncmFwaC9iYWRnZS5zdmcpXShodHRwczovL2NvZGVj\nb3YuaW8vZ2gvdmlwZXItZnJhbWV3b3JrL3ZpcGVyKQoKKipXYW5uYSBjb250\ncmlidXRlPyoqIFZpcGVyIGlzIGFuIG9wZW4sIEJTRC1saWNlbnNlZCwgY29s\nbGFib3JhdGl2ZSBkZXZlbG9wbWVudCBlZmZvcnQgdGhhdCBoZWF2aWx5IHJl\nbGllcyBvbiBjb250cmlidXRpb25zIGZyb20gdGhlIHdob2xlIGNvbW11bml0\neS4gV2Ugd2VsY29tZSB0aWNrZXRzLCBwdWxsIHJlcXVlc3RzLCBmZWF0dXJl\nIHN1Z2dlc3Rpb25zLgoKV2hlbiBkZXZlbHBpbmcgbmV3IG1vZHVsZXMgb3Ig\ncGF0Y2hlcywgcGxlYXNlIHRyeSB0byBjb21wbHkgdG8gdGhlIGdlbmVyYWwg\nY29kZSBzdHlsZSB0aGF0IHdlIHRyeSB0byBtYWludGFpbiBhY3Jvc3MgdGhl\nIHByb2plY3QuIFdoZW4gaW50cm9kdWNpbmcgbmV3IGZlYXR1cmVzIG9yIGZp\neGluZyBzaWduaWZpY2FudCBidWdzLCBwbGVhc2UgYWxzbyBpbmNsdWRlIHNv\nbWUgY29uY2lzZSBpbmZvcm1hdGlvbiBhbmQgcG9zc2libHkgYWxzbyBpbnRy\nb2R1Y2UgY29tcHJlaGVuc2l2ZSBkb2N1bWVudGF0aW9uIGluIG91ciBndWlk\nZS4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/viper-framework/viper/contents/README.md?ref=master","git":"https://api.github.com/repos/viper-framework/viper/git/blobs/3dc3478af6556a3543354a7c7175d134c8894b12","html":"https://github.com/viper-framework/viper/blob/master/README.md"}}
+0
+

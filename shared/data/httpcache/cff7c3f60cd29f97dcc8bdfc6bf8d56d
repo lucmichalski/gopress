@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:08:42 GMT
+Etag: W/"63499cc145e08a2ed821ed2a6f333bb1"
+Last-Modified: Tue, 04 Feb 2020 14:21:28 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:5AEB2:6D979:5E53AEBA
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4301
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e50
+{"name":"README.rst","path":"README.rst","sha":"c16edbdd68c313ae4492476a20e8457d18713d8a","size":2094,"url":"https://api.github.com/repos/eliben/pyelftools/contents/README.rst?ref=master","html_url":"https://github.com/eliben/pyelftools/blob/master/README.rst","git_url":"https://api.github.com/repos/eliben/pyelftools/git/blobs/c16edbdd68c313ae4492476a20e8457d18713d8a","download_url":"https://raw.githubusercontent.com/eliben/pyelftools/master/README.rst","type":"file","content":"SW50cm9kdWN0aW9uOiB3aGF0IGlzIHB5ZWxmdG9vbHM/Ci0tLS0tLS0tLS0t\nLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKKipweWVsZnRvb2xzKiogaXMgYSBw\ndXJlLVB5dGhvbiBsaWJyYXJ5IGZvciBwYXJzaW5nIGFuZCBhbmFseXppbmcg\nRUxGIGZpbGVzCmFuZCBEV0FSRiBkZWJ1Z2dpbmcgaW5mb3JtYXRpb24uIFNl\nZSB0aGUKYFVzZXIncyBndWlkZSA8aHR0cHM6Ly9naXRodWIuY29tL2VsaWJl\nbi9weWVsZnRvb2xzL3dpa2kvVXNlcidzLWd1aWRlPmBfCmZvciBtb3JlIGRl\ndGFpbHMuCgpQcmUtcmVxdWlzaXRlcwotLS0tLS0tLS0tLS0tLQoKQXMgYSB1\nc2VyIG9mICoqcHllbGZ0b29scyoqLCBvbmUgb25seSBuZWVkcyBQeXRob24g\ndG8gcnVuLiBJdCB3b3JrcyB3aXRoClB5dGhvbiB2ZXJzaW9ucyAyLjcgYW5k\nIDMueCAoeCA+PSA0KS4gRm9yIGhhY2tpbmcgb24gKipweWVsZnRvb2xzKiog\ndGhlCnJlcXVpcmVtZW50cyBhcmUgYSBiaXQgbW9yZSBzdHJpY3QsIHBsZWFz\nZSBzZWUgdGhlCmBoYWNraW5nIGd1aWRlIDxodHRwczovL2dpdGh1Yi5jb20v\nZWxpYmVuL3B5ZWxmdG9vbHMvd2lraS9IYWNraW5nLWd1aWRlPmBfLgoKSW5z\ndGFsbGluZwotLS0tLS0tLS0tCgoqKnB5ZWxmdG9vbHMqKiBjYW4gYmUgaW5z\ndGFsbGVkIGZyb20gUHlQSSAoUHl0aG9uIHBhY2thZ2UgaW5kZXgpOjoKCiAg\nICA+IHBpcCBpbnN0YWxsIHB5ZWxmdG9vbHMKCkFsdGVybmF0aXZlbHksIHlv\ndSBjYW4gZG93bmxvYWQgdGhlIHNvdXJjZSBkaXN0cmlidXRpb24gZm9yIHRo\nZSBtb3N0IHJlY2VudCBhbmQKaGlzdG9yaWMgdmVyc2lvbnMgZnJvbSB0aGUg\nKkRvd25sb2FkcyogdGFiIG9uIHRoZSBgcHllbGZ0b29scyBwcm9qZWN0IHBh\nZ2UKPGh0dHBzOi8vZ2l0aHViLmNvbS9lbGliZW4vcHllbGZ0b29scz5gXyAo\nYnkgZ29pbmcgdG8gKlRhZ3MqKS4gVGhlbiwgeW91IGNhbgppbnN0YWxsIGZy\nb20gc291cmNlLCBhcyB1c3VhbDo6CgogICAgPiBweXRob24gc2V0dXAucHkg\naW5zdGFsbAoKU2luY2UgKipweWVsZnRvb2xzKiogaXMgYSB3b3JrIGluIHBy\nb2dyZXNzLCBpdCdzIHJlY29tbWVuZGVkIHRvIGhhdmUgdGhlIG1vc3QKcmVj\nZW50IHZlcnNpb24gb2YgdGhlIGNvZGUuIFRoaXMgY2FuIGJlIGRvbmUgYnkg\nZG93bmxvYWRpbmcgdGhlIGBtYXN0ZXIgemlwCmZpbGUgPGh0dHBzOi8vZ2l0\naHViLmNvbS9lbGliZW4vcHllbGZ0b29scy9hcmNoaXZlL21hc3Rlci56aXA+\nYF8gb3IganVzdApjbG9uaW5nIHRoZSBHaXQgcmVwb3NpdG9yeS4KClNpbmNl\nICoqcHllbGZ0b29scyoqIGhhcyBubyBleHRlcm5hbCBkZXBlbmRlbmNpZXMs\nIGl0J3MgYWxzbyBlYXN5IHRvIHVzZSBpdAp3aXRob3V0IGluc3RhbGxpbmcs\nIGJ5IGxvY2FsbHkgYWRqdXN0aW5nIGBgUFlUSE9OUEFUSGBgLgoKSG93IHRv\nIHVzZSBpdD8KLS0tLS0tLS0tLS0tLS0KCioqcHllbGZ0b29scyoqIGlzIGEg\ncmVndWxhciBQeXRob24gbGlicmFyeTogeW91IGltcG9ydCBhbmQgaW52b2tl\nIGl0IGZyb20geW91cgpvd24gY29kZS4gRm9yIGEgZGV0YWlsZWQgdXNhZ2Ug\nZ3VpZGUgYW5kIGxpbmtzIHRvIGV4YW1wbGVzLCBwbGVhc2UgY29uc3VsdCB0\naGUKYHVzZXIncyBndWlkZSA8aHR0cHM6Ly9naXRodWIuY29tL2VsaWJlbi9w\neWVsZnRvb2xzL3dpa2kvVXNlcidzLWd1aWRlPmBfLgoKTGljZW5zZQotLS0t\nLS0tCgoqKnB5ZWxmdG9vbHMqKiBpcyBvcGVuIHNvdXJjZSBzb2Z0d2FyZS4g\nSXRzIGNvZGUgaXMgaW4gdGhlIHB1YmxpYyBkb21haW4uIFNlZQp0aGUgYGBM\nSUNFTlNFYGAgZmlsZSBmb3IgbW9yZSBkZXRhaWxzLgoKQ0kgU3RhdHVzCi0t\nLS0tLS0tLQoKKipweWVsZnRvb2xzKiogaGFzIGF1dG9tYXRpYyB0ZXN0aW5n\nIGVuYWJsZWQgdGhyb3VnaCB0aGUgY29udmVuaWVudApgVHJhdmlzIENJIHBy\nb2plY3QgPGh0dHBzOi8vdHJhdmlzLWNpLm9yZz5gXy4gSGVyZSBpcyB0aGUg\nbGF0ZXN0IGJ1aWxkIHN0YXR1czoKCi4uIGltYWdlOjogaHR0cHM6Ly90cmF2\naXMtY2kub3JnL2VsaWJlbi9weWVsZnRvb2xzLnBuZz9icmFuY2g9bWFzdGVy\nCiAgOmFsaWduOiBjZW50ZXIKICA6dGFyZ2V0OiBodHRwczovL3RyYXZpcy1j\naS5vcmcvZWxpYmVuL3B5ZWxmdG9vbHMK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/eliben/pyelftools/contents/README.rst?ref=master","git":"https://api.github.com/repos/eliben/pyelftools/git/blobs/c16edbdd68c313ae4492476a20e8457d18713d8a","html":"https://github.com/eliben/pyelftools/blob/master/README.rst"}}
+0
+

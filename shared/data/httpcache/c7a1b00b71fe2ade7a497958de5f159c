@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:29:30 GMT
+Etag: W/"de0e6870b56b2203b1eabfc61f22956d"
+Last-Modified: Sun, 12 May 2019 19:45:37 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:27E7D:2FB36:5E53B39A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 675
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b5f
+{"name":"README.md","path":"README.md","sha":"e6ff30fb0ac401a4195375bdea90bda116a953a2","size":1542,"url":"https://api.github.com/repos/koboi137/darksplitz/contents/README.md?ref=master","html_url":"https://github.com/koboi137/darksplitz/blob/master/README.md","git_url":"https://api.github.com/repos/koboi137/darksplitz/git/blobs/e6ff30fb0ac401a4195375bdea90bda116a953a2","download_url":"https://raw.githubusercontent.com/koboi137/darksplitz/master/README.md","type":"file","content":"IyBEYXJrIFNwbGl0eiAtIEV4cGxvaXQgRnJhbWV3b3JrClRoaXMgdG9vbHMg\naXMgY29udGludWVkIGZyb20gTmVmaXgsIERpcnNQeSBhbmQgWG1hc3NweSBw\ncm9qZWN0LgoKIyBJbnN0YWxsYXRpb24KV2lsbCB3b3JrIGZpbmUgaW4gdGhl\nIGRlYmlhbiBzaGFkZSBvcGVyYXRpbmcgc3lzdGVtLCBsaWtlIEJhY2tib3gs\nIFVidW50dSBvciBLYWxpIGxpbnV4LgoxLiBgYGAkIGdpdCBjbG9uZSBodHRw\nczovL2dpdGh1Yi5jb20va29ib2kxMzcvZGFya3NwbGl0emBgYAoyLiBgYGAk\nIGNkIGRhcmtzcGxpdHovYGBgCjMuIGBgYCQgc3VkbyAuL2luc3RhbGwuc2hg\nYGAKCiMgRmVhdHVyZXMKLSBFeHRyYWN0IG1pa3JvdGlrIGNyZWRlbnRpYWwg\nKHVzZXIuZGF0KQotIFBhc3N3b3JkIGdlbmVyYXRvcgotIFJldmVyc2UgSVAg\nbG9va3VwCi0gTWFjIGFkZHJlc3Mgc25pZmZlcgotIE9ubGluZSBtZDUgY3Jh\nY2tlcgotIE1hYyBhZGRyZXNzIGxvb2t1cAotIENvbGxlY3RpbmcgdXJsIGZy\nb20gd2ViLmFyY2hpdmUub3JnCi0gV2ViIGJhY2tkb29yIChEYXJrIFNoZWxs\nKQotIFdpbmJveCBleHBsb2l0IChDVkUtMjAxOC0xNDg0NykKLSBDaGltZXlS\nZWQgZXhwbG9pdCBmb3IgbWlwc2JlIChNaWtyb3RpaykKLSBFeHBsb2l0IHdl\nYiBhcHBsaWNhdGlvbgotIE1hc3MgYXBwbGUgZG9zIChDVkUtMjAxOC00NDA3\nKQotIExpYnNzaCBleHBsb2l0IChDVkUtMjAxOC0xMDkzMykKLSBEaXNjb3Zl\ncmluZyBNaWtyb3RpayBkZXZpY2UKLSBEaXJlY3Rvcnkgc2Nhbm5lcgotIFN1\nYmRvbWFpbiBzY2FubmVyCi0gTWFjIGFkZHJlc3Mgc2Nhbm5lcgotIE1hYyBh\nZGRyZXNzIHBpbmdlcgotIFZob3N0IHNjYW5uZXIgKGJ5cGFzcyBjbG91ZGZs\nYXJlKQotIE1hc3MgYnJ1dGVmb3JjZSAod29yZHByZXNzKQotIEludGVyYWN0\naXZlIG1zZnJwYyBjbGllbnQKLSBHb29nbGUgZG9ya2VyCi0gU3ViZG9tYWlu\nIGVudW1lcmF0aW9uCgojIEV4cGxvaXQgd2ViIGFwcGxpY2F0aW9uCi0gcGxV\ncGxvYWQgZmlsZSB1cGxvYWQKLSBqUXVlcnkgZmlsZSB1cGxvYWQgKENWRS0y\nMDE4LTkyMDYpCi0gTGFyYXZlbCAoLmVudikKLSBzZnRwLWNvbmZpZy5qc29u\nIChtaXNjKQotIFdvcmRwcmVzcyByZWdpc3RlciAoZW5hYmxlKQotIGVsZmlu\nZGVyIGZpbGUgdXBsb2FkCi0gRHJ1cGFsIDcgZXhwbG9pdCAoQ1ZFLTIwMTgt\nNzYwMCkKLSBEcnVwYWwgOCBleHBsb2l0IChDVkUtMjAxOC03NjAwKQotIGNv\nbV9mYWJyaWsgZXhwbG9pdCAoam9vbWxhKQotIGdyYXZpdHlmb3JtIHBsdWdp\nbiBmaWxlIHVwbG9hZCAod29yZHByZXNzKQotIGdlb3BsYWNlMyBwbHVnaW4g\nZmlsZSB1cGxvYWQgKHdvcmRwcmVzcykKLSBwZXVnZW90LW11c2ljIHBsdWdp\nbiBmaWxlIHVwbG9hZCAod29yZHByZXNzKQoKIyBOb3RlcwpUaGlzIHRvb2wg\nd2lsbCB3b3JrIGZpbmUgdW5kZXIgcm9vdCwgYmVjYXVzZSBzY2FweSBtb2R1\nbGUgYW5kIG90aGVyIG5lZWQgcm9vdCB1c2VyIHRvIGFjY2VzcyBtb3JlIGZl\nYXR1cmVzLgpCdXQgeW91IGNhbiBydW4gYXMgdXNlciB0b28gaW4gc29tZSBm\nZWF0dXJlcy4gOykK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/koboi137/darksplitz/contents/README.md?ref=master","git":"https://api.github.com/repos/koboi137/darksplitz/git/blobs/e6ff30fb0ac401a4195375bdea90bda116a953a2","html":"https://github.com/koboi137/darksplitz/blob/master/README.md"}}
+0
+

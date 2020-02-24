@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:40 GMT
+Etag: W/"5c481bb3de8d064f9f34076c21c55d03"
+Last-Modified: Wed, 18 Nov 2015 19:45:14 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:62F93:77334:5E53AEF4
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4121
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+9d6
+{"name":"README.md","path":"README.md","sha":"ddc8b2fceb92f0f0e3200437dde6d8dd9063799c","size":1270,"url":"https://api.github.com/repos/bwall/pemcracker/contents/README.md?ref=master","html_url":"https://github.com/bwall/pemcracker/blob/master/README.md","git_url":"https://api.github.com/repos/bwall/pemcracker/git/blobs/ddc8b2fceb92f0f0e3200437dde6d8dd9063799c","download_url":"https://raw.githubusercontent.com/bwall/pemcracker/master/README.md","type":"file","content":"IyBwZW1jcmFja2VyClRvb2wgdG8gY3JhY2sgZW5jcnlwdGVkIFBFTSBmaWxl\ncwoKVGhpcyB0b29sIGlzIGluc3BpcmVkIGJ5IFtwZW1jcmFja10oaHR0cHM6\nLy9naXRodWIuY29tL3JvYmVydGRhdmlkZ3JhaGFtL3BlbWNyYWNrKSBieSBS\nb2JlcnQgR3JhaGFtLiAgVGhlIHB1cnBvc2UgaXMgdG8gYXR0ZW1wdCB0byBy\nZWNvdmVyIHRoZSBwYXNzd29yZCBmb3IgZW5jcnlwdGVkIFBFTSBmaWxlcyB3\naGlsZSB1dGlsaXppbmcgYWxsIHRoZSBDUFUgY29yZXMuCgpJdCBzdGlsbCB1\nc2VzIGhpZ2ggbGV2ZWwgT3BlblNTTCBjYWxscyBpbiBvcmRlciB0byBndWVz\ncyB0aGUgcGFzc3dvcmQuICBBcyBhbiBvcHRpbWl6YXRpb24sIGluc3RlYWQg\nb2YgY29udGludWFsbHkgY2hlY2tpbmcgYWdhaW5zdCB0aGUgUEVNIG9uIGRp\nc2ssIGl0IGlzIGxvYWRlZCBpbnRvIG1lbW9yeSBpbiBlYWNoIHRocmVhZC4K\nCiAgICBid2FsbEByYWduYXJvazp+JCAuL3BlbWNyYWNrZXIgCiAgICBwZW1j\ncmFja2VyIDAuMS4wCiAgICBwZW1jcmFja2VyIDxwYXRoIHRvIHBlbT4gPHdv\ncmQgZmlsZT4KCiAgICBwZW1jcmFja2VyIDAuMS4wIGJ5IEJyaWFuIFdhbGxh\nY2UgKEBib3RuZXRfaHVudGVyKQoKClVzYWdlIEV4YW1wbGUKLS0tLS0tLS0t\nLS0tLQoKICAgIGJ3YWxsQHJhZ25hcm9rOn4vZGF0YS9wdWJsaWNwcm9qZWN0\ncy9wZW1jcmFja2VyJCAuL3BlbWNyYWNrZXIgdGVzdC5wZW0gdGVzdC5kaWN0\nCiAgICBQYXNzd29yZCBpcyBrb21vZGlhIGZvciB0ZXN0LnBlbQoKQ29tcGls\naW5nCi0tLS0tLS0tLQoKICAgIG1ha2UKCgpUaGlzIGlzIHNvbWV3aGF0IG9m\nIGEgc2hvcnQgc2lkZSBwcm9qZWN0LCBzbyBteSBhcG9sb2dpZXMgZm9yIGFu\neSBpc3N1ZXMuICBJZiB0aGVyZSBpcyBkZXNpcmUgZm9yIHRoaXMgcHJvamVj\ndCB0byBiZSBmdXJ0aGVyIGRldmVsb3BlZCwgSSB3aWxsIHRyeSB0byBhbGxv\nY2F0ZSB0aW1lLgoKCkFsdGVybmF0aXZlcwotLS0tLS0tLS0tLS0KCklmIHlv\ndSBhcmUgbG9va2luZyBmb3IgdGhlIGZhc3Rlc3QgcG9zc2libGUgbWV0aG9k\nIG9mIGJydXRlIGZvcmNpbmcgUEVNIGZpbGVzLCB5b3UgbWF5IHdpc2ggdG8g\ndHJ5IG91dCBKb2huIHRoZSBSaXBwZXIuICBJdHMgbGl0dGxlIGtub3duIHNz\naDJqb2huIGFsbG93cyBmb3IgY29udmVydGluZyBQRU0gZmlsZXMgdG8gYSBm\nb3JtYXQgdGhhdCBjYW4gYmUgZmVkIGludG8gLi9qb2huLiAgW0RldGFpbHNd\nKGh0dHA6Ly93d3cub3BlbndhbGwuY29tL2xpc3RzL2pvaG4tdXNlcnMvMjAx\nNS8xMC8xOC8yKQ==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/bwall/pemcracker/contents/README.md?ref=master","git":"https://api.github.com/repos/bwall/pemcracker/git/blobs/ddc8b2fceb92f0f0e3200437dde6d8dd9063799c","html":"https://github.com/bwall/pemcracker/blob/master/README.md"}}
+0
+

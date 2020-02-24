@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:19 GMT
+Etag: W/"164cca74148e857d3f8422ee8291b306"
+Last-Modified: Fri, 17 May 2019 23:30:39 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:681AE:7C317:5E53AF93
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3656
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+f8a
+{"name":"README.md","path":"README.md","sha":"4afd4800bd2ea1e7c075ba49072e8158c9d54c65","size":2299,"url":"https://api.github.com/repos/CoolerVoid/codewarrior/contents/README.md?ref=master","html_url":"https://github.com/CoolerVoid/codewarrior/blob/master/README.md","git_url":"https://api.github.com/repos/CoolerVoid/codewarrior/git/blobs/4afd4800bd2ea1e7c075ba49072e8158c9d54c65","download_url":"https://raw.githubusercontent.com/CoolerVoid/codewarrior/master/README.md","type":"file","content":"IyBjb2Rld2FycmlvcgpKdXN0IGFub3RoZXIgbWFudWFsIGNvZGUgYW5hbHlz\naXMgdG9vbCBhbmQgc3RhdGljIGFuYWx5c2lzIHRvb2wgCiFbQWx0IHRleHRd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9Db29sZXJWb2lkL2NvZGV3YXJyaW9yL2Js\nb2IvbWFzdGVyL2RvYy9pbWcvaW1nMS5wbmcpCkNvZGV3YXJyaW9yIHJ1bnMg\nYXQgSFRUUGQgd2l0aCBUTFMsIHVzZXMgS0lTUyBwcmluY2lwbGUoaHR0cHM6\nLy9lbi53aWtpcGVkaWEub3JnL3dpa2kvS0lTU19wcmluY2lwbGUpCgpWaWRl\nbyBkZW1vOiBodHRwczovL3lvdXR1LmJlL3Raa2xsSjltaWVVCgojRGlyZWN0\nb3JpZXM6Cj4gd2ViLyA9IGxvY2FsIG9mIGphdmFzY3JpcHRzIGFuZCBodG1s\nIGFuZCBjc3Mgc291cmNlcwoKPiBzcmMvID0gQyBzb3VyY2UgY29kZSwgdGhp\ncyBjb2RlIHRhbGtpbmcgd2l0aCB3ZWIgc29ja2V0IAoKPiBlZ2dzLyA9IGV4\ndGVybmFsIG1vZHVsZXMgdG8gc2VhcmNoIGNvZGVzIHVzaW5nIHJlZ2V4Cgo+\nIGNvbmYvd2hpdGVsaXN0LmNvbmYgPSBsaXN0IG9mIElQcyB0aGF0IGhhdmUg\nIGFjY2VzcyAgaW4gSFRUUGQgc2VydmVyCgo+IGJpbi8gPSBmaWxlIHRvIGV4\nZWN1dGUuLi4KCj4gZG9jLyA9IGF0IGNvbnN0cnVjdGlvbi4uLgoKPiBsaWIv\nID0gRXh0ZXJuYWwgbGlicmFyaWVzCgo+IGNlcnQvID0gbG9hZHMgeW91ciBj\nZXJ0aWZpY2F0ZXMgZm9yIFRMUyBoZXJlCgpEb24ndCBuZWVkIGluc3RhbGws\nIGp1c3QgY29tcGlsZSBhbmQgcnVuLi4uIHJ1bnMgYXQgKkxpbnV4LCogKkJT\nRCogYW5kICpNYWNPUy4qCm5lZWQgdG8gaW5zdGFsbCBvcGVuc3NsLWRldiBv\nciBvcGVuc3NsLWRldmVsIHBhY2thZ2UgYmVjYXVzZSBuZWVkIE9wZW5TU0wg\nbGliLgoKPiogZ2l0IGNsb25lIHR0cHM6Ly9naXRodWIuY29tL0Nvb2xlclZv\naWQvY29kZXdhcnJpb3IvOyBjZCBjb2Rld2Fycmlvcgo+KiAkIG1ha2UKCkV4\nYW1wbGUgaWYgeW91IG5lZWQgY3JlYXRlIHlvdXIgY2VydC4uLgo+KiAkIGNk\nIGNlcnQ7IG9wZW5zc2wgcmVxIC14NTA5IC1zaGEyNTYgLW5vZGVzIC1kYXlz\nIDM2NSAtbmV3a2V5IHJzYToyMDQ4IC1rZXlvdXQgY2VydGtleS5rZXkgLW91\ndCBjZXJ0aWZpY2F0ZS5jcnQKPiogJCBjYXQgY2VydGlmaWNhdGUuY3J0IGNl\ncnRrZXkua2V5ID4gY2VydGtleS5wZW0gCj4qICQgY2QgLi4KCkV4ZWN1dGUg\nZG9uJ3QgZG8gImNkIGJpbjsgLi93YXJyaW9yIiwgZm9sbG93IGV4YW1wbGU6\nCj4qICQgYmluL3dhcnJpb3IgCgpPcGVuIGJyb3dzZXIgYXQgKmh0dHBzOi8v\nMTI3LjAuMC4xOjEzNDUvaW5kZXguaHRtbCogICAoZG9udCB3cml0ZSBsb2Nh\nbGhvc3QgdXNlIDEyNy4wLjAuMSkKCiNOb3RlczoKPiogaWYgc2NyZWVuIHN0\nb2NrIHlvdSByZWZsZXNoIGJyb3dzZXIgd2l0aCBGNS4uLgo+KiBJZiByZXR1\ncm4gZXJyb3IsIHBvcnQgYWxyZWFkeSBpbiB1c2UuLi4gY2xvc2UgaXQgd2l0\naC4uLgo+KiAkIGZ1c2VyIC1rIC1uIHRjcCAxMzQ1Cj4qIElmIHlvdSB3YW50\nIHVzZSBhdCBuZXR3b3JrLCBXaGl0ZWxpc3QgdG8gYWNjZXNzIHNlcnZlciB5\nb3UgY2FuIGVkaXQgYXQgImNvbmZpZy93aGl0ZWxpc3QuY29uZiIuIAo+KiBV\nc2UgY2hyb21lIGJyb3dzZXIgdG8gcnVuLgo+KiBVc2UgMTI3LjAuMC4xIGFk\nZHIgZG9udCB1c2UgbG9jYWxob3N0IG5hbWUuCgojVGVzdGVkIGF0IHBhdGg6\nICAKKmh0dHBzOi8vZ2l0aHViLmNvbS9qb29zdHZhbnZlZW4vcGhwLXNlY3Vy\naXR5LXBpdGZhbGxzKgoKCiNUcmlja3M6Cj4qIGlmIHlvdSB3YW50IGNoYW5n\nZSBjZXJ0ICJjZXJ0L2NlcnRwZW0ucGVtIiBnZW5lcmF0ZSB3aXRoIG9wZW5z\nc2wgY2FydGlmaWNhdGUgYW5kIGtleSBhbmQgY29uY2F0ZW5hdGUgYm90aC4u\nLgo+KiBhbGwgaHRtbCBjb2RlIGFuZCB3ZWIgc29ja2V0cyArIGphdmFzY3Jp\ncHQgY29kZSB5b3UgY2FuIHZpZXcgYXQgcGF0aCAid2ViLyIKPiogaWYgeW91\nIGNoYW5nZSB0aGUgZGVmYXVsdCBwb3J0IHlvdSBuZWVkIGVkaXQgcG9ydCBp\nbiB3ZWIvIGF0IHdlYiBzb2NrZXRzIGNvbm5lY3Rpb24uCgojVE9ETzoKPiog\nQWRkIGV4dGVybmFsIEF1dG9tYXRvbnMgZm9yIGVhY2ggbGFuZ3VhZ2UgY2Fz\nZQo+KiBBZGQgbG9hZCBtb2R1bGUgd2l0aCBkbG9wZW4oKQo+KiBBZGQgUmVE\nT1MgdmFsaWRhdG9yIGF0IHJlZ2V4IGNhbGxzCj4qIE1hY2hpbmUgbGVhcm5p\nbmcgc28gdHJ5IHVzZSBiYWcgb2YgV29yZHMgd2l0aCBLTk4KCiMgQXV0aG9y\nOiBDb29sZXJWb2lkCiMgVGVtcGxhdGUgYnkgUHIwdGV1cyBodHRwczovL2dp\ndGh1Yi5jb20vUHIwdGV1cwojIGNvbnRhY3Q6Y29vbGVybGFpckBnbWFpbC5j\nb20KCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/CoolerVoid/codewarrior/contents/README.md?ref=master","git":"https://api.github.com/repos/CoolerVoid/codewarrior/git/blobs/4afd4800bd2ea1e7c075ba49072e8158c9d54c65","html":"https://github.com/CoolerVoid/codewarrior/blob/master/README.md"}}
+0
+

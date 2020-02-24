@@ -11,7 +11,7 @@ services:
 
   mysql:
     image: mysql:${MYSQL_VERSION:-"5.7"}
-    container_name: ${NAMESPACE}_mysql
+    container_name: ${NAMESPACE}-mysql
     networks:
     - internal
     - web
@@ -27,33 +27,38 @@ services:
     restart: unless-stopped
     command: --max_allowed_packet=65011712 
 
-  elasticsearch:
+  elastic:
     image: docker.elastic.co/elasticsearch/elasticsearch:6.4.2
+    container_name: ${NAMESPACE}-elastic
     ports:
-      - 9200:9200
+    - 9200:9200
     environment:
-      - cluster.name=docker-cluster
-      - bootstrap.memory_lock=true
-      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    - cluster.name=docker-cluster
+    - bootstrap.memory_lock=true
+    - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
     ulimits:
       memlock:
         soft: -1
         hard: -1
     volumes:
-      - ./data/elasticsearch:/usr/share/elasticsearch/data
+    - ./data/elasticsearch:/usr/share/elasticsearch/data
 
   manticore:
     image: manticoresearch/manticore:latest
+    container_name: ${NAMESPACE}-manticore
     ports:
     - 9306:9306
     volumes:
-      - ./manticore.conf:/etc/sphinxsearch/sphinx.conf
-      - ./data/manticore:/var/lib/manticore/data
+    - ./manticore.conf:/etc/sphinxsearch/sphinx.conf
+    - ./data/manticore:/var/lib/manticore/data
 
   sphinx:
     image: macbre/sphinxsearch:3.0.3
+    container_name: ${NAMESPACE}-sphinx
     ports:
     - 9307:9306
     volumes:
     - ./data/sphinx:/var/lib/sphinxsearch/data
     - ./sphinx.conf:/opt/sphinx/conf/sphinx.conf  
+
+

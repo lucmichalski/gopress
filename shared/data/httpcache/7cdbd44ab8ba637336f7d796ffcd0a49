@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:06:55 GMT
+Etag: W/"e33e394bcd63df514a4f88c42b6995d0"
+Last-Modified: Sat, 10 Sep 2016 13:24:30 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:411D6:4E109:5E53AE4F
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4641
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+95c
+{"name":"README.rst","path":"README.rst","sha":"5477d405c31047926b2e79619f4d81d8294e373e","size":1162,"url":"https://api.github.com/repos/red-team-labs/waldo/contents/README.rst?ref=master","html_url":"https://github.com/red-team-labs/waldo/blob/master/README.rst","git_url":"https://api.github.com/repos/red-team-labs/waldo/git/blobs/5477d405c31047926b2e79619f4d81d8294e373e","download_url":"https://raw.githubusercontent.com/red-team-labs/waldo/master/README.rst","type":"file","content":"V2FsZG8gaXMgYSBsaWdodHdlaWdodCBhbmQgbXVsdGl0aHJlYWRlZCBkaXJl\nY3RvcnkgYW5kIHN1YmRvbWFpbiBicnV0ZWZvcmNlciBpbXBsZW1lbnRlZCBp\nbiBQeXRob24uIEl0IGNhbiBiZSB1c2VkIHRvIGxvY2F0ZSBoaWRkZW4gd2Vi\nIHJlc291cmNlcyBhbmQgdW5kaXNjb3ZlcmVkIHN1YmRvbWFpbnMgb2YgdGhl\nIHNwZWNpZmllZCB0YXJnZXQuCgpLZXkgRmVhdHVyZXMKLS0tLS0tLS0tLS0t\nCgotIFF1aWNrbHkgYW5kIGVhc2lseSBnZW5lcmF0ZSBhIGxpc3Qgb2YgYWxs\nIHN1YmRvbWFpbnMgb2YgdGFyZ2V0IGRvbWFpbgotIERpc2NvdmVyIGhpZGRl\nbiB3ZWIgcmVzb3VyY2VzIHRoYXQgY2FuIGJlIHBvdGVudGlhbGx5IGxldmVy\nYWdlZCBhcyBwYXJ0IG9mIGFuIGF0dGFjawotIFdyaXR0ZW4gaW4gUHl0aG9u\nIGFuZCB2ZXJ5IHBvcnRhYmxlCi0gRmFzdCwgbXVsdGl0aHJlYWRlZCBkZXNp\nZ24KClNldHVwCi0tLS0tCgpEZXBlbmRlbmNpZXMgY2FuIGJlIGluc3RhbGxl\nZCBieSBydW5uaW5nOgoKCSQgcGlwIGluc3RhbGwgLXIgcGlwLnJlcQoKVG8g\ncnVuIHRoZSB3YWxkbzoKCgkkIHB5dGhvbiB3YWxkby5weQoKVXNhZ2UKLS0t\nLS0KClRvIGVudW1lcmF0ZSBzdWJkb21haW5zIGF0IHNvbWUtZmFrZS1zaXRl\nLmV4YW1wbGUsIGV4ZWN1dGUgdGhlIGZvbGxvd2luZzoKCgkkIHB5dGhvbiB3\nYWxkby5weSAtbSBzIC1kIHNvbWUtZmFrZS1zaXRlLmV4YW1wbGUKClRvIGVu\ndW1lcmF0ZSBkaXJlY3RvcmllcyBhdCBzb21lLWZha2Utc2l0ZS5leGFtcGxl\nLCBleGVjdXRlIHRoZSBmb2xsb3dpbmc6CgoJJCBweXRob24gd2FsZG8ucHkg\nLW0gZCAtZCBzb21lLWZha2Utc2l0ZS5leGFtcGxlCgpCeSBkZWZhdWx0LCBv\ndXRwdXQgd2lsbCBiZSBsb2dnZWQgdG8gd2FsZG8tb3V0cHV0LnR4dC4gVG8g\nc3BlY2lmeSBhIGN1c3RvbQpvdXRwdXQgZmlsZSwgdXNlIHRoZSAtbCBmbGFn\nOgoKCSQgcHl0aG9uIHdhbGRvLnB5IC1tIHMgLWwgbXktbG9nLWZpbGUudHh0\nIC1kIHNvbWUtZmFrZS1zaXRlLmV4YW1wbGUKCldhbGRvIHVzZXMgNCB0aHJl\nYWRzIGJ5IGRlZmF1bHQuIFRvIHNwZWNpZnkgYSBjdXN0b20gdGhyZWFkcG9v\nbCBzaXplLCB1c2UKdGhlIC10IGZsYWc6CgoJJCBweXRob24gd2FsZG8ucHkg\nLW0gcyAtZCBzb21lLWZha2Utc2l0ZS5leGFtcGxlIC10IDE1Cg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/red-team-labs/waldo/contents/README.rst?ref=master","git":"https://api.github.com/repos/red-team-labs/waldo/git/blobs/5477d405c31047926b2e79619f4d81d8294e373e","html":"https://github.com/red-team-labs/waldo/blob/master/README.rst"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:22 GMT
+Etag: W/"5cb9cbd9edeaf87bb5ccc762741b6d1d"
+Last-Modified: Tue, 21 Jan 2014 19:46:59 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:190D7:1E088:5E53B2DE
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1167
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+81a
+{"name":"README","path":"README","sha":"e7dba4daa06e6fad3973de52092b3e56269e84d6","size":935,"url":"https://api.github.com/repos/b34rdtek/Leroy-Jenkins/contents/README?ref=master","html_url":"https://github.com/b34rdtek/Leroy-Jenkins/blob/master/README","git_url":"https://api.github.com/repos/b34rdtek/Leroy-Jenkins/git/blobs/e7dba4daa06e6fad3973de52092b3e56269e84d6","download_url":"https://raw.githubusercontent.com/b34rdtek/Leroy-Jenkins/master/README","type":"file","content":"PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09\nPQoKTGVyb3kgSmVua2lucwoKQ29weXJpZ2h0IEphbWVzIEx1dGhlcgpXcml0\ndGVuIGFuZCBtYWludGFpbmVkIGJ5IEphbWVzIEx1dGhlcgoKPT09PT09PT09\nPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpMaWNlbnNl\nIC0tR1BMdjMtLQoKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09\nPT09PT09PT09PT0KCkxlcm95IEplbmtpbnMgaXMgYSBweXRob24gdG9vbCB0\naGF0IHdpbGwgYWxsb3cKcmVtb3RlIGV4ZWN1dGlvbiBvZiBjb21tYW5kcyBv\nbiBhIEplbmtpbnMKc2VydmVyIGFuZCBpdHMgbm9kZXMuIFRoaXMgdG9vbCBw\ncm92aWRlcyBhbgppbnRlcmFjdGl2ZSBzaGVsbCB0byBwZXJmb3JtIGFsbCBm\ndW5jdGlvbnMKcmVtb3RlIGFuZCBsb2NhbC4KClRoaXMgbmV3ZXIgdmVyc2lv\nbiBvZiBMZXJveSBKZW5raW5zIGhhcwphIGd1aSBhcyB3ZWxsIGFzIHRoZSBw\ncmV2aW91cyBjb21tYW5kcy4gClRvIG9wZXJhdGUgZWl0aGVyIHJ1biBpbiB0\naGUgY29tbWFuZApwcm9tcHQgbGVyb3ktamVua2lucy5weSBvciBsZXJveS1q\nZW5raW5zIC1nLgpUaGUgLWcgb3B0aW9uIHdpbGwgb3BlbiB0aGUgZ3VpLiBJ\ndCBpcyAKcHJldHR5IHNlbGYgZXhwbGFpbmF0b3J5IGZyb20gdGhlcmUgYnV0\nCmlmIHlvdSBoYXZlIHF1ZXN0aW9ucyBwbGVhc2UgY29udGFjdC4KClRvIGlu\nc3RhbGwgZWl0aGVyIHJ1biB0aGUgaW5zYWxsLnNoIGZpbGUKb3IgY29weSBh\nbGwgaXRlbXMgdG8gL3Vzci9zaGFyZS9sZXJveS1qZW5raW5zLgpZb3UgY2Fu\nIHRoZW4gY3JlYXRlIGEgLmRlc2t0b3AgZmlsZSBvciBzeW0gCmxpbmtzIGFz\nIG5lZWRlZC4KCkZvciBxdWVzdGlvbnMsIGNvbW1lbnRzLCB1cGRhdGVzIGNv\nbnRhY3QKSmFtZXMgTHV0aGVyIHRocm91Z2ggZ2l0aHViLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/b34rdtek/Leroy-Jenkins/contents/README?ref=master","git":"https://api.github.com/repos/b34rdtek/Leroy-Jenkins/git/blobs/e7dba4daa06e6fad3973de52092b3e56269e84d6","html":"https://github.com/b34rdtek/Leroy-Jenkins/blob/master/README"}}
+0
+

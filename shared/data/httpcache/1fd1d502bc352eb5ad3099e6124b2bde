@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:20:41 GMT
+Etag: W/"64c18983afa4ad9230615abe3c9d54a9"
+Last-Modified: Wed, 31 Jan 2018 21:04:12 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:A3AD3:C2968:5E53B188
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2203
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+863
+{"name":"README.md","path":"README.md","sha":"82974778978cfd491262d4c5ebeaec7c82a55537","size":984,"url":"https://api.github.com/repos/M4sc3r4n0/Evil-Droid/contents/README.md?ref=master","html_url":"https://github.com/M4sc3r4n0/Evil-Droid/blob/master/README.md","git_url":"https://api.github.com/repos/M4sc3r4n0/Evil-Droid/git/blobs/82974778978cfd491262d4c5ebeaec7c82a55537","download_url":"https://raw.githubusercontent.com/M4sc3r4n0/Evil-Droid/master/README.md","type":"file","content":"IyMgRXZpbC1Ecm9pZCBGcmFtZXdvcmsgLiB2ZXJzaW9uIDAuMyAKICAgIEF1\ndGhvcjogTWFzY2VyYW5vIEJhY2hpciBbIGRldi1sYWJzIF0KCiMjIExlZ2Fs\nIERpc2NsYW1lcjoKICAgIFRoZSBhdXRob3IgZG9lcyBub3QgaG9sZCBhbnkg\ncmVzcG9uc2liaWxpdHkgZm9yIHRoZSBiYWQgdXNlIG9mIHRoaXMgdG9vbCwK\nICAgIHJlbWVtYmVyIHRoaXMgaXMgb25seSBmb3IgZWR1Y2F0aW9uYWwgcHVy\ncG9zZS4KCiMjIERlc2NyaXB0aW9uOgogICAgRXZpbC1Ecm9pZCBpcyBhIGZy\nYW1ld29yayB0aGF0IGNyZWF0ZSAmIGdlbmVyYXRlICYgZW1iZWQgYXBrIHBh\neWxvYWQgdG8gcGVuZXRyYXRlIGFuZHJvaWQgcGxhdGZvcm1zCiAKIyMgU2Ny\nZWVuc2hvdDoKIVtwaWMxXShodHRwczovL2kuaW1ndXIuY29tL0xjek82MzYu\ncG5nKQoKIVtwaWMyXShodHRwczovL2kuaW1ndXIuY29tL21oWHhiNVEucG5n\nKQoKPGJyIC8+PGJyIC8+CgojIyBEZXBlbmRlbmNpZXMgOgogICAgMSAtIG1l\ndGFzcGxvaXQtZnJhbWV3b3JrCgkyIC0geHRlcm0KCTMgLSBaZW5pdHkKCTQg\nLSBBYXB0Cgk1IC0gQXBrdG9vbAoJNiAtIFppcGFsaWduCgojIyBEb3dubG9h\nZC9Db25maWcvVXNhZ2U6CiAgICAxPyAtIERvd25sb2FkIHRoZSB0b29sIGZy\nb20gZ2l0aHViCiAgICAgICAgIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5j\nb20vTTRzYzNyNG4wL0V2aWwtRHJvaWQuZ2l0CgogICAgMj8gLSBTZXQgc2Ny\naXB0IGV4ZWN1dGlvbiBwZXJtaXNzaW9uCiAgICAgICAgIGNkIEV2aWwtRHJv\naWQKICAgICAgICAgY2htb2QgK3ggZXZpbC1kcm9pZAoKCiAgICA0Py0gUnVu\nIEV2aWwtRHJvaWQgRnJhbWV3b3JrIDoKICAgICAgIC4vZXZpbC1kcm9pZAog\nICAgICAgICBzZWUgb3B0aW9ucyBiZWxsb3cJICAgCiAgICAgIAoKIyMgdmlk\nZW8gdHV0b3JpYWw6IApodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92\nPTh1LU5IZVRkUFJFJmZlYXR1cmU9c2hhcmUgb2xkIHZlcnNpb24K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/M4sc3r4n0/Evil-Droid/contents/README.md?ref=master","git":"https://api.github.com/repos/M4sc3r4n0/Evil-Droid/git/blobs/82974778978cfd491262d4c5ebeaec7c82a55537","html":"https://github.com/M4sc3r4n0/Evil-Droid/blob/master/README.md"}}
+0
+

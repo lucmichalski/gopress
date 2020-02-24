@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:17:33 GMT
+Etag: W/"4ab739aeb0132bf77250d4733d4c168b"
+Last-Modified: Wed, 19 Feb 2020 09:44:36 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:A4B8B:C5BA0:5E53B0CD
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2745
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e09
+{"name":"README.md","path":"README.md","sha":"6bfa74039dfd2693ff1d08944165087472989df3","size":2037,"url":"https://api.github.com/repos/dylanaraps/neofetch/contents/README.md?ref=master","html_url":"https://github.com/dylanaraps/neofetch/blob/master/README.md","git_url":"https://api.github.com/repos/dylanaraps/neofetch/git/blobs/6bfa74039dfd2693ff1d08944165087472989df3","download_url":"https://raw.githubusercontent.com/dylanaraps/neofetch/master/README.md","type":"file","content":"PGgzIGFsaWduPSJjZW50ZXIiPjxpbWcgc3JjPSJodHRwczovL2kuaW1ndXIu\nY29tL1pRSTJFWXoucG5nIiBhbHQ9ImxvZ28iIGhlaWdodD0iMTAwcHgiPjwv\naDM+CjxwIGFsaWduPSJjZW50ZXIiPkEgY29tbWFuZC1saW5lIHN5c3RlbSBp\nbmZvcm1hdGlvbiB0b29sIHdyaXR0ZW4gaW4gYmFzaCAzLjIrPC9wPgoKPHAg\nYWxpZ249ImNlbnRlciI+CjxhIGhyZWY9Ii4vTElDRU5TRS5tZCI+PGltZyBz\ncmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvbGljZW5zZS1NSVQt\nYmx1ZS5zdmciPjwvYT4KPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2R5\nbGFuYXJhcHMvbmVvZmV0Y2gvcmVsZWFzZXMiPjxpbWcgc3JjPSJodHRwczov\nL2ltZy5zaGllbGRzLmlvL2dpdGh1Yi9yZWxlYXNlL2R5bGFuYXJhcHMvbmVv\nZmV0Y2guc3ZnIj48L2E+CjxhIGhyZWY9Imh0dHBzOi8vcmVwb2xvZ3kub3Jn\nL21ldGFwYWNrYWdlL25lb2ZldGNoIj48aW1nIHNyYz0iaHR0cHM6Ly9yZXBv\nbG9neS5vcmcvYmFkZ2UvdGlueS1yZXBvcy9uZW9mZXRjaC5zdmciIGFsdD0i\nUGFja2FnaW5nIHN0YXR1cyI+PC9hPgo8L3A+Cgo8aW1nIHNyYz0iaHR0cHM6\nLy9pLmltZ3VyLmNvbS9HRm1DNUFkLnBuZyIgYWx0PSJuZW9mZXRjaCIgYWxp\nZ249InJpZ2h0IiBoZWlnaHQ9IjI0MHB4Ij4KCk5lb2ZldGNoIGlzIGEgY29t\nbWFuZC1saW5lIHN5c3RlbSBpbmZvcm1hdGlvbiB0b29sIHdyaXR0ZW4gaW4g\nYGJhc2ggMy4yK2AuIE5lb2ZldGNoIGRpc3BsYXlzIGluZm9ybWF0aW9uIGFi\nb3V0IHlvdXIgb3BlcmF0aW5nIHN5c3RlbSwgc29mdHdhcmUgYW5kIGhhcmR3\nYXJlIGluIGFuIGFlc3RoZXRpYyBhbmQgdmlzdWFsbHkgcGxlYXNpbmcgd2F5\nLgoKVGhlIG92ZXJhbGwgcHVycG9zZSBvZiBOZW9mZXRjaCBpcyB0byBiZSB1\nc2VkIGluIHNjcmVlbi1zaG90cyBvZiB5b3VyIHN5c3RlbS4gTmVvZmV0Y2gg\nc2hvd3MgdGhlIGluZm9ybWF0aW9uIG90aGVyIHBlb3BsZSB3YW50IHRvIHNl\nZS4gVGhlcmUgYXJlIG90aGVyIHRvb2xzIGF2YWlsYWJsZSBmb3IgcHJvcGVy\nIHN5c3RlbSBzdGF0aXN0aWMvZGlhZ25vc3RpY3MuCgpUaGUgaW5mb3JtYXRp\nb24gYnkgZGVmYXVsdCBpcyBkaXNwbGF5ZWQgYWxvbmdzaWRlIHlvdXIgb3Bl\ncmF0aW5nIHN5c3RlbSdzIGxvZ28uIFlvdSBjYW4gZnVydGhlciBjb25maWd1\ncmUgTmVvZmV0Y2ggdG8gaW5zdGVhZCB1c2UgYW4gaW1hZ2UsIGEgY3VzdG9t\nIEFTQ0lJIGZpbGUsIHlvdXIgd2FsbHBhcGVyIG9yIG5vdGhpbmcgYXQgYWxs\nLgoKPGltZyBzcmM9Imh0dHBzOi8vaS5pbWd1ci5jb20vbFVya1FCTi5wbmci\nIGFsdD0ibmVvZmV0Y2giIGFsaWduPSJyaWdodCIgaGVpZ2h0PSIyNDBweCI+\nCgpZb3UgY2FuIGZ1cnRoZXIgY29uZmlndXJlIE5lb2ZldGNoIHRvIGRpc3Bs\nYXkgZXhhY3RseSB3aGF0IHlvdSB3YW50IGl0IHRvLiBUaHJvdWdoIHRoZSB1\nc2Ugb2YgY29tbWFuZC1saW5lIGZsYWdzIGFuZCB0aGUgY29uZmlndXJhdGlv\nbiBmaWxlIHlvdSBjYW4gY2hhbmdlIGV4aXN0aW5nIGluZm9ybWF0aW9uIG91\ndHB1dHMgb3IgYWRkIHlvdXIgb3duIGN1c3RvbSBvbmVzLgoKTmVvZmV0Y2gg\nc3VwcG9ydHMgYWxtb3N0IDE1MCBkaWZmZXJlbnQgb3BlcmF0aW5nIHN5c3Rl\nbXMuIEZyb20gTGludXggdG8gV2luZG93cywgYWxsIHRoZSB3YXkgdG8gbW9y\nZSBvYnNjdXJlIG9wZXJhdGluZyBzeXN0ZW1zIGxpa2UgTWluaXgsIEFJWCBh\nbmQgSGFpa3UuIElmIHlvdXIgZmF2b3VyaXRlIG9wZXJhdGluZyBzeXN0ZW0g\naXMgdW5zdXBwb3J0ZWQ6IE9wZW4gdXAgYW4gaXNzdWUgYW5kIHN1cHBvcnQg\nd2lsbCBiZSBhZGRlZC4KCgojIyMgTW9yZTogXFtbRGVwZW5kZW5jaWVzXSho\ndHRwczovL2dpdGh1Yi5jb20vZHlsYW5hcmFwcy9uZW9mZXRjaC93aWtpL0Rl\ncGVuZGVuY2llcylcXSBcW1tJbnN0YWxsYXRpb25dKGh0dHBzOi8vZ2l0aHVi\nLmNvbS9keWxhbmFyYXBzL25lb2ZldGNoL3dpa2kvSW5zdGFsbGF0aW9uKVxd\nIFxbW1dpa2ldKGh0dHBzOi8vZ2l0aHViLmNvbS9keWxhbmFyYXBzL25lb2Zl\ndGNoL3dpa2kpXF0K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/dylanaraps/neofetch/contents/README.md?ref=master","git":"https://api.github.com/repos/dylanaraps/neofetch/git/blobs/6bfa74039dfd2693ff1d08944165087472989df3","html":"https://github.com/dylanaraps/neofetch/blob/master/README.md"}}
+0
+

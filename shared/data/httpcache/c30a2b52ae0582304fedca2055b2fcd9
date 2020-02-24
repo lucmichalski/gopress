@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:50 GMT
+Etag: W/"57b39310aa8598b6c44f4f4733893e5e"
+Last-Modified: Wed, 24 Jul 2013 15:54:10 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:64680:78E71:5E53AEFE
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4085
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+54e
+{"name":"README.textile","path":"README.textile","sha":"cdb4dc0013d511301e6677498b158d05bbcbc9a1","size":315,"url":"https://api.github.com/repos/joostvanveen/php-security-pitfalls/contents/README.textile?ref=master","html_url":"https://github.com/joostvanveen/php-security-pitfalls/blob/master/README.textile","git_url":"https://api.github.com/repos/joostvanveen/php-security-pitfalls/git/blobs/cdb4dc0013d511301e6677498b158d05bbcbc9a1","download_url":"https://raw.githubusercontent.com/joostvanveen/php-security-pitfalls/master/README.textile","type":"file","content":"aDEuIFBIUCBTZWN1cml0eSBQaXRmYWxscyBzb3VjZSBjb2RlCgpUaGlzIHJl\ncG9zaXRvcnkgY29udGFpbnMgdGhlIHNvdXJjZSBjb2RlIGZvciB0aGUgVHV0\nc3BsdXMgY291cnNlIFBIUCBTZWN1cml0eSBQaXRmYWxscy4gCkl0IGlzIG1l\nYW50IGZvciBkZW1vbnN0cmF0aW9uIHB1cnBvc2VzIGFuZCByZWZlcmVuY2Ug\nb25seS4gQXMgc3VjaCwgaXQgY29udGFpbnMgaW5jb21wbGV0ZSBhbmQgdnVs\nbmVyYWJsZSBjb2RlLgoKKkRvIG5vdCB1c2UgdGhpcyBjb2RlIGluIGEgcHJv\nZHVjdGlvbiBlbnZpcm9ubWVudCEqCgpDaGVlcnMsIEpvb3N0IHZhbiBWZWVu\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/joostvanveen/php-security-pitfalls/contents/README.textile?ref=master","git":"https://api.github.com/repos/joostvanveen/php-security-pitfalls/git/blobs/cdb4dc0013d511301e6677498b158d05bbcbc9a1","html":"https://github.com/joostvanveen/php-security-pitfalls/blob/master/README.textile"}}
+0
+

@@ -3,6 +3,12 @@ package models
 import (
 	"fmt"
 	"time"
+	"strings"
+
+	"github.com/qor/l10n"
+	"github.com/qor/sorting"
+	"github.com/qor/validations"
+	"github.com/qor/publish2"
 
 	"github.com/gosimple/slug"
 	"github.com/jinzhu/gorm"
@@ -12,15 +18,51 @@ import (
 )
 
 type Category struct {
+	l10n.Locale
+	sorting.Sorting
 	ID    uint `gorm:"primary_key"`
 	Name  string
 	Posts []Post `gorm:"many2many:category_post"`
+	l10n.LocaleCreatable
 }
+
+func (category Category) Validate(db *gorm.DB) {
+	if strings.TrimSpace(category.Name) == "" {
+		db.AddError(validations.NewError(category, "Name", "Name can not be empty"))
+	}
+}
+
+/*
+type Category struct {
+	gorm.Model
+	l10n.Locale
+	sorting.Sorting
+	Name string
+	Code string
+
+	Categories []Category
+	CategoryID uint
+}
+
+func (category Category) Validate(db *gorm.DB) {
+	if strings.TrimSpace(category.Name) == "" {
+		db.AddError(validations.NewError(category, "Name", "Name can not be empty"))
+	}
+}
+
+func (category Category) DefaultPath() string {
+	if len(category.Code) > 0 {
+		return fmt.Sprintf("/category/%s", category.Code)
+	}
+	return "/"
+}
+*/
 
 type Tag struct {
 	ID    uint `gorm:"primary_key"`
 	Name  string
 	Posts []Post `gorm:"many2many:tag_post"`
+	l10n.LocaleCreatable
 }
 
 type Link struct {
@@ -57,7 +99,7 @@ func (Image) GetSizes() map[string]*media.Size {
 
 type Document struct {
 	gorm.Model
-	File   oss.OSS `gorm:"type:longtext" sql:"size:4294967295;" media_library:"url:/content/publications/{{basename}}.{{extension}};path:./public"`
+	File   oss.OSS `gorm:"type:longtext" sql:"size:4294967295;" media_library:"url:/public/content/publications/{{basename}}.{{extension}};path:./public"`
 	PostID uint
 }
 
@@ -65,6 +107,27 @@ type Post struct {
 	ID         uint       `gorm:"primary_key"`
 	Categories []Category `gorm:"many2many:category_post"`
 	Tags       []Tag      `gorm:"many2many:tag_post"`
+	Title      string
+	Slug       string `gorm:"unique"`
+	Body       string `gorm:"type:longtext"`
+	Summary    string `gorm:"type:longtext"`
+	Images     []Image
+	Documents  []Document
+	Videos     []Video
+	Links      []Link
+	Type       string
+	Created    int32
+	Updated    int32
+
+	publish2.Version
+	publish2.Schedule
+	publish2.Visible
+}
+
+type Page struct {
+	ID         uint       `gorm:"primary_key"`
+	Categories []Category `gorm:"many2many:category_page"`
+	Tags       []Tag      `gorm:"many2many:tag_page"`
 	Title      string
 	Slug       string `gorm:"unique"`
 	Body       string `gorm:"type:longtext"`
@@ -105,13 +168,14 @@ func (p *Post) BeforeCreate() (err error) {
 		p.Updated = int32(time.Now().Unix())
 	}
 
-	p.Slug = createUniqueSlug(p.Title)
+	// p.Slug = createUniqueSlug(p.Title)
 
 	fmt.Printf("======> New post: %#v", p.Title)
 	fmt.Printf("======> New post: %#v", p.Summary)
 	fmt.Printf("======> New post: %#v", p.Images)
-	fmt.Printf("=======> Images: %#v", p.Images[0].File.FileName)
-
+	if len(p.Images) > 0 {
+		fmt.Printf("=======> Images: %#v", p.Images[0].File.FileName)
+	}
 	for i := range p.Images {
 		p.Images[i].File.Sizes = p.Images[i].GetSizes()
 		file, _ := p.Images[i].File.Base.FileHeader.Open()

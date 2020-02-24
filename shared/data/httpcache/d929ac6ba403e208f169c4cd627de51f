@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:07:51 GMT
+Etag: W/"b6006f197d5af8959c1d0552d86e960d"
+Last-Modified: Fri, 01 Jun 2018 01:40:40 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:47C52:55F87:5E53AE87
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4465
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+744
+{"name":"README.md","path":"README.md","sha":"0b41ee33580868bc2ad5ebf209888211e63263af","size":750,"url":"https://api.github.com/repos/dannagle/PacketSender-iOS/contents/README.md?ref=master","html_url":"https://github.com/dannagle/PacketSender-iOS/blob/master/README.md","git_url":"https://api.github.com/repos/dannagle/PacketSender-iOS/git/blobs/0b41ee33580868bc2ad5ebf209888211e63263af","download_url":"https://raw.githubusercontent.com/dannagle/PacketSender-iOS/master/README.md","type":"file","content":"KlRoaXMgcmVwbyBoYXMgYmVlbiBhYmFuZG9uZWQuKiBUaGUgbW9iaWxlIGVk\naXRpb24gaXMgbm93IGEgWGFtYXJpbiBwcm9qZWN0IHRoYXQgZXhpc3RzIGhl\ncmU6Cmh0dHBzOi8vZ2l0aHViLmNvbS9kYW5uYWdsZS9QYWNrZXRfU2VuZGVy\nX01vYmlsZQoKCiMgUGFja2V0IFNlbmRlciBmb3IgaU9TClRoaXMgd2FzIHRo\nZSBpT1MgdmVyc2lvbiBvZiBQYWNrZXQgU2VuZGVyIGZvciBEZXNrdG9wLiBU\naGUgcHJvamVjdCBpcyBub3QgYmVpbmcgYWN0aXZlbHkgZGV2ZWxvcGVkLgoK\nPGltZyBhbHQ9IlBhY2tldCBTZW5kZXIgQW5kcm9pZCIgd2lkdGg9IjI1MHB4\nIiBzcmM9InNjcmVlbnNob3RzL2lwaG9uZS1zY3JlZW5zaG90LnBuZyI+Cgoj\nIyBQYXJlbnQgcHJvamVjdApUaGlzIHdhcyBvcmlnaW5hbGx5IGFuIGF0dGVt\ncHQgdG8gcmV3cml0ZSB0aGUgR1BMLWJhc2VkIGRlc2t0b3AgdmVyc2lvbjoK\naHR0cHM6Ly9naXRodWIuY29tL2Rhbm5hZ2xlL1BhY2tldFNlbmRlcgoKCiMj\nIExpY2Vuc2UKCk1JVC4gRmVlbCBmcmVlIHRvIGZvcmsgYW5kIG1ha2UgaXQg\neW91ciBvd24uCgoKIyMgQ29weXJpZ2h0CgpQYWNrZXQgU2VuZGVyIGlzIHdo\nb2xseSBvd25lZCBhbmQgY29weXJpZ2h0ICZjb3B5OyAgLSAgW0BOYWdsZUNv\nZGVdKGh0dHA6Ly90d2l0dGVyLmNvbS9OYWdsZUNvZGUpIC0gW0Rhbk5hZ2xl\nLmNvbV0oaHR0cDovL0Rhbk5hZ2xlLmNvbSkgIC0gIFtQYWNrZXRTZW5kZXIu\nY29tXShodHRwOi8vUGFja2V0U2VuZGVyLmNvbSkK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/dannagle/PacketSender-iOS/contents/README.md?ref=master","git":"https://api.github.com/repos/dannagle/PacketSender-iOS/git/blobs/0b41ee33580868bc2ad5ebf209888211e63263af","html":"https://github.com/dannagle/PacketSender-iOS/blob/master/README.md"}}
+0
+

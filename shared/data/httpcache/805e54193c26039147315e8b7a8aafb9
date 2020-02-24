@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:11:46 GMT
+Etag: W/"33a5b38e8df07583f7e2e7e87c95532e"
+Last-Modified: Mon, 17 Apr 2017 16:43:44 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:752CC:8CD35:5E53AF72
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3750
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+73c
+{"name":"README.md","path":"README.md","sha":"b01bfcd7819c3f42e79a6aa15a12ed3e511aeef5","size":764,"url":"https://api.github.com/repos/opensourcesec/CIRTKit/contents/README.md?ref=master","html_url":"https://github.com/opensourcesec/CIRTKit/blob/master/README.md","git_url":"https://api.github.com/repos/opensourcesec/CIRTKit/git/blobs/b01bfcd7819c3f42e79a6aa15a12ed3e511aeef5","download_url":"https://raw.githubusercontent.com/opensourcesec/CIRTKit/master/README.md","type":"file","content":"IVtDSVJUS2l0XShkYXRhL2ltZy9jaXJ0a2l0X2xvZ28ucG5nKQoKPGk+T25l\nIERGSVIgY29uc29sZSB0byBydWxlIHRoZW0gYWxsLiBCdWlsdCBvbiB0b3Ag\nb2YgdGhlIFtWaXBlciBGcmFtZXdvcmtdKGh0dHBzOi8vZ2l0aHViLmNvbS92\naXBlci1mcmFtZXdvcmsvdmlwZXIpPC9pPgo8aHIgLz4KClshW0J1aWxkIFN0\nYXR1c10oaHR0cHM6Ly90cmF2aXMtY2kub3JnL2J5dDNzbWl0aC9DSVJUS2l0\nLnN2Zz9icmFuY2g9bWFzdGVyKV0oaHR0cHM6Ly90cmF2aXMtY2kub3JnL2J5\ndDNzbWl0aC9DSVJUS2l0KQoKIyMgRG9jdW1lbnRhdGlvbgoqIFBsZWFzZSBz\nZWUgdGhlIFt3aWtpXShodHRwczovL2dpdGh1Yi5jb20vYnl0M3NtaXRoL0NJ\nUlRLaXQvd2lraSkgZm9yIG1vcmUgaW5mb3JtYXRpb24gYWJvdXQgQ0lSVEtp\ndCBhbmQgZG9jdW1lbnRhdGlvbgoKIyMgUm9hZG1hcAojIyMgRnV0dXJlIGlu\ndGVncmF0aW9ucwoqIEJpdDkKKiBQYWxvIEFsdG8gTmV0d29ya3MKKiBFbkNh\nc2UvRlRLCgojIyMgRnV0dXJlIG1vZHVsZXMKKiBQYWNrZXQgQW5hbHlzaXMg\nKHBvc3NpYmx5IERzaGVsbCkKKiBKYXZhc2NyaXB0IFVucGFja2luZy9EZW9i\nZnVzY2F0aW9uCiogVm9sYXRpbGl0eSBNZW1vcnkgQW5hbHlzaXMgRnJhbWV3\nb3JrCiogSGV4IFZpZXdlci9FZGl0b3IKCiMjIyBTY3JpcHRpbmcgRnJhbWV3\nb3JrCiogQXV0b21hdGlvbiBpcyBrZXkuIFNjcmlwdGluZyBpcyBrZXkgdG8g\nREZJUiwgdGh1cyBuZWVkcyB0byBiZSBhdmFpbGFibGUgaW4gQ0lSVEtpdAo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/opensourcesec/CIRTKit/contents/README.md?ref=master","git":"https://api.github.com/repos/opensourcesec/CIRTKit/git/blobs/b01bfcd7819c3f42e79a6aa15a12ed3e511aeef5","html":"https://github.com/opensourcesec/CIRTKit/blob/master/README.md"}}
+0
+

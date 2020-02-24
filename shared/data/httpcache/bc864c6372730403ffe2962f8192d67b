@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:27:05 GMT
+Etag: W/"1e6eb4b1e12ccd0ce51f8b6889be51f1"
+Last-Modified: Tue, 27 Feb 2018 12:20:02 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:1C50E:21EFB:5E53B309
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1057
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+6bf
+{"name":"README.md","path":"README.md","sha":"bf0ea757d3efb6bdae6bf872f53e42012ea1f2e4","size":699,"url":"https://api.github.com/repos/zaproxy/zap-swag/contents/README.md?ref=master","html_url":"https://github.com/zaproxy/zap-swag/blob/master/README.md","git_url":"https://api.github.com/repos/zaproxy/zap-swag/git/blobs/bf0ea757d3efb6bdae6bf872f53e42012ea1f2e4","download_url":"https://raw.githubusercontent.com/zaproxy/zap-swag/master/README.md","type":"file","content":"IyBaQVAgU3dhZwpBcnR3b3JrIGZvciBhbGwgb2ZmaWNpYWwgWkFQIHN3YWcg\nLSBwb3N0ZXJzLCBzdGlja2VycywgdC1zaGlydHMgZXRjLgoKQWxsIFpBUCBp\nbWFnZXMgYXJlIHJlbGVhc2VkIHVuZGVyIHRoZSBDcmVhdGl2ZSBDb21tb25z\nIGxpY2Vuc2UuCgpZb3UgY2FuIGFsc28gcHVyY2hhc2UgWkFQIG1lcmNoYW5k\naXNlIG9ubGluZSAtIHdlIG1ha2Ugbm8gbW9uZXkgb3V0IG9mIHRoZXNlIHNh\nbGVzLCBpZiB5b3UnZCBsaWtlIHRvIGRvbmF0ZSBtb25leSB0byB0aGUgT1dB\nU1AgWkFQIHByb2plY3QgdGhlbSBwbGVhc2UgdXNlIHRoZSAnZG9uYXRlJyBi\ndXR0b24gb24gaHR0cHM6Ly93d3cub3dhc3Aub3JnL2luZGV4LnBocC9aQVAK\nCllvdSBjYW4gb2YgY291cnNlIHVzZSB0aGUgYXJ0d29yayBmcm9tIHRoaXMg\ncmVwbyB3aXRoIGFueSBvdGhlciBvbmxpbmUgc3RvcmUgdGhhdCB5b3UgbGlr\nZS4KCiMjIFN0b3JlcwpBIHJhbmdlIG9mIHByb2R1Y3RzIGNhbiBiZSBwdXJj\naGFzZWQgZnJvbSBodHRwOi8vd3d3LnJlZGJ1YmJsZS5jb20vcGVvcGxlL3ph\ncHJveHkKClN0aWNrZXJzIGNhbiBiZSBwdXJjaGFzZWQgZnJvbSBodHRwczov\nL3d3dy5zdGlja2VybXVsZS5jb20vdWsvdXNlci8xMDcwNjg0MDc3L3N0aWNr\nZXJzCgpULXNoaXJ0cyBjYW4gYmUgcHVyY2hhc2VkIGZyb20gaHR0cDovL3d3\ndy5jYWZlcHJlc3MuY29tL3phcHJveHkK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/zaproxy/zap-swag/contents/README.md?ref=master","git":"https://api.github.com/repos/zaproxy/zap-swag/git/blobs/bf0ea757d3efb6bdae6bf872f53e42012ea1f2e4","html":"https://github.com/zaproxy/zap-swag/blob/master/README.md"}}
+0
+

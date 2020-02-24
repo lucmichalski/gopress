@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:10:33 GMT
+Etag: W/"b9ab6f77fc5818420501271928779bdf"
+Last-Modified: Sun, 07 May 2017 17:52:29 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:6A9D7:80497:5E53AF29
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3954
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+de3
+{"name":"README.md","path":"README.md","sha":"e35e9ed4a4b18197eb0bc70c16c44304e47ffdf3","size":2008,"url":"https://api.github.com/repos/ALSchwalm/foresight/contents/README.md?ref=master","html_url":"https://github.com/ALSchwalm/foresight/blob/master/README.md","git_url":"https://api.github.com/repos/ALSchwalm/foresight/git/blobs/e35e9ed4a4b18197eb0bc70c16c44304e47ffdf3","download_url":"https://raw.githubusercontent.com/ALSchwalm/foresight/master/README.md","type":"file","content":"CkZvcmVzaWdodAo9PT09PT09PT0KCmBmb3Jlc2lnaHRgIGlzIGEgcHl0aG9u\nIGxpYnJhcnkgZm9yIHByZWRpY3RpbmcgdGhlIG91dHB1dCBvZiByYW5kb20g\nbnVtYmVyCmdlbmVyYXRvcnMgYWNyb3NzIGEgdmFyaWV0eSBvZiBwbGF0Zm9y\nbXMgYW5kIGxhbmd1YWdlcyBpbmNsdWRpbmc6CgotIGdsaWJjCi0gTVNWQwot\nIFBIUAotIEphdmEKLSBNeVNRTAoKVGhpcyByZXBvc2l0b3J5IGFsc28gY29u\ndGFpbnMgYSBzaW1wbGUgd3JhcHBlciAoY2FsbGVkIGBmb3Jlc2VlYCkgYXJv\ndW5kIHRoaXMKbGlicmFyeSB0aGF0IHByb3ZpZGVzIGEgQ0xJLgoKSW5zdGFs\nbGF0aW9uCj09PT09PT09PT09PQoKVG8gaW5zdGFsbCBgZm9yZXNpZ2h0YCwg\nY2xvbmUgdGhpcyByZXBvc2l0b3J5IGFuZCBydW4gYHB5dGhvbiBzZXR1cC5w\neSBpbnN0YWxsYC4KCkxpYnJhcnkgVXNhZ2UKPT09PT09PT09PT09PQoKVGhl\nIGxpYnJhcnkgaXMgZGl2aWRlZCBpbnRvIHN1YnBhY2thZ2VzIGZvciBlYWNo\nIHN1cHBvcnRlZCBwbGF0Zm9ybS4gVGhlc2UKc3VicGFja2FnZXMgdGhlbiBw\ncm92aWRlIHN1Ym1vZHVsZXMgZm9yIGVhY2ggc3VwcG9ydGVkIGZ1bmN0aW9u\nLiBGb3IgZXhhbXBsZSx0aGUKZm9sbG93aW5nIHNhbXBsZSB3aWxsIHByZWRp\nY3QgdGhlIG91dHB1dCBvZiB0aGUgZ2xpYmMgYHJhbmRfcmAgZnJvbSBzb21l\nCnByaW9yIG91dHB1dHM6CgogICAgZnJvbSBmb3Jlc2lnaHQuZ2xpYmMgaW1w\nb3J0IHJhbmRfcgoKICAgIHByaW9yX291dHB1dHMgPSBbaW50KGkpIGZvciBp\nIGluIGlucHV0KCkuc3BsaXQoKV0KICAgIGZ1dHVyZV9vdXRwdXRzID0gcmFu\nZF9yLmZyb21fb3V0cHV0cyhwcmlvcl9vdXRwdXRzKQoKICAgIGZvciBvdXRw\ndXQgaW4gZnV0dXJlX291dHB1dHM6CiAgICAgICAgcHJpbnQob3V0cHV0KQoK\nR2VuZXJhbGx5LCBlYWNoIG1vZHVsZSBwcm92aWRlcyB0aGUgZm9sbG93aW5n\nIGZ1bmN0aW9uczoKCi0gYGZyb21fc2VlZChzZWVkKWA6IGdldCBhIGdlbmVy\nYXRvciB0byB0aGUgZnV0dXJlIHZhbHVlcyByZXR1cm5lZCBieSB0aGUgUk5H\nIHdoZW4Kc2VlZGVkIHdpdGggdGhlIGdpdmVuIHZhbHVlLgoKLSBgZnJvbV9v\ndXRwdXRzKHByZXZfdmFsdWVzKWA6IGF0dGVtcHQgdG8gcHJlZGljdCB0aGUg\naW50ZXJuYWwgc3RhdGUgb2YgdGhlIFJORyBmcm9tCnRoZSBnaXZlbiBwcmlv\nciBvdXRwdXRzLiBJZiBzdWNjZXNzZnVsLCByZXR1cm5zIGEgZ2VuZXJhdG9y\nIHRvIHRoZSBmdXR1cmUgdmFsdWVzCnJldHVybmVkIGJ5IHRoZSBSTkcuCgpD\nTEkgVXNhZ2UKPT09PT09PT09CgpDb21tYW5kIGxpbmUgdXNhZ2Ugb2YgdGhl\nIGxpYnJhcnkgaGFzIHRoZSBmb2xsb3dpbmcgZ2VuZXJhbCBmb3JtOgoKICAg\nIGZvcmVzZWUgPHBsYXRmb3JtPiA8ZnVuY3Rpb24+IFs8b3B0aW9ucz5dCgpG\nb3IgZXhhbXBsZSwgdGhlIGFib3ZlIHNjcmlwdCBpcyBlcXVpdmFsZW50IHRv\nIHRoZSBmb2xsb3dpbmcgYGZvcmVzZWVgIGNvbW1hbmQ6CgogICAgZm9yZXNl\nZSBnbGliYyByYW5kX3IgLW8gPHRoZSBwcmlvciBvdXRwdXRzPgoKQnkgZGVm\nYXVsdCwgYW4gaW5maW5pdGUgc3RyZWFtIGlzIGdlbmVyYXRlZC4gVGhlIG91\ndHB1dCBtYXkgYmUgbGltaXRlZCB0byB0aGUgbmV4dApgTmAgb3V0cHV0cyB3\naXRoIGAtYyBOYC4KClRlc3RzCj09PT09CgpUZXN0cyBjYW4gYmUgcnVuIHdp\ndGggYG5vc2VgIGJ5IGZpcnN0IGluc3RhbGxpbmcgdGhlIHBhY2thZ2Ugd2l0\naCBgcGlwIGluc3RhbGwgbm9zZWAsCmFuZCB0aGVuIHJ1bm5pbmcgYG5vc2V0\nZXN0YCBpbiB0aGUgcHJvamVjdCByb290LgoKTGljZW5zZQo9PT09PT09CgpU\naGlzIHByb2plY3QgaXMgbGljZW5zZWQgdW5kZXIgdGhlIHRlcm1zIG9mIHRo\nZSBNSVQgbGljZW5zZS4gU2VlIHRoZSBMSUNFTlNFIGZpbGUKZm9yIGRldGFp\nbHMKCkNvbnRyaWJ1dGluZwo9PT09PT09PT09PT0KCktlZXBpbmcgaW4gbWlu\nZCB0aGF0IHRoaXMgcHJvamVjdCBpcyBzdGlsbCBmYWlybHkgdW5zdGFibGUs\nIGNvbnRyaWJ1dGlvbnMgYXJlCndlbGNvbWUuCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/ALSchwalm/foresight/contents/README.md?ref=master","git":"https://api.github.com/repos/ALSchwalm/foresight/git/blobs/e35e9ed4a4b18197eb0bc70c16c44304e47ffdf3","html":"https://github.com/ALSchwalm/foresight/blob/master/README.md"}}
+0
+

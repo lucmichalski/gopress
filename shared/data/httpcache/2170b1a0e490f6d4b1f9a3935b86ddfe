@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:13:21 GMT
+Etag: W/"ec7403c3d9c67660870d6636d503a589"
+Last-Modified: Tue, 08 May 2018 05:51:54 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:6FBED:8534B:5E53AFD1
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3489
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+803
+{"name":"README.md","path":"README.md","sha":"f669e72c86d370a7b66d6c200d93ead836eb080c","size":944,"url":"https://api.github.com/repos/OffXec/PAVELOW/contents/README.md?ref=master","html_url":"https://github.com/OffXec/PAVELOW/blob/master/README.md","git_url":"https://api.github.com/repos/OffXec/PAVELOW/git/blobs/f669e72c86d370a7b66d6c200d93ead836eb080c","download_url":"https://raw.githubusercontent.com/OffXec/PAVELOW/master/README.md","type":"file","content":"IyBQQVZFTE9XIEV4cGxvaXQgVG9vbGJveC4KUHJvZ3JhbW1lZCBieSBYZWN1\ncml0eS4KTGFuZ3VhZ2U6IEJBU0gKCiMgRGVzY3JpcHRpb246ClBBVkVMT1cg\naGVscHMgeW91IHdpdGggeW91ciBleHBsb2l0aW5nIGFuZCB2dWxuZXJhYmls\naXR5IHNlYXJjaGluZyBhZHZlbnR1cmVzIG9uIEtBTEkgTGludXggYnkgdXNp\nbmcgYSBmZXcgZGlmZmVyZW50IHByZS1pbnN0YWxsZWQgdG9vbHMgYW1vbmcg\nc2V2ZXJhbCBvdGhlcnMgdGhhdCBQQVZFTE9XIHdpbGwgaW5zdGFsbGVkICYg\nc2V0dXAgZm9yIHlvdSh0aGV5IGFsbCBjYW4gYmUgZm91bmQgcmlnaHQgaGVy\nZSBvbiBHaXRodWIgdG9vKS4gCgojIEZFQVRVUkVTCjEpIFBhc3NpdmUgUmVj\nb24gTWVudQotIERPUksgT1NJTlQgKEV4dGVybmFsIEZGKQotIEVtYWlsIEhh\ncnZlc3RlcgotIFN1YmRvbWFpbiBHYXRoZXIKLSBXQUYgRGV0ZWN0aW9uCgoy\nKSBBZ2dyZXNzaXZlIFJlY29uCi0gU3ViZG9tYWluIFRha2VvdmVyCi0gUG9y\ndCBTY2FuCi0gTlNFIFZ1bG4gU2NhbgotIEluamVjdGlvbiBDcmF3bGVyIAoo\nTXVjaCBtb3JlKQoKMykgVnVsbmVyYWJpbGl0eSBMYWIKLSBYU1MgQ3Jhd2wv\nRmluZGVyCi0gQ01TIFNjYW4KLSBDTVMgVnVsbiBUb29scwotIEFkbWluIEJ5\ncGFzc2VyCihNYW55IG90aGVycykKClRoYXQncyBqdXN0IHRvIG5hbWUgYSBm\nZXcsIHRoZSByZXN0IHlvdSdsbCBoYXZlIHRvIGdvIGFuZCBlbmpveSB5b3Vy\nc2VsZiEgKDsKCiMgUmVxdWlyZW1lbnRzCi0gS2FsaSBMaW51eAotIFJPT1Qg\nKG5vdCByb290IHByaXYgdXNlcikKCkFueSBxdWVzdGlvbnMgb3IgaWRlYXMg\nZm9yIHZlcnNpb24gMi4wIGZlZWwgZnJlZSB0byBsZXQgbWUga25vdy4KCkNv\nbnRhY3Q6ClR3aXR0ZXI6IAotIEAweDNjdXJpdHkKLSBAQW5vbnlJbmZvCgpU\naGFua3MgZm9yIHVzaW5nIFBBVkVMT1cgJiBIYXBweSBleHBsb2l0aW5nIQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/OffXec/PAVELOW/contents/README.md?ref=master","git":"https://api.github.com/repos/OffXec/PAVELOW/git/blobs/f669e72c86d370a7b66d6c200d93ead836eb080c","html":"https://github.com/OffXec/PAVELOW/blob/master/README.md"}}
+0
+

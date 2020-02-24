@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:07:12 GMT
+Etag: W/"edcb7b32183351283d3491d19d7d62cc"
+Last-Modified: Sun, 28 Jul 2019 13:32:52 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:4EACE:5EF13:5E53AE60
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4592
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+8a1
+{"name":"README.md","path":"README.md","sha":"3a717229a089141aa0a2953f57b2878c3f156da4","size":1053,"url":"https://api.github.com/repos/tibonihoo/yapsy/contents/README.md?ref=master","html_url":"https://github.com/tibonihoo/yapsy/blob/master/README.md","git_url":"https://api.github.com/repos/tibonihoo/yapsy/git/blobs/3a717229a089141aa0a2953f57b2878c3f156da4","download_url":"https://raw.githubusercontent.com/tibonihoo/yapsy/master/README.md","type":"file","content":"WWFwc3kKPT09PT0KCkEgZmF0LWZyZWUgRElZIFB5dGhvbiBwbHVnaW4gbWFu\nYWdlbWVudCB0b29sa2l0LgoKWyFbQlNEIGxpY2Vuc2VdKGh0dHBzOi8vaW1n\nLnNoaWVsZHMuaW8vcHlwaS9sL3lhcHN5LnN2ZyldKC4vcGFja2FnZS9MSUNF\nTlNFLnR4dCkKWyFbUHlQSSB2ZXJzaW9uXShodHRwOi8vaW1nLnNoaWVsZHMu\naW8vcHlwaS92L1lhcHN5LnN2ZyldKGh0dHBzOi8vcHlwaS5weXRob24ub3Jn\nL3B5cGkveWFwc3kpClshW0RvY3VtZW50YXRpb24gU3RhdHVzXShodHRwczov\nL3JlYWR0aGVkb2NzLm9yZy9wcm9qZWN0cy95YXBzeS9iYWRnZS8/dmVyc2lv\nbj1sYXRlc3QpXShodHRwczovL3lhcHN5LnJlYWR0aGVkb2NzLmlvL2VuL2xh\ndGVzdC8/YmFkZ2U9bGF0ZXN0KQoKR2V0IG1vcmUgaW5mbyBvbjogCiAgKiBb\ndGhlIGRldGFpbGVkIGRlc2NyaXB0aW9uXSguL3BhY2thZ2UvUkVBRE1FLnR4\ndCkKICAqIFt0aGUgd2Vic2l0ZV0oaHR0cDovL3lhcHN5LnNvdXJjZWZvcmdl\nLm5ldC8pCiAgKiBbUmVhZFRoZURvY10oaHR0cHM6Ly95YXBzeS5yZWFkdGhl\nZG9jcy5vcmcpCgoKWWFwc3kncyBkZXZlbG9wbWVudCBpcyBbaG9zdGVkIGF0\nIFNvdXJjZWZvcmdlXShodHRwOi8vc291cmNlZm9yZ2UubmV0L3Byb2plY3Rz\nL3lhcHN5LykgYnV0IHB1bGwgcmVxdWVzdHMgYXJlIGFsc28gd2VsY29tZSBv\nbiBbZ2l0aHViXShodHRwczovL2dpdGh1Yi5jb20vdGlib25paG9vL3lhcHN5\nKS4KCllhcHN5IGlzIGFsc28gY29udGludW91c2x5IHRlc3RlZCBvbiBbdHJh\ndmlzLWNpXShodHRwczovL3RyYXZpcy1jaS5vcmcpOiAKClshW0J1aWxkIFN0\nYXR1c10oaHR0cHM6Ly90cmF2aXMtY2kub3JnL3RpYm9uaWhvby95YXBzeS5w\nbmc/YnJhbmNoPW1hc3RlcildKGh0dHBzOi8vdHJhdmlzLWNpLm9yZy90aWJv\nbmlob28veWFwc3kpIApbIVtDb3ZlcmFnZV0oaHR0cHM6Ly9jb3ZlcmFsbHMu\naW8vcmVwb3MvdGlib25paG9vL3lhcHN5L2JhZGdlLnBuZz9icmFuY2g9bWFz\ndGVyKV0oaHR0cHM6Ly9jb3ZlcmFsbHMuaW8vci90aWJvbmlob28veWFwc3k/\nYnJhbmNoPW1hc3RlcikKCgoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/tibonihoo/yapsy/contents/README.md?ref=master","git":"https://api.github.com/repos/tibonihoo/yapsy/git/blobs/3a717229a089141aa0a2953f57b2878c3f156da4","html":"https://github.com/tibonihoo/yapsy/blob/master/README.md"}}
+0
+

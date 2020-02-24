@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:00 GMT
+Etag: W/"0a0544555991c7b84877e5d27e8f3dc0"
+Last-Modified: Wed, 08 Jan 2020 15:29:28 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:65C6E:7974C:5E53AF80
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3706
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+ab5
+{"name":"README.md","path":"README.md","sha":"218fd61f0cfdacca29fea6fd8869c2c9673e28e6","size":1417,"url":"https://api.github.com/repos/dirkjanm/adidnsdump/contents/README.md?ref=master","html_url":"https://github.com/dirkjanm/adidnsdump/blob/master/README.md","git_url":"https://api.github.com/repos/dirkjanm/adidnsdump/git/blobs/218fd61f0cfdacca29fea6fd8869c2c9673e28e6","download_url":"https://raw.githubusercontent.com/dirkjanm/adidnsdump/master/README.md","type":"file","content":"IyBBY3RpdmUgRGlyZWN0b3J5IEludGVncmF0ZWQgRE5TIGR1bXAgdG9vbAoK\nIVtQeXRob24gMi43IGFuZCAzIGNvbXBhdGlibGVdKGh0dHBzOi8vaW1nLnNo\naWVsZHMuaW8vYmFkZ2UvcHl0aG9uLTIuNyUyQyUyMDMueC1ibHVlLnN2ZykK\nIVtQeVBJIHZlcnNpb25dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vcHlwaS92\nL2FkaWRuc2R1bXAuc3ZnKQohW0xpY2Vuc2U6IE1JVF0oaHR0cHM6Ly9pbWcu\nc2hpZWxkcy5pby9weXBpL2wvYWRpZG5zZHVtcC5zdmcpCgpCeSBkZWZhdWx0\nIGFueSB1c2VyIGluIEFjdGl2ZSBEaXJlY3RvcnkgY2FuIGVudW1lcmF0ZSBh\nbGwgRE5TIHJlY29yZHMgaW4gdGhlIERvbWFpbiBvciBGb3Jlc3QgRE5TIHpv\nbmVzLCBzaW1pbGFyIHRvIGEgem9uZSB0cmFuc2Zlci4gVGhpcyB0b29sIGVu\nYWJsZXMgZW51bWVyYXRpb24gYW5kIGV4cG9ydGluZyBvZiBhbGwgRE5TIHJl\nY29yZHMgaW4gdGhlIHpvbmUgZm9yIHJlY29uIHB1cnBvc2VzIG9mIGludGVy\nbmFsIG5ldHdvcmtzLgoKRm9yIG1vcmUgaW5mbywgcmVhZCB0aGUgW2Fzc29j\naWF0ZWQgYmxvZyBwb3N0XShodHRwczovL2RpcmtqYW5tLmlvL2dldHRpbmct\naW4tdGhlLXpvbmUtZHVtcGluZy1hY3RpdmUtZGlyZWN0b3J5LWRucy13aXRo\nLWFkaWRuc2R1bXAvKS4KCiMgSW5zdGFsbCBhbmQgdXNhZ2UKWW91IGNhbiBl\naXRoZXIgaW5zdGFsbCB0aGUgdG9vbCB2aWEgcGlwIHdpdGggYHBpcCBpbnN0\nYWxsIGFkaWRuc2R1bXBgIG9yIGluc3RhbGwgaXQgZnJvbSBnaXQgdG8gaGF2\nZSB0aGUgbGF0ZXN0IHZlcnNpb246CgpgYGAKZ2l0IGNsb25lIGh0dHBzOi8v\nZ2l0aHViLmNvbS9kaXJramFubS9hZGlkbnNkdW1wCmNkIGFkaWRuc2R1bXAK\ncGlwIGluc3RhbGwgLgpgYGAKCm9yCgpgYGAKcGlwIGluc3RhbGwgZ2l0K2h0\ndHBzOi8vZ2l0aHViLmNvbS9kaXJramFubS9hZGlkbnNkdW1wI2VnZz1hZGlk\nbnNkdW1wCmBgYAoKVGhlIHRvb2wgcmVxdWlyZXMgYGltcGFja2V0YCBhbmQg\nYGRuc3B5dGhvbmAgdG8gZnVuY3Rpb24uIFdoaWxlIHRoZSB0b29sIHdvcmtz\nIHdpdGggYm90aCBQeXRob24gMiBhbmQgMywgUHl0aG9uIDMgc3VwcG9ydCBy\nZXF1aXJlcyB5b3UgdG8gaW5zdGFsbCBbaW1wYWNrZXQgZnJvbSBHaXRIdWJd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9Db3JlU2VjdXJpdHkvaW1wYWNrZXQpLgoK\nSW5zdGFsbGF0aW9uIGFkZHMgdGhlIGBhZGlkbnNkdW1wYCBjb21tYW5kIHRv\nIHlvdXIgYFBBVEhgLiBGb3IgaGVscCwgdHJ5IGBhZGlkbnNkdW1wIC1oYC4K\nVGhlIHRvb2wgY2FuIGJlIHVzZWQgYm90aCBkaXJlY3RseSBmcm9tIHRoZSBu\nZXR3b3JrIGFuZCB2aWEgYW4gaW1wbGFudCB1c2luZyBwcm94eWNoYWlucy4g\nSWYgdXNpbmcgcHJveHljaGFpbnMsIG1ha2Ugc3VyZSB0byBzcGVjaWZ5IHRo\nZSBgLS1kbnMtdGNwYCBvcHRpb24uCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/dirkjanm/adidnsdump/contents/README.md?ref=master","git":"https://api.github.com/repos/dirkjanm/adidnsdump/git/blobs/218fd61f0cfdacca29fea6fd8869c2c9673e28e6","html":"https://github.com/dirkjanm/adidnsdump/blob/master/README.md"}}
+0
+

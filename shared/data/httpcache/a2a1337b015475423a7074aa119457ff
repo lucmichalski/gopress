@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:49 GMT
+Etag: W/"7f56b542651e607ed1700bd05b2a57d3"
+Last-Modified: Fri, 01 Mar 2019 09:11:36 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:96E82:B367F:5E53B118
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2500
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+3f1
+{"name":"README.md","path":"README.md","sha":"3e4b188473aead1c674403b9dbf6f5bbbc22a20b","size":146,"url":"https://api.github.com/repos/nbs-system/naxsi-rules/contents/README.md?ref=master","html_url":"https://github.com/nbs-system/naxsi-rules/blob/master/README.md","git_url":"https://api.github.com/repos/nbs-system/naxsi-rules/git/blobs/3e4b188473aead1c674403b9dbf6f5bbbc22a20b","download_url":"https://raw.githubusercontent.com/nbs-system/naxsi-rules/master/README.md","type":"file","content":"SGVyZSB5b3Ugd2lsbCBmaW5kIG5heHNpIHJ1bGVzIHByb3ZpZGVkIGFuZCBt\nYWludGFpbmVkIGJ5IHRoZSBjb21tdW5pdHkuCgpOYXhzaSdzIHRlYW0gaXMg\nbm90IGludm9sdmVkIGludG8gd3JpdHRpbmcgb3IgbWFpbnRhaW5pbmcgdGhv\nc2UgcnVsZXMuCgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/nbs-system/naxsi-rules/contents/README.md?ref=master","git":"https://api.github.com/repos/nbs-system/naxsi-rules/git/blobs/3e4b188473aead1c674403b9dbf6f5bbbc22a20b","html":"https://github.com/nbs-system/naxsi-rules/blob/master/README.md"}}
+0
+

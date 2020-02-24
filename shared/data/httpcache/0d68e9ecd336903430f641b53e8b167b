@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:34 GMT
+Etag: W/"a8ea5aa38bc2fa7b807c97618ce4b600"
+Last-Modified: Wed, 30 Oct 2013 15:58:20 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:3A88E:46336:5E53B48D
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 74
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d17
+{"name":"README.md","path":"README.md","sha":"a669fb8ec486f3ba0def47d3d2d9cac52d703732","size":1871,"url":"https://api.github.com/repos/nccgroup/xcavator/contents/README.md?ref=master","html_url":"https://github.com/nccgroup/xcavator/blob/master/README.md","git_url":"https://api.github.com/repos/nccgroup/xcavator/git/blobs/a669fb8ec486f3ba0def47d3d2d9cac52d703732","download_url":"https://raw.githubusercontent.com/nccgroup/xcavator/master/README.md","type":"file","content":"eGNhdmF0b3IKPT09PT09PT0KQSBuZXR3b3JrIGRhdGEgbG9jYXRlciB1c2lu\nZyBjcmVkZW50aWFscyBvYnRhaW5lZCBkdXJpbmcgcGVuZXRyYXRpb24gdGVz\ndHMuCgpYY2F2YXRvciBpcyBhIHRvb2wgdGhhdCBzY2FucyBhIHJhbmdlIG9m\nIElQIGFkZHJlc3NlcyBmb3Igc2VydmljZXMgdGhhdCBob3N0IGZpbGVzIChG\nVFAsIEZUUFMgYW5kIFNNQiBhdCB0aGUgbW9tZW50KSBhbmQgZm9yCmdpdmVu\nIGNyZWRlbnRpYWxzIGl0IHdpbGwgdHJ5IHRvIGRvd25sb2FkIGV2ZXJ5dGhp\nbmcgaXQgY2FuIGFuZCBzY2FuIHdpdGhpbiB0aGUgZmlsZXMgZm9yIGludGVy\nZXN0aW5nIHN0cmluZ3MuCgpBbm90aGVyIG1vZGUgaXMgdG8gZG93bmxvYWQg\nb25seSB0aG9zZSBmaWxlcyB0aGF0IHRoZWlyIGZpbGVuYW1lcyBtYXRjaCBh\nIFJlZ0V4LgoKRGV2ZWxvcGVkIGJ5IE5pa29zIExhbGVhcywgbmlrb3MgZDB0\nIGxhbGVhcyBhdCBuY2Nncm91cCBkMHQgY29tCgpSZWxlYXNlZCB1bmRlciBB\nR1BMLiBTZWUgTElDRU5TRSBmb3IgbW9yZSBpbmZvcm1hdGlvbi4KClByZXJl\ncXVpc2l0ZXMKLS0tLS0tLS0tLS0tLQpQeXRob24gMy4zIGFuZCBbW2h0dHBz\nOi8vcHlwaS5weXRob24ub3JnL3B5cGkvcHlzbWIgfCBweXNtYl1dCgpPcHRp\nb25zCi0tLS0tLS0KQWxsIHRoZSBuZWNlc3NhcnkgcGFyYW1ldGVycyBhcmUg\ncGlja2VkIHVwIGZyb20gYSBjb25maWcgZmlsZSB3aXRjaCBpcyBjcmVhdGVk\nIGFuZCBwb3B1bGF0ZWQgb24gdGhlIGZpcnN0IHJ1bi4KCiMjIyMjQ29uZmln\nIGZpbGUgZXhhbXBsZQo8cHJlPgpbU01CXQp1c2VyID0gaDR4MHIKcGFzcyA9\nIDEyMzQ1NgpyZWdleCA9IFxicGFzc3dvcmRcYgpwb3J0ID0gNDQ1CnJhbmdl\nID0gMTkyLjE2OC4xLjEtMTkyLjE2OC4xLjE1LCAxMC4xMC4xMC4wLzI0Cjwv\ncHJlPgoKVGhlcmUgYXJlIGFsc28gYWRkaXRpb25hbCBvcHRpb25hbCBhcmd1\nbWVudHM6Cgo8cHJlPgogIC1oLCAtLWhlbHAgICAgICAgICAgICAgICAgICAg\nICAgc2hvdyB0aGlzIGhlbHAgbWVzc2FnZSBhbmQgZXhpdAogIAogIC1jIENP\nTkZJRywgLS1jb25maWcgQ09ORklHICAgICAgQ29uZmlnIGZpbGUgKERlZmF1\nbHQ6IHhjYXZhdG9yLmNvbmYpCiAgCiAgLXQgVElNRU9VVCwgLS10aW1lb3V0\nIFRJTUVPVVQJCVRpbWVvdXQgaW4gc2Vjb25kcyAoRGVmYXVsdDogMnMpCiAg\nCiAgLXMsIC0tc2VhcmNoICAgICAgICAgICAgICAgICAgICBTZWFyY2ggbW9k\nZS4gU2VhcmNoZXMgcmVjdXJzaXZlbHkgZm9yIGZpbGVuYW1lcwogICAgICAg\nICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF0Y2hpbmcgUmVnRXggaW5z\ndGVhZCBvZiBkb3dubG9hZGluZyBldmVyeXRoaW5nCiAgICAgICAgICAgICAg\nICAgICAgICAgICAgICAgICAgICAoRGVmYXVsdDogZG93bmxvYWRzIGV2ZXJ5\ndGhpbmcgYW5kIHNjYW5zIGZvciBzdHJpbmdzKQogICAgICAgICAgICAgICAg\nICAgICAgICAgICAgICAgICAgCiAgLXYsIC0tdmVyYm9zZSAgICAgICAgICAg\nICAgICAgICBWZXJib3NpdHkgbGV2ZWwuIE1vcmUgInYicywgbW9yZSBkZXRh\naWwuIChEZWZhdWx0OiBQcmludHMgYmFzaWMgaW5mbykKPC9wcmU+CgpBZGRp\nbmcgbmV3IHByb3RvY29scwotLS0tLS0tLS0tLS0tLS0tLS0tLQpJbiBvcmRl\nciB0byBzdXBwb3J0IG5ldyBwcm90b2NvbHMgeW91IG5lZWQgdG8gY3JlYXRl\nIGEgZmlsZSBuYW1lZCBwcm90b2NvbG5hbWVfcHJvdG8ucHkgaW4gdGhlICdw\ncm90b2NvbHMnIGRpcmVjdG9yeS4gSGF2ZSBhIGxvb2sgYXQgJ3NhbXBsZV9w\ncm90by5weScuCkZpbmFsbHksIGVkaXQgdGhlICd4Y2F2YXRvci5weScgYW5k\nIGFkZCB0aGUgcHJvdG9jb2wgbmFtZSBhbmQgdGhlIGRlZmF1bHQgcG9ydCB0\nbyB0aGUgY29ycmVzcG9uZGVudCBsaXN0cy4=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/nccgroup/xcavator/contents/README.md?ref=master","git":"https://api.github.com/repos/nccgroup/xcavator/git/blobs/a669fb8ec486f3ba0def47d3d2d9cac52d703732","html":"https://github.com/nccgroup/xcavator/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:55 GMT
+Etag: W/"2b5b624ac6f51e8bb522c4349a178422"
+Last-Modified: Tue, 27 Nov 2018 04:28:40 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:6C712:814D2:5E53AFB6
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3569
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+bc3
+{"name":"README.md","path":"README.md","sha":"76efa77a96ca81885195a97c0a907ac88760915b","size":1605,"url":"https://api.github.com/repos/gr4ym4ntx/attackintel/contents/README.md?ref=master","html_url":"https://github.com/gr4ym4ntx/attackintel/blob/master/README.md","git_url":"https://api.github.com/repos/gr4ym4ntx/attackintel/git/blobs/76efa77a96ca81885195a97c0a907ac88760915b","download_url":"https://raw.githubusercontent.com/gr4ym4ntx/attackintel/master/README.md","type":"file","content":"CiMgVVBEQVRFICgyNiBOb3YgMjAxOCkKTUlUUkUgaGFzIGRlcHJlY2F0ZWQg\ndGhlIEFUVCZDSyBBUEkgZnVuY3Rpb25hbGl0eSBhbmQgd2lsbCBzb29uIGJl\nIHBoYXNpbmcgaXQgb3V0LiBUaGV5IGhhdmUgbW92ZWQgdG8gdXRpbGl6aW5n\nIFNUSVguIE15IGNvZGUgd2lsbCBiZSBhdmFpbGFibGUgZm9yIHJlZmVyZW5j\nZSBidXQgeW91IGNhbiBjaGVjayBvdXQgbXkgQVRUJkNLIEludGVsIHdlYmFw\ncCB3aGljaCBpcyBpbiB0aGUgcHJlbGltaW5hcnkgcGhhc2VzIG9mIGRldmVs\nb3BtZW50IGFuZCBvZmZlcnMgdGhlIHNhbWUgaW5mby4gVGhlIGxpbmsgaXMg\nYmVsb3cuIEknbSBhbHdheXMgbG9va2luZyB0byBpbXByb3ZlLiBHb3QgYSBz\ndWdnZXN0aW9uIGZvciB0aGUgd2ViYXBwLCBwbGVhc2UgZHJvcCBtZSBhIHN1\nZ2dlc3Rpb24gYXQgZ3I0eW00bnR4W2F0XWdtYWlsW2RvdF1jb20uIEVuam95\nLgoKLSBbQVRUJkNLIElOVEVMIFdlYmFwcF0oaHR0cHM6Ly9ncjR5bTRudHgu\ncHl0aG9uYW55d2hlcmUuY29tLykKCiMgQVRUJkNLIEludGVsCkEgc2ltcGxl\nIHB5dGhvbiBzY3JpcHQgdG8gcXVlcnkgdGhlIE1JVFJFIEFUVCZhbXA7Q0sg\nQVBJIGZvciB0YWN0aWNzLCB0ZWNobmlxdWVzLCBtaXRpZ2F0aW9ucywgJmFt\ncDsgZGV0ZWN0aW9uIG1ldGhvZHMgZm9yIHNwZWNpZmljIHRocmVhdCBncm91\ncHMuCgojIEdvYWxzCi0gUXVpY2tseSBhbGlnbiB1cGRhdGVkIHRhY3RpY3Ms\nIHRlY2huaXF1ZXMsIG1pdGlnYXRpb24sIGFuZCBkZXRlY3Rpb24gaW5mb3Jt\nYXRpb24gZnJvbSBNSVRSRSBBVFQmQ0sgQVBJIGZvciBhIHNwZWNpZmljIHRo\ncmVhdAotIEJydXNoIHVwIG9uIG15IHB5dGhvbiBza2lsbHMgYW5kIGdldCBm\nYW1pbGlhciB3aXRoIEdJVCB3aGlsZSBkcmlua2luZyBjb2ZmZWUKCiMgSG93\nIFRvClVzZSBvbmUgb2YgdHdvIG1ldGhvZHM6Ci0gSWYgKHB5dGhvbjMgaXMg\naW5zdGFsbGVkKTogCiAgICAtIERvd25sb2FkIHNjcmlwdCBmcm9tIGdpdAog\nICAgLSBgcGlwMyBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHRgCiAgICAt\nIGBweXRob24zIGF0dGFja2ludGVsLnB5YAotIEVsc2U6IAogICAgLSBDdXQg\nJiBwYXN0ZSBzY3JpcHQgZnJvbSBnaXQgaW50byB5b3VyIGZhdm9yaXRlIFtv\nbmxpbmUgcHl0aG9uIGVtdWxhdG9yXShodHRwczovL3JlcGwuaXQvbGFuZ3Vh\nZ2VzL3B5dGhvbjMpCi0gU2VsZWN0IGEgdGhyZWF0IG51bWJlciBmcm9tIHRo\nZSBtZW51IHRvIGdldCB0YWN0aWNzLCB0ZWNobmlxdWVzLCBtaXRpZ2F0aW9u\nLCBhbmQgZGV0ZWN0aW9uIGluZm9ybWF0aW9uCgojIFJlc291cmNlcwotIFtN\nSVRSRSBBVFQmQ0sgQVBJXShodHRwczovL2F0dGFjay5taXRyZS5vcmcvd2lr\naS9Vc2luZ190aGVfQVBJKQoKIyBSZXF1aXJlbWVudHMKLSBQeXRob24gdmVy\nLjMrCgojIExpbWl0YXRpb25zCi0gQ2FuIG9ubHkgc2VsZWN0IGEgc2luZ2xl\nIHRocmVhdCBncm91cCBhdCBhIHRpbWUKLSBJbmZvcm1hdGlvbiBpcyBvbmx5\nIGRpc3BsYXllZCB0byB0aGUgc2NyZWVuIChmb3Igbm93KQoKIyBDb250cmli\ndXRlCi0gTmV3IGlkZWFzIGFyZSBncmVhdCEgR290IGlkZWFzIGZvciBpbXBy\nb3ZlbWVudCwgc3VibWl0IGEgUFIuIFRoYW5rcyEK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/gr4ym4ntx/attackintel/contents/README.md?ref=master","git":"https://api.github.com/repos/gr4ym4ntx/attackintel/git/blobs/76efa77a96ca81885195a97c0a907ac88760915b","html":"https://github.com/gr4ym4ntx/attackintel/blob/master/README.md"}}
+0
+

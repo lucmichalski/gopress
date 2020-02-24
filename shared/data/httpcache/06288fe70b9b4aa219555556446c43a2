@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:11:20 GMT
+Etag: W/"c04fa58787907e08d293930a7b1b8640"
+Last-Modified: Thu, 02 Aug 2018 15:32:10 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:71623:8852D:5E53AF58
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3827
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+7fe
+{"name":"README.md","path":"README.md","sha":"711259e325e5bdbd9aea0d6c4a2b43194aad6afc","size":915,"url":"https://api.github.com/repos/Dionach/reposcanner/contents/README.md?ref=master","html_url":"https://github.com/Dionach/reposcanner/blob/master/README.md","git_url":"https://api.github.com/repos/Dionach/reposcanner/git/blobs/711259e325e5bdbd9aea0d6c4a2b43194aad6afc","download_url":"https://raw.githubusercontent.com/Dionach/reposcanner/master/README.md","type":"file","content":"IyBSZXBvc2Nhbm5lcgpSZXBvc2Nhbm5lciBpcyBhIHB5dGhvbiBzY3JpcHQg\ndG8gc2VhcmNoIHRocm91Z2ggdGhlIGNvbW1pdCBoaXN0b3J5IG9mIEdpdCBy\nZXBvc2l0b3JpZXMgbG9va2luZyBmb3IgaW50ZXJlc3Rpbmcgc3RyaW5ncyBz\ndWNoIGFzIEFQSSBrZXlzLCBpbnNwaXJlZCBieSBbdHJ1ZmZsZUhvZ10oaHR0\ncHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2R4YTQ0ODEvdHJ1ZmZs\nZUhvZykuCgojIyBJbnN0YWxsYXRpb24KVGhlIHB5dGhvbiBHaXQgbW9kdWxl\nIGlzIHJlcXVpcmVkIChweXRob24zLWdpdCBvbiBEZWJpYW4pLgoKIyMgVXNh\nZ2UKCmBgYAouL3JlcG9zY2FubmVyIC1yIDxyZXBvc2l0b3J5PgpgYGAKCk9w\ndGlvbnM6CgpgYGAKb3B0aW9uYWwgYXJndW1lbnRzOgogIC1oLCAtLWhlbHAg\nICAgICAgICAgICAgICAgICAgICBzaG93IHRoaXMgaGVscCBtZXNzYWdlIGFu\nZCBleGl0CiAgLXIgUkVQTywgLS1yZXBvIFJFUE8gICAgICAgICAgIFJlcG8g\ndG8gc2NhbgogIC1jIENPVU5ULCAtLWNvdW50IENPVU5UICAgICAgICBOdW1i\nZXIgb2YgY29tbWl0cyB0byBzY2FuIChkZWZhdWx0IGFsbCkKICAtZSBFTlRS\nT1BZLCAtLWVudHJvcHkgRU5UUk9QWSAgTWluaW11bSBlbnRyb3B5IHRvIHJl\ncG9ydCAoZGVmYXVsdCA0LjMpCiAgLWwgTEVOR1RILCAtLWxlbmd0aCBMRU5H\nVEggICAgIE1heG1pbXVtIGxpbmUgbGVuZ3RoIChkZWZhdWx0IDUwMCkKICAt\nYiBCUkFOQ0gsIC0tYnJhbmNoIEJSQU5DSCAgICAgU2NhbiBhIHNwZWNpZmlj\nIGJyYW5jaAogIC12LCAtLXZlcmJvc2UgICAgICAgICAgICAgICAgICBWZXJi\nb3NlIG91dHB1dApgYGAKCkV4YW1wbGU6CgpgYGAKLi9yZXBvc2Nhbm5lci5w\neSAtciBodHRwczovL2dpdGh1Yi5jb20vRGlvbmFjaC9yZXBvc2Nhbm5lciAt\ndiAtYSAtYyAzMApgYGAK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Dionach/reposcanner/contents/README.md?ref=master","git":"https://api.github.com/repos/Dionach/reposcanner/git/blobs/711259e325e5bdbd9aea0d6c4a2b43194aad6afc","html":"https://github.com/Dionach/reposcanner/blob/master/README.md"}}
+0
+

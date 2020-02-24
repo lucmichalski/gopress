@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:17:37 GMT
+Etag: W/"9d2c78545d82af64d2e42ac8e3ba2712"
+Last-Modified: Tue, 05 Sep 2017 09:45:00 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:A522C:C6398:5E53B0D1
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2733
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+325
+{"name":"README.md","path":"README.md","sha":"33a4c24af4d522d39a8a4c5e7e05f9178e5e65da","size":58,"url":"https://api.github.com/repos/ysrc/F-Scrack/contents/README.md?ref=rm","html_url":"https://github.com/ysrc/F-Scrack/blob/rm/README.md","git_url":"https://api.github.com/repos/ysrc/F-Scrack/git/blobs/33a4c24af4d522d39a8a4c5e7e05f9178e5e65da","download_url":"https://raw.githubusercontent.com/ysrc/F-Scrack/rm/README.md","type":"file","content":"5Li66Ziy5q2i5q2k6ISa5pys6KKr5oG25oSP5L2/55So77yM5q2k6aG555uu\n5bey5Yig6Zmk44CCCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/ysrc/F-Scrack/contents/README.md?ref=rm","git":"https://api.github.com/repos/ysrc/F-Scrack/git/blobs/33a4c24af4d522d39a8a4c5e7e05f9178e5e65da","html":"https://github.com/ysrc/F-Scrack/blob/rm/README.md"}}
+0
+

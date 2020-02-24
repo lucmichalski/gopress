@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:05:16 GMT
+Etag: "9c921cbed410599bb48473b49283cce2"
+Last-Modified: Tue, 10 Nov 2015 15:08:31 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 304 Not Modified
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-From-Cache: 1
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:3548E:40130:5E53ADEB
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4805
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+cbb
+{"name":"README.md","path":"README.md","sha":"c6825806f77c2bf945b10ffcaf2a13a1ec4857db","size":1755,"url":"https://api.github.com/repos/GovCERT-CZ/Wordpot-Frontend/contents/README.md?ref=master","html_url":"https://github.com/GovCERT-CZ/Wordpot-Frontend/blob/master/README.md","git_url":"https://api.github.com/repos/GovCERT-CZ/Wordpot-Frontend/git/blobs/c6825806f77c2bf945b10ffcaf2a13a1ec4857db","download_url":"https://raw.githubusercontent.com/GovCERT-CZ/Wordpot-Frontend/master/README.md","type":"file","content":"IyBXb3JkcG90LUZyb250ZW5kCj09PT09PT09PT09CgpXb3JkcG90LUZyb250\nZW5kIGlzIGEgZnVsbCBmZWF0dXJlZCBzY3JpcHQgdG8gdmlzdWFsaXplIHN0\nYXRpc3RpY3MgZnJvbSBhIFdvcmRwb3QgaG9uZXlwb3QuCgpJdCByZXF1aXJl\ncyB2ZXJzaW9uIG9mIHdvcmRwb3QgdGhhdCBsb2dzIHRvIHBvc3RncmVzcWwg\nKGh0dHBzOi8vZ2l0aHViLmNvbS9Hb3ZDRVJULUNaL3dvcmRwb3QpLgoKSXQg\naXMgYmFzZWQgb24gS2lwcG8tR3JhcGggKGh0dHBzOi8vZ2l0aHViLmNvbS9p\na29uaWFyaXMva2lwcG8tZ3JhcGgpLiBUaGFua3MgdG8gaWtvbmlhcmlzLgoK\nSXQgdXNlcyB0aGUgTGliY2hhcnQgUEhQIGNoYXJ0IGRyYXdpbmcgbGlicmFy\neSBieSBKZWFuLU1hcmMgVHLDqW1lYXV4LApRR29vZ2xlVmlzdWFsaXphdGlv\nbkFQSSBQSFAgV3JhcHBlciBmb3IgR29vZ2xlJ3MgVmlzdWFsaXphdGlvbiBB\nUEkgYnkgVGhvbWFzIFNjaMOkZmVyLApSZWRCZWFuUEhQIGxpYnJhcnkgYnkg\nR2Fib3IgZGUgTW9vaWosIE1heE1pbmQgYW5kIGdlb1BsdWdpbiBnZW9sb2Nh\ndGlvbiB0ZWNobm9sb2d5LgoKIyBSRVFVSVJFTUVOVFM6Ci0tLS0tLS0tLS0t\nLS0KMS4gUEhQIHZlcnNpb24gNS4zLjQgb3IgaGlnaGVyLgoyLiBUaGUgZm9s\nbG93aW5nIHBhY2thZ2VzOiBfbGliYXBhY2hlMi1tb2QtcGhwNV8sIF9waHA1\nLXBnc3FsXywgX3BocDUtZ2RfLCBfcGhwNS1jdXJsXy4KCk9uIFVidW50dS9E\nZWJpYW46Cj4gYXB0LWdldCB1cGRhdGUgJiYgYXB0LWdldCBpbnN0YWxsIC15\nIGxpYmFwYWNoZTItbW9kLXBocDUgcGhwNS1wZ3NxbCBwaHA1LWdkIHBocDUt\nY3VybAo+Cj4gL2V0Yy9pbml0LmQvYXBhY2hlMiByZXN0YXJ0CgojIFFVSUNL\nIElOU1RBTExBVElPTjoKLS0tLS0tLS0tLS0tLS0tLS0tLQo+IHdnZXQgaHR0\ncHM6Ly9naXRodWIuY29tL0dvdkNFUlQtQ1ovV29yZHBvdC1Gcm9udGVuZC9h\ncmNoaXZlL21hc3Rlci56aXAKPgo+IG12IFdvcmRwb3QtRnJvbnRlbmQtbWFz\ndGVyLnppcCAvdmFyL3d3dy9odG1sCj4KPiBjZCAvdmFyL3d3dy9odG1sCj4K\nPiB1bnppcCBXb3JkcG90LUZyb250ZW5kLW1hc3Rlci56aXAKPgo+IG12IFdv\ncmRwb3QtRnJvbnRlbmQtbWFzdGVyIHdvcmRwb3QtZnJvbnRlbmQKPgo+IGNk\nIHdvcmRwb3QtZnJvbnRlbmQKPgo+IGNobW9kIDc3NyBnZW5lcmF0ZWQtZ3Jh\ncGhzCj4KPiBjcCBjb25maWcucGhwLmRpc3QgY29uZmlnLnBocAo+Cj4gbmFu\nbyBjb25maWcucGhwICNlbnRlciB0aGUgYXBwcm9wcmlhdGUgdmFsdWVzCgpC\ncm93c2UgdG8gaHR0cDovL3lvdXItc2VydmVyL3dvcmRwb3QtZnJvbnRlbmQg\ndG8gZ2VuZXJhdGUgdGhlIHN0YXRpc3RpY3MuCgoKCgpOb3RlIDE6IElmIHlv\ndSBjaG9vc2UgdG8gZGlzYWJsZSBgUkVBTFRJTUVfU1RBVFNgIGluIHlvdXIg\nY29uZmlnLnBocCBmaWxlIGl0IGlzIGFkdmlzYWJsZSB0bwogICAgICAgIHNl\ndHVwIGEgY3JvbiBqb2IgdG8gdXBkYXRlIHRoZSBjaGFydHMgaW4gdGhlIGJh\nY2tncm91bmQuIFRoZSByZWNvbW1lbmRlZCB3YXkgdG8gZG8gdGhhdAogICAg\nICAgIGlzIHRvIGFkZCB0aGUgZm9sbG93aW5nIGxpbmUgaW4geW91ciBjcm9u\ndGFiIHdpdGggYGNyb250YWIgLWVgIChtYWtlIHN1cmUgdG8gY2hhbmdlIHRo\nZQogICAgICAgIHdvcmRwb3QtZnJvbnRlbmQgcGF0aCBpZiBpdCdzIGRpZmZl\ncmVudCk6Cj4gQGhvdXJseSBjZCAvdmFyL3d3dy93b3JkcG90LWZyb250ZW5k\nICYmIHBocCB3b3JkcG90LWdyYXBoLnBocCA+IC9kZXYvbnVsbCAyPiYxCgoK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/GovCERT-CZ/Wordpot-Frontend/contents/README.md?ref=master","git":"https://api.github.com/repos/GovCERT-CZ/Wordpot-Frontend/git/blobs/c6825806f77c2bf945b10ffcaf2a13a1ec4857db","html":"https://github.com/GovCERT-CZ/Wordpot-Frontend/blob/master/README.md"}}
+0
+

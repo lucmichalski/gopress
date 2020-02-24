@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:06:07 GMT
+Etag: W/"2ef854f2a1919f4ba8a62e2432601ddf"
+Last-Modified: Fri, 14 Apr 2017 09:31:42 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:3B604:47427:5E53AE1F
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4738
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+b51
+{"name":"README.md","path":"README.md","sha":"03ce12aa4bd6174d965e5fe6ab48a66a1a36080c","size":1510,"url":"https://api.github.com/repos/xtr4nge/FruityC2-Client/contents/README.md?ref=master","html_url":"https://github.com/xtr4nge/FruityC2-Client/blob/master/README.md","git_url":"https://api.github.com/repos/xtr4nge/FruityC2-Client/git/blobs/03ce12aa4bd6174d965e5fe6ab48a66a1a36080c","download_url":"https://raw.githubusercontent.com/xtr4nge/FruityC2-Client/master/README.md","type":"file","content":"IyBGcnVpdHlDMi1DbGllbnQKW01haW5dKGh0dHBzOi8vZ2l0aHViLmNvbS94\ndHI0bmdlL0ZydWl0eUMyLUNsaWVudC93aWtpL01haW4pCjxicj4KW1NlY3Rp\nb25zXShodHRwczovL2dpdGh1Yi5jb20veHRyNG5nZS9GcnVpdHlDMi1DbGll\nbnQvd2lraS9TZWN0aW9ucykKPGJyPgpbQ29tbWFuZHNdKGh0dHBzOi8vZ2l0\naHViLmNvbS94dHI0bmdlL0ZydWl0eUMyLUNsaWVudC93aWtpL0NvbW1hbmRz\nKQo8YnI+CltEYXRhXShodHRwczovL2dpdGh1Yi5jb20veHRyNG5nZS9GcnVp\ndHlDMi1DbGllbnQvd2lraS9EYXRhKQo8YnI+CltBbGVydHNdKGh0dHBzOi8v\nZ2l0aHViLmNvbS94dHI0bmdlL0ZydWl0eUMyLUNsaWVudC93aWtpL0FsZXJ0\ncykKPGJyPgpbVGVhbSBDaGF0XShodHRwczovL2dpdGh1Yi5jb20veHRyNG5n\nZS9GcnVpdHlDMi1DbGllbnQvd2lraS9UZWFtLUNoYXQpCjxicj4KW0NvZGUg\nR2VuZXJhdG9yXShodHRwczovL2dpdGh1Yi5jb20veHRyNG5nZS9GcnVpdHlD\nMi1DbGllbnQvd2lraS9Db2RlLUdlbmVyYXRvcikKPGJyPgpbUHJvZmlsZXNd\nKGh0dHBzOi8vZ2l0aHViLmNvbS94dHI0bmdlL0ZydWl0eUMyLUNsaWVudC93\naWtpL1Byb2ZpbGVzKQo8YnI+CltUdXRvcmlhbDogRnJ1aXR5QzIgMTAxXSho\ndHRwczovL2dpdGh1Yi5jb20veHRyNG5nZS9GcnVpdHlDMi1DbGllbnQvd2lr\naS9GcnVpdHlDMi0xMDEpCjxicj4KW1R1dG9yaWFsOiBGcnVpdHlDMiBXZWIg\nRGVsaXZlcnkgKEhUQSldKGh0dHBzOi8vZ2l0aHViLmNvbS94dHI0bmdlL0Zy\ndWl0eUMyLUNsaWVudC93aWtpL0ZydWl0eUMyLVdlYi1EZWxpdmVyeS0oSFRB\nKSkKPGJyPgpbVHV0b3JpYWw6IEZydWl0eUMyIFBhc3MtVGhlLUhhc2hdKGh0\ndHBzOi8vZ2l0aHViLmNvbS94dHI0bmdlL0ZydWl0eUMyLUNsaWVudC93aWtp\nL0ZydWl0eUMyLVBhc3MtVGhlLUhhc2gpCjxicj4KW1R1dG9yaWFsOiBGcnVp\ndHlDMiBQcm94eV0oaHR0cHM6Ly9naXRodWIuY29tL3h0cjRuZ2UvRnJ1aXR5\nQzItQ2xpZW50L3dpa2kvRnJ1aXR5QzItUHJveHktKExhdGVyYWwtTW92ZW1l\nbnQpKQo8YnI+PGJyPgoKIyMgaW5kZXguaHRtbApUaGlzIGlzIGEgd2ViIGNs\naWVudCB0byBpbnRlcmFjdCB3aXRoIHRoZSBGcnVpdHlDMiBBUEkuIFRoZSBj\nbGllbnQgaXMgYSBzaW5nbGUgcGFnZSBkaXZpZGVkIGluIDUgc2VjdGlvbnM6\nIEludGVyYWN0LCBMaXN0ZW5lciwgUGF5bG9hZCwgRGVsaXZlcnksIENvbmZp\nZy4gV2l0aCB0aGlzIGNsaWVudCwgaXQgaXMgcG9zc2libGUgdG8gY29udHJv\nbCBtYWlubHkgYWxsIHRoZSBvcHRpb25zIGFuZCBmdW5jdGlvbmFsaXRpZXMg\naW5jbHVkZWQgaW4gRnJ1aXR5QzIuIFRoZXJlIGlzIGEgc2VjdGlvbiB0byBk\naXNwbGF5IHRoZSBhbGVydHMgcmVsYXRlZCB3aXRoIHRoZSBudW1iZXIgb2Yg\ndGFyZ2V0cy9hZ2VudHMsIGNoYXQgbWVzc2FnZXMgYW5kIHdlYiBsb2dzLgo8\nYnI+Cgo8aW1nIHNyYz0iaHR0cDovL2kuaW1ndXIuY29tL2VTWVV3OFgucG5n\nIiB3LWlkdGg9Ijc2MCI+Cjxicj48YnI+Cg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/xtr4nge/FruityC2-Client/contents/README.md?ref=master","git":"https://api.github.com/repos/xtr4nge/FruityC2-Client/git/blobs/03ce12aa4bd6174d965e5fe6ab48a66a1a36080c","html":"https://github.com/xtr4nge/FruityC2-Client/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:17:27 GMT
+Etag: W/"c153315bcced833fd938e0e2c76d91b4"
+Last-Modified: Thu, 06 Dec 2018 20:13:07 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:A3DC5:C4B32:5E53B0C7
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2766
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+919
+{"name":"README.md","path":"README.md","sha":"bf15d7da610e118e2a7713f96a13f8751eef49da","size":1108,"url":"https://api.github.com/repos/thelinuxchoice/getwin/contents/README.md?ref=master","html_url":"https://github.com/thelinuxchoice/getwin/blob/master/README.md","git_url":"https://api.github.com/repos/thelinuxchoice/getwin/git/blobs/bf15d7da610e118e2a7713f96a13f8751eef49da","download_url":"https://raw.githubusercontent.com/thelinuxchoice/getwin/master/README.md","type":"file","content":"IyBHZXRXaW4gdjEuMAojIyBBdXRob3I6IGdpdGh1Yi5jb20vdGhlbGludXhj\naG9pY2UKIyMgSUc6IGluc3RhZ3JhbS5jb20vbGludXhfY2hvaWNlCiMjIyBE\nb24ndCBjb3B5IHRoaXMgY29kZSB3aXRob3V0IGdpdmUgbWUgdGhlIGNyZWRp\ndHMsIG5lcmQhIAoKRlVEIFdpbjMyIHBheWxvYWQgZ2VuZXJhdG9yIGFuZCBs\naXN0ZW5lcgoKIVtmdWRdKGh0dHBzOi8vdXNlci1pbWFnZXMuZ2l0aHVidXNl\ncmNvbnRlbnQuY29tLzM0ODkzMjYxLzQyMDA0NjkyLTU3YjRkOGIwLTdhNDct\nMTFlOC04NTIwLTA3ODM0OGI4NTBiYS5wbmcpCgojIyBMZWdhbCBkaXNjbGFp\nbWVyOgpVc2FnZSBvZiBHZXRXaW4gZm9yIGF0dGFja2luZyB0YXJnZXRzIHdp\ndGhvdXQgcHJpb3IgbXV0dWFsIGNvbnNlbnQgaXMgaWxsZWdhbC4gSXQncyB0\naGUgZW5kIHVzZXIncyByZXNwb25zaWJpbGl0eSB0byBvYmV5IGFsbCBhcHBs\naWNhYmxlIGxvY2FsLCBzdGF0ZSBhbmQgZmVkZXJhbCBsYXdzLiBEZXZlbG9w\nZXJzIGFzc3VtZSBubyBsaWFiaWxpdHkgYW5kIGFyZSBub3QgcmVzcG9uc2li\nbGUgZm9yIGFueSBtaXN1c2Ugb3IgZGFtYWdlIGNhdXNlZCBieSB0aGlzIHBy\nb2dyYW0gCgoKIyMjIEZlYXR1cmVzCi0gRlVEIDogRnVsbHkgVW5kZXRlY3Rh\nYmxlCi0gTm8gTmVlZCBjb25maWd1cmUgcG9ydCBmb3J3YXJkaW5nLCBvciBp\nbnN0YWxsIG90aGVycyBwcm9ncmFtcywgdXNpbmcgb25seSBzc2ggYW5kIHNl\ncnZlby5uZXQuCgojIyMgVXNhZ2U6CmBgYApnaXQgY2xvbmUgaHR0cHM6Ly9n\naXRodWIuY29tL3RoZWxpbnV4Y2hvaWNlL2dldHdpbgpjZCBnZXR3aW4KYmFz\naCBnZXR3aW4uc2gKYGBgCgojIyMgSW5zdGFsbCByZXF1aXJlbWVudHMgKG1p\nbmd3LXc2NCk6CgpgYGAKc3VkbyBhcHQtZ2V0IGluc3RhbGwgbWluZ3ctdzY0\nCmBgYAoKIyMjIERvbmF0ZSEKU3VwcG9ydCB0aGUgYXV0aG9yczoKCjxub3Nj\ncmlwdD48YSBocmVmPSJodHRwczovL2xpYmVyYXBheS5jb20vdGhlbGludXhj\naG9pY2UvZG9uYXRlIj48aW1nIGFsdD0iRG9uYXRlIHVzaW5nIExpYmVyYXBh\neSIgc3JjPSJodHRwczovL2xpYmVyYXBheS5jb20vYXNzZXRzL3dpZGdldHMv\nZG9uYXRlLnN2ZyI+PC9hPjwvbm9zY3JpcHQ+Cg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/thelinuxchoice/getwin/contents/README.md?ref=master","git":"https://api.github.com/repos/thelinuxchoice/getwin/git/blobs/bf15d7da610e118e2a7713f96a13f8751eef49da","html":"https://github.com/thelinuxchoice/getwin/blob/master/README.md"}}
+0
+

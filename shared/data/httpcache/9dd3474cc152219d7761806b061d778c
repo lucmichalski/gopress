@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:27:22 GMT
+Etag: W/"2476f515b98e411189c7d070ce438842"
+Last-Modified: Tue, 04 Jun 2019 17:57:14 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:1DB6F:23996:5E53B31A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1012
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+4ef
+{"name":"README.md","path":"README.md","sha":"bb18eb3d017b3d05cedc726922e6f38b95b856e7","size":321,"url":"https://api.github.com/repos/paranoidninja/CarbonCopy/contents/README.md?ref=master","html_url":"https://github.com/paranoidninja/CarbonCopy/blob/master/README.md","git_url":"https://api.github.com/repos/paranoidninja/CarbonCopy/git/blobs/bb18eb3d017b3d05cedc726922e6f38b95b856e7","download_url":"https://raw.githubusercontent.com/paranoidninja/CarbonCopy/master/README.md","type":"file","content":"IyBDYXJib25Db3B5CkEgdG9vbCB3aGljaCBjcmVhdGVzIGEgc3Bvb2ZlZCBj\nZXJ0aWZpY2F0ZSBvZiBhbnkgb25saW5lIHdlYnNpdGUgYW5kIHNpZ25zIGFu\nIEV4ZWN1dGFibGUgZm9yIEFWIEV2YXNpb24uIFdvcmtzIGZvciBib3RoIFdp\nbmRvd3MgYW5kIExpbnV4CgohW1NjcmVlbnNob3RdKFVzYWdlLmpwZykKCiMj\nIFByZXJlcXVpc2l0ZXMKCkluIG9yZGVyIHRvIHVzZSBpdCBvbiBMaW51eCwg\ncGxlYXNlIGV4ZWN1dGUgY29tbWFuZHMgYmVsb3c6CmBgYHNoZWxsCmFwdC1n\nZXQgaW5zdGFsbCBvc3Nsc2lnbmNvZGUKcGlwMyBpbnN0YWxsIHB5b3BlbnNz\nbApgYGAK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/paranoidninja/CarbonCopy/contents/README.md?ref=master","git":"https://api.github.com/repos/paranoidninja/CarbonCopy/git/blobs/bb18eb3d017b3d05cedc726922e6f38b95b856e7","html":"https://github.com/paranoidninja/CarbonCopy/blob/master/README.md"}}
+0
+

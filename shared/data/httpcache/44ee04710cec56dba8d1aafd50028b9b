@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:15:48 GMT
+Etag: W/"4b3f6e37f7010f7a6c37d9a8b2ce3771"
+Last-Modified: Thu, 26 Dec 2019 10:56:37 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:966F0:B4A0A:5E53B064
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3046
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+e52
+{"name":"README.md","path":"README.md","sha":"4f0eea00c7ef3597ea64131d70f7f95531c4db6c","size":2105,"url":"https://api.github.com/repos/jseidl/GoldenEye/contents/README.md?ref=master","html_url":"https://github.com/jseidl/GoldenEye/blob/master/README.md","git_url":"https://api.github.com/repos/jseidl/GoldenEye/git/blobs/4f0eea00c7ef3597ea64131d70f7f95531c4db6c","download_url":"https://raw.githubusercontent.com/jseidl/GoldenEye/master/README.md","type":"file","content":"IyBHb2xkZW5FeWUKCkdvbGRlbkV5ZSBpcyBhbiBweXRob24zIGFwcCBmb3Ig\nU0VDVVJJVFkgVEVTVElORyBQVVJQT1NFUyBPTkxZIQoKR29sZGVuRXllIGlz\nIGEgSFRUUCBEb1MgVGVzdCBUb29sLgoKQXR0YWNrIFZlY3RvciBleHBsb2l0\nZWQ6IEhUVFAgS2VlcCBBbGl2ZSArIE5vQ2FjaGUKCiMjIFVzYWdlCgogICAg\nIFVTQUdFOiAuL2dvbGRlbmV5ZS5weSA8dXJsPiBbT1BUSU9OU10KCiAgICAg\nT1BUSU9OUzoKICAgICAgICBGbGFnICAgICAgICAgICBEZXNjcmlwdGlvbiAg\nICAgICAgICAgICAgICAgICAgIERlZmF1bHQKICAgICAgICAtdSwgLS11c2Vy\nYWdlbnRzICAgRmlsZSB3aXRoIHVzZXItYWdlbnRzIHRvIHVzZSAgICAgICAg\nICAgICAgICAgICAgIChkZWZhdWx0OiByYW5kb21seSBnZW5lcmF0ZWQpCiAg\nICAgICAgLXcsIC0td29ya2VycyAgICAgIE51bWJlciBvZiBjb25jdXJyZW50\nIHdvcmtlcnMgICAgICAgICAgICAgICAgICAgICAoZGVmYXVsdDogNTApCiAg\nICAgICAgLXMsIC0tc29ja2V0cyAgICAgIE51bWJlciBvZiBjb25jdXJyZW50\nIHNvY2tldHMgICAgICAgICAgICAgICAgICAgICAoZGVmYXVsdDogMzApCiAg\nICAgICAgLW0sIC0tbWV0aG9kICAgICAgIEhUVFAgTWV0aG9kIHRvIHVzZSAn\nZ2V0JyBvciAncG9zdCcgIG9yICdyYW5kb20nICAoZGVmYXVsdDogZ2V0KQog\nICAgICAgIC1kLCAtLWRlYnVnICAgICAgICBFbmFibGUgRGVidWcgTW9kZSBb\nbW9yZSB2ZXJib3NlIG91dHB1dF0gICAgICAgICAgKGRlZmF1bHQ6IEZhbHNl\nKQogICAgICAgIC1uLCAtLW5vc3NsY2hlY2sgICBEbyBub3QgdmVyaWZ5IFNT\nTCBDZXJ0aWZpY2F0ZSAgICAgICAgICAgICAgICAgICAgKGRlZmF1bHQ6IFRy\ndWUpCiAgICAgICAgLWgsIC0taGVscCAgICAgICAgIFNob3dzIHRoaXMgaGVs\ncAoKCiMjIFV0aWxpdGllcwoqIHV0aWwvZ2V0dWFzLnB5IC0gRmV0Y2hzIHVz\nZXItYWdlbnQgbGlzdHMgZnJvbSBodHRwOi8vd3d3LnVzZXJhZ2VudHN0cmlu\nZy5jb20vcGFnZXMvdXNlcmFnZW50c3RyaW5nLnBocCBzdWJwYWdlcyAoZXg6\nIC4vZ2V0dWFzLnB5ICJodHRwOi8vd3d3LnVzZXJhZ2VudHN0cmluZy5jb20v\ncGFnZXMvdXNlcmFnZW50c3RyaW5nLnBocD9uYW1lPUFsbCIpICpSRVFVSVJF\nUyBCRUFVVElGVUxTT1VQNCoKKiByZXMvbGlzdHMvdXNlcmFnZW50cyAtIFRl\neHQgbGlzdHMgKG9uZSBwZXIgbGluZSkgb2YgVXNlci1BZ2VudCBzdHJpbmdz\nIChmcm9tIGh0dHA6Ly93d3cudXNlcmFnZW50c3RyaW5nLmNvbSkKCiMjIENo\nYW5nZWxvZwoqIDIwMTYtMDItMDYgIEFkZGVkIHN1cHBvcnQgZm9yIG5vdCB2\nZXJpZnlpbmcgU1NMIENlcnRpZmljYXRlcwoqIDIwMTQtMDItMjAgIEFkZGVk\nIHJhbmRvbWx5IGNyZWF0ZWQgdXNlciBhZ2VudHMgKHN0aWxsIFJGQyBjb21w\nbGlhbnQpLgoqIDIwMTQtMDItMTkgIFJlbW92ZWQgc2lsbHkgcmVmZXJlcnMg\nYW5kIHVzZXIgYWdlbnRzLiBJbXByb3ZlZCByYW5kb21uZXNzIG9mIHJlZmVy\nZXJzLiBBZGRlZCBleHRlcm5hbCB1c2VyLWFnZW50IGxpc3Qgc3VwcG9ydC4K\nKiAyMDEzLTAzLTI2ICBDaGFuZ2VkIGZyb20gdGhyZWFkaW5nIHRvIG11bHRp\ncHJvY2Vzc2luZy4gU3RpbGwgaGFzIHNvbWUgYnVncyB0byByZXNvbHZlIGxp\na2UgSSBzdGlsbCBkb24ndCBrbm93IGhvdyB0byBwcm9wcGVybHkgc2h1dGRv\nd24gdGhlIG1hbmFnZXIuCiogMjAxMi0xMi0wOSAgSW5pdGlhbCByZWxlYXNl\nCgojIyBUby1kbwoqIENoYW5nZSBmcm9tIGdldG9wdCB0byBhcmdwYXJzZQoq\nIENoYW5nZSBmcm9tIHN0cmluZy5mb3JtYXQoKSB0byBwcmludGYtbGlrZQoK\nIyMgTGljZW5zZQpUaGlzIHNvZnR3YXJlIGlzIGRpc3RyaWJ1dGVkIHVuZGVy\nIHRoZSBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZSB2ZXJzaW9uIDMgKEdQ\nTHYzKQoKIyMgTEVHQUwgTk9USUNFClRISVMgU09GVFdBUkUgSVMgUFJPVklE\nRUQgRk9SIEVEVUNBVElPTkFMIFVTRSBPTkxZISBJRiBZT1UgRU5HQUdFIElO\nIEFOWSBJTExFR0FMIEFDVElWSVRZIFRIRSBBVVRIT1IgRE9FUyBOT1QgVEFL\nRSBBTlkgUkVTUE9OU0lCSUxJVFkgRk9SIElULiBCWSBVU0lORyBUSElTIFNP\nRlRXQVJFIFlPVSBBR1JFRSBXSVRIIFRIRVNFIFRFUk1TLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/jseidl/GoldenEye/contents/README.md?ref=master","git":"https://api.github.com/repos/jseidl/GoldenEye/git/blobs/4f0eea00c7ef3597ea64131d70f7f95531c4db6c","html":"https://github.com/jseidl/GoldenEye/blob/master/README.md"}}
+0
+

@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:27:30 GMT
+Etag: W/"c18791c3c36e57c666221edfc009f229"
+Last-Modified: Thu, 28 Nov 2019 08:46:21 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:1E5E6:245FD:5E53B322
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 991
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+6e2
+{"name":"README.md","path":"README.md","sha":"431e25d28f795bd97f46d196fcc2d75afc84bdae","size":616,"url":"https://api.github.com/repos/aboutsecurity/Talks-and-Presentations/contents/README.md?ref=master","html_url":"https://github.com/aboutsecurity/Talks-and-Presentations/blob/master/README.md","git_url":"https://api.github.com/repos/aboutsecurity/Talks-and-Presentations/git/blobs/431e25d28f795bd97f46d196fcc2d75afc84bdae","download_url":"https://raw.githubusercontent.com/aboutsecurity/Talks-and-Presentations/master/README.md","type":"file","content":"VGFsa3MtYW5kLVByZXNlbnRhdGlvbnMKPT09PT09PT09PT09PT09PT09PT09\nPT0KClNsaWRlcyBhbmQgT3RoZXIgUmVzb3VyY2VzIGZyb20gbXkgbGF0ZXN0\nIFRhbGtzIGFuZCBQcmVzZW50YXRpb25zIAoKYnkgSXNtYWVsIFZhbGVuenVl\nbGEgKEBhYm91dHNlY3VyaXR5KQoKSW50ZWxsaWdlbmNlIERyaXZlbiBEZWZl\nbnNlOiBTdWNjZXNzZnVsbHkgRW1iZWRkaW5nIEN5YmVyIFRocmVhdCBJbnRl\nbCBpbiBTZWN1cml0eSBPcGVyYXRpb25zIC0gMjAxOApodHRwOi8vYmxvZy5p\nc21hZWx2YWxlbnp1ZWxhLmNvbS8yMDE4LzEwLzExL2ludGVsbGlnZW5jZS1k\ncml2ZW4tZGVmZW5zZS1zdWNjZXNzZnVsbHktZW1iZWRkaW5nLWN5YmVyLXRo\ncmVhdC1pbnRlbC1pbi1zZWN1cml0eS1vcGVyYXRpb25zLwoKR2V0dGluZyBT\nZWNPcHMgRm91bmRhdGlvbnMgUmlnaHQgd2l0aCBUZWNobmlxdWVzLCBUYWN0\naWNzLCBhbmQgUHJvY2VkdXJlcyBaZXJvIChUVFAwKSAtIDIwMTgKaHR0cDov\nL2Jsb2cuaXNtYWVsdmFsZW56dWVsYS5jb20vMjAxOC8xMS8wMS9nZXR0aW5n\nLXNlY29wcy1mb3VuZGF0aW9ucy1yaWdodC13aXRoLXRlY2huaXF1ZXMtdGFj\ndGljcy1hbmQtcHJvY2VkdXJlcy16ZXJvLXR0cDAvCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/aboutsecurity/Talks-and-Presentations/contents/README.md?ref=master","git":"https://api.github.com/repos/aboutsecurity/Talks-and-Presentations/git/blobs/431e25d28f795bd97f46d196fcc2d75afc84bdae","html":"https://github.com/aboutsecurity/Talks-and-Presentations/blob/master/README.md"}}
+0
+

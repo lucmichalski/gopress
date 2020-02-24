@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:39 GMT
+Etag: W/"78190d6c285d249fcf5bdf1309266edf"
+Last-Modified: Tue, 02 Oct 2018 15:54:16 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:546BA:64F49:5E53AEF3
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4122
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+704
+{"name":"README.md","path":"README.md","sha":"3b7fe621a212226dbd84a48bd9f643592d4aae06","size":743,"url":"https://api.github.com/repos/graniet/Inspector/contents/README.md?ref=master","html_url":"https://github.com/graniet/Inspector/blob/master/README.md","git_url":"https://api.github.com/repos/graniet/Inspector/git/blobs/3b7fe621a212226dbd84a48bd9f643592d4aae06","download_url":"https://raw.githubusercontent.com/graniet/Inspector/master/README.md","type":"file","content":"UHJpdmlsZWdlIEVzY2FsYXRpb24gdW5peCBoZWxwZXIKCiFbdmVyc2lvbl0o\naHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS92ZXJzaW9uLTEuMGItcmVk\nLnN2ZykgWyFbdHdpdHRlcl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRn\nZS90d2l0dGVyLUBncmFuaWV0NzUtYmx1ZS5zdmcpXShodHRwczovL3R3aXR0\nZXIuY29tL2dyYW5pZXQ3NSkKCiMjIyMgU1VNTUFSWQpJbnNwZWN0b3IgaXMg\nYSBweXRob24gc2NyaXB0IGZvciBoZWxwIGluIHByaXZpbGVnZSBlc2NhbGF0\naW9uLCBmb3IgbGludXggZW52aXJvbmVtZW50LiBBZnRlciBzdGFydGluZywg\ndGhpcyBzY3JpcHQgc2VhcmNoIHRoZSBrZXJuZWwgdmVyc2lvbiBhbmQgY2hl\nY2sgaWYgaXMgZXhwbG9pdCBleGlzdHMsIGxvYWQgZmlsZSBoaXN0b3J5IGJh\nc2gsenNoLG15c3FsLi4uIGFuZCBsb2FkIGxpc3Qgb2YgcHJvZ3JhbXMgbG9h\nZGVkIHdpdGggcm9vdCB1c2VyCgpEb3dubG9hZCAgb24gc2VydmVyCmBgYHNo\nCndnZXQgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2dyYW5p\nZXQvSW5zcGVjdG9yL21hc3Rlci9pbnNwZWN0b3IucHkKYGBgCkV4ZWN1dGUg\nSW5zcGVjdG9yCmBgYHNoCnB5dGhvbiBpbnNwZWN0b3IucHkKYGBgCk9yIGRv\nd25sb2FkICYgZXhlY3V0ZQpgYGBzaApjdXJsIGh0dHBzOi8vcmF3LmdpdGh1\nYnVzZXJjb250ZW50LmNvbS9ncmFuaWV0L0luc3BlY3Rvci9tYXN0ZXIvaW5z\ncGVjdG9yLnB5IHwgcHl0aG9uCmBgYAo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/graniet/Inspector/contents/README.md?ref=master","git":"https://api.github.com/repos/graniet/Inspector/git/blobs/3b7fe621a212226dbd84a48bd9f643592d4aae06","html":"https://github.com/graniet/Inspector/blob/master/README.md"}}
+0
+

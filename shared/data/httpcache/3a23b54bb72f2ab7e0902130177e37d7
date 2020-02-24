@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:26 GMT
+Etag: W/"830e15d905e304bae727cc55d82750ca"
+Last-Modified: Sun, 02 Feb 2020 00:21:20 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFA3:B9CD:7ADCE:93918:5E53AF9A
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3636
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+beb
+{"name":"README.md","path":"README.md","sha":"80952a2f42995b74796f8c4c079b87317a327380","size":1642,"url":"https://api.github.com/repos/randomuserid/Tylium/contents/README.md?ref=master","html_url":"https://github.com/randomuserid/Tylium/blob/master/README.md","git_url":"https://api.github.com/repos/randomuserid/Tylium/git/blobs/80952a2f42995b74796f8c4c079b87317a327380","download_url":"https://raw.githubusercontent.com/randomuserid/Tylium/master/README.md","type":"file","content":"IVtDYXJyZWxvbl0oL2ltZy8zMDBweC1IYW5kb2ZHb2QuanBnP3Jhdz10cnVl\nICJ0ZXh0IikKIyBUeWxpdW0KCiMjIyBQcmltYXJ5IGRhdGEgcGlwZWxpbmVz\nIGZvciBpbnRydXNpb24gZGV0ZWN0aW9uLCBzZWN1cml0eSBhbmFseXRpY3Mg\nYW5kIHRocmVhdCBodW50aW5nCgpUaGVzZSBmaWxlcyBjb250YWluIGNvbmZp\nZ3VyYXRpb24gZm9yIHByb2R1Y2luZyBFRFIgKGVuZHBvaW50IGRldGVjdGlv\nbiBhbmQgcmVzcG9uc2UpIGRhdGEgaW4gYWRkaXRpb24gdG8gc3RhbmRhcmQg\nc3lzdGVtIGxvZ3MuIFRoZXNlIGNvbmZpZ3VyYXRpb25zIGVuYWJsZSB0aGUg\ncHJvZHVjdGlvbiBvZiB0aGVzZSBkYXRhIHN0cmVhbXMgdXNpbmcgRi9PU1Mg\nKGZyZWUgYW5kIC8gb3Igb3BlbiBzb3VyY2UgdG9vbGluZy4pIFRoZSBGL09T\nUyB0b29scyBjb25zaXN0IG9mIEF1ZGl0ZCBmb3IgTGludXg7IFN5c21vbiBm\nb3IgV2luZG93cyBhbmQgWG51bW9uIGZvciB0aGUgTWFjLiBBbHNvIGluY2x1\nZGVkIGlzIGEgc2V0IG9mIG5vdGVzIGZvciBjb25maWd1cmluZyBTdXJpY2F0\nYSBldmVudHMgYW5kIHJ1bGVzLgoKVGhlc2UgZGF0YSBzZXRzIGVudW1lcmF0\nZSBhbmQgIC8gb3IgZ2VuZXJhdGUgdGhlIGtpbmRzIG9mIHNlY3VyaXR5IHJl\nbGV2YW50IGV2ZW50cyB0aGF0IGFyZSByZXF1aXJlZCBieSB0aHJlYXQgaHVu\ndGluZyB0ZWNobmlxdWVzIGFuZCBhIHdpZGUgdmFyaWV0eSBvZiBzZWN1cml0\neSBhbmFseXRpY3MuIAoKVHlsaXVtIGlzIHBhcnQgb2YgdGhlIFNwYWNlQ2Fr\nZSBwcm9qZWN0IGZvciBkb2luZyBtdWx0aS1wbGF0Zm9ybSBpbnRydXNpb24g\nZGV0ZWN0aW9uLCBzZWN1cml0eSBhbmFseXRpY3MgYW5kIHRocmVhdCBodW50\naW5nIHVzaW5nIG9wZW4gc291cmNlIHRvb2xzIGZvciBMaW51eCBhbmQgV2lu\nZG93cyBpbiBib3RoIGNsb3VkIGFuZCBjb252ZW50aW9uYWwgZW52aXJvbm1l\nbnRzLiAKCiMjIyBDb250ZW50czoKCiMjIyBMaW51eAoKYXVkaXRkLnlhbWwg\nLSBhIHNldCBvZiBhdWRpdGQgcnVsZXMgZm9yIGdlbmVyYXRpbmcgZmlsZSwg\nbmV0d29yayBhbmQgcHJvY2VzcyBldmVudHMgdmlhIHRoZSBhdWRpdGQgc3Vz\nYnN5c3RlbSBmb3IgTGludXgKClN5c3RlbUxvZ3MubWQgLSBhIG1hdHJpeCBv\nZiBMaW51eCBuYXRpdmUgb3BlcmF0aW5nIHN5c3RlbSBhbmQgd2ViIHNlcnZl\nciBsb2dzCgojIyMgTWFjT1MKCmNvbmZpZ3VyYXRpb24ucGxpc3QgLSBhIGNv\nbmZpZ3VyYXRpb24gZm9yIGdlbmVyYXRpbmcgc3lzbW9uLWxpa2UgZXZlbnRz\nIHVzaW5nIHRoZSB4bnVtb24gcHJvamVjdCBvbiB0aGUgTWFjT1MKCiMjIyBT\ndXJpY2F0YQoKTm90ZXMgb24gZXZlbnQgYW5kIHJ1bGUgc2V0dXAgZm9yIFN1\ncmljYXRhIGluIGNsb3VkIHZzLiB0ZXJyZXN0cmlhbCBlbnZpcm9ubWVudHMK\nCiMjIyBXaW5kb3dzCgpFdmVudExvZ3MubWQgLSBhIG1hdHJpeCBvZiBzZWxl\nY3QgV2luZG93cyBldmVudCBsb2cgbWVzc2FnZXMgYW5kIHRoZWlyIGxvY2F0\naW9ucwoKc3lzbW9uLWNvbmZpZy1iYXNlLnhtbCAtIGEgc3lzbW9uIGNvbmZp\nZ3VyYXRpb24gZmlsZSBmb3IgZ2VuZXJhdGluZyBmaWxlLCBuZXR3b3JrLCBy\nZWdpc3RyeSwgbmV0d29yaywgcHJvY2VzcyBhbmQgV01JIGV2ZW50cyB1c2lu\nZyBTeXNtb24gZm9yIFdpbmRvd3MKCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/randomuserid/Tylium/contents/README.md?ref=master","git":"https://api.github.com/repos/randomuserid/Tylium/git/blobs/80952a2f42995b74796f8c4c079b87317a327380","html":"https://github.com/randomuserid/Tylium/blob/master/README.md"}}
+0
+

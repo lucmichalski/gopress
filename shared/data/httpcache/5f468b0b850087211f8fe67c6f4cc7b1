@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:31:47 GMT
+Etag: W/"a1f37fac260b6b0280024cf18f54bc3e"
+Last-Modified: Thu, 20 Feb 2020 01:50:27 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:32A7C:3CAE6:5E53B423
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 386
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+bd5
+{"name":"README.md","path":"README.md","sha":"3f9493c7c4e120803ad02d49976f018cfb5ff523","size":1555,"url":"https://api.github.com/repos/libimobiledevice/libimobiledevice/contents/README.md?ref=master","html_url":"https://github.com/libimobiledevice/libimobiledevice/blob/master/README.md","git_url":"https://api.github.com/repos/libimobiledevice/libimobiledevice/git/blobs/3f9493c7c4e120803ad02d49976f018cfb5ff523","download_url":"https://raw.githubusercontent.com/libimobiledevice/libimobiledevice/master/README.md","type":"file","content":"IyBsaWJpbW9iaWxlZGV2aWNlCgojIyBBYm91dAoKQSBsaWJyYXJ5IHRvIGNv\nbW11bmljYXRlIHdpdGggc2VydmljZXMgb2YgQXBwbGUgaU9TIGRldmljZXMg\ndXNpbmcgbmF0aXZlCnByb3RvY29scy4KCiMjIFJlcXVpcmVtZW50cwoKRGV2\nZWxvcG1lbnQgUGFja2FnZXMgb2Y6CiogT3BlblNTTCBvciBHbnVUTFMKKiBs\naWJwbGlzdAoqIGxpYnVzYm11eGQKClNvZnR3YXJlOgoqIHVzYm11eGQgKE9T\nUyBvciBBcHBsZSdzIHZlcnNpb24pCiogbWFrZQoqIGF1dG9oZWFkZXIKKiBh\ndXRvbWFrZQoqIGF1dG9jb25mCiogbGlidG9vbAoqIHBrZy1jb25maWcKKiBn\nY2Mgb3IgY2xhbmcKCk9wdGlvbmFsOgoqIGN5dGhvbiAoUHl0aG9uIGJpbmRp\nbmdzKQoqIGRveHlnZW4gKERvY3VtZW50YXRpb24pCgojIyBJbnN0YWxsYXRp\nb24KClRvIGNvbXBpbGUgcnVuOgpgYGBiYXNoCi4vYXV0b2dlbi5zaAptYWtl\nCnN1ZG8gbWFrZSBpbnN0YWxsCmBgYAoKSWYgeW91IHJlcXVpcmUgYSBjdXN0\nb20gcHJlZml4IG9yIG90aGVyIG9wdGlvbiBiZWluZyBwYXNzZWQgdG8gYC4v\nY29uZmlndXJlYAp5b3UgY2FuIHBhc3MgdGhlbSBkaXJlY3RseSB0byBgLi9h\ndXRvZ2VuLnNoYCBsaWtlIHRoaXM6CmBgYGJhc2gKLi9hdXRvZ2VuLnNoIC0t\ncHJlZml4PS9vcHQvbG9jYWwgLS1lbmFibGUtZGVidWctY29kZQptYWtlCnN1\nZG8gbWFrZSBpbnN0YWxsCmBgYAoKQnkgZGVmYXVsdCwgT3BlblNTTCB3aWxs\nIGJlIHVzZWQuIElmIHlvdSBwcmVmZXIgR251VExTLCBjb25maWd1cmUgd2l0\naApgLS1kaXNhYmxlLW9wZW5zc2xgIGxpa2UgdGhpczoKYGBgYmFzaAouL2F1\ndG9nZW4uc2ggLS1kaXNhYmxlLW9wZW5zc2wKYGBgCgojIyBXaG8vV2hhdC9X\naGVyZT8KCiogSG9tZTogaHR0cHM6Ly93d3cubGliaW1vYmlsZWRldmljZS5v\ncmcvCiogQ29kZTogYGdpdCBjbG9uZSBodHRwczovL2dpdC5saWJpbW9iaWxl\nZGV2aWNlLm9yZy9saWJpbW9iaWxlZGV2aWNlLmdpdGAKKiBDb2RlIChNaXJy\nb3IpOiBgZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9saWJpbW9iaWxl\nZGV2aWNlL2xpYmltb2JpbGVkZXZpY2UuZ2l0YAoqIFRpY2tldHM6IGh0dHBz\nOi8vZ2l0aHViLmNvbS9saWJpbW9iaWxlZGV2aWNlL2xpYmltb2JpbGVkZXZp\nY2UvaXNzdWVzCiogTWFpbGluZyBMaXN0OiBodHRwczovL2xpc3RzLmxpYmlt\nb2JpbGVkZXZpY2Uub3JnL21haWxtYW4vbGlzdGluZm8vbGliaW1vYmlsZWRl\ndmljZS1kZXZlbAoqIElSQzogaXJjOi8vaXJjLmZyZWVub2RlLm5ldCNsaWJp\nbW9iaWxlZGV2aWNlCiogVHdpdHRlcjogaHR0cHM6Ly90d2l0dGVyLmNvbS9s\naWJpbW9iaWxlZGV2CgojIyBDcmVkaXRzCgpBcHBsZSwgaVBob25lLCBpUG9k\nLCBhbmQgaVBvZCBUb3VjaCBhcmUgdHJhZGVtYXJrcyBvZiBBcHBsZSBJbmMu\nCmxpYmltb2JpbGVkZXZpY2UgaXMgYW4gaW5kZXBlbmRlbnQgc29mdHdhcmUg\nbGlicmFyeSBhbmQgaGFzIG5vdCBiZWVuCmF1dGhvcml6ZWQsIHNwb25zb3Jl\nZCwgb3Igb3RoZXJ3aXNlIGFwcHJvdmVkIGJ5IEFwcGxlIEluYy4KClJFQURN\nRSBVcGRhdGVkIG9uOiAyMDE5LTA2LTIxCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/libimobiledevice/libimobiledevice/contents/README.md?ref=master","git":"https://api.github.com/repos/libimobiledevice/libimobiledevice/git/blobs/3f9493c7c4e120803ad02d49976f018cfb5ff523","html":"https://github.com/libimobiledevice/libimobiledevice/blob/master/README.md"}}
+0
+

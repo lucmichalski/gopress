@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:33:37 GMT
+Etag: W/"fbf5f1d1916387903cef6c626d94095e"
+Last-Modified: Sun, 16 Feb 2020 05:45:07 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:3AC8A:467EE:5E53B491
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 62
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+db6
+{"name":"README.md","path":"README.md","sha":"d1a5b47b1dc73d5634650b2e9cc775c673b7fb34","size":1990,"url":"https://api.github.com/repos/j3ssie/metabigor/contents/README.md?ref=master","html_url":"https://github.com/j3ssie/metabigor/blob/master/README.md","git_url":"https://api.github.com/repos/j3ssie/metabigor/git/blobs/d1a5b47b1dc73d5634650b2e9cc775c673b7fb34","download_url":"https://raw.githubusercontent.com/j3ssie/metabigor/master/README.md","type":"file","content":"PHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBhbHQ9Ik1ldGFiaWdvciIgc3Jj\nPSJodHRwczovL2ltYWdlLmZsYXRpY29uLmNvbS9pY29ucy9zdmcvMjMwMy8y\nMzAzMDMwLnN2ZyIgaGVpZ2h0PSIxNDAiIC8+CiAgPHAgYWxpZ249ImNlbnRl\nciI+SW50ZWxsaWdlbmNlIFRvb2wgYnV0IHdpdGhvdXQgQVBJIGtleTwvcD4K\nICA8cCBhbGlnbj0iY2VudGVyIj4KICAgIDxhIGhyZWY9Imh0dHBzOi8vZ2l0\naHViLmNvbS9qM3NzaWUvbWV0YWJpZ29yIj48aW1nIGFsdD0iUmVsZWFzZSIg\nc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3ZlcnNpb24tMS4x\nLXJlZC5zdmciPjwvYT4KICAgIDxhIGhyZWY9IiI+PGltZyBhbHQ9IlNvZnR3\nYXJlIExpY2Vuc2UiIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRn\nZS9saWNlbnNlLU1JVC1icmlnaHRncmVlbi5zdmc/c3R5bGU9ZmxhdC1zcXVh\ncmUiPjwvYT4KICA8L3A+CjwvcD4KCiMjIFdoYXQgaXMgTWV0YWJpZ29yPwoK\nTWV0YWJpZ29yIGlzIEludGVsbGlnZW5jZSB0b29sLCBpdHMgZ29hbCBpcyB0\nbyBkbyBPU0lOVCB0YXNrcyBhbmQgbW9yZSBidXQgd2l0aG91dCBhbnkgQVBJ\nIGtleS4KCiMjIEluc3RhbGxhdGlvbgoKYGBgCmdvIGdldCAtdSBnaXRodWIu\nY29tL2ozc3NpZS9tZXRhYmlnb3IKYGBgCgojIyBNYWluIGZlYXR1cmVzCgot\nIERpc2NvdmVyIElQIEFkZHJlc3Mgb2YgdGhlIHRhcmdldC4KLSBXcmFwcGVy\nIGZvciBydW5uaW5nIG1hc3NjYW4gYW5kIG5tYXAgb24gSVAgdGFyZ2V0Lgot\nIERvIHNlYXJjaGluZyBmcm9tIGNvbW1hbmQgbGluZSBvbiBzb21lIHNlYXJj\naCBlbmdpbmUuCgojIyBEZW1vCgpbIVthc2NpaWNhc3RdKGh0dHBzOi8vYXNj\naWluZW1hLm9yZy9hLzMwMTc0NS5zdmcpXShodHRwczovL2FzY2lpbmVtYS5v\ncmcvYS8zMDE3NDUpCgojIyBFeGFtcGxlIENvbW1hbmRzCgpgYGAKIyBkaXNj\nb3ZlcnkgSVAgb2YgYSBjb21wYW55L29yZ2FuaXphdGlvbgplY2hvICJjb21w\nYW55IiB8IG1ldGFiaWdvciBuZXQgLS1vcmcgLW8gL3RtcC9yZXN1bHQudHh0\nCgojIGRpc2NvdmVyeSBJUCBvZiBhbiBBU04KZWNobyAiQVNOMTExMSIgfCBt\nZXRhYmlnb3IgbmV0IC0tYXNuIC1vIC90bXAvcmVzdWx0LnR4dApjYXQgbGlz\ndF9vZl9BU05zIHwgbWV0YWJpZ29yIG5ldCAtLWFzbiAtbyAvdG1wL3Jlc3Vs\ndC50eHQKCiMgcnVubmluZyBtYXNzY2FuIG9uIHBvcnQgNDQzIGZvciBhIHN1\nYm5ldAplY2hvICIxLjIuMy40LzI0IiB8IG1ldGFiaWdvciBzY2FuIC1wIDQ0\nMyAtbyAvdG1wL3Jlc3VsdC50eHQKCiMgcnVubmluZyBtYXNzY2FuIG9uIGFs\nbCBwb3J0IGFuZCBubWFwIG9uIG9wZW4gcG9ydApjYXQgbGlzdF9vZl9JUHMg\nfCBtZXRhYmlnb3Igc2NhbiAtLWRldGFpbCAtbyAvdG1wL3Jlc3VsdC50eHQK\nCiMgc2VhcmNoIHJlc3VsdCBvbiBmb2ZhCmVjaG8gJ3RpdGxlPSJSYWJiaXRN\nUSBNYW5hZ2VtZW50IicgfCBtZXRhYmlnb3Igc2VhcmNoIC14IC12IC1vIC90\nbXAvcmVzdWx0LnR4dApgYGAKCiMjIENyZWRpdHMKCkxvZ28gZnJvbSBbZmxh\ndGljb25dKGh0dHBzOi8vd3d3LmZsYXRpY29uLmNvbS9mcmVlLWljb24vbWV0\nYWJvbGlzbV8xNzc0NDU3KSBieSBbZnJlZXBpawpdKGh0dHBzOi8vd3d3LmZs\nYXRpY29uLmNvbS9hdXRob3JzL2ZyZWVwaWspCgojIyBEaXNjbGFpbWVyCgpU\naGlzIHRvb2wgaXMgZm9yIGVkdWNhdGlvbmFsIHB1cnBvc2VzIG9ubHkuIFlv\ndSBhcmUgcmVzcG9uc2libGUgZm9yIHlvdXIgb3duIGFjdGlvbnMuIElmIHlv\ndSBtZXNzIHNvbWV0aGluZyB1cCBvciBicmVhayBhbnkgbGF3cyB3aGlsZSB1\nc2luZyB0aGlzIHNvZnR3YXJlLCBpdCdzIHlvdXIgZmF1bHQsIGFuZCB5b3Vy\nIGZhdWx0IG9ubHkuCgojIyBMaWNlbnNlCgpgTWV0YWJpZ29yYCBpcyBtYWRl\nIHdpdGgg4pmlICBieSBbQGozc3NpZWpqal0oaHR0cHM6Ly90d2l0dGVyLmNv\nbS9qM3NzaWVqamopIGFuZCBpdCBpcyByZWxlYXNlZCB1bmRlciB0aGUgTUlU\nIGxpY2Vuc2UuCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/j3ssie/metabigor/contents/README.md?ref=master","git":"https://api.github.com/repos/j3ssie/metabigor/git/blobs/d1a5b47b1dc73d5634650b2e9cc775c673b7fb34","html":"https://github.com/j3ssie/metabigor/blob/master/README.md"}}
+0
+

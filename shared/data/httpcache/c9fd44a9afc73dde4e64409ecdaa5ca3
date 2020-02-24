@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:12:37 GMT
+Etag: W/"0f7a5b286cb48c1e0c8ef3b784944aee"
+Last-Modified: Sat, 23 Nov 2013 15:33:44 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:6A75A:7EF17:5E53AFA5
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 3624
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+7b0
+{"name":"README.md","path":"README.md","sha":"030e0429ed4097d6532aa74ac0399834bd4d5ae5","size":877,"url":"https://api.github.com/repos/shvets/selenium/contents/README.md?ref=master","html_url":"https://github.com/shvets/selenium/blob/master/README.md","git_url":"https://api.github.com/repos/shvets/selenium/git/blobs/030e0429ed4097d6532aa74ac0399834bd4d5ae5","download_url":"https://raw.githubusercontent.com/shvets/selenium/master/README.md","type":"file","content":"IyBTZWxlbml1bSAtLSBHZW0gd3JhcHBlciBmb3Igc2VsZW5pdW0gc2VydmVy\nCgojIEluc3RhbGxpbmcgU2VsZW5pdW0KCiAgICAkIGdlbSBpbnN0YWxsIHNl\nbGVuaXVtCgojIFVzYWdlCgogICAgc2VsZW5pdW0gaW5zdGFsbCAtIGluc3Rh\nbGxzIHNlbGVuaXVtCiAgICBzZWxlbml1bSAgICAgICAgIC0gIHJ1bnMgdGhl\nIHNlbGVuaXVtIHNlcnZlciAKICAgIAojIE5vdGUKCklmIHlvdSBhcmUgb24g\nT1NYLCB5b3UgaGF2ZSBiZXR0ZXIgb3B0aW9uIHdpdGggaG9tZWJyZXcgaGVs\ncDoKCiAgICBicmV3IGluc3RhbGwgc2VsZW5pdW0tc2VydmVyLXN0YW5kYWxv\nbmUKClN0YW5kYWxvbmUgc2VsZW5pdW0gc2VydmVyIGlzIGltcGxlbWVudGVk\nIGFzIGxhdW5jaGQgYWdlbnQuCgpUbyBoYXZlIGxhdW5jaGQgc3RhcnQgc2Vs\nZW5pdW0tc2VydmVyLXN0YW5kYWxvbmUgYXQgbG9naW4sIGNyZWF0ZSBzb2Z0\nIGxpbms6CgogICAgbG4gLXNmdiAvdXNyL2xvY2FsL29wdC9zZWxlbml1bS1z\nZXJ2ZXItc3RhbmRhbG9uZS8qLnBsaXN0IH4vTGlicmFyeS9MYXVuY2hBZ2Vu\ndHMKClRoZW4gbG9hZCBzZWxlbml1bS1zZXJ2ZXItc3RhbmRhbG9uZSBhZ2Vu\ndDoKCiAgICBsYXVuY2hjdGwgbG9hZCB+L0xpYnJhcnkvTGF1bmNoQWdlbnRz\nL2hvbWVicmV3Lm14Y2wuc2VsZW5pdW0tc2VydmVyLXN0YW5kYWxvbmUucGxp\nc3QKCkl0IHdpbGwgcnVuIHNlbGVuaXVtIHNlcnZlciBvbiBwb3J0IDQ0NDQu\nCgpJZiB5b3UgZG9uJ3Qgd2FudCB0byB1c2UgYWdlbnQsIHVzZSBqYXZhIGRp\ncmVjdGx5OgoKICAgIGphdmEgLWphciAvdXNyL2xvY2FsL29wdC9zZWxlbml1\nbS1zZXJ2ZXItc3RhbmRhbG9uZS9zZWxlbml1bS1zZXJ2ZXItc3RhbmRhbG9u\nZS0yLjM1LjAuamFyIC1wIDQ0NDQKCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/shvets/selenium/contents/README.md?ref=master","git":"https://api.github.com/repos/shvets/selenium/git/blobs/030e0429ed4097d6532aa74ac0399834bd4d5ae5","html":"https://github.com/shvets/selenium/blob/master/README.md"}}
+0
+

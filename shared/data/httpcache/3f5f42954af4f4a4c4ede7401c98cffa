@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:09:28 GMT
+Etag: W/"fbb89358f5990c2e65405a1fb96482a7"
+Last-Modified: Tue, 14 Jan 2020 00:03:53 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:52FE1:63474:5E53AEE8
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4161
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+f62
+{"name":"README.rst","path":"README.rst","sha":"0010a759c671babe4aa9924b8d4dd77b1bcc2222","size":2260,"url":"https://api.github.com/repos/sigmavirus24/github3.py/contents/README.rst?ref=master","html_url":"https://github.com/sigmavirus24/github3.py/blob/master/README.rst","git_url":"https://api.github.com/repos/sigmavirus24/github3.py/git/blobs/0010a759c671babe4aa9924b8d4dd77b1bcc2222","download_url":"https://raw.githubusercontent.com/sigmavirus24/github3.py/master/README.rst","type":"file","content":"Li4gaW1hZ2U6OgogICAgaHR0cHM6Ly9yYXcuZ2l0aHViLmNvbS9zaWdtYXZp\ncnVzMjQvZ2l0aHViMy5weS9tYXN0ZXIvZG9jcy9pbWcvZ2gzLWxvZ28ucG5n\nCgpnaXRodWIzLnB5IGlzIGEgY29tcHJlaGVuc2l2ZSwgYWN0aXZlbHkgZGV2\nZWxvcGVkIGFuZCBleHRyYW9yZGluYXJpbHkgc3RhYmxlIAp3cmFwcGVyIGFy\nb3VuZCB0aGUgR2l0SHViIEFQSSAodjMpLgoKSW5zdGFsbGF0aW9uCi0tLS0t\nLS0tLS0tLQoKOjoKCiAgICAkIHBpcCBpbnN0YWxsIGdpdGh1YjMucHkKCkRl\ncGVuZGVuY2llcwotLS0tLS0tLS0tLS0KCi0gcmVxdWVzdHNfCi0gdXJpdGVt\ncGxhdGVfCgouLiBfcmVxdWVzdHM6IGh0dHBzOi8vZ2l0aHViLmNvbS9rZW5u\nZXRocmVpdHovcmVxdWVzdHMKLi4gX3VyaXRlbXBsYXRlOiBodHRwczovL2dp\ndGh1Yi5jb20vc2lnbWF2aXJ1czI0L3VyaXRlbXBsYXRlCgpDb250cmlidXRp\nbmcKLS0tLS0tLS0tLS0tCgpQbGVhc2UgcmVhZCB0aGUgYENPTlRSSUJVVElO\nR2BfIGRvY3VtZW50LgoKLi4gX0NPTlRSSUJVVElORzogaHR0cHM6Ly9naXRo\ndWIuY29tL3NpZ21hdmlydXMyNC9naXRodWIzLnB5L2Jsb2IvbWFzdGVyL0NP\nTlRSSUJVVElORy5yc3QKClRlc3RpbmcKfn5+fn5+fgoKWW91IGNhbiBydW4g\nZWl0aGVyIGBgcGlwIGluc3RhbGwgLXIgZGV2LXJlcXVpcmVtZW50cy50eHRg\nYCB0byBpbnN0YWxsIHRoZSAKZm9sbG93aW5nIGJlZm9yZSB0ZXN0aW5nIG9y\nIHNpbXBseSBgYG1ha2UgdGVzdC1kZXBzYGAuIEl0IGlzIHN1Z2dlc3RlZCB5\nb3UgZG8gCnRoaXMgaW4gYSB2aXJ0dWFsIGVudmlyb25tZW50LiBUaGVzZSBu\nZWVkIHRvIGJlIGluc3RhbGxlZCBmb3IgdGhlIHRlc3RzIHRvIHJ1bi4KCi0g\nYmV0YW1heF8KLSBjb3ZlcmFnZV8gYnkgTmVkIEJhdGNoZWxkZXIKLSBtb2Nr\nXyBieSBNaWNoYWVsIEZvb3JkCgouLiBfYmV0YW1heDogaHR0cHM6Ly9naXRo\ndWIuY29tL3NpZ21hdmlydXMyNC9iZXRhbWF4Ci4uIF9jb3ZlcmFnZTogaHR0\ncDovL25lZGJhdGNoZWxkZXIuY29tL2NvZGUvY292ZXJhZ2UvCi4uIF9tb2Nr\nOiBodHRwczovL21vY2sucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0LwoKQnVp\nbGQgc3RhdHVzCn5+fn5+fn5+fn5+fgoKWW91IGNhbiBmaW5kIGBtYXN0ZXJg\nIGJ1aWxkIHN0YXR1c2VzIGZvciBkaWZmZXJlbnQgZW52aXJvbm1lbnRzLgoK\nLSB0cmF2aXNfCi0gYXBwdmV5b3JfCgouLiBfdHJhdmlzOiBodHRwczovL3Ry\nYXZpcy1jaS5vcmcvc2lnbWF2aXJ1czI0L2dpdGh1YjMucHkKLi4gX2FwcHZl\neW9yOiBodHRwczovL2NpLmFwcHZleW9yLmNvbS9wcm9qZWN0L3NpZ21hdmly\ndXMyNC9naXRodWIzLXB5L2JyYW5jaC9tYXN0ZXIKCkxpY2Vuc2UKLS0tLS0t\nLQoKTW9kaWZpZWQgQlNEIGxpY2Vuc2VfCgouLiBfbGljZW5zZTogaHR0cHM6\nLy9naXRodWIuY29tL3NpZ21hdmlydXMyNC9naXRodWIzLnB5L2Jsb2IvbWFz\ndGVyL0xJQ0VOU0UKCkV4YW1wbGVzCi0tLS0tLS0tCgpTZWUgdGhlIGRvY3Nf\nIGZvciBtb3JlIGV4YW1wbGVzLgoKLi4gX2RvY3M6IGh0dHBzOi8vZ2l0aHVi\nMy5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3QvaW5kZXguaHRtbCNtb3JlLWV4\nYW1wbGVzCgpUZXN0aW5nCn5+fn5+fn4KCkluc3RhbGwgdGhlIGRlcGVuZGVu\nY2llcyBmcm9tIHJlcXVpcmVtZW50cy50eHQgZS5nLjoKCjo6CgogICAgbWFr\nZSB0ZXN0cwoKQXV0aG9yCi0tLS0tLQoKSWFuIFN0YXBsZXRvbiBDb3JkYXNj\nbyAoc2lnbWF2aXJ1czI0XykKCi4uIF9zaWdtYXZpcnVzMjQ6IGh0dHBzOi8v\nZ2l0aHViLmNvbS9zaWdtYXZpcnVzMjQKCkNvbnRhY3QgT3B0aW9ucwotLS0t\nLS0tLS0tLS0tLS0KCi0gRmVlbCBmcmVlIHRvIHVzZSB0aGUgYGdpdGh1YjMu\ncHlgXyB0YWcgb24gU3RhY2sgT3ZlcmZsb3cgZm9yIGFueSBxdWVzdGlvbnMg\nCiAgeW91IG1heSBoYXZlCi0gSWYgeW91IGRpc2xpa2UgU3RhY2sgT3ZlcmZs\nb3cgaXQgaXMgcHJlZmVycmVkIHRoYXQgeW91IHNlbmQgYW4gZW1haWwgdG8g\nCiAgZ2l0aHViMy5weUBsaWJyZWxpc3QuY29tCi0gWW91IG1heSBhbHNvIGNv\nbnRhY3QgKHZpYSBlbWFpbF8pIHRoZSBhdXRob3IgZGlyZWN0bHkgd2l0aCAK\nICBxdWVzdGlvbnMvc3VnZ2VzdGlvbnMvY29tbWVudHMgb3IgaWYgeW91IHdp\nc2ggdG8gaW5jbHVkZSBzZW5zaXRpdmUgZGF0YS4KCi4uIF9naXRodWIzLnB5\nOiBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zL3RhZ2dlZC9n\naXRodWIzLnB5Ci4uIF9lbWFpbDogbWFpbHRvOmdyYWZmYXRjb2xtaW5nb3ZA\nZ21haWwuY29tCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/sigmavirus24/github3.py/contents/README.rst?ref=master","git":"https://api.github.com/repos/sigmavirus24/github3.py/git/blobs/0010a759c671babe4aa9924b8d4dd77b1bcc2222","html":"https://github.com/sigmavirus24/github3.py/blob/master/README.rst"}}
+0
+

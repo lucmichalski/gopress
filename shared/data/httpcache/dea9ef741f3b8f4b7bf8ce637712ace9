@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:31:37 GMT
+Etag: W/"0de5b661d31ddc583320f26a0a26fc84"
+Last-Modified: Fri, 24 Mar 2017 15:16:01 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:31DB5:3BB54:5E53B418
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 419
+X-Ratelimit-Reset: 1582545248
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+880
+{"name":"README","path":"README","sha":"b8038f49b13353409477eb9e11383cda541032c3","size":1044,"url":"https://api.github.com/repos/wireghoul/lbmap/contents/README?ref=master","html_url":"https://github.com/wireghoul/lbmap/blob/master/README","git_url":"https://api.github.com/repos/wireghoul/lbmap/git/blobs/b8038f49b13353409477eb9e11383cda541032c3","download_url":"https://raw.githubusercontent.com/wireghoul/lbmap/master/README","type":"file","content":"UHJvb2Ygb2YgY29uY2VwdCBzY3JpcHRzIGZvciBhZHZhbmNlZCBIVFRQIGZp\nbmdlcnByaW50aW5nLCBwcmVzZW50ZWQgYXQKT1dBU1AgQXBwU2VjQXNpYSAy\nMDEyLiBUaGVzZSBzY3JpcHRzIHNob3VsZCBiZSBjb25zaWRlcmVkIGEgUG9D\nIG9yIGFscGhhIHF1YWxpdHkuClN1Z2dlc3Rpb25zLCByZWNvbW1lbmRhdGlv\nbnMsIHNpZ25hdHVyZXMsIHBhdGhjZXMgYW5kIGZsYW1lcyBhcmUgd2VsY29t\nZSB2aWEKaHR0cDovL3d3dy5naXRodWIuY29tL3dpcmVnaG91bC9sYm1hcC4K\nClRoZSBmb2xsb3dpbmcgdG9vbHMgYXJlIGluY2x1ZGVkOgoKTEJNQVAKLS0t\nLS0KbGJtYXAgaXMgYSBmaW5nZXJwcmludGluZyB0b29sIGFpbWVkIGF0IGRl\ndGVjdGluZyBsb2FkIGJhbGFuY2VycywgcmV2ZXJzZSBwcm94aWVzLAp3ZWIg\nYXBwbGljYXRpb24gZmlyZXdhbGxzIGFuZCBvdGhlciB3ZWIgYWdlbnRzIHJl\nc2lkaW5nIGluIGZyb250IG9mIHdlYiBzZXJ2ZXJzLgoKVVNBR0UKbGJtYXAg\nW29wdGlvbnNdIHVybAoKT1BUSU9OUwotLWJhdGNoCi0tZGVidWcKLS10aW1l\nb3V0Ci0tdmVyc2lvbgoKbGJtYXAgaXMgdGhlIGVhcmx5IHZlcnNpb24gb2Yg\ndGhlIFBvQyBhbmQgdHJpZXMgdG8gdXNlIGluZGl2aWR1YWwgcmVxdWVzdHMg\ndG8KZmluZ2VycHJpbnQuIGxibWFwMiBpcyB0aGUgaW1wcm92ZWQgdmVyc2lv\nbiB3aXRoIHN1cHBvcnQgZm9yIHBhc3NpdmUgZGV0ZWN0aW9uLApzaWduYXR1\ncmUgYmFzZWQgZmluZ2VycHJpbnQgYW5kIG1vcmUuIFRoZSB0b29sIGN1cnJl\nbnRseSBkdW1wcyBkZWJ1Z2dpbmcgb3V0cHV0Cm9mIHRoZSBmaW5nZXJwcmlu\ndGluZyBwcm9jZXNzIHVudGlsIGEgcHJlc2VudGF0aW9uIGZvcm1hdCBpcyBk\nZWNpZGVkLgoKQVBST0YKLS0tLS0KYXByb2YgaXMgYSBmaW5nZXJwcmludGlu\nZyB0b29sIGNhcGFibGUgb2YgcmVtb3RlbHkgZGV0ZWN0aW5nIHdoaWNoIG1v\nZHVsZXMgYW4KQXBhY2hlIHNlcnZlciBoYXMgbG9hZGVkLgoKVVNBR0UKYXBy\nb2YgW29wdGlvbnNdIHVybAoKT1BUSU9OUwotLWZvcmNlCi0tdGltZW91dAot\nLXZlcnNpb24K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/wireghoul/lbmap/contents/README?ref=master","git":"https://api.github.com/repos/wireghoul/lbmap/git/blobs/b8038f49b13353409477eb9e11383cda541032c3","html":"https://github.com/wireghoul/lbmap/blob/master/README"}}
+0
+

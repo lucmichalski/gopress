@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:18:23 GMT
+Etag: W/"c116c281c8069b86e85dc5ac325fb618"
+Last-Modified: Wed, 01 Jan 2020 17:36:12 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:93E77:AFE2F:5E53B0FF
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 2583
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a72
+{"name":"README.md","path":"README.md","sha":"d82266454df2bf4916cb1dc6c7c9873f2fee8649","size":1335,"url":"https://api.github.com/repos/phpstan/phpstan-php-parser/contents/README.md?ref=master","html_url":"https://github.com/phpstan/phpstan-php-parser/blob/master/README.md","git_url":"https://api.github.com/repos/phpstan/phpstan-php-parser/git/blobs/d82266454df2bf4916cb1dc6c7c9873f2fee8649","download_url":"https://raw.githubusercontent.com/phpstan/phpstan-php-parser/master/README.md","type":"file","content":"IyBQSFAtUGFyc2VyIGV4dGVuc2lvbiBmb3IgUEhQU3RhbgoKWyFbQnVpbGQg\nU3RhdHVzXShodHRwczovL3RyYXZpcy1jaS5vcmcvcGhwc3Rhbi9waHBzdGFu\nLXBocC1wYXJzZXIuc3ZnKV0oaHR0cHM6Ly90cmF2aXMtY2kub3JnL3BocHN0\nYW4vcGhwc3Rhbi1waHAtcGFyc2VyKQpbIVtMYXRlc3QgU3RhYmxlIFZlcnNp\nb25dKGh0dHBzOi8vcG9zZXIucHVneC5vcmcvcGhwc3Rhbi9waHBzdGFuLXBo\ncC1wYXJzZXIvdi9zdGFibGUpXShodHRwczovL3BhY2thZ2lzdC5vcmcvcGFj\na2FnZXMvcGhwc3Rhbi9waHBzdGFuLXBocC1wYXJzZXIpClshW0xpY2Vuc2Vd\nKGh0dHBzOi8vcG9zZXIucHVneC5vcmcvcGhwc3Rhbi9waHBzdGFuLXBocC1w\nYXJzZXIvbGljZW5zZSldKGh0dHBzOi8vcGFja2FnaXN0Lm9yZy9wYWNrYWdl\ncy9waHBzdGFuL3BocHN0YW4tcGhwLXBhcnNlcikKCiogW1BIUFN0YW5dKGh0\ndHBzOi8vZ2l0aHViLmNvbS9waHBzdGFuL3BocHN0YW4pCiogW1BIUC1QYXJz\nZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9uaWtpYy9waHAtcGFyc2VyKQoKVGhp\ncyBleHRlbnNpb24gcHJvdmlkZXMgdGhlIGZvbGxvd2luZyBmZWF0dXJlOgoK\nKiBJZiB5b3UgcmVnaXN0ZXIgYFBocFBhcnNlclxOb2RlVmlzaXRvclxOYW1l\nUmVzb2x2ZXJgIHZpc2l0b3Igb24gYFBocFBhcnNlclxOb2RlVHJhdmVyc2Vy\nYCwgbmV3IGAkbmFtZXNwYWNlZE5hbWVgIHByb3BlcnR5IGJlY29tZXMgYXZh\naWxhYmxlIG9uIG5vZGVzIHRoYXQgYWxyZWFkeSBoYXZlIGEgYCRuYW1lYCBw\ncm9wZXJ0eS4gVGhpcyBleHRlbnNpb24gZGVmaW5lcyB0aGF0IHByb3BlcnR5\nLgoKIyMgSW5zdGFsbGF0aW9uCgpUbyB1c2UgdGhpcyBleHRlbnNpb24sIHJl\ncXVpcmUgaXQgaW4gW0NvbXBvc2VyXShodHRwczovL2dldGNvbXBvc2VyLm9y\nZy8pOgoKYGBgCmNvbXBvc2VyIHJlcXVpcmUgLS1kZXYgcGhwc3Rhbi9waHBz\ndGFuLXBocC1wYXJzZXIKYGBgCgpJZiB5b3UgYWxzbyBpbnN0YWxsIFtwaHBz\ndGFuL2V4dGVuc2lvbi1pbnN0YWxsZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9w\naHBzdGFuL2V4dGVuc2lvbi1pbnN0YWxsZXIpIHRoZW4geW91J3JlIGFsbCBz\nZXQhCgo8ZGV0YWlscz4KICA8c3VtbWFyeT5NYW51YWwgaW5zdGFsbGF0aW9u\nPC9zdW1tYXJ5PgoKSWYgeW91IGRvbid0IHdhbnQgdG8gdXNlIGBwaHBzdGFu\nL2V4dGVuc2lvbi1pbnN0YWxsZXJgLCBpbmNsdWRlIGV4dGVuc2lvbi5uZW9u\nIGluIHlvdXIgcHJvamVjdCdzIFBIUFN0YW4gY29uZmlnOgoKYGBgCmluY2x1\nZGVzOgogICAgLSB2ZW5kb3IvcGhwc3Rhbi9waHBzdGFuLXBocC1wYXJzZXIv\nZXh0ZW5zaW9uLm5lb24KYGBgCjwvZGV0YWlscz4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/phpstan/phpstan-php-parser/contents/README.md?ref=master","git":"https://api.github.com/repos/phpstan/phpstan-php-parser/git/blobs/d82266454df2bf4916cb1dc6c7c9873f2fee8649","html":"https://github.com/phpstan/phpstan-php-parser/blob/master/README.md"}}
+0
+

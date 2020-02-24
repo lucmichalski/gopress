@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:05:26 GMT
+Etag: "99b184b006041ee858c1b78e6e553a0f"
+Last-Modified: Thu, 28 Nov 2019 10:58:42 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 304 Not Modified
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-From-Cache: 1
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: FFE6:981E:367AF:417E0:5E53ADF6
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 4795
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+47b
+{"name":"README.mdown","path":"README.mdown","sha":"33d81fffc4acfa713d9961fd8625c4b873d5e03c","size":308,"url":"https://api.github.com/repos/lxn/win/contents/README.mdown?ref=master","html_url":"https://github.com/lxn/win/blob/master/README.mdown","git_url":"https://api.github.com/repos/lxn/win/git/blobs/33d81fffc4acfa713d9961fd8625c4b873d5e03c","download_url":"https://raw.githubusercontent.com/lxn/win/master/README.mdown","type":"file","content":"QWJvdXQgd2luCj09PT09PT09PQoKd2luIGlzIGEgV2luZG93cyBBUEkgd3Jh\ncHBlciBwYWNrYWdlIGZvciBHby4KCk9yaWdpbmFsbHkgcGFydCBvZiBbd2Fs\na10oaHR0cHM6Ly9naXRodWIuY29tL2x4bi93YWxrKSwgaXQgaXMgbm93IGEg\nc2VwYXJhdGUKcHJvamVjdC4KClNldHVwCj09PT09CgpNYWtlIHN1cmUgeW91\nIGhhdmUgYSB3b3JraW5nIEdvIGluc3RhbGxhdGlvbi4KU2VlIFtHZXR0aW5n\nIFN0YXJ0ZWRdKGh0dHA6Ly9nb2xhbmcub3JnL2RvYy9pbnN0YWxsLmh0bWwp\nCgpOb3cgcnVuIGBnbyBnZXQgZ2l0aHViLmNvbS9seG4vd2luYAo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/lxn/win/contents/README.mdown?ref=master","git":"https://api.github.com/repos/lxn/win/git/blobs/33d81fffc4acfa713d9961fd8625c4b873d5e03c","html":"https://github.com/lxn/win/blob/master/README.mdown"}}
+0
+

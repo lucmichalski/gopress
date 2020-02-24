@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:25:31 GMT
+Etag: W/"f3457b0d41f69bd7a1eee64323250ec5"
+Last-Modified: Tue, 06 Dec 2016 23:59:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:14FF6:192D0:5E53B2AA
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1322
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+d90
+{"name":"README.md","path":"README.md","sha":"6bee96dd2feb67295c8f818b7752eb3c5789aac4","size":1913,"url":"https://api.github.com/repos/Seytonic/Duckduino-microSD/contents/README.md?ref=master","html_url":"https://github.com/Seytonic/Duckduino-microSD/blob/master/README.md","git_url":"https://api.github.com/repos/Seytonic/Duckduino-microSD/git/blobs/6bee96dd2feb67295c8f818b7752eb3c5789aac4","download_url":"https://raw.githubusercontent.com/Seytonic/Duckduino-microSD/master/README.md","type":"file","content":"IyBEdWNrZHVpbm8tbWljcm9TRApJbnRlcnByZXRlciB0aGF0IHJ1bnMgb24g\nYW4gYXJkdWlubywgZGVjb2RlcyBhbmQgZXhlY3V0ZXMgZHVja3kgc2NyaXB0\nIG9uIGEgbWljcm9TRCBjYXJkLgoKIyMgQmVuZWZpdHMgT3ZlciBBbHRlcm5h\ndGl2ZXMKT25jZSB0aGUgYXJkdWlubyBoYXMgYmVlbiBwcm9ncmFtbWVkLCB5\nb3UgbmVlZCBvbmx5IGRlYWwgd2l0aCBkdWNreSBzY3JpcHRzIG9uIGEgbWlj\ncm9TRCBjYXJkLiBObyByZXByb2dyYW1taW5nIHRoZSBhcmR1aW5vIHRvIGNo\nYW5nZSBzY3JpcHRzIQoKIyMgU2V0dXAKClshW3ZpZGVvIGxpbmtdKGh0dHA6\nLy9pbWd1ci5jb20vMmExZmUwMDItNjhmYS00MDQ2LWIzYTgtODNlNmZhMmEy\nMmZjKV0oaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1rc3ZvMVdE\nWVE3cykKClRoZSBpbnN0cnVjdGlvbnMgYXJlIGZvciBhbiBhcmR1aW5vIHBy\nbyBtaWNybywgaXQgc2hvdWxkIHdvcmsgb24gYW55IGFyZHVpbm8gdXNpbmcg\nYW4gYXRtZWdhMzJ1NCBjaGlwIHN1Y2ggYXMgdGhlIGxlb25hcmRvLgpTaW1w\nbHkgdXBsb2FkIER1Y2tkdWluby1taWNyb1NEIHRvIHlvdXIgYXJkdWlubywg\nZm9ybWEgeW91ciBtaWNyb1NEIHRvIEZBVDMyIGFuZCBzYXZlIHlvdXIgc2Ny\naXB0IG9uIHRoZSBtaWNyb1NEIGNhcmQgdGl0bGVkIHNjcmlwdC50eHQKTGFz\ndGx5LCBjb25uZWN0IGEgbWljcm9zZCBicmVha291dCBib2FyZCB1c2luZyB0\naGUgcGlucyBiZWxvdwpgYGAKQXJkdWlubyB8fHwgbWljcm9TRCBtb2R1bGUK\nClZDQyAgLS0tPiAgIFZDQwoKRDE1ICAtLS0+ICAgU0NLCgpEMTQgIC0tLT4g\nICBNSVNPCgpEMTYgIC0tLT4gICBNT1NJCgpHTkQgIC0tLT4gICBHTkQKCkQ0\nICAgLS0tPiAgIENTCmBgYAoKIyMgS2VlcCBpbiBtaW5kLi4uCkxvbmcgbGlu\nZXMgb2Ygc3RyaW5ncyBtYXkgY3Jhc2ggdGhlIGFyZHVpbm8gZHVlIHRvIHRh\na2luZyB1cCB0b28gbXVjaCBSQU0sIGlmIHlvdSBoYXZlIGEgbGluZSAiU1RS\nSU5HIC4uLiIgb3ZlciAzMDAgY2hhcmFjdGVycyB0aGVuIHNwbGl0IGl0IGlu\ndG8gc2VwYXJhdGUgbGluZXMgb2Ygc3RyaW5ncywgdGhpcyB3b24ndCBhZmZl\nY3QgaG93IHlvdXIgc2NyaXB0IHJ1bnMsIGl0IGp1c3QgcmVkdWNlcyBob3cg\nbXVjaCBvZiB5b3VyIHNjcmlwdCBpcyBoZWxkIGluIG1lbW9yeSBhdCBhbnkg\nb25lIHRpbWUuCgpJIGhhdmUgc2VlbiBzb21lIGR1Y2t5IHNjcmlwdHMgdGhh\ndCBwdXQgaHlwaGVucyAoLSkgaW4gYmV0d2VlbiBrZXlzIHRvIGJlIHByZXNz\nZWQgc2ltdWx0YW5lb3VzbHkgZWcuIkNUUkwtQUxUIERFTEVURSIuIE5vdGUg\ndGhhdCB3aGVuIHVzaW5nIGR1Y2tkdWluby1taWNyb1NEIHlvdSBtdXN0IG5v\ndCB1c2UgaHlwaGVucyBhbmQgaW5zdGVhZCBqdXN0IHVzZSBzcGFjZXMgZWcu\nIkNUUkwgQUxUIERFTEVURSIKClRoZSBmb2xsb3dpbmcgZHVja3lzY3JpcHQg\nZmVhdHVyZXMgYXJlIG5vdCB5ZXQgaW1wbGVtZW50ZWQ6IERFRkFVTFRfREVM\nQVksIFJFUExBWS4gVGhpcyBwcm9qZWN0IHVzZXMgYXJkdWlubydzIGluYnVp\nbHQgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2FyZHVpbm8tbGlicmFy\naWVzL0tleWJvYXJkL2Jsb2IvbWFzdGVyL3NyYy9LZXlib2FyZC5oIj5rZXli\nb2FyZC5oPC9hPiBsaWJyYXJ5LCBhbnkga2V5cyBub3QgaW1wbGVtZW50ZWQg\naW4gdGhhdCB3aWxsIG5vdCB3b3JrIHdpdGggdGhpcy4gZWc6IFBSSU5UU0NS\nRUVOLgoKVGhpcyBoYXMgb25seSBiZWVuIHRlc3RlZCBvbiB0aGUgZm9sbG93\naW5nIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmFtYXpvbi5jby51ay9NaWNyby1B\nZGFwdGVyLVJlYWRlci1Nb2R1bGUtQXJkdWluby9kcC9CMDBOTkRCSVJLIj5t\naWNyb1NEIG1vZHVsZTwvYT4sIEknbSBzdXJlIG90aGVycyB3aWxsIHdvcmss\nIHRob3VnaCBubyBndWFyYW50ZWVzLgo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Seytonic/Duckduino-microSD/contents/README.md?ref=master","git":"https://api.github.com/repos/Seytonic/Duckduino-microSD/git/blobs/6bee96dd2feb67295c8f818b7752eb3c5789aac4","html":"https://github.com/Seytonic/Duckduino-microSD/blob/master/README.md"}}
+0
+

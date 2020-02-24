@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:23:03 GMT
+Etag: W/"5bd982d198346097d594b11f9b94c111"
+Last-Modified: Mon, 17 Feb 2020 11:30:14 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:A0F4:C0BA:5E53B217
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1765
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+74b
+{"name":"README.md","path":"README.md","sha":"9ecf393ab2d45a25a6ccff68ba9f372bfd052ec3","size":677,"url":"https://api.github.com/repos/Mrakovic-ORG/TaskManager-Button-Disabler/contents/README.md?ref=master","html_url":"https://github.com/Mrakovic-ORG/TaskManager-Button-Disabler/blob/master/README.md","git_url":"https://api.github.com/repos/Mrakovic-ORG/TaskManager-Button-Disabler/git/blobs/9ecf393ab2d45a25a6ccff68ba9f372bfd052ec3","download_url":"https://raw.githubusercontent.com/Mrakovic-ORG/TaskManager-Button-Disabler/master/README.md","type":"file","content":"IyBUYXNrTWFuYWdlci1CdXR0b24tRGlzYWJsZXIKCiFbQVBNXShodHRwczov\nL2ltZy5zaGllbGRzLmlvL2FwbS9sL3ZpbS1tb2RlP3N0eWxlPWZvci10aGUt\nYmFkZ2UpClshW0J1aWxkIFN0YXR1c10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5p\nby90cmF2aXMvY29tL01yYWtvdmljLU9SRy9UYXNrTWFuYWdlci1CdXR0b24t\nRGlzYWJsZXI/c3R5bGU9Zm9yLXRoZS1iYWRnZSldKGh0dHBzOi8vdHJhdmlz\nLWNpLmNvbS9NcmFrb3ZpYy1PUkcvVGFza01hbmFnZXItQnV0dG9uLURpc2Fi\nbGVyKQoKU2ltcGxlIHdheSB0byBkaXNhYmxlL3JlbmFtZSBidXR0b25zIGZy\nb20gYSB0YXNrIG1hbmFnZXIuCgoKIyMjIEluc3RhbGxhdGlvbgpgYGBQUwpn\naXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL01yYWtvdmljLU9SRy9UYXNr\nTWFuYWdlci1CdXR0b24tRGlzYWJsZXIKY2QgVGFza01hbmFnZXItQnV0dG9u\nLURpc2FibGVyXFRhc2tNYW5hZ2VyIEJ1dHRvbiBEaXNhYmxlcgpkb3RuZXQg\nYnVpbGQKYGBgCgojIyMgRmVhdHVyZXMKCiAtIFJlbmFtZSBraWxsIHByb2Nj\nZXNzIGJ1dHRvbgogLSBEaXNhYmxlIGtpbGwgcHJvY2Nlc3MgYnV0dG9uCiAt\nIFdvcmtzIGluIFRhc2tNZ3IsIFByb2Nlc3NIYWNrZXIgZXRjLi4uCiAKIyMj\nIEluIGFjdGlvbgohW2luLWFjdGlvbl0oSW1hZ2VzL2luLWFjdGlvbi5naWYp\nCiA=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Mrakovic-ORG/TaskManager-Button-Disabler/contents/README.md?ref=master","git":"https://api.github.com/repos/Mrakovic-ORG/TaskManager-Button-Disabler/git/blobs/9ecf393ab2d45a25a6ccff68ba9f372bfd052ec3","html":"https://github.com/Mrakovic-ORG/TaskManager-Button-Disabler/blob/master/README.md"}}
+0
+

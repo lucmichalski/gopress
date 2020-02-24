@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:25:35 GMT
+Etag: W/"f43f3eb822dd609460c79caaccda20d8"
+Last-Modified: Tue, 21 Jan 2020 11:51:49 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:154D7:19898:5E53B2AE
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1309
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+ac1
+{"name":"README.md","path":"README.md","sha":"54fcb791141f3d8da69c95d54369bd32f6c531c7","size":1405,"url":"https://api.github.com/repos/rajeshmajumdar/BruteXSS/contents/README.md?ref=master","html_url":"https://github.com/rajeshmajumdar/BruteXSS/blob/master/README.md","git_url":"https://api.github.com/repos/rajeshmajumdar/BruteXSS/git/blobs/54fcb791141f3d8da69c95d54369bd32f6c531c7","download_url":"https://raw.githubusercontent.com/rajeshmajumdar/BruteXSS/master/README.md","type":"file","content":"IyA6d2FybmluZzogVGhpcyBwcm9qZWN0IGhhcyBiZWVuIGRpc2NvbnRpbnVl\nZC4gOndhcm5pbmc6ICAKCiMgQnJ1dGVYU1MKCkJydXRlWFNTIGlzIGEgdG9v\nbCB3cml0dGVuIGluIHB5dGhvbiBzaW1wbHkgdG8gZmluZCBYU1MgdnVsbmVy\nYWJpbGl0aWVzIGluIHdlYiBhcHBsaWNhdGlvbi4KClRoaXMgdG9vbCB3YXMg\nb3JpZ2luYWxseSBkZXZlbG9wZWQgYnkgU2hhd2FyIEtoYW4gaW4gQ0xJLiBJ\nIGp1c3QgcmVkZXNpZ25lZCBpdCBhbmQgbWFkZSBpdCBHVUkgZm9yIG1vcmUg\nY29udmllbmllbmNlLgoKVGhpcyB0b29sIGlzIGRldmVsb3BlZCBpbiBQeXRo\nb24sIHNvIG9idmlvdXNseSBjcm9zcyBwbGF0Zm9ybSwgeW91IGp1c3QgbmVl\nZCBQeXRob24gaW5zdGFsbGVkIGluIHlvdXIgbWFjaGluZS4KCiMgU2NyZWVu\nc2hvdHMKCiFbQWx0IHRleHRdKC9zY3JlZW5zaG90cy9CcnV0ZVhTUy5wbmc/\ncmF3PXRydWUgIkJydXRlWFNTIHRvb2wiKQoKIVtBbHQgdGV4dF0oL3NjcmVl\nbnNob3RzL2JydXRleHNzc3RhcnQucG5nP3Jhdz10cnVlICJGaXJzdCBsb29r\nIG9mIEJydXRlWFNTIikKCiFbQWx0IHRleHRdKC9zY3JlZW5zaG90cy9icnV0\nZXhzc2FjdGlvbi5wbmc/cmF3PXRydWUgIkJydXRlWFNTIGluIGFjdGlvbiIp\nCgohW0FsdCB0ZXh0XSgvc2NyZWVuc2hvdHMvYnVwZGF0ZS5wbmc/cmF3PVRy\ndWUgIkJydXRlWFNTIEF1dG8tVXBkYXRlIGZlYXR1cmUiKQoKIyBTdGVwcwoK\nMS4gSnVzdCBkb3dubG9hZCB5b3VyIHRvb2wgJiBydW4gYnJ1dGV4c3MucHkg\nKEV2ZXJ5dGhpbmcgdGhpcyB0b29sIG5lZWRlZCBpcyBwcm92aWRlZCB0byBp\ndCkKCiMgQ0xJIERldmVsb3BlciA6IFNoYXdhciBLaGFuCmh0dHBzOi8vZ2l0\naHViLmNvbS9zaGF3YXJraGFuZXRoaWNhbGhhY2tlci9CcnV0ZVhTUwoKIyBH\nVUkgRGV2ZWxvcGVyIDogUmFqZXNoIE1hanVtZGFyCmh0dHBzOi8vZ2l0aHVi\nLmNvbS9yYWplc2htYWp1bWRhci9CcnV0ZVhTUwoKSSBub3RpY2VkIHRoYXQg\nc29tZSBvZiB5b3UsIGFyZSBoYXZpbmcgcHJvYmxlbXMgdXNpbmcgdGhpcyB0\nb29sLCBsaWtlIGl0IGlzIG5vdCBzaG93aW5nIGFueSByZXN1bHRzLkkgcmVj\nb21tZW5kIHlvdSB0byB1cGRhdGUgdGhlIHRvb2wgJiBtb3N0IG9mIHlvdSBk\nb24ndCBzZWxlY3QgdGhlIG1ldGhvZC4KCiMgQnV5IG1lIGEgY29mZmVlCgpZ\nb3UgY2FuIGhlbHAgbWUgYnV5aW5nIG1vcmUgY29mZmVlLCBzbyB0aGF0IEkg\nY2FuIGNvbnRpbnVlIHR1cm5pbmcgY29mZmVlIGludG8gY29kZS4KClshW0Rv\nbmF0ZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Eb25hdGUtUGF5\nUGFsLWdyZWVuLnN2ZyldKGh0dHBzOi8vd3d3LnBheXBhbC5jb20vY2dpLWJp\nbi93ZWJzY3I/Y21kPV9zLXhjbGljayZob3N0ZWRfYnV0dG9uX2lkPTJMUUZU\nOVFNNE03WVUpCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/rajeshmajumdar/BruteXSS/contents/README.md?ref=master","git":"https://api.github.com/repos/rajeshmajumdar/BruteXSS/git/blobs/54fcb791141f3d8da69c95d54369bd32f6c531c7","html":"https://github.com/rajeshmajumdar/BruteXSS/blob/master/README.md"}}
+0
+

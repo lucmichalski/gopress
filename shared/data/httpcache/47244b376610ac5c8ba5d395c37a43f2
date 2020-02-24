@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:26:14 GMT
+Etag: W/"cfcb8f71ac67361c3f21392eb3a2c869"
+Last-Modified: Fri, 20 Oct 2017 17:51:12 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D039:17643:186DD:1D4AF:5E53B2D6
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 1194
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+a63
+{"name":"README.md","path":"README.md","sha":"9966a04538fbf4371590ced52c60fd2309c81eea","size":1329,"url":"https://api.github.com/repos/securingsam/krackdetector/contents/README.md?ref=master","html_url":"https://github.com/securingsam/krackdetector/blob/master/README.md","git_url":"https://api.github.com/repos/securingsam/krackdetector/git/blobs/9966a04538fbf4371590ced52c60fd2309c81eea","download_url":"https://raw.githubusercontent.com/securingsam/krackdetector/master/README.md","type":"file","content":"Rm9yIG1vcmUgZGV0YWlscyBzZWU6IGh0dHBzOi8va3JhY2thdHRhY2tzLnNl\nY3VyaW5nc2FtLmNvbQoKIyMgS1JBQ0sgRGV0ZWN0b3IKCktSQUNLIERldGVj\ndG9yIGlzIGEgUHl0aG9uIHNjcmlwdCB0byBkZXRlY3QgcG9zc2libGUgW0tS\nQUNLIGF0dGFja3NdKGh0dHBzOi8vd3d3LmtyYWNrYXR0YWNrcy5jb20pIGFn\nYWluc3QgY2xpZW50IGRldmljZXMgb24geW91ciBuZXR3b3JrLgpUaGUgc2Ny\naXB0IGlzIG1lYW50IHRvIGJlIHJ1biBvbiB0aGUgQWNjZXNzIFBvaW50IHJh\ndGhlciB0aGFuIHRoZSBjbGllbnQgZGV2aWNlcy4gSXQgbGlzdGVucyBvbiB0\naGUgV2ktRmkgaW50ZXJmYWNlIGFuZCB3YWl0cyBmb3IgZHVwbGljYXRlIG1l\nc3NhZ2UgMyBvZiB0aGUgNC13YXkgaGFuZHNoYWtlLiBJdCB0aGVuIGRpc2Nv\nbm5lY3RzIHRoZSBzdXNwZWN0ZWQgZGV2aWNlLCBwcmV2ZW50aW5nIGl0IGZy\nb20gc2VuZGluZyBhbnkgZnVydGhlciBzZW5zaXRpdmUgZGF0YSB0byB0aGUg\nQWNjZXNzIFBvaW50LgoKS1JBQ0sgRGV0ZWN0b3IgY3VycmVudGx5IHN1cHBv\ncnRzIExpbnV4IEFjY2VzcyBQb2ludHMgd2l0aCBbaG9zdGFwZF0oaHR0cHM6\nLy93MS5maS9ob3N0YXBkKS4KSXQgdXNlcyBQeXRob24gMiBmb3IgY29tcGF0\naWJpbGl0eSB3aXRoIG9sZGVyIG9wZXJhdGluZyBzeXN0ZW1zLiBObyBleHRl\ncm5hbCBQeXRob24gcGFja2FnZXMgYXJlIHJlcXVpcmVkLgoKIyMgVXNhZ2UK\nClJ1biBhcyByb290IGFuZCBwYXNzIHRoZSBXaS1GaSBpbnRlcmZhY2UgYXMg\nYSBzaW5nbGUgYXJndW1lbnQuIEl0IGlzIGltcG9ydGFudCB0byB1c2UgdGhl\nIGFjdHVhbCBXaS1GaSBpbnRlcmZhY2UgYW5kIG5vdCBhbnkgYnJpZGdlIGlu\ndGVyZmFjZSBpdCBjb25uZWN0cyB0by4KCmBgYApweXRob24ga3JhY2tfZGV0\nZWN0LnB5IHdsYW4wCmBgYAoKSWYgeW91IGRvIG5vdCB3aXNoIHRvIGRpc2Nv\nbm5lY3Qgc3VzcGVjdGVkIGRldmljZXMsIHVzZSB0aGUgYC1uYCBmbGFnCgpg\nYGAKcHl0aG9uIGtyYWNrX2RldGVjdC5weSAtbiB3bGFuMApgYGAKCiMjIEtu\nb3duIElzc3VlcwpNZXNzYWdlIDMgb2YgdGhlIDQtd2F5IGhhbmRzaGFrZSBt\naWdodCBiZSByZXRyYW5zbWl0dGVkIGV2ZW4gaWYgbm8gYXR0YWNrIGlzIHBl\ncmZvbWVkLiBJbiBzdWNoIGEgY2FzZSB0aGUgY2xpZW50IGRldmljZSB3aWxs\nIGJlIGRpc2Nvbm5lY3RlZCBmcm9tIHRoZSBXaS1GaSBuZXR3b3JrLiBTb21l\nIGNsaWVudCBkZXZpY2VzIHdpbGwgdGFrZSBzb21lIHRpbWUgdG8gcmUtYXV0\naGVudGljYXRlIHRoZW1zZWx2ZXMsIGxvc2luZyB0aGUgV2ktRmkgY29ubmVj\ndGlvbiBmb3IgYSBmZXcgc2Vjb25kcy4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/securingsam/krackdetector/contents/README.md?ref=master","git":"https://api.github.com/repos/securingsam/krackdetector/git/blobs/9966a04538fbf4371590ced52c60fd2309c81eea","html":"https://github.com/securingsam/krackdetector/blob/master/README.md"}}
+0
+

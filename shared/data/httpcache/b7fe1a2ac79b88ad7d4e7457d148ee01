@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type
+Cache-Control: private, max-age=60, s-maxage=60
+Content-Security-Policy: default-src 'none'
+Content-Type: application/json; charset=utf-8
+Date: Mon, 24 Feb 2020 11:31:33 GMT
+Etag: W/"a90959f2580f6a912be7f02f4d885a47"
+Last-Modified: Thu, 05 Sep 2019 07:21:28 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept, Authorization, Cookie, X-GitHub-OTP
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Accepted-Oauth-Scopes: 
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-Github-Media-Type: github.v3; format=json
+X-Github-Request-Id: D03A:17643:319E7:3B6AA:5E53B415
+X-Oauth-Scopes: gist, notifications, read:discussion, read:enterprise, read:gpg_key, read:org, read:packages, read:public_key, read:repo_hook, read:user, repo
+X-Ratelimit-Limit: 5000
+X-Ratelimit-Remaining: 427
+X-Ratelimit-Reset: 1582545249
+X-Varied-Accept: application/vnd.github.v3+json
+X-Varied-Authorization: Bearer 2188eea706e4318ebb792c15141e1e6c8d7b5dd4
+X-Xss-Protection: 1; mode=block
+
+ee2
+{"name":"README.md","path":"README.md","sha":"f85b0208f511dbe34b2bebbd8836d3a40383030b","size":2225,"url":"https://api.github.com/repos/pxb1988/dex2jar/contents/README.md?ref=2.x","html_url":"https://github.com/pxb1988/dex2jar/blob/2.x/README.md","git_url":"https://api.github.com/repos/pxb1988/dex2jar/git/blobs/f85b0208f511dbe34b2bebbd8836d3a40383030b","download_url":"https://raw.githubusercontent.com/pxb1988/dex2jar/2.x/README.md","type":"file","content":"KipQcm9qZWN0IG1vdmUgdG8gW1NvdXJjZUZvcmdlXShodHRwczovL3NvdXJj\nZWZvcmdlLm5ldC9wL2RleDJqYXIpIGFuZCBbQml0YnVja2V0XShodHRwczov\nL2JpdGJ1Y2tldC5vcmcvcHhiMTk4OC9kZXgyamFyKSBhbmQgW0dpdGh1Yl0o\naHR0cHM6Ly9naXRodWIuY29tL3B4YjE5ODgvZGV4MmphcikqKg0KDQp8IF8g\nfCBNaXJyb3IgfCBXaWtpIHwgRG93bmxvYWRzIHwgSXNzdWVzIHwNCnwtLTp8\nOi0tLS0tfDotLS0tOnw6LS0tLS0tLS0tOnw6LS0tLS0tOnwNCnwgc2YgfCBo\ndHRwczovL3NvdXJjZWZvcmdlLm5ldC9wL2RleDJqYXIgfCBbV2lraV0oaHR0\ncHM6Ly9zb3VyY2Vmb3JnZS5uZXQvcC9kZXgyamFyL3dpa2kpIHwgW0Rvd25s\nb2Fkc10oaHR0cHM6Ly9zb3VyY2Vmb3JnZS5uZXQvcHJvamVjdHMvZGV4Mmph\nci9maWxlcy8pIHwgW1RpY2tldHNdKGh0dHBzOi8vc291cmNlZm9yZ2UubmV0\nL3AvZGV4Mmphci90aWNrZXRzLykgfA0KfCBiYiB8IGh0dHBzOi8vYml0YnVj\na2V0Lm9yZy9weGIxOTg4L2RleDJqYXIgfCBbV2lraV0oaHR0cHM6Ly9iaXRi\ndWNrZXQub3JnL3B4YjE5ODgvZGV4Mmphci93aWtpKSB8IFtEb3dubG9hZHNd\nKGh0dHBzOi8vYml0YnVja2V0Lm9yZy9weGIxOTg4L2RleDJqYXIvZG93bmxv\nYWRzKSB8IFtJc3N1ZXNdKGh0dHBzOi8vYml0YnVja2V0Lm9yZy9weGIxOTg4\nL2RleDJqYXIvaXNzdWVzKSB8DQp8IGdoIHwgaHR0cHM6Ly9naXRodWIuY29t\nL3B4YjE5ODgvZGV4MmphciB8IFtXaWtpXShodHRwczovL2dpdGh1Yi5jb20v\ncHhiMTk4OC9kZXgyamFyL3dpa2kpIHwgW1JlbGVhc2VzXShodHRwczovL2dp\ndGh1Yi5jb20vcHhiMTk4OC9kZXgyamFyL3JlbGVhc2VzKSB8IFtJc3N1ZXNd\nKGh0dHBzOi8vZ2l0aHViLmNvbS9weGIxOTg4L2RleDJqYXIvaXNzdWVzKSB8\nDQp8IGdjIHwgaHR0cHM6Ly9jb2RlLmdvb2dsZS5jb20vcC9kZXgyamFyIHwg\nW29sZF0oaHR0cDovL2NvZGUuZ29vZ2xlLmNvbS9wL2RleDJqYXIvdy9saXN0\nKSB8IFtvbGRdKGh0dHA6Ly9jb2RlLmdvb2dsZS5jb20vcC9kZXgyamFyL2Rv\nd25sb2Fkcy9saXN0KSB8IFtvbGRdKGh0dHA6Ly9jb2RlLmdvb2dsZS5jb20v\ncC9kZXgyamFyL2lzc3Vlcy9saXN0KXwNCg0KDQojZGV4MmphciBbIVtCdWls\nZCBTdGF0dXNdKGh0dHBzOi8vdHJhdmlzLWNpLm9yZy9weGIxOTg4L2RleDJq\nYXIuc3ZnP2JyYW5jaD0yLngpXShodHRwczovL3RyYXZpcy1jaS5vcmcvcHhi\nMTk4OC9kZXgyamFyKQ0KVG9vbHMgdG8gd29yayB3aXRoIGFuZHJvaWQgLmRl\neCBhbmQgamF2YSAuY2xhc3MgZmlsZXMNCg0KMS4gZGV4LXJlYWRlci93cml0\nZXI6DQogICAgUmVhZC93cml0ZSB0aGUgRGFsdmlrIEV4ZWN1dGFibGUgKC5k\nZXgpIGZpbGUuIEl0IGhhcyBhIFtsaWdodCB3ZWlnaHQgQVBJIHNpbWlsYXIg\nd2l0aCBBU01dKGh0dHBzOi8vc291cmNlZm9yZ2UubmV0L3AvZGV4Mmphci93\naWtpL0ZhcSNtYXJrZG93bi1oZWFkZXItd2FudC10by1yZWFkLWRleC1maWxl\nLXVzaW5nLWRleDJqYXIpLg0KMi4gZDJqLWRleDJqYXI6DQogICAgQ29udmVy\ndCAuZGV4IGZpbGUgdG8gLmNsYXNzIGZpbGVzICh6aXBwZWQgYXMgamFyKQ0K\nMy4gc21hbGkvYmFrc21hbGk6DQogICAgZGlzYXNzZW1ibGUgZGV4IHRvIHNt\nYWxpIGZpbGVzIGFuZCBhc3NlbWJsZSBkZXggZnJvbSBzbWFsaSBmaWxlcy4g\nZGlmZmVyZW50IGltcGxlbWVudGF0aW9uIHRvIFtzbWFsaS9iYWtzbWFsaV0o\naHR0cDovL2NvZGUuZ29vZ2xlLmNvbS9wL3NtYWxpKSwgc2FtZSBzeW50YXgs\nIGJ1dCB3ZSBzdXBwb3J0IGVzY2FwZSBpbiB0eXBlIGRlc2MgIkxjb20vZGV4\nMmphclx0XHUxMjM0OyINCjQuIG90aGVyIHRvb2xzOg0KICAgIFtkMmotZGVj\ncnlwdC1zdHJpbmddKGh0dHBzOi8vc291cmNlZm9yZ2UubmV0L3AvZGV4Mmph\nci93aWtpL0RlY3J5cHRTdHJpbmdzKQ0KDQojIyBVc2FnZQ0KDQo+IHNoIGQy\nai1kZXgyamFyLnNoIC1mIH4vcGF0aC90by9hcGtfdG9fZGVjb21waWxlLmFw\naw0KDQpBbmQgdGhlIG91dHB1dCBmaWxlIHdpbGwgYmUgYGFwa190b19kZWNv\nbXBpbGUtZGV4Mmphci5qYXJgLg0KDQojIyBOZWVkIGhlbHAgPw0Kc2VuZCBl\nbWFpbCB0byBkZXgyamFyQGdvb2dsZWdyb3Vwcy5jb20gDQoNCm9yIHBvc3Qg\nb24gaXNzdWUgdHJhY2tlcnMgbGlzdCBhYm92ZS4NCg0KIyMgTGljZW5zZQ0K\nW0FwYWNoZSAyLjBdKGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9M\nSUNFTlNFLTIuMC5odG1sKQ0KDQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/pxb1988/dex2jar/contents/README.md?ref=2.x","git":"https://api.github.com/repos/pxb1988/dex2jar/git/blobs/f85b0208f511dbe34b2bebbd8836d3a40383030b","html":"https://github.com/pxb1988/dex2jar/blob/2.x/README.md"}}
+0
+
