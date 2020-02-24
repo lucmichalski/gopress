@@ -22,3 +22,5 @@ shared/logs/
 
 refs/
 gopress.yml
+shared/data
+data/cache
