@@ -1,0 +1,59 @@
+---
+version: '3.7'
+services:
+
+  gopress:
+    image lucmichalski/gopress:latest
+    container_name: ${NAMESPACE}-gopress
+    ports:
+    - 4000:4000
+    # volumes:
+
+  mysql:
+    image: mysql:${MYSQL_VERSION:-"5.7"}
+    container_name: ${NAMESPACE}_mysql
+    networks:
+    - internal
+    - web
+    ports :
+    - "3306:3306"
+    volumes:
+    - db-data:/var/lib/mysql
+    environment:
+    - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+    - MYSQL_USER=${WORDPRESS_DB_USER}
+    - MYSQL_PASSWORD=${WORDPRESS_DB_PASSWORD}
+    - MYSQL_DATABASE=${WORDPRESS_DB_NAME}
+    restart: unless-stopped
+    command: --max_allowed_packet=65011712 
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:6.4.2
+    ports:
+      - 9200:9200
+    environment:
+      - cluster.name=docker-cluster
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - ./data/elasticsearch:/usr/share/elasticsearch/data
+
+  manticore:
+    image: manticoresearch/manticore:latest
+    ports:
+    - 9306:9306
+    volumes:
+      - ./manticore.conf:/etc/sphinxsearch/sphinx.conf
+      - ./data/manticore:/var/lib/manticore/data
+
+  sphinx:
+    image: macbre/sphinxsearch:3.0.3
+    ports:
+    - 9307:9306
+    volumes:
+    - ./data/sphinx:/var/lib/sphinxsearch/data
+    - ./sphinx.conf:/opt/sphinx/conf/sphinx.conf  

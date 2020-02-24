@@ -1,0 +1,30 @@
+package: github.com/koreset/homefapp
+ignore:
+- github.com/Masterminds/semver
+- github.com/go-playground/validator
+import:
+- package: github.com/Masterminds/sprig
+- package: github.com/containous/go-bindata
+- package: github.com/dghubble/oauth1
+- package: github.com/gin-gonic/gin
+- package: github.com/gosimple/slug
+- package: github.com/jessevdk/go-assets
+- package: github.com/jinzhu/copier
+- package: github.com/jinzhu/gorm
+  subpackages:
+  - dialects/mysql
+- package: github.com/kennygrant/sanitize
+- package: github.com/koreset/go-twitter
+  subpackages:
+  - twitter
+- package: github.com/koreset/gtf
+- package: github.com/qor/admin
+- package: github.com/qor/assetfs
+- package: github.com/qor/media
+  subpackages:
+  - asset_manager
+  - media_library
+  - oss
+- package: github.com/qor/qor
+- package: github.com/satori/go.uuid
+- package: github.com/semihalev/gin-stats

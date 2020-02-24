@@ -1,0 +1,171 @@
+hash: 781234565ecb311ab1cb00c0b3303eb644284c1f143dd0dcf6b9afa80a294c6a
+updated: 2020-02-23T14:33:35.345846+01:00
+imports:
+- name: github.com/asaskevich/govalidator
+  version: 475eaeb164960a651e97470412a7d3b0c5036105
+- name: github.com/cenkalti/backoff
+  version: e13aad97be0886358290fe5f1cce951f777c415d
+- name: github.com/chris-ramon/douceur
+  version: f3463056cd52886eda904655e1940157bf323bd7
+  subpackages:
+  - css
+  - parser
+- name: github.com/containous/go-bindata
+  version: 532cb0b0736b109aefe85e24e37a2ef35eafc6a8
+- name: github.com/dghubble/oauth1
+  version: 126d4cb36efa0a568cc4ab5c3431eba1c4f040bd
+- name: github.com/dghubble/sling
+  version: 0997dd0739eecf8d0d3e5e6e3a9d5e81a1fd5056
+- name: github.com/disintegration/imaging
+  version: 879073f2332fabf5a5faa93986ed41598dcf0b62
+- name: github.com/gin-contrib/sse
+  version: 43f0f29dbd2b3f0feeebff91fd9cda22db296938
+- name: github.com/gin-gonic/gin
+  version: 5f56109bcffd58e851dd186282d8fbd4d0decc82
+  subpackages:
+  - binding
+  - internal/bytesconv
+  - internal/json
+  - render
+- name: github.com/go-sql-driver/mysql
+  version: 3d8a0293423afe714a98d549f0a8015b2d0930b7
+- name: github.com/golang/protobuf
+  version: d23c5127dc24889085f8ccea5c9d560a57a879d8
+  subpackages:
+  - proto
+- name: github.com/google/go-querystring
+  version: c8c88dbee036db4e4808d1f2ec8c2e15e11c3f80
+  subpackages:
+  - query
+- name: github.com/google/uuid
+  version: c2e93f3ae59f2904160ceaab466009f965df46d6
+- name: github.com/gorilla/context
+  version: 8559d4a6b87e4f517ec1846eb90a192b8748cc89
+- name: github.com/gorilla/css
+  version: 4940b8d7810384b58c15dbf1103a148fdf0761f2
+  subpackages:
+  - scanner
+- name: github.com/gorilla/securecookie
+  version: 61b4ad17eb88d0d1118560d1101176279be2bc88
+- name: github.com/gorilla/sessions
+  version: 15ff3511704639ab26f7843f780c015f4bf49565
+- name: github.com/gosimple/slug
+  version: 853565075b0cefa5c1e4de2f05cf57a4fd90740f
+- name: github.com/huandu/xstrings
+  version: 73cc8800d807c1a3393060290e46ab19b565d584
+- name: github.com/imdario/mergo
+  version: 4c8d33afe3b211a221b8ae2f06f510d974e5991f
+- name: github.com/jessevdk/go-assets
+  version: 4f4301a06e153ff90e17793577ab6bf79f8dc5c5
+- name: github.com/jinzhu/copier
+  version: b57f9002281ac48ed8cbc489b1e91121e1a0824c
+- name: github.com/jinzhu/gorm
+  version: 7180bd0f27d167f18c253c32d548c7de3adc6b0d
+  subpackages:
+  - dialects/mysql
+- name: github.com/jinzhu/inflection
+  version: 196e6ce06ca4513fbcfcbc35dc15f66074df47c9
+- name: github.com/jinzhu/now
+  version: 7e7333ac029d4aad7e88500a30889fcd22489425
+- name: github.com/json-iterator/go
+  version: 7acbb404a45be33f136d6f16fe8f86ca30f1008d
+- name: github.com/kennygrant/sanitize
+  version: 06ec0d0dbcd497d01e5189b16f5263f712e61a8e
+- name: github.com/koreset/go-twitter
+  version: a34e9059cd58e96429cee9c8a87fd8d907da6843
+  subpackages:
+  - twitter
+- name: github.com/koreset/gtf
+  version: d9478f26f2ffa3f3eccf264f018f9fe8ef9ff91a
+- name: github.com/Masterminds/goutils
+  version: 41ac8693c5c10a92ea1ff5ac3a7f95646f6123b0
+- name: github.com/Masterminds/sprig
+  version: 3c4c60440a40b962bd9949f90a547bd24566158c
+- name: github.com/mattn/go-isatty
+  version: cb30d6282491c185f77d9bec5d25de1bb61a06bc
+- name: github.com/microcosm-cc/bluemonday
+  version: 0a75d7616912ab9beb9cc6f7283ec1917c61b135
+- name: github.com/mitchellh/copystructure
+  version: 9a1b6f44e8da0e0e374624fb0a825a231b00c537
+- name: github.com/mitchellh/reflectwalk
+  version: 3e2c75dfad4fbf904b58782a80fd595c760ad185
+- name: github.com/modern-go/concurrent
+  version: bacd9c7ef1dd9b15be4a9909b8ac7a4e313eec94
+- name: github.com/modern-go/reflect2
+  version: 94122c33edd36123c84d5368cfb2b69df93a0ec8
+- name: github.com/qor/admin
+  version: c773fc1f93a83204a35e32f7b9a961349420e1ad
+- name: github.com/qor/assetfs
+  version: ff57fdc13a148d39c3e930cb27c7eaf82e376891
+- name: github.com/qor/media
+  version: 19cf289e17d480f6afbbbc8b0d4e9a835b7354df
+  subpackages:
+  - asset_manager
+  - media_library
+  - oss
+- name: github.com/qor/middlewares
+  version: 781378b69454a545d08058d8154aca40d079e7ab
+- name: github.com/qor/oss
+  version: aef9ba66bf76b7e0537e36a0f2dd451b779aa20d
+  subpackages:
+  - filesystem
+- name: github.com/qor/qor
+  version: b3deff729f68334eb468d057335f1923ec6c26bd
+  subpackages:
+  - resource
+  - utils
+- name: github.com/qor/responder
+  version: b6def473574f621fee316696ad120d4fbf470826
+- name: github.com/qor/roles
+  version: d6375609fe3e5da46ad3a574fae244fb633e79c1
+- name: github.com/qor/serializable_meta
+  version: 5fd8542db4170c6ce0f8d669b521803b87eb0a99
+- name: github.com/qor/session
+  version: 8206b0adab706a6ef3ee6fabba2584d34429a26a
+  subpackages:
+  - gorilla
+  - manager
+- name: github.com/qor/validations
+  version: f364bca61b46bd48a5e32552a37758864fdf005d
+- name: github.com/rainycape/unidecode
+  version: cb7f23ec59bec0d61b19c56cd88cee3d0cc1870c
+- name: github.com/rcrowley/go-metrics
+  version: cac0b30c2563378d434b5af411844adff8e32960
+- name: github.com/satori/go.uuid
+  version: b2ce2384e17bbe0c6d34077efa39dbab3e09123b
+- name: github.com/semihalev/gin-stats
+  version: 30fdcbbd353327f4b95c2ce382a05ce003d96f7e
+- name: github.com/spf13/cast
+  version: 1ffadf551085444af981432dd0f6d1160c11ec64
+- name: github.com/theplant/cldr
+  version: 9f76f7ce4ee8058b01f92739cf0d0cceaeda3cb2
+- name: github.com/ugorji/go
+  version: 42bc974514ff101a54c6b72a0e4dee29d96c0b26
+  subpackages:
+  - codec
+- name: golang.org/x/crypto
+  version: 2aa609cf4a9d7d1126360de73b55b6002f9e052a
+  subpackages:
+  - bcrypt
+  - blowfish
+  - pbkdf2
+  - scrypt
+- name: golang.org/x/image
+  version: 58c23975cae11f062d4b3b0c143fe248faac195d
+  subpackages:
+  - bmp
+  - ccitt
+  - tiff
+  - tiff/lzw
+- name: golang.org/x/net
+  version: 5a598a2470a0279bd28bab287167dc1ef0813153
+  subpackages:
+  - html
+  - html/atom
+- name: golang.org/x/sys
+  version: cb0a6d8edb6c3528b01a0be84a5fe513dbf880a6
+  subpackages:
+  - unix
+- name: gopkg.in/yaml.v2
+  version: 53403b58ad1b561927d19068c655246f2db79d48
+testImports: []
